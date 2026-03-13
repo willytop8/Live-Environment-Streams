@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.893,
+          52.373
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Dam Square 4K",
+        "url": "https://www.youtube.com/@WebCamNL/live",
+        "city": "",
+        "country_code": "NL",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

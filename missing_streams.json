@@ -1,0 +1,1887 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=ad1366ZihfU",
+    "title": "Webcams of Perm, Ural - SpotiCam",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://imageserver.webcamera.pl/rec/kolobrzeg-latarnia/latest.mp4",
+    "title": "Widok na latarni\u0119 morsk\u0105 w Ko\u0142obrzegu - NOWO\u015a\u0106",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streams.surfchex.com:8443/live/avonsound.stream/playlist.m3u8",
+    "title": "Avon, NC Soundside",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/cb2.stream/playlist.m3u8",
+    "title": "Carolina Beach \u2013 Center Pier",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/bwg.stream/playlist.m3u8",
+    "title": "ICW \u2013 Wrightsville Beach",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/bt.stream/playlist.m3u8",
+    "title": "ICW-WB Drawbridge",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/seapath.stream/playlist.m3u8",
+    "title": "Motts Channel, Seapath Yacht Club",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/mg.stream/playlist.m3u8",
+    "title": "Myrtle Grove ICW",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streams.surfchex.com:8443/live/nh1.stream/playlist.m3u8",
+    "title": "Nags Head-Jennettes Pier",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/oib.stream/playlist.m3u8",
+    "title": "Ocean Isle Beach East End",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/ocracoke.stream/playlist.m3u8",
+    "title": "Ocracoke, NC Web Cam",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/waves.stream/playlist.m3u8",
+    "title": "Rodanthe, NC Soundside",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/svfp.stream/playlist.m3u8",
+    "title": "Seaview Pier North Topsail Beach",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/index.m3u8?token=d60933274413e1883f1e8f7e68218239%3A1773118554196",
+    "title": "Mechelen city center",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gteOIgJyTds",
+    "title": "Aerial Tour of Beaufort, SC - Live Beaches",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=veJ4lk6tYho",
+    "title": "Aerial Tour of Islamorada, FL - Live Beaches",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=E2XpouZnkik",
+    "title": "Aerial Tour of Marathon, FL - Live Beaches",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aSbPHGpdpkY",
+    "title": "Underwater Video Cam Dillon Beach, CA - Live Beaches",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=R5yD_biGn9g",
+    "title": "Aerial Tour of Dania Beach, FL - Live Beaches",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=NEW_TOKEN...",
+    "title": "Extracted from CRON_JOBS.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+    "title": "Extracted from context.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=TOKEN`",
+    "title": "Extracted from WEBCAM_SOURCES.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://wzmedia.dot.ca.gov/D{district}/{camera_id}.stream/playlist.m3u8`",
+    "title": "Extracted from WEBCAM_SOURCES.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_{ID}/playlist.m3u8`",
+    "title": "Extracted from WEBCAM_SOURCES.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-{ID}.streams/playlist.m3u8`",
+    "title": "Extracted from WEBCAM_SOURCES.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/live.m3u8",
+    "title": "Extracted from PerplexityOutput.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream.provider.com/hls/london_live.m3u8",
+    "title": "Extracted from PerplexityOutput.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1-iS7LArMPA",
+    "title": "Extracted from test_check.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WKGK_hYnlGE",
+    "title": "Extracted from config.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HndV879fx90",
+    "title": "Extracted from config.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=coYw-eVU0Ks",
+    "title": "Extracted from config.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={video_id}",
+    "title": "Extracted from youtube_source.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={_embed_match.group(1)}",
+    "title": "Extracted from manager.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={url.replace(",
+    "title": "Extracted from manager.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/tab_castara.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/storebay.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/mtirvine-boats.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/mtirvine-surf.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/tab_parlatuvier.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/argilebeach.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/scarborough-portmall.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ebb-esDdjVw",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/caroni.ubh.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/cnh-lambeau.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/milford-crownpt.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/pos-rafmon.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/pos-1047.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/aranguez-crh.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/sanjuan-cw.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams1.csn-tt.com:31333/live/sanjuan-lucky.stream/playlist.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streaming-hls1.televizia.org/hls/bakuriani.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streaming-hls1.televizia.org/hls/bakuriani2.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streaming-hls1.televizia.org/hls/bakuriani3.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streaming-hls1.televizia.org/hls/gudauri.m3u8",
+    "title": "Extracted from discovery_summary_20260223_154040.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://video-auth1.iol.pt/beachcam/other/playlist.m3u8",
+    "title": "Extracted from test_provider_family_fetchers.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream1.panomax.com/camera-9205/live.m3u8",
+    "title": "Extracted from test_provider_family_fetchers.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/blc/p_US_Ocean_City_Boardwalk/index.m3u8?token=abc:123",
+    "title": "Extracted from test_provider_family_fetchers.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/blc/p_US_Ocean_City_Boardwalk/index.m3u8?token=abc%3A123",
+    "title": "Extracted from test_provider_family_fetchers.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cdn.example/live.m3u8",
+    "title": "Extracted from test_pool_refresh_youtube_filters.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=valid_webcam",
+    "title": "Extracted from test_pool_refresh_youtube_filters.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/stream.m3u8",
+    "title": "Extracted from test_pool_refresh_youtube_filters.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/stream.m3u8?token=abc&sig=xyz&keep=1",
+    "title": "Extracted from test_log_safety.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/live.m3u8?token=secret123",
+    "title": "Extracted from test_log_safety.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/cam.m3u8",
+    "title": "Extracted from test_worker_motion_check.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://old.example/live.m3u8",
+    "title": "Extracted from test_worker_motion_check.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://new.example/live.m3u8",
+    "title": "Extracted from test_worker_motion_check.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/old/index.m3u8?token=one",
+    "title": "Extracted from test_background_validator.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/new/index.m3u8?token=two",
+    "title": "Extracted from test_background_validator.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge04.balticlivecam.com/cam/index.m3u8?token=fresh",
+    "title": "Extracted from test_candidate_validation.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://34.104.32.249.nip.io/SP055-KM055/stream.m3u8",
+    "title": "Extracted from test_candidate_validation.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/harbor.m3u8",
+    "title": "Extracted from test_search_candidate_filtering.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/light.m3u8",
+    "title": "Extracted from test_search_candidate_filtering.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example.com/birds.m3u8",
+    "title": "Extracted from test_search_candidate_filtering.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cdn.example.com/live.m3u8",
+    "title": "Extracted from test_live_validator_pool.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/blc/p_BE_Westende_beach/index.m3u8?token=aaa:1",
+    "title": "Extracted from test_source_family_tooling.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/blc/p_BE_Westende_beach/index.m3u8?token=bbb:2",
+    "title": "Extracted from test_source_family_tooling.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge01.balticlivecam.com/blc/p_BE_Westende_beach/index.m3u8?token=ccc:3",
+    "title": "Extracted from test_source_family_tooling.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge04.balticlivecam.com/old/index.m3u8?token=old",
+    "title": "Extracted from test_source_family_tooling.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://edge04.balticlivecam.com/new/index.m3u8?token=new",
+    "title": "Extracted from test_source_family_tooling.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cdn.example.com/manifest.m3u8",
+    "title": "Extracted from test_coordinator_candidate_pipeline.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://bad.example.com/stream.m3u8",
+    "title": "Extracted from test_coordinator_candidate_pipeline.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://cams.example.com/live.m3u8",
+    "title": "Extracted from test_coordinator_candidate_pipeline.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://example-{i}.com/stream.m3u8",
+    "title": "Extracted from test_rainy_stream_search.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8aGhZQkoFbQ",
+    "title": "Extracted from SKILL.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DHvZLI7Db8E",
+    "title": "Extracted from SKILL.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=...",
+    "title": "Extracted from SKILL.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-{ID}.streams/playlist.m3u8`.",
+    "title": "Extracted from claude.md",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a={token}",
+    "title": "Extracted from discover_apac_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={vid_id}",
+    "title": "Extracted from recover_youtube_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/stv0g/5045fd8c4b007dabfdcebfc5c57d8b6f/raw/autobahn-livestreams.m3u8",
+    "title": "Extracted from discover_new_sources.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=",
+    "title": "Extracted from skyline_scraper.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://video-auth1.iol.pt/beachcam/nazare/playlist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://video-auth1.iol.pt/beachcam/ericeira/playlist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://video-auth1.iol.pt/beachcam/peniche/playlist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1421511298.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/4702.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/15702.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/6300.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/9498.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/4626.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/2362.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/8367.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/stmaarten.flv/chunklist.m3u8",
+    "title": "Extracted from expand_webcam_diversity.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={vid}",
+    "title": "Extracted from fetch_sitemap_webcam_pool.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://{server_ip}/{server_app}/{stream_name}.stream/playlist.m3u8",
+    "title": "Extracted from fetch_germany_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/pandacam.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/pinewill.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/5321.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/6427.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/3983.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/3644newscafe.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/4135.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/lacitytours1.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls_extra.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos-3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1576498498.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://webcam.zaandam.nl/stream/live.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream.lifespotting.com/wittenbergplatz-berlin.stream/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream.lifespotting.com/hamburg-landungsbruecken.stream/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream.lifespotting.com/munich-marienplatz.stream/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streaming.paris.fr/live/champselysees/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://stream.lifespotting.com/zurich-paradeplatz.stream/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://edith03.blictv.blic.net:1935/live/ngrp:kamera02.stream_all/chunklist_w873016047_b350000.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://streams.nsw.gov.au/cameras/sydney-harbour-bridge/playlist.m3u8",
+    "title": "Extracted from add_international_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XYZ123456",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ABC789012",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DEF345678",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GHI901234",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JKL567890",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MNO123456",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PQR789012",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=STU345678",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VWX901234",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YZA567890",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BCD123456",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EFG789012",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HIJ345678",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KLM901234",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NOP567890",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QRS123456",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=TUV789012",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WXY345678",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZAB901234",
+    "title": "Extracted from fetch_europe_rainy.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BQR800Gu28g",
+    "title": "Extracted from test_verifier_vm.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://{server}:443/rtplive/{cid}/playlist.m3u8",
+    "title": "Extracted from harvest_dot_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://{srv}:443/rtplive/CCTV-{i}/playlist.m3u8",
+    "title": "Extracted from harvest_dot_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://{live_server}:443/rtplive/CCTV-{n}/playlist.m3u8",
+    "title": "Extracted from harvest_dot_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://{srv}/live/cam{n}.stream/playlist.m3u8",
+    "title": "Extracted from harvest_dot_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://{srv}/rtplive/CCTV-{n}/playlist.m3u8",
+    "title": "Extracted from harvest_dot_cameras.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/6172.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/miamivishd4.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/3635.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/miamivishd2.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/5204.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/chargingbull.flv/.m3u8",
+    "title": "Extracted from add_earthcam_hls.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8",
+    "title": "Extracted from fetch_earthcam.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Venice_Rialto",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rome_Colosseum",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Florence_Duomo",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Positano_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Capri_Marina",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sorrento_Coast",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cinque_Terre",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lake_Como",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sardinia_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sicily_Taormina",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ibiza_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Valencia_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Seville_Plaza",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bilbao_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=San_Sebastian",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Gran_Canaria",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lanzarote_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fuerteventura",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cornwall_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Blackpool_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bournemouth_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cardiff_Bay",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Glasgow_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Belfast_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cannes_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Monaco_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Saint_Tropez",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Biarritz_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mont_Saint_Michel",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Normandy_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Crete_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rhodes_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Corfu_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Zakynthos_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Thessaloniki_Port",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Hvar_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Zadar_Sunset",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Plitvice_Lakes",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rovinj_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Stockholm_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Copenhagen_Nyhavn",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Helsinki_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Reykjavik_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Dubai_Burj",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Dubai_Marina",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Abu_Dhabi",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Tel_Aviv_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Jerusalem_Wall",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cape_Town_Table",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cape_Town_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Marrakech_Square",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Casablanca_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Zanzibar_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mauritius_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Seychelles_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cayman_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Turks_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=St_Lucia_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Antigua_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Puerto_Rico_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fiji_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Tahiti_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bora_Bora",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Maldives_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bali_Kuta",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bali_Ubud",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lombok_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Pattaya_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Krabi_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Chiang_Mai",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Hanoi_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ha_Long_Bay",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Nha_Trang_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Boracay_Beach_2",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Palawan_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cebu_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Penang_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KL_Petronas",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Hiroshima_Peace",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Nara_Deer",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Hakone_Fuji",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sapporo_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Nagasaki_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Fukuoka_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Yokohama_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kobe_Harbor",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Perth_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Adelaide_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Bondi_Beach",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Great_Barrier",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Uluru_View",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Milford_Sound",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Rotorua_Geysers",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Christchurch_City",
+    "title": "Extracted from fetch_additional_streams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://infocar.dgt.es/eTrafico/camaras/cam{cam_id}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://camaras.mopt.go.cr/{cam_id}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://camaras.invias.gov.co/stream/{cam_id}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://autostrade.it/webcam/{cam_id}/live.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videosorveglianza.autostrade.it/cam/{cam_id}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://b-nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003458/nhkwlive-ojp/index_1M.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_wa_s.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/nazare/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/costacaparica/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/peniche/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/ericeira/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/portimao/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video-auth1.iol.pt:1935/beachcam/sagres/chunks.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://62.81.41.186:8086/live/BarcelonaBeach/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://62.81.41.186:8086/live/MarbellaBeach/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://62.81.41.186:8086/live/SanSebastian/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://hd-auth.skylinewebcams.com/{path}/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://webcam.paris.fr:1935/live/eiffel/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://webcam.nice.fr:1935/live/promenade/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://webcam.marseille.fr:1935/live/vieuxport/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A01/A01_L_4.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A02/A02_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A04/A04_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A10/A10_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A12/A12_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A15/A15_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A16/A16_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A27/A27_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A28/A28_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://media.rfrws.nl/cam/A50/A50_L_1.stream/chunklist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/M50-002-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/M50-003-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/M01-001-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/M07-001-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/M11-001-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.tii.ie/tii-services/motorway-cameras/cameras/N07-001-D.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_9MhfkTDCBE",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RQA5RcIZlAM",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=AHMwcR5v_Kk",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SX9q8ByliK4",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Y9EIiXPzFYU",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=49wMTzwKU7s",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://algotraffic.com/cameras/CAM{i:03d}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://mdottraffic.com/cameras/cam{i:03d}/playlist.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://tripcheck.com/Cameras/stream/{i:03d}.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://images.wsdot.wa.gov/cameras/{i:03d}/stream.m3u8",
+    "title": "Extracted from harvest_international.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Osaka_Castle",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kyoto_Temple",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mount_Fuji",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Okinawa_Beach",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Mumbai_Gateway",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Delhi_India_Gate",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Goa_Beach",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kerala_Backwaters",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HK_Victoria",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=HK_Skyline",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Taipei_101",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kenting_Beach",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Seoul_Tower",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Busan_Beach",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zaFqm6zNPzg",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sydney_Opera",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Sydney_Harbour",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Melbourne_City",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Cairns_Beach",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Brisbane_River",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Auckland_Harbour",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Queenstown_Lake",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Wellington_Harbour",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Shanghai_Bund",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Beijing_Forbidden",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Shenzhen_Skyline",
+    "title": "Extracted from fetch_asia_pacific.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://example.com/stream.m3u8",
+    "title": "Extracted from test_resolution_scoring.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1551458283.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/6593.flv/playlist.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos3.earthcam.com/fecnetwork/berlincam.flv/chunklist_w913926041.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://videos3.earthcam.com/fecnetwork/tokyo1.flv/chunklist_w1094227970.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/eiffelcamHD.flv/playlist.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://streaming.earthcam.com/gb/londoneye/playlist.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "http://video4.earthcam.com/fecnetwork/sydneyharbourhd.flv/playlist.m3u8",
+    "title": "Extracted from add_world_earthcam_m3u8.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=e_WBuBqS9h8",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Kr5X8VXWUAU",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1lV-JxJZaQI",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cs7HNyaBmRY",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NDPigZJfMkE",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=yyyyyyyyyyyy",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zzzzzzzzzzzz",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aaaaaaaaaa",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bbbbbbbbbb",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cccccccccc",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dddddddddd",
+    "title": "Extracted from fetch_southeast_asia.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={yt_match.group(1)}",
+    "title": "Extracted from scrape_government_cams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={vid_id.group(1)}",
+    "title": "Extracted from scrape_government_cams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v={vid.group(1)}",
+    "title": "Extracted from scrape_government_cams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7uK3W0r_C_4",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=V6PjG6Xp68c",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OWbI6WtlI-k",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mYshX7H0nps",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=reX1B0T6U90",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pDImO9874d8",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wnNrd-VjLsQ",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vV-GqT_B8fM",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-sE_I0c2r6M",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=E-0v0v_S8-A",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3-VvM9Q99vU",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FjU_x9Gv5G4",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=d_R_KIsOnuI",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=B9_Vre7GfD4",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ydYDqZQpim8",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=w0s3xbHZQRg",
+    "title": "Extracted from fetch_youtube_webcams.py",
+    "error": "Missing coordinates or country"
+  }
+]

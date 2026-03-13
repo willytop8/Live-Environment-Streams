@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7043,
+          -9.6398
+        ]
+      },
+      "properties": {
+        "name": "Macei\u00f3 - Brazil",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e9d217803tj6egnci81nfoo1n6",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.63,
+          -15.81
+        ]
+      },
+      "properties": {
+        "name": "Morro de S\u00e3o Paulo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qmps0jklaeqpv9qc8h2uj0giu4",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.75,
+          -15.35
+        ]
+      },
+      "properties": {
+        "name": "Morro de S\u00e3o Paulo - Gamboa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ccf9g4duiqm1jlvesgo03j1h11",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0957,
+          -16.4835
+        ]
+      },
+      "properties": {
+        "name": "Porto Seguro - Praia de Taperapuan",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mu0fiatr6mvsbedpr887o62812",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2236,
+          -17.2984
+        ]
+      },
+      "properties": {
+        "name": "Prado - Bahia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lnmm6g19d0uvp2g3sfpgk54922",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.9219,
+          -15.7815
+        ]
+      },
+      "properties": {
+        "name": "Brasilia - Brazil",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kuioeqjqju14tm4qucep2pql50",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.41,
+          -14.94
+        ]
+      },
+      "properties": {
+        "name": "Basilica of National Shrine of Our Lady Aperecida",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5f0khuqfoc1bk182rb826b7t26",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.45528,
+          -24.95583
+        ]
+      },
+      "properties": {
+        "name": "Cascavel center",
+        "url": "https://edge04.balticlivecam.com/blc/p_BR_Cascavel_centro/index.m3u8?token=f2a5b50e63bc84447483bbafebdd45f1%3A1773118568702",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.58806,
+          -25.54778
+        ]
+      },
+      "properties": {
+        "name": "Friendship Bridge",
+        "url": "https://edge04.balticlivecam.com/blc/p_BR_Friendship_Bridge/index.m3u8?token=34887cac2ac80e7a53cc401ad56be91f%3A1773118578958",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.25389,
+          -16.67861
+        ]
+      },
+      "properties": {
+        "name": "Goi\u00e2nia",
+        "url": "https://edge01.balticlivecam.com/blc/p_BR_Goiania/index.m3u8?token=3e08b98bcdea39f42bb22364b6aa001c%3A1773118570329",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.25639,
+          -23.99306
+        ]
+      },
+      "properties": {
+        "name": "Guaruj\u00e1",
+        "url": "https://edge01.balticlivecam.com/blc/p_BR_Guaruja/index.m3u8?token=e15bfe28be2802c662321d2f440b92c2%3A1773118575429",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.04056,
+          -22.95972
+        ]
+      },
+      "properties": {
+        "name": "Marina Itacuru\u00e7\u00e1",
+        "url": "https://edge04.balticlivecam.com/blc/p_BR_Marina_Itacuruca_Mangaratiba/index.m3u8?token=4596ee138b4fd787bac94f179ecfcc8d%3A1773118572014",
+        "city": "",
+        "country_code": "BR",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.35806,
+          -23.77806
+        ]
+      },
+      "properties": {
+        "name": "Praia do Curral",
+        "url": "https://edge01.balticlivecam.com/blc/p_BR_Ilhabela_Praia_do_Curral/index.m3u8?token=f04c683789df998d623495473dd5c25b:1773119079129",
+        "city": "",
+        "country_code": "BR",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.25639,
+          -23.99306
+        ]
+      },
+      "properties": {
+        "name": "Pra\u00e7a das Bandeiras",
+        "url": "https://edge04.balticlivecam.com/blc/p_BR_Guaruja_Praca_das_Bandeiras/index.m3u8?token=922f575b0c651203f6879250555d3ad8%3A1773118573722",
+        "city": "",
+        "country_code": "BR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.5311313,
+          -13.0101752
+        ]
+      },
+      "properties": {
+        "name": "Praia da Barra",
+        "url": "https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8",
+        "city": "Salvador",
+        "country_code": "BR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4144939,
+          -24.008979
+        ]
+      },
+      "properties": {
+        "name": "Praia Grande | Norte",
+        "url": "https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8",
+        "city": "",
+        "country_code": "BR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1263312,
+          -4.9506652
+        ]
+      },
+      "properties": {
+        "name": "Areia Branca",
+        "url": "https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8",
+        "city": "",
+        "country_code": "BR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.4144939,
+          -24.008979
+        ]
+      },
+      "properties": {
+        "name": "Praia Grande | Sul",
+        "url": "https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8",
+        "city": "",
+        "country_code": "BR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

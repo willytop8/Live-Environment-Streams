@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.60567,
+          36.29807
+        ]
+      },
+      "properties": {
+        "name": "Imam Reza shrine",
+        "url": "https://edge04.balticlivecam.com/blc/p_IRN_Mashhad_mavzolej/index.m3u8?token=2ce027e8c2ffb24519af790bb1b41eff%3A1773118429011",
+        "city": "",
+        "country_code": "IR",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

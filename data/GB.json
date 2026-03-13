@@ -1,0 +1,455 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1999,
+          55.9486
+        ]
+      },
+      "properties": {
+        "name": "Edinburgh Castle",
+        "url": "https://www.youtube.com/watch?v=hi7RRTF0Lls",
+        "city": "",
+        "country_code": "GB",
+        "environment": "landmark",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9916,
+          53.4084
+        ]
+      },
+      "properties": {
+        "name": "Liverpool Waterfront",
+        "url": "https://www.youtube.com/watch?v=Zb7BEmHpmoE",
+        "city": "",
+        "country_code": "GB",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2426,
+          53.4808
+        ]
+      },
+      "properties": {
+        "name": "Manchester City",
+        "url": "https://www.youtube.com/watch?v=3n8yJbx0jPc",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1372,
+          50.8225
+        ]
+      },
+      "properties": {
+        "name": "Brighton Beach",
+        "url": "https://www.youtube.com/watch?v=Ij8rIVVrknQ",
+        "city": "",
+        "country_code": "GB",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8924,
+          52.4512
+        ]
+      },
+      "properties": {
+        "name": "Sutton Coldfield",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=su5elffhcpcgq7tt6m6c27oun2",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82,
+          51.96
+        ]
+      },
+      "properties": {
+        "name": "Blackpool",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ffmiodnuslk1n0rtpd24isi2h0",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52,
+          51.2
+        ]
+      },
+      "properties": {
+        "name": "Brighton Pier",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8js2e070v7dchtmbc9ob7af3u4",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.05,
+          50.59
+        ]
+      },
+      "properties": {
+        "name": "Deal Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3vct3mikt2n5aihjvu6t0fb5j3",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.74,
+          52.42
+        ]
+      },
+      "properties": {
+        "name": "Dover Beach - Kent",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rjq1b7njqa2e9t316htkva0l73",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.01,
+          51.53
+        ]
+      },
+      "properties": {
+        "name": "Hawes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=44ihonsfkibjnjfgto2v07lpd6",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33,
+          50.64
+        ]
+      },
+      "properties": {
+        "name": "Hereford - High Town",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mh781t4sdidr8ht0pe9091ip87",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.29,
+          52.06
+        ]
+      },
+      "properties": {
+        "name": "River Wye - Hereford",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=75h40423eb3cl4ejnk9q1drcr1",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94,
+          52.04
+        ]
+      },
+      "properties": {
+        "name": "Porlock Weir",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=svbp6u65utp50a82607afvot47",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.81,
+          51.78
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Sheffield",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=42dou06ldvi9h9b3flt28vo4q0",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.14,
+          50.55
+        ]
+      },
+      "properties": {
+        "name": "St. Ives - Porthmeor Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9jksk8avlnqprah3o4t5s6amf2",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88,
+          51.18
+        ]
+      },
+      "properties": {
+        "name": "St. Ives",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rvqanf6tifvq2u0vnda7667pb5",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2091,
+          51.4656
+        ]
+      },
+      "properties": {
+        "name": "Cardiff",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kho2r3afhglkbmeo7lqor1mn65",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.039,
+          52.9103
+        ]
+      },
+      "properties": {
+        "name": "Gwynedd - Bala",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9oij7c8q33a6ck33irclg7ck54",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.125,
+          52.9333
+        ]
+      },
+      "properties": {
+        "name": "Bala - Gwynedd",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4gnp1ddvmsj820fcckkn37rpd6",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.102,
+          52.9323
+        ]
+      },
+      "properties": {
+        "name": "Bala Lake - Gwynedd",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p93vsfp9f50d2afhvor688onr3",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.116,
+          52.9313
+        ]
+      },
+      "properties": {
+        "name": "Barmouth - Gwynedd",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=c8qfu8r1ad0u3cnuoqc6blhqc7",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115,
+          52.8493
+        ]
+      },
+      "properties": {
+        "name": "Barmouth Harbour - Gwynedd",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=r1ufmqogae9rvlpuatcavs1hl7",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.084,
+          52.9183
+        ]
+      },
+      "properties": {
+        "name": "Barmouth Bay - Gwynedd",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3uhs07frrhu0mhtggq9849o0t3",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37,
+          51.57
+        ]
+      },
+      "properties": {
+        "name": "Newport - Pembrokeshire",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dv31bovf7g9ph9n59saimu71n7",
+        "city": "",
+        "country_code": "GB",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1427068,
+          60.153111
+        ]
+      },
+      "properties": {
+        "name": "Leirv\u00edk",
+        "url": "https://edge04.balticlivecam.com/blc/p_DEN_Leirvik/index.m3u8?token=b0c1eac652e696640d8583dde88790df%3A1773118638927",
+        "city": "Lerwick",
+        "country_code": "GB",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

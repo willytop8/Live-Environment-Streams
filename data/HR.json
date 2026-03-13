@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.08,
+          43.26
+        ]
+      },
+      "properties": {
+        "name": "Weather Banjole",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e7c1lpe22utm0ia2bn5ocedc46",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.74,
+          42.74
+        ]
+      },
+      "properties": {
+        "name": "Marian Shrine of Marija Bistrica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=571221lcdl4msb641jg2sf4s21",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65,
+          43.43
+        ]
+      },
+      "properties": {
+        "name": "Plitvice Lakes National Park",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=74as8t86itg1n04vlli3j9mhm7",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42,
+          44.17
+        ]
+      },
+      "properties": {
+        "name": "\u0160trigova - Me\u0111imurje",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b2n28mcrpdemflmlfq1t5ull34",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.09,
+          43.4
+        ]
+      },
+      "properties": {
+        "name": "Risnjak National Park",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=605426akp57bcgee98eus8q8c0",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38,
+          44.05
+        ]
+      },
+      "properties": {
+        "name": "Selce",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=67nlskoe5p379a2bo3v737tmi2",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56,
+          43.97
+        ]
+      },
+      "properties": {
+        "name": "Paradise Beach - Lopar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2b35jcnbudtkej10aajv4d7226",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4102,
+          43.4651
+        ]
+      },
+      "properties": {
+        "name": "Split - Pjaca",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sqsca3u908hgj6g2oma0c2b2u5",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02,
+          43.86
+        ]
+      },
+      "properties": {
+        "name": "Trako\u0161\u0107an Castle - Bednja",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n0vllon6ljg21qr158iv44dc60",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27,
+          42.66
+        ]
+      },
+      "properties": {
+        "name": "Vara\u017edin",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v8ob55e24oovjlh0r6ankv6002",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1974,
+          44.1644
+        ]
+      },
+      "properties": {
+        "name": "Zadar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7skbvuegbbpevrc0kn1vddg1a0",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58988,
+          43.82043
+        ]
+      },
+      "properties": {
+        "name": "Jezera",
+        "url": "https://edge01.balticlivecam.com/blc/p_CR_Jezera_Murter/index.m3u8?token=85a7097f988d1efc41e6de6d86b37e6a%3A1773118611752",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.10909,
+          42.64125
+        ]
+      },
+      "properties": {
+        "name": "Old town of Dubrovnik",
+        "url": "https://edge01.balticlivecam.com/blc/p_CRO_Dubrovnik_Old_town/index.m3u8?token=379de1d4907e6bdc5bad959c286ca3f5%3A1773118605357",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.10909,
+          42.64125
+        ]
+      },
+      "properties": {
+        "name": "Port of Gru\u017e",
+        "url": "https://edge01.balticlivecam.com/blc/p_CRO_Port_of_Gruz_Dubrovnik/index.m3u8?token=4ccb7bdb2e83bd3a0c4d4ceabc3e1f62%3A1773118607166",
+        "city": "",
+        "country_code": "HR",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.64333,
+          43.80417
+        ]
+      },
+      "properties": {
+        "name": "Tisno bridge",
+        "url": "https://edge04.balticlivecam.com/blc/p_HR_Tisno_bridge/index.m3u8?token=33ea0a45c8d3a525345bfa9608dfdcd6%3A1773118610041",
+        "city": "",
+        "country_code": "HR",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

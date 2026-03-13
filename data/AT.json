@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.34908,
+          47.85648
+        ]
+      },
+      "properties": {
+        "name": "Basilica of St. Michael",
+        "url": "https://edge04.balticlivecam.com/blc/p_AU_Mondsee_basilica_st_michael/index.m3u8?token=cec2f87b5706d5889eb03767fe5e6fd6%3A1773118550390",
+        "city": "",
+        "country_code": "AT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.30528,
+          46.62472
+        ]
+      },
+      "properties": {
+        "name": "Neuer Platz (New Square)",
+        "url": "https://edge04.balticlivecam.com/blc/p_AT_Klagenfurt_Neuer_Platz/index.m3u8?token=ae139f437d89d09d5bbcd5b36b776c38%3A1773118546082",
+        "city": "",
+        "country_code": "AT",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.34236,
+          47.35979
+        ]
+      },
+      "properties": {
+        "name": "Pernegg an der Mur panoramic view",
+        "url": "https://edge04.balticlivecam.com/blc/p_AU_Pernegg_an_der_Mur/index.m3u8?token=a83c2b6330803b5bce6b5a95732ff9b6%3A1773118552403",
+        "city": "",
+        "country_code": "AT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.41416,
+          48.3656
+        ]
+      },
+      "properties": {
+        "name": "View to Danube river",
+        "url": "https://edge04.balticlivecam.com/blc/p_AT_Spitz_Donau_river/index.m3u8?token=b5e3b54bb64a5e9bdfca1ae8325e4332%3A1773118548313",
+        "city": "",
+        "country_code": "AT",
+        "environment": "river",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.79839,
+          47.32306
+        ]
+      },
+      "properties": {
+        "name": "Zell am See panorama",
+        "url": "https://edge04.balticlivecam.com/blc/p_AT_Zell_am_See/index.m3u8?token=628d63b088b18bd1d9c5fba950a38f46%3A1773118544361",
+        "city": "",
+        "country_code": "AT",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

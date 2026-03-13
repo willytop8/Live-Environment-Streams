@@ -1,0 +1,27 @@
+# Live Environment Streams - LLM Guide
+
+## Project Purpose
+This repository provides a master index of live outdoor camera sources (HLS, RTSP, YouTube Live) specifically formatted for machine learning, computer vision, and dynamic weather tracking. It serves as the primary data source for continuous environmental monitoring projects.
+
+## Schema Definition
+The primary data file is `streams.geojson`, formatted as a standard GeoJSON FeatureCollection.
+
+Each `Feature` represents a live stream:
+- `geometry`: Point geometry with `[longitude, latitude]`.
+- `properties`:
+  - `name`: Descriptive name of the camera location.
+  - `url`: Direct streaming URL (.m3u8, YouTube, etc.).
+  - `city`: Nearest city.
+  - `country_code`: ISO 3166-1 alpha-2 country code.
+  - `environment`: Scene category (e.g., urban, coastal, traffic, forest).
+  - `timezone`: IANA timezone string (e.g., America/New_York) useful for localized day/night cycle calculations.
+
+## AI / Agent Query Instructions
+When iterating through the streams:
+1. **Filtering by Location/Timezone**: Use the `geometry` or `country_code` to subset regions. Cross-reference `timezone` with current UTC time to ensure daylight if visual fidelity requires natural light.
+2. **Filtering by Environment**: Target specific datasets by checking the `environment` property (e.g., selecting only 'coastal' streams for ocean monitoring).
+3. **Data Retrieval**: Directly pass the `url` to extraction utilities like `yt-dlp` or `FFmpeg` for frame extraction.
+
+## Directory Structure
+- `streams.geojson`: The monolithic master file.
+- `data/`: A categorized directory that splits streams by regional boundaries (e.g., `data/US.json`, `data/JP.json`) to minimize token context limits during region-specific agent processing.

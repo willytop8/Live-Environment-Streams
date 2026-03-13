@@ -1,0 +1,4919 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3155,
+          45.4408
+        ]
+      },
+      "properties": {
+        "name": "Venice Grand Canal",
+        "url": "https://www.youtube.com/watch?v=ph1vpnYIxJk",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2681,
+          40.8518
+        ]
+      },
+      "properties": {
+        "name": "Naples - Mount Vesuvius Live cam",
+        "url": "livee.m3u8?a=ed8g4tfp74635cekadb8tue1q2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "name": "Rome - Via della Frezza Live cam",
+        "url": "livee.m3u8?a=9lejog1h71i7j4uq6fi8lf5pi7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "name": "Rome - Pantheon Live cam",
+        "url": "livee.m3u8?a=ffnntc5jrgpsl6nopgvllki5i2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.228,
+          39.2518
+        ]
+      },
+      "properties": {
+        "name": "Bianchi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bm0en2tu209ic4su58ijnpqo52",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.209,
+          39.3088
+        ]
+      },
+      "properties": {
+        "name": "Camigliatello Silano",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=h1ac4ila8rs7osuo4oqdvlraq3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.24,
+          39.2588
+        ]
+      },
+      "properties": {
+        "name": "Cetraro",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mu1gmpqgq1h9vh18cnegauha47",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.21,
+          39.2998
+        ]
+      },
+      "properties": {
+        "name": "Cosenza - Corso Mazzini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=td3jib2vs91qhapl23jn9ns9v2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.251,
+          39.2908
+        ]
+      },
+      "properties": {
+        "name": "Cosenza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p5ud1fm4qbenqsqveglv7kvs74",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.288,
+          39.2908
+        ]
+      },
+      "properties": {
+        "name": "Montalto Uffugo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=opdkdaims3vn7pgpae5lethu07",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294,
+          39.2758
+        ]
+      },
+      "properties": {
+        "name": "Morano Calabro",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ev5f01bvneaa7ut0i945d04484",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.295,
+          39.3388
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Bianchi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bncff8u22vps66rao6s38m1lh6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.212,
+          39.3078
+        ]
+      },
+      "properties": {
+        "name": "Praia a Mare",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gav0m77l5gsoqc2kfaovg724j6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.294,
+          39.3188
+        ]
+      },
+      "properties": {
+        "name": "Roseto Capo Spulico - Calabria",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g2lk8s60vcsq3m9meujae63cu3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.25,
+          39.2598
+        ]
+      },
+      "properties": {
+        "name": "San Basile - Shooting Range",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pchp8heqja6nlmbgsm0v0qut92",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.237,
+          39.3138
+        ]
+      },
+      "properties": {
+        "name": "San Donato di Ninea",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=vu1gdc3hc8jeerd4bjid3e3eb0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.245,
+          39.2498
+        ]
+      },
+      "properties": {
+        "name": "San Giovanni in Fiore",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a3f013fgcqlidtnbn452vv7ec5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.238,
+          39.2538
+        ]
+      },
+      "properties": {
+        "name": "Sila - Bivio Spineto",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=phaq39vs1tpsfhtjfnr4lufbq2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.22,
+          39.2748
+        ]
+      },
+      "properties": {
+        "name": "Sila - Lorica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=in76keqblbe28psb0ut0phi565",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2481,
+          40.8378
+        ]
+      },
+      "properties": {
+        "name": "Capri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j9m5u8fmrkbh5bfnd5usvcmej1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2961,
+          40.8088
+        ]
+      },
+      "properties": {
+        "name": "Naples - Castel Nuovo Maschio Angioino",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jv4hsqu0bas1feugsf9d8c7ut6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2461,
+          40.8228
+        ]
+      },
+      "properties": {
+        "name": "Naples - Corso Umberto I",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9fuec44e1b3j439vmemcho87c0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2331,
+          40.8508
+        ]
+      },
+      "properties": {
+        "name": "Sant'Angelo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=up5orpkcb0begj1lde9stlgup0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3151,
+          40.8838
+        ]
+      },
+      "properties": {
+        "name": "Ischia - Aragonese Castle",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=887ik7o7v2d608juipqo4ne106",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2471,
+          40.8828
+        ]
+      },
+      "properties": {
+        "name": "Maschio Angioino - Naples",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4rodn1005kc12ad5kc9385a1m1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2501,
+          40.8928
+        ]
+      },
+      "properties": {
+        "name": "Naples - Maschio Angioino",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=df9nc5l2a4fvfa67n905tqja61",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2581,
+          40.8788
+        ]
+      },
+      "properties": {
+        "name": "Naples - Mount Vesuvius",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=deh52oq2fhpt1b1906n5gkpia5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2641,
+          40.8488
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Sorrento",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7uakeso9jrjs4kfnbc1s6pkto3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2671,
+          40.8048
+        ]
+      },
+      "properties": {
+        "name": "Sorrento Peninsula - Gulf of Naples",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nfspl4q3ip9n0b6tbgq4plkem7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2761,
+          40.8478
+        ]
+      },
+      "properties": {
+        "name": "Naples - Piazza del Plebiscito",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i8ok3mi5n7fpd258rjf9p72345",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2611,
+          40.8788
+        ]
+      },
+      "properties": {
+        "name": "Pozzuoli - Macellum",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4o1sq2r8ha73ofagodhqpcf391",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2531,
+          40.8418
+        ]
+      },
+      "properties": {
+        "name": "Procida",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4fmv1lprma2vhrc2m573is3ot2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2481,
+          40.8818
+        ]
+      },
+      "properties": {
+        "name": "Sant'Angelo d'Ischia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5qh6kqj8ff978p7ontra4oiev6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2541,
+          40.8328
+        ]
+      },
+      "properties": {
+        "name": "Sorrento - Marina Grande",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kd4rdva8te1buo8ura9a2pfci3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3011,
+          40.8438
+        ]
+      },
+      "properties": {
+        "name": "Vesuvius - Terzigno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mn5g967cubk9ldk65431p0clh5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3141,
+          40.8138
+        ]
+      },
+      "properties": {
+        "name": "Mount Vesuvius",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2jsn21lknilsob0jgiofuatk95",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7711,
+          40.7014
+        ]
+      },
+      "properties": {
+        "name": "Atrani - Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ilfvrilnuurr2la343rhrmrgq3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7281,
+          40.6544
+        ]
+      },
+      "properties": {
+        "name": "Atrani - Divina Costiera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=breunjquv1ti1uflfav0p2kao2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7751,
+          40.6444
+        ]
+      },
+      "properties": {
+        "name": "Salerno - Old Town",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=as3agvufqfb0ojte0qfq0k3pe4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7851,
+          40.7214
+        ]
+      },
+      "properties": {
+        "name": "Cetara - Salerno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=to084qgc0elt5jaoe9be4lduk5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7241,
+          40.6734
+        ]
+      },
+      "properties": {
+        "name": "Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sasb9gn000bfgp46fpbts37mb0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7531,
+          40.7234
+        ]
+      },
+      "properties": {
+        "name": "Amalfi Coast - Ravello",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=egulsrvfofebkec1q5cqrbqse6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7431,
+          40.7144
+        ]
+      },
+      "properties": {
+        "name": "Furore - Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8qsa4qsnhhb5g5pq93vt5lmno4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7331,
+          40.7034
+        ]
+      },
+      "properties": {
+        "name": "Furore",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a5o7fv6ot6iv8i4qqa0vm8tum6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7561,
+          40.6484
+        ]
+      },
+      "properties": {
+        "name": "Pertosa Caves - Salerno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m5r2v9os8m7ghbddleg887svb3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8041,
+          40.6694
+        ]
+      },
+      "properties": {
+        "name": "Maiori - Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=cbf7vrhing404nlse33a88uf35",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7461,
+          40.6854
+        ]
+      },
+      "properties": {
+        "name": "Marina di Camerota",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=14i11nokmq5k3gjlq723jssi36",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7851,
+          40.6664
+        ]
+      },
+      "properties": {
+        "name": "Minori - Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ooni3v8pn63ggkdkkaqbjdafj1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7451,
+          40.6564
+        ]
+      },
+      "properties": {
+        "name": "Palinuro",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kr1j1n3ru6cs6lglopqntsc5d2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8071,
+          40.6914
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Amalfi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e59vki15mc6tkjafblic32mce4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7511,
+          40.6914
+        ]
+      },
+      "properties": {
+        "name": "Panoramic view of Cetara",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d8hcimv1enefug31coosv1fsu0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7721,
+          40.6814
+        ]
+      },
+      "properties": {
+        "name": "Port of Agropoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=940tlnsv8uvq3omlnvvhr4p770",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8171,
+          40.6554
+        ]
+      },
+      "properties": {
+        "name": "Praiano - Amalfi Coast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qib3b78eaa6j50rh3k52b5dup1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7321,
+          40.7114
+        ]
+      },
+      "properties": {
+        "name": "Salerno - Via Roma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rjhki1nr5raer60mjchsq26mn0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7791,
+          40.6494
+        ]
+      },
+      "properties": {
+        "name": "Beach of Agropoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gatk4nsmfuf1cnl18eusv5ftl2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7911,
+          40.7094
+        ]
+      },
+      "properties": {
+        "name": "Beach of Amalfi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=vl5fsjiao3o2mvotp716ic72m1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7761,
+          40.6504
+        ]
+      },
+      "properties": {
+        "name": "Paestum",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8n35ucigji9g6fb993r7r5blb0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8061,
+          40.6914
+        ]
+      },
+      "properties": {
+        "name": "Teggiano - San Cono Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0u3icdi40spj440bres0e2pf94",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6061,
+          44.0844
+        ]
+      },
+      "properties": {
+        "name": "Rimini - Arch of Augustus",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=33gjlrgh097fej67kt33n1ek96",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5401,
+          44.0994
+        ]
+      },
+      "properties": {
+        "name": "Bellaria - Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ms8j2ua7pq69h7k7oin5jekgk5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5901,
+          44.0564
+        ]
+      },
+      "properties": {
+        "name": "Bellaria-Igea Marina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s3usc0r0qdbfep2t0v389hv613",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6041,
+          44.0544
+        ]
+      },
+      "properties": {
+        "name": "Cattolica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=l46h69cm09tlv66n3dv51brv64",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6001,
+          44.0594
+        ]
+      },
+      "properties": {
+        "name": "Rimini Seafront",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6g2kieo0cbg4febd6ecqkclbl1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5491,
+          44.0864
+        ]
+      },
+      "properties": {
+        "name": "Weather Riccione",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7s4hmknvt1kbdslud4oq6kmvd5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5391,
+          44.0154
+        ]
+      },
+      "properties": {
+        "name": "Miramare di Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=t12i4idhhcbdov9hdjdhvjo512",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5941,
+          44.0374
+        ]
+      },
+      "properties": {
+        "name": "Rimini - Misano Adriatico",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4ie1843fkm53g1ohgu27465cm4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5591,
+          44.0354
+        ]
+      },
+      "properties": {
+        "name": "Misano Adriatico - Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=43hn199h2jp7oga4e2o9707nk2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5891,
+          44.0804
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Riccione",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jnnogjrjv4ufdlkf37tf49ptu3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751,
+          44.0544
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ggnrqg1anqu1a86fgfsv44j2r0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5751,
+          44.0674
+        ]
+      },
+      "properties": {
+        "name": "Aquatic Park of Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pumdmb8660cn9rjp9r848kqk47",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6151,
+          44.0244
+        ]
+      },
+      "properties": {
+        "name": "Piazzale San Martino - Riccione",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8haujr7jr8sphrvemh1d1tvqe6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5611,
+          44.1064
+        ]
+      },
+      "properties": {
+        "name": "Port of Cattolica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=njdloka8ar1uf534qf69ue5mm4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6121,
+          44.0264
+        ]
+      },
+      "properties": {
+        "name": "Riccione",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v0q5f6imj0v58u9nk3s74timc0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5461,
+          44.0384
+        ]
+      },
+      "properties": {
+        "name": "Riccione - MaranoBeach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6hktpnc37n8kqe471pp5e1vlo2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5651,
+          44.0644
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Riccione",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4ipauq5479rs9sv8s0vnnkcmp2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5951,
+          44.0854
+        ]
+      },
+      "properties": {
+        "name": "Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=iau9qh4n40jqrm1i937aqrbge6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5991,
+          44.0984
+        ]
+      },
+      "properties": {
+        "name": "Rimini - Marina Centro",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dbu4d04vg2ic6h5flmoehniia0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6051,
+          44.0974
+        ]
+      },
+      "properties": {
+        "name": "Rimini - Parco Regina Margherita",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hvihprc8hc6fe5s8hro7ltkd12",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6041,
+          44.0354
+        ]
+      },
+      "properties": {
+        "name": "Cattolica Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0djqqqckdgvb2tqjg6vqjdt7m2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5561,
+          44.0704
+        ]
+      },
+      "properties": {
+        "name": "Riccione Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j1m0aep513i6tro597gm05cor0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5321,
+          44.0774
+        ]
+      },
+      "properties": {
+        "name": "Beach of Riccione - Rimini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dr9o23cg50sqpcs7ukn32du394",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5541,
+          44.0984
+        ]
+      },
+      "properties": {
+        "name": "Beach of Riccione - Riviera Romagnola",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i79m4crlu5nm6l4m082o6n8m47",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5811,
+          44.0124
+        ]
+      },
+      "properties": {
+        "name": "Rimini beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ubvikvseos69i6rk47k52qfao1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5791,
+          44.0134
+        ]
+      },
+      "properties": {
+        "name": "Rimini - Torre Pedrera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nk8a0l1vka4g7lhfapek9kmtd7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5024,
+          41.8738
+        ]
+      },
+      "properties": {
+        "name": "Basilica di Santa Maria Maggiore - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kd7n9a7kug6d1jo2c9jbeuqli1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5394,
+          41.9148
+        ]
+      },
+      "properties": {
+        "name": "Campo de' Fiori - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rmfhl4t94o2bjg1989cn91oa22",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5054,
+          41.8648
+        ]
+      },
+      "properties": {
+        "name": "Castel Sant'Angelo - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=717bveho38pcqqolc1cpgnn127",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4664,
+          41.9118
+        ]
+      },
+      "properties": {
+        "name": "The Spanish Steps",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3g73vv87cn0c1m4lgrc04su4t7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4584,
+          41.9388
+        ]
+      },
+      "properties": {
+        "name": "Fiumicino - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0cjhrrgsrdvj7sfc9q0pg6hli1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4954,
+          41.9218
+        ]
+      },
+      "properties": {
+        "name": "Trevi Fountain - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3dd4eedmjlb41uuvt6kgnebuc0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4904,
+          41.8548
+        ]
+      },
+      "properties": {
+        "name": "Fregene - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=47fvsuebtnmp0cbbq5e1325c04",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5184,
+          41.9358
+        ]
+      },
+      "properties": {
+        "name": "Guidonia - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lr7k7vm7mrgdf4drfo11pagbl0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5384,
+          41.9318
+        ]
+      },
+      "properties": {
+        "name": "Ladispoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=aa3r3gfo7dd4rdd3h2qkkjsf45",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4514,
+          41.8958
+        ]
+      },
+      "properties": {
+        "name": "Marina di San Nicola - Ladispoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=u3drm3ff7jjskdqngljdonjbt7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5104,
+          41.8868
+        ]
+      },
+      "properties": {
+        "name": "Lido di Ostia - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=49skk0i2nmogj6d83b2edef142",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4794,
+          41.8658
+        ]
+      },
+      "properties": {
+        "name": "Ostia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=810iahttr36s15mho7jmq3aed7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4734,
+          41.8868
+        ]
+      },
+      "properties": {
+        "name": "Weather Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5f35m7uakc210a828m16b9eh45",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5184,
+          41.9408
+        ]
+      },
+      "properties": {
+        "name": "Rome - Pantheon",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=knltsigfhm0vruhuugol16vkj4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5454,
+          41.9448
+        ]
+      },
+      "properties": {
+        "name": "Rome - Piazza Cavour",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v38h6c66p2s3clkthcmphu4ug1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5384,
+          41.9018
+        ]
+      },
+      "properties": {
+        "name": "Piazza di Spagna - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3q9v6p7r5t5n27ksl55t7d1r06",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4874,
+          41.9478
+        ]
+      },
+      "properties": {
+        "name": "Rome - Piazza Navona",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4e0qnl9nsoen5v0od8n9mule86",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5074,
+          41.9238
+        ]
+      },
+      "properties": {
+        "name": "Piazza Navona - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=26gkcer28pt2nmt8huf3bnsi55",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4484,
+          41.9328
+        ]
+      },
+      "properties": {
+        "name": "Piazza Venezia, Altare della Patria - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ssn8d1cvkjavqoijsnvnum381",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5414,
+          41.8998
+        ]
+      },
+      "properties": {
+        "name": "Rome - Model Aircraft track",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=r6s0287hg49r6ub8arpsckn7o5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4524,
+          41.9348
+        ]
+      },
+      "properties": {
+        "name": "Ponte Sisto in Trastevere",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ruhvg7gn8aoun74b8g22gj3d4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4834,
+          41.8548
+        ]
+      },
+      "properties": {
+        "name": "Rome - Colosseum",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pg6k27rhgh4159uv0sjhbtgg33",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4644,
+          41.8808
+        ]
+      },
+      "properties": {
+        "name": "Rome - Largo di Torre Argentina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qfh49eh7ppeeqq6s4dvfbml6t1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5444,
+          41.8588
+        ]
+      },
+      "properties": {
+        "name": "Skyline of Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7dgssiqpj6mqo7qbtn6qd4b333",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4834,
+          41.9208
+        ]
+      },
+      "properties": {
+        "name": "Piazza Santa Maria in Trastevere - Rome",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sh70k2tk42cami7t8n8hpv53h0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4764,
+          41.8558
+        ]
+      },
+      "properties": {
+        "name": "Rome - Via del Corso",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6q9qc5o9aep6la2nqibicnuba4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5444,
+          41.8688
+        ]
+      },
+      "properties": {
+        "name": "Rome - Via della Frezza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tcsdlbdtju507lsagvsd9uho16",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4844,
+          41.8988
+        ]
+      },
+      "properties": {
+        "name": "Rome - Via Frattina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=h7qd2n84sctpit8gmo0i4hlmn4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9243,
+          44.3656
+        ]
+      },
+      "properties": {
+        "name": "Genua - Sturla Bay",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dou1hc24b3n8q26og6mra81hb3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9693,
+          44.4086
+        ]
+      },
+      "properties": {
+        "name": "Boccadasse - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=eulfdul19quf4e2sepgdmg35r5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9033,
+          44.3906
+        ]
+      },
+      "properties": {
+        "name": "Village of Bogliasco",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g8sntm5l0cds7kqgbft76s0e31",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9153,
+          44.4456
+        ]
+      },
+      "properties": {
+        "name": "Camogli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=25agd9c8dki244vadq2km81dd6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9053,
+          44.3816
+        ]
+      },
+      "properties": {
+        "name": "Cicagna - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=isbgt3f47tpjj5uc417n6nsc41",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9503,
+          44.3896
+        ]
+      },
+      "properties": {
+        "name": "Cogoleto - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=feehrmrmeplffjhb1ledcmq8j3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9623,
+          44.3606
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Bagni Corso Italia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m0dbf2u2ks97phaof167eomgh3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9343,
+          44.4476
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Oregina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fgjhabgk1igal156kmq4qkfn12",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9173,
+          44.3786
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Sant'Eusebio",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dbturm4mes2iqoks60dpdnq072",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9763,
+          44.4346
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Voltri Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hoall3ndp8brlc05qm6cv00204",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9463,
+          44.3886
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Voltri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4fevhf7lvl97jgh2o4eobmoii0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9033,
+          44.3956
+        ]
+      },
+      "properties": {
+        "name": "Paraggi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rh2ll1mt7qeslrtq0cnv6utf17",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9593,
+          44.3806
+        ]
+      },
+      "properties": {
+        "name": "Quarto - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ok85k4kpv5m3di47teb2f666s5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9143,
+          44.3756
+        ]
+      },
+      "properties": {
+        "name": "Quinto al Mare - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ndnpkufc07q5p8ch3cci7o5ri1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9393,
+          44.4376
+        ]
+      },
+      "properties": {
+        "name": "Rapallo - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uhs0fcdgl5caq0kf2srcd3eu53",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9013,
+          44.4206
+        ]
+      },
+      "properties": {
+        "name": "Genoa - Santa Margherita Ligure, Gulf of Tigullio",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bjg1lu3ffbhbasskk0dkuts045",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9183,
+          44.3746
+        ]
+      },
+      "properties": {
+        "name": "Santa Margherita Ligure - Province of Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9sem2acs4ng86tssgeitrjsa85",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9113,
+          44.3936
+        ]
+      },
+      "properties": {
+        "name": "Sant'Ilario - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fqnt3fajnuj3i6ce7rm7pgmk50",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9023,
+          44.4406
+        ]
+      },
+      "properties": {
+        "name": "Sestri Levante",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ph2a03j5vlmdfimmthjfhd1e1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9863,
+          44.4306
+        ]
+      },
+      "properties": {
+        "name": "Beach of Genova Voltri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ktcssm71bkhl5g85hlu6tfq1l1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9433,
+          44.4176
+        ]
+      },
+      "properties": {
+        "name": "Recco Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=in3kln0l7pn8oqc18pb5b0iji7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9313,
+          44.4476
+        ]
+      },
+      "properties": {
+        "name": "Recco Beach - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hfqfshlujaaka7g3v9r9if7fj4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9493,
+          44.4316
+        ]
+      },
+      "properties": {
+        "name": "Beach of Zoagli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1c4jbeg4laklkjg33qpi5f0u32",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9383,
+          44.4186
+        ]
+      },
+      "properties": {
+        "name": "Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b7ukjngq292m1g3lkcq26falc0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9893,
+          44.3806
+        ]
+      },
+      "properties": {
+        "name": "Priaruggia Beach - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7t2bdkmemg6ke0d5ua5b9nack7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9193,
+          44.3686
+        ]
+      },
+      "properties": {
+        "name": "Santa Margherita Ligure Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=l9faufuab7pstl14talnc59hs4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9303,
+          44.3596
+        ]
+      },
+      "properties": {
+        "name": "Beach of Genoa Voltri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7eqeb9j6jfu9f5osj70okfog74",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9053,
+          44.4386
+        ]
+      },
+      "properties": {
+        "name": "Sturla Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=766sgksdnism3naqh2864k11a5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9703,
+          44.4126
+        ]
+      },
+      "properties": {
+        "name": "Bisagno Torrent",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s60r9d00dvjbpjbhsofir7c537",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8963,
+          44.3836
+        ]
+      },
+      "properties": {
+        "name": "Lavagna Torrent",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1h89se8n465uvs4u5ca7f3g7s1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9093,
+          44.3746
+        ]
+      },
+      "properties": {
+        "name": "Ricc\u00f2 Torrent",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g3mhhj964n6ajhd7n1ad9282p0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9573,
+          44.3886
+        ]
+      },
+      "properties": {
+        "name": "Varenna Torrent",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jkqvaff8obhkodsvlnus1p00d1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9653,
+          44.3576
+        ]
+      },
+      "properties": {
+        "name": "Vernazzola",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sq07mgo7vj24utp3u85vo8quu7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9363,
+          44.4326
+        ]
+      },
+      "properties": {
+        "name": "Voltri - Genoa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m6pq9k00c7a3q9ljllrblqjs76",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9913,
+          44.3686
+        ]
+      },
+      "properties": {
+        "name": "Zoagli - Piazza XXVII Dicembre",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f2croistqkpm638ftub6j74al1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8619,
+          41.0991
+        ]
+      },
+      "properties": {
+        "name": "Locorotondo - Itria Valley",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tt4uhunem3feii6gq012odve25",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9039,
+          41.0731
+        ]
+      },
+      "properties": {
+        "name": "Port of Mola di Bari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dojej020dg5ju9sd5vfkdic0v7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8379,
+          41.0881
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Alberobello",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6sv06mb5il3u5dsttc4oq52707",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9019,
+          41.1061
+        ]
+      },
+      "properties": {
+        "name": "Polignano a Mare",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tpr17t7147m3pvcj7g7mcu3io1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8339,
+          41.0771
+        ]
+      },
+      "properties": {
+        "name": "Bari - Pane e Pomodoro Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ciiv4810ef883graqfgb5p6o32",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1367,
+          39.2168
+        ]
+      },
+      "properties": {
+        "name": "Cagliari - Sestu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f62er1q2didqkr2j9nv7jau8j7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1067,
+          39.1788
+        ]
+      },
+      "properties": {
+        "name": "Cagliari - Calamosca Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8as5iag03alaea37poc6rupvo0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.045,
+          37.5049
+        ]
+      },
+      "properties": {
+        "name": "Camporotondo Etneo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fdc0t7nnd13v4sqpnfr8lhjbc0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.075,
+          37.5009
+        ]
+      },
+      "properties": {
+        "name": "City of Catania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qoui11hnug3vrn5j91ktmtcfg1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.108,
+          37.4889
+        ]
+      },
+      "properties": {
+        "name": "Etna - Southeastern Crater Eruption",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=maq0i0c8sjj35aqbkr2j0ak6v3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.072,
+          37.4959
+        ]
+      },
+      "properties": {
+        "name": "Etna - Southern Crater Eruptions",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tp5nri2pkbqhb6rs1ffvpe2bu4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.119,
+          37.4759
+        ]
+      },
+      "properties": {
+        "name": "Etna - South side",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3thlnt6k4jek9tgdlr25e6gb30",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.062,
+          37.5529
+        ]
+      },
+      "properties": {
+        "name": "Volcano Etna - Piazzale Rifugio Sapienza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7innrpr6vj16g93ur8md1tmh97",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.075,
+          37.5189
+        ]
+      },
+      "properties": {
+        "name": "Gulf of Catania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6jg7vfrirb636i45qjdona3q62",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.047,
+          37.5389
+        ]
+      },
+      "properties": {
+        "name": "Weather Nicolosi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nb58cfdkamlblep765oobefna4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.129,
+          37.4799
+        ]
+      },
+      "properties": {
+        "name": "Trappeto - San Giovanni La Punta",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s8e1l2qhc26tee59ccvvbmhk93",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.072,
+          37.5259
+        ]
+      },
+      "properties": {
+        "name": "Mount Etna",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i05nu03u3u1isnin77g8rnho23",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.047,
+          37.5429
+        ]
+      },
+      "properties": {
+        "name": "Etna South",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mthv5r48ipaliijdi8e4v2ndg6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.061,
+          37.4679
+        ]
+      },
+      "properties": {
+        "name": "Mount Etna - Mascalucia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=k80c6o5njgt16qfvbn9qrjbt37",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.054,
+          37.5149
+        ]
+      },
+      "properties": {
+        "name": "Mount Etna - Piano Provenzana",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3tila3p2vbndso7glp2qqh5773",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.048,
+          37.4949
+        ]
+      },
+      "properties": {
+        "name": "Etna - Summit craters",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a0dvtilusmr9i94mgir31qk7r6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.109,
+          37.5189
+        ]
+      },
+      "properties": {
+        "name": "Volcano Etna Southeast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b1iamemb96oikk451ajinargn7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.039,
+          37.5489
+        ]
+      },
+      "properties": {
+        "name": "Etna North",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ie025ue8mtk1389bn7c07rqkl3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.573,
+          38.2068
+        ]
+      },
+      "properties": {
+        "name": "Mazzar\u00f2 Bay - Taormina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a5r3dqs1p7vgkmgu2qgmd1uql5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.509,
+          38.1748
+        ]
+      },
+      "properties": {
+        "name": "Brolo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7mktgko2d8og56luhnl95t86k5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.569,
+          38.1888
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Capo d'Orlando",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ehdpr0efm6jt3c50bi1jj1cnq0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.531,
+          38.1868
+        ]
+      },
+      "properties": {
+        "name": "Capo d'Orlando - Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n8gdfbtisb34cisphakm4krmi5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.521,
+          38.1848
+        ]
+      },
+      "properties": {
+        "name": "Filicudi - Eolian Islands",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j3gv955o6l7trr87opdunpies1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.538,
+          38.1608
+        ]
+      },
+      "properties": {
+        "name": "Frazzan\u00f2 - Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kb4olukvoid9vp76urgr92o0n0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.544,
+          38.2018
+        ]
+      },
+      "properties": {
+        "name": "Giardini-Naxos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=r7mdgm6hicoivl7roocn0bhom6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.506,
+          38.2248
+        ]
+      },
+      "properties": {
+        "name": "Salina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=eu6s0sgj3ve72scvfc1kn1uur6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.524,
+          38.1638
+        ]
+      },
+      "properties": {
+        "name": "Salina - Rinella",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m29taclu6traerhutha89oaoj6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.511,
+          38.1618
+        ]
+      },
+      "properties": {
+        "name": "Island of Stromboli - Sicily",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lnvslalocmqsl487pg2auo9192",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.522,
+          38.2098
+        ]
+      },
+      "properties": {
+        "name": "Lipari - Castle",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m1edchl41k199pgq1d7po4s3g6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.507,
+          38.1658
+        ]
+      },
+      "properties": {
+        "name": "Lipari center - Aeolian Islands",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=607cb0v6ijdi7c0v7leahk7ht7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.537,
+          38.1578
+        ]
+      },
+      "properties": {
+        "name": "Lipari - Sicily",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=882kbb8dlinpae41no6ksser34",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.585,
+          38.2158
+        ]
+      },
+      "properties": {
+        "name": "Patti",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3kr8k6sqngu0vbggprh2ih2hj5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56,
+          38.2048
+        ]
+      },
+      "properties": {
+        "name": "Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=vka7huo6pefmd6epgohotd9987",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.567,
+          38.1768
+        ]
+      },
+      "properties": {
+        "name": "Weather Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v3pakrjr5nslo15r2aor37kaf6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.586,
+          38.1608
+        ]
+      },
+      "properties": {
+        "name": "Mirto",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ilovtaiut1dhm5t2s5ej3c7mq1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.597,
+          38.1698
+        ]
+      },
+      "properties": {
+        "name": "Panarea",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fmc6liklcadou441o0ua1ke276",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.508,
+          38.1768
+        ]
+      },
+      "properties": {
+        "name": "Panarea - Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=o9unnm51davm1u079c3jglr0n2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.542,
+          38.2258
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Messina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=42o9ol8sai67qjaad0ms641b03",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.549,
+          38.2278
+        ]
+      },
+      "properties": {
+        "name": "Patti Marina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=moe0vu3qvlgpv294ouehemtl86",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56,
+          38.1538
+        ]
+      },
+      "properties": {
+        "name": "Patti - Tindari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ogli1c2dlutcg1oqnf52t6p2g4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.583,
+          38.2188
+        ]
+      },
+      "properties": {
+        "name": "Port of Lipari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4dchoorronsi3bnlsot6o3mqf6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.583,
+          38.2168
+        ]
+      },
+      "properties": {
+        "name": "Rinella - Salina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lq7dmhcfmrediqj9aphugbud87",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.543,
+          38.1468
+        ]
+      },
+      "properties": {
+        "name": "Santa Margherita",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uedlgtplgbd4f68v9v18iit782",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.568,
+          38.2318
+        ]
+      },
+      "properties": {
+        "name": "Stromboli - Sicily",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sc1l8uue57v3vvhl14nid5gpf2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.542,
+          38.2388
+        ]
+      },
+      "properties": {
+        "name": "Taormina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8k3m9kjkemog6dd9h8r3f69g85",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.557,
+          38.1668
+        ]
+      },
+      "properties": {
+        "name": "Taormina - Mazzar\u00f2 Bay",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j9pkpf9dagafimokqqc7lmif67",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.514,
+          38.2218
+        ]
+      },
+      "properties": {
+        "name": "Vulcano - Gran Cratere della Fossa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=glnbjt64qh5ffaks9cjtnuo275",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3125,
+          38.1547
+        ]
+      },
+      "properties": {
+        "name": "Palermo - Addaura",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=vhfefrefqr4f7t2122i95om922",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4085,
+          38.0917
+        ]
+      },
+      "properties": {
+        "name": "Bay of Porticello",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6ba0g944fg13ldejdpt8e10df4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4045,
+          38.1137
+        ]
+      },
+      "properties": {
+        "name": "Palermo Cathedral",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2c32mk5tpqs43jueslh2qnmmn1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3625,
+          38.1397
+        ]
+      },
+      "properties": {
+        "name": "Cathedral Square in Cefal\u00f9",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j9va87hioi72jl97q4thobi6k2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3125,
+          38.1127
+        ]
+      },
+      "properties": {
+        "name": "Cefal\u00f9 Cathedral",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ju9abdntocc7iggn37rmubn4o6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3455,
+          38.0677
+        ]
+      },
+      "properties": {
+        "name": "Isola delle Femmine",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=98oue15v6c7r34ocahd0nedvh4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3235,
+          38.0907
+        ]
+      },
+      "properties": {
+        "name": "Island of Ustica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=aog050gpenk6beiue2n7ms8hj4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3725,
+          38.1107
+        ]
+      },
+      "properties": {
+        "name": "Mondello Square - Palermo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9vqknuohufmn9mdie4srnmn3p7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3995,
+          38.0927
+        ]
+      },
+      "properties": {
+        "name": "Harbour of Isola delle Femmine",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2fdbelhqiqmvpt7tp96pqcs9t4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3685,
+          38.1037
+        ]
+      },
+      "properties": {
+        "name": "Port of Palermo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sma6rk2vbali6ro0pqvnahora1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3125,
+          38.1427
+        ]
+      },
+      "properties": {
+        "name": "Santa Flavia - Palermo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ainfrn19g17pfe5udr91olid50",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4065,
+          38.0667
+        ]
+      },
+      "properties": {
+        "name": "Ustica - Cala S. Maria and Punta della Mezzaluna",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=933ju7dof24hm2rtcophld2m31",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3765,
+          38.1567
+        ]
+      },
+      "properties": {
+        "name": "Island of Ustica - Province of Palermo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=35i6mheksdegfpkin71res9k24",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2418,
+          43.7726
+        ]
+      },
+      "properties": {
+        "name": "Florence - Historic Center",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=311339uchpvn59n6mm4bobf5l5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2488,
+          43.7286
+        ]
+      },
+      "properties": {
+        "name": "Florence - Santa Maria Novella",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7fjddcomfiilthk2o8d47t0v57",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2698,
+          43.7396
+        ]
+      },
+      "properties": {
+        "name": "Florence - Lungarno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g8l72o0kt9i8voe3llkt4g79a7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2828,
+          43.7436
+        ]
+      },
+      "properties": {
+        "name": "Florence - Piazza del Duomo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=h6n4rbspa782np1loag7j1lc45",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2858,
+          43.7836
+        ]
+      },
+      "properties": {
+        "name": "Florence - Piazza della Signoria",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0qbrvtn55d9sok0qcl8cl9qti4",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2458,
+          43.8006
+        ]
+      },
+      "properties": {
+        "name": "Florence - Ponte Vecchio",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9vbgh4oi0rpsu5h8cb00t4lrv1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2468,
+          43.7276
+        ]
+      },
+      "properties": {
+        "name": "Ponte Vecchio - Lungarno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=u44u9a0p3vats9klt75ph63o27",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2656,
+          43.5875
+        ]
+      },
+      "properties": {
+        "name": "Castiglioncello - Livorno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ojd4ctmil6rnu0hc2lr29paik0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2676,
+          43.5205
+        ]
+      },
+      "properties": {
+        "name": "Harbour of Castiglioncello - Livorno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9rr9a0heov1rskp18sn4pcrv64",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2916,
+          43.5035
+        ]
+      },
+      "properties": {
+        "name": "Acqua Village in Cecina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lvnts9q9f5gu6ltddent0d4di7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3406,
+          43.5205
+        ]
+      },
+      "properties": {
+        "name": "Marina di Bibbona",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bfrmuud7qlpkib9lk4qqbcon90",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3396,
+          43.5655
+        ]
+      },
+      "properties": {
+        "name": "Passage to the sea in Rosignano Solvay",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m70er5002ep2onsmgtuf4d91b0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3295,
+          45.4208
+        ]
+      },
+      "properties": {
+        "name": "Venice - Grand Canal",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=08k7i8mboeq0g617seor0hasu2",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2935,
+          45.4698
+        ]
+      },
+      "properties": {
+        "name": "Rialto Bridge - Venice",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ojg4gv26g8l594j4i5be9kb00",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3045,
+          45.4868
+        ]
+      },
+      "properties": {
+        "name": "Caorle",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6qllj92jed8aijjnghpevtdeg6",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3455,
+          45.4778
+        ]
+      },
+      "properties": {
+        "name": "Caorle - Carved Cliff",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g6235t9jatojd4ifeoftp2mr83",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3565,
+          45.4018
+        ]
+      },
+      "properties": {
+        "name": "Jesolo - Beach of Piazza Mazzini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dn36p5mi4hgtp9l73kuu7gao35",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2715,
+          45.4408
+        ]
+      },
+      "properties": {
+        "name": "Jesolo Lido - Milano Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mvqvj1v2m7p9gt7klub6120ud5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3125,
+          45.4668
+        ]
+      },
+      "properties": {
+        "name": "Mestre - Venice",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3j38ths19b3nfal9v5i2r5djp5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3245,
+          45.4458
+        ]
+      },
+      "properties": {
+        "name": "Piazza San Marco - Venice",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5vtktgn924jtr03njr9srrhff1",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2995,
+          45.4358
+        ]
+      },
+      "properties": {
+        "name": "Venice - Calatrava Bridge",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=okgrka5q3ah0ab8e0mibkghmg0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2965,
+          45.3998
+        ]
+      },
+      "properties": {
+        "name": "Venice - Rialto Bridge",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=efi7o9s160m8nj4e32n4dac8s0",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3545,
+          45.4028
+        ]
+      },
+      "properties": {
+        "name": "Venice - Rio di Palazzo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3asfkis9d3lsd9u73inipepda7",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2805,
+          45.4578
+        ]
+      },
+      "properties": {
+        "name": "Venice - St. Mark's Basin, Riva degli Schiavoni",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=k2qell6gbmub5fa6gadv5jjna3",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2705,
+          45.4028
+        ]
+      },
+      "properties": {
+        "name": "Venice - St. Mark's Basin, San Giorgio Island",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gsuhmv277q8416iv3g9mufhd66",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3255,
+          45.4298
+        ]
+      },
+      "properties": {
+        "name": "Sottomarina di Chioggia - Venice",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=871sl7j93lq1d1a718sidq52p5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3225,
+          45.4178
+        ]
+      },
+      "properties": {
+        "name": "Venice - Sottomarina Lido di Chioggia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4tsvdtsb55653qv6mepm1emmp5",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3105,
+          45.4388
+        ]
+      },
+      "properties": {
+        "name": "Jesolo Beach - Venice",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=joqdb0rtct0ivl9os7vpk3be45",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3095,
+          45.4308
+        ]
+      },
+      "properties": {
+        "name": "Beach of Jesolo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dlee6vudck0r200etgc25sbj33",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.47715,
+          44.30905
+        ]
+      },
+      "properties": {
+        "name": "Albissola Marina resort",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Albissola_Marina_resort/index.m3u8?token=5b1fceed31638f53c0dba49f58d3d8ad%3A1773118505995",
+        "city": "",
+        "country_code": "IT",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.60933,
+          40.63617
+        ]
+      },
+      "properties": {
+        "name": "Amalfi Cathedral",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Atrani_Amalfi_Cathedral/index.m3u8?token=6973f6189fbf81b49bc2b614afa0959d%3A1773118462894",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24263,
+          40.55073
+        ]
+      },
+      "properties": {
+        "name": "Anacapri",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Anacapri_Capri/index.m3u8?token=e847a72dd78db2bd7fc4d0cf92688b13%3A1773118468701",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.68315,
+          44.40521
+        ]
+      },
+      "properties": {
+        "name": "Arenzano coast",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Arenzano_coast/index.m3u8?token=8d8e5b91ced45ad4afe39ca11057b54e%3A1773118516854",
+        "city": "",
+        "country_code": "IT",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.94611,
+          36.82836
+        ]
+      },
+      "properties": {
+        "name": "Barbacane Castle",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Pantelleria_Barbacane_Castle/index.m3u8?token=b37a7960884081743564463bf92ac164%3A1773118518825",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15487,
+          44.34945
+        ]
+      },
+      "properties": {
+        "name": "Camogli harbor",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Camogli_harbor/index.m3u8?token=78e0769e41adb5251a1137fabdc1dc2c%3A1773118464845",
+        "city": "",
+        "country_code": "IT",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8758,
+          45.59656
+        ]
+      },
+      "properties": {
+        "name": "Caorle sea promenade",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Caorle_sea_promenade/index.m3u8?token=ef4d1d29f42137ef9f06af054e235a4d%3A1773118486473",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.87746,
+          42.76854
+        ]
+      },
+      "properties": {
+        "name": "Castiglione della Pescaia beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Castiglione_della_Pescaia_beach/index.m3u8?token=76a573b21dfc8f7648dea56177f40ac0%3A1773118503229",
+        "city": "",
+        "country_code": "IT",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.74049,
+          37.62336
+        ]
+      },
+      "properties": {
+        "name": "Centuripe Etna view",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Centuripe/index.m3u8?token=99ec7d4ac0b868e0537ab832535661b5%3A1773118538062",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10565,
+          42.62569
+        ]
+      },
+      "properties": {
+        "name": "Civita di Bagnoregio",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Civita_di_Bagnoregio/index.m3u8?token=7c16b44fb9225e9656354fd5fc5e8681%3A1773118507846",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.51873,
+          41.50986
+        ]
+      },
+      "properties": {
+        "name": "Colle d\u2019Anchise panorama",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_ColledAnchise_panorama/index.m3u8?token=354398573a8c08b937225e4688cb93ad%3A1773118497469",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4964,
+          41.9028
+        ]
+      },
+      "properties": {
+        "name": "Colosseum",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Rome_Colosseum/index.m3u8?token=74cc284b11083d31724225c5050fb635%3A1773118470604",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.62057,
+          44.83804
+        ]
+      },
+      "properties": {
+        "name": "Ferrara beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Ferrara_beach/index.m3u8?token=a54f65bc18539f1b8bb32b62e6985848%3A1773118514465",
+        "city": "",
+        "country_code": "IT",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.04144,
+          44.22177
+        ]
+      },
+      "properties": {
+        "name": "Forl\u00ec",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Forli/index.m3u8?token=f6e18d06095322aa5d7119b78f65761c%3A1773118536178",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9463,
+          44.4056
+        ]
+      },
+      "properties": {
+        "name": "Genoa city view",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Genoa_city_view/index.m3u8?token=93eeb94e19041470f75f8220ee8a06c8%3A1773118482529",
+        "city": "",
+        "country_code": "IT",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10941,
+          42.76296
+        ]
+      },
+      "properties": {
+        "name": "Grosseto Cathedral",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Grosseto_Piazza_del_Duomo/index.m3u8?token=e4247fd0b8a7e1cf42f51cf65df860a7%3A1773118474343",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.10941,
+          42.76296
+        ]
+      },
+      "properties": {
+        "name": "Grosseto panorama",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Grosseto_pamoramic_view/index.m3u8?token=4c4a79461ce138c214574405b514f90e%3A1773118476339",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.23399,
+          41.59603
+        ]
+      },
+      "properties": {
+        "name": "Isernia city view",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Isernia_city_view/index.m3u8?token=e00a9a00c25e591d6593126e38d1a855:1773118926050",
+        "city": "",
+        "country_code": "IT",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.69805,
+          43.97714
+        ]
+      },
+      "properties": {
+        "name": "Misano Adriatico Beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Misano_Adriatico_beach/index.m3u8?token=e8e1e22036b1f31b0cdb45888476e7ca%3A1773118527797",
+        "city": "",
+        "country_code": "IT",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.92539,
+          44.64783
+        ]
+      },
+      "properties": {
+        "name": "Modena",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Modena/index.m3u8?token=79d3ef90ec50e9ce251796129bf3d738%3A1773118530060",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.26811,
+          40.85216
+        ]
+      },
+      "properties": {
+        "name": "Molo Beverello",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Molo_Beverello_Napoli/index.m3u8?token=504d21f20ca0a35ed0aa59734561e917%3A1773118480559",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65229,
+          43.54771
+        ]
+      },
+      "properties": {
+        "name": "Piazza Metteotti (Matteotti Square)",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Cagli_Piazza_Metteotti/index.m3u8?token=faf687fb1081ca7cae4f81b3b0588060%3A1773118525629",
+        "city": "",
+        "country_code": "IT",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.33064,
+          43.31822
+        ]
+      },
+      "properties": {
+        "name": "Piazza del Campo",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Siena_Piazza_del_Campo/index.m3u8?token=a925ee1fac2aac1e2bb952e621a94d34%3A1773118472355",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45293,
+          43.29789
+        ]
+      },
+      "properties": {
+        "name": "Piazza della Libert\u00e0",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Piazza_della_liberta_Macerata/index.m3u8?token=419274688d2f75099634461242d24df8%3A1773118509838",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56528,
+          44.05755
+        ]
+      },
+      "properties": {
+        "name": "Port of Rimini",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Port_of_Rimini/index.m3u8?token=3746830fbce9bb75d2af541bd8128c03%3A1773118478093",
+        "city": "",
+        "country_code": "IT",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.20942,
+          44.30349
+        ]
+      },
+      "properties": {
+        "name": "Portofino",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Portofino/index.m3u8?token=df09e1680b1559edb512d24ba7f8ecc7%3A1773118521136",
+        "city": "",
+        "country_code": "IT",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22796,
+          44.3496
+        ]
+      },
+      "properties": {
+        "name": "Rapallo",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Rapallo/index.m3u8?token=52bdefa13b3441044dbcc8f43c8087fb%3A1773118523426",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.65689,
+          43.99942
+        ]
+      },
+      "properties": {
+        "name": "Riccione beach panorama",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Riccione_beach_panorama/index.m3u8?token=68cca3a2809275c74d9d6f8ca7adb332%3A1773118499530",
+        "city": "",
+        "country_code": "IT",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.89505,
+          38.67449
+        ]
+      },
+      "properties": {
+        "name": "Tropea",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Tropea/index.m3u8?token=1218adcbe9a29d729ffe782b6e7ec86e%3A1773118534210",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68682,
+          45.07049
+        ]
+      },
+      "properties": {
+        "name": "Turin",
+        "url": "https://edge01.balticlivecam.com/blc/p_IT_Turin/index.m3u8?token=fa8ac2fb9a33a4aaf0f72f576abee738%3A1773118532306",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.33265,
+          45.43713
+        ]
+      },
+      "properties": {
+        "name": "View from hotel \u201cBel Sito\u201d",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_venecia_Bel_Sito_hotel/index.m3u8?token=69fb55e70dfdcb6a3099063d42119a30%3A1773118459281",
+        "city": "",
+        "country_code": "IT",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9630622,
+          40.8932368
+        ]
+      },
+      "properties": {
+        "name": "Ponza",
+        "url": "https://edge04.balticlivecam.com/blc/p_IT_Ponza_Latina/index.m3u8?token=ab741d9c30dd66a89b1a4d921df49202%3A1773118484213",
+        "city": "Ponza",
+        "country_code": "IT",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.58342,
+          54.17565
+        ]
+      },
+      "properties": {
+        "name": "KO\u0141OBRZEG - widok na pla\u017c\u0119 zachodni\u0105 NOWO\u015a\u0106",
+        "url": "https://imageserver.webcamera.pl/rec/zachodnia-plaza-kolobrzeg/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0621,
+          54.26086
+        ]
+      },
+      "properties": {
+        "name": "MIELNO - widok na promenad\u0119 NOWO\u015a\u0106",
+        "url": "https://imageserver.webcamera.pl/rec/mielno-promenada/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.80545,
+          54.0348
+        ]
+      },
+      "properties": {
+        "name": "DZIWN\u00d3WEK - widok na deptak NOWO\u015a\u0106",
+        "url": "https://imageserver.webcamera.pl/rec/dziwnowek-deptak/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.39465,
+          50.42769
+        ]
+      },
+      "properties": {
+        "name": "\u0141azy, widok na pla\u017c\u0119 i Morze Ba\u0142tyckie. Pla\u017ca w \u0141azach na \u017cywo",
+        "url": "https://imageserver.webcamera.pl/rec/widok-na-plaze-w-lazach/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Kamera Plac Wszystkich \u015awi\u0119tych w Krakowie",
+        "url": "https://imageserver.webcamera.pl/rec/krakow-plac-wszystkich-swietych/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47395,
+          51.77058
+        ]
+      },
+      "properties": {
+        "name": "Kamera \u0141\u00f3d\u017a - Manufaktura. \u0141\u00f3dzka Manufaktura live \u2013 sprawd\u017a, co si\u0119 dzieje",
+        "url": "https://imageserver.webcamera.pl/rec/lodz-manufaktura/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76728,
+          49.78498
+        ]
+      },
+      "properties": {
+        "name": "KAMERA PRZEMY\u015aL - widok na Plac Niepodleg\u0142o\u015bci NOWO\u015a\u0106",
+        "url": "https://imageserver.webcamera.pl/rec/przemysl-plac-niepodleglosci/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.40884,
+          54.1522
+        ]
+      },
+      "properties": {
+        "name": "Elbl\u0105g NOWO\u015a\u0106 - widok na rzek\u0119 i Bulwar Zygmunta Augusta",
+        "url": "https://imageserver.webcamera.pl/rec/elblag-bulwar-stare-miasto/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Krak\u00f3w - Zakole Wis\u0142y ogl\u0105daj na \u017cywo",
+        "url": "https://imageserver.webcamera.pl/rec/krakow2/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Krak\u00f3w kamera live WebCamera.pl ogl\u0105daj Webcam Main Square",
+        "url": "https://imageserver.webcamera.pl/rec/krakow-wentzl/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76728,
+          49.78498
+        ]
+      },
+      "properties": {
+        "name": "PRZEMY\u015aL - widok na rynek NOWO\u015a\u0106",
+        "url": "https://imageserver.webcamera.pl/rec/przemysl-rynek/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Kamera z widokiem na Now\u0105 Hut\u0119 w Krakowie",
+        "url": "https://imageserver.webcamera.pl/rec/krakow-nowa-huta/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.40884,
+          54.1522
+        ]
+      },
+      "properties": {
+        "name": "Kamera Elbl\u0105g - kamera na \u017cywo, widok na panoram\u0119 miasta",
+        "url": "https://imageserver.webcamera.pl/rec/miasto-elblag-panorama/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Krak\u00f3w - widok panoramiczny Nowo\u015b\u0107 WebCamera.pl",
+        "url": "https://imageserver.webcamera.pl/rec/krakow-mogilska-umk/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93658,
+          50.06143
+        ]
+      },
+      "properties": {
+        "name": "Krak\u00f3w - widok na ulic\u0119 Grodzk\u0105",
+        "url": "https://imageserver.webcamera.pl/rec/hotel-senacki-krakow/latest.mp4",
+        "city": "",
+        "country_code": "PL",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9445724,
+          50.0702739
+        ]
+      },
+      "properties": {
+        "name": "Krak\u00f3w kamera - widok na Rynek G\u0142\u00f3wny - Nowe uj\u0119cie",
+        "url": "https://imageserver.webcamera.pl/rec/krakow1/latest.mp4",
+        "city": "Krak\u00f3w",
+        "country_code": "PL",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9371069,
+          50.0615174
+        ]
+      },
+      "properties": {
+        "name": "Webcam Main Square, Krak\u00f3w - Online Live Cam WebCamera.pl",
+        "url": "https://imageserver.webcamera.pl/rec/krakow4/latest.mp4",
+        "city": "Krak\u00f3w",
+        "country_code": "PL",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

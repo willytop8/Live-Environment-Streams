@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13348,
+          -40.57395
+        ]
+      },
+      "properties": {
+        "name": "Plaza de Armas",
+        "url": "https://edge01.balticlivecam.com/blc/p_CL_Osorno_Plaza_de_Armas/index.m3u8?token=3b4b607933d7e66420d8e51fa9e30b56%3A1773118599037",
+        "city": "",
+        "country_code": "CL",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6693,
+          -33.4489
+        ]
+      },
+      "properties": {
+        "name": "Santiago del Estero",
+        "url": "https://edge04.balticlivecam.com/blc/p_AR_Santiago_del_Estero/index.m3u8?token=cf5f3adeab91ac8b8d10beaa7b7ab5d5%3A1773118537013",
+        "city": "",
+        "country_code": "CL",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

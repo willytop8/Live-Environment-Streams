@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5562,
+          -38.00042
+        ]
+      },
+      "properties": {
+        "name": "La perla beach",
+        "url": "https://edge01.balticlivecam.com/blc/p_AR_Mar_de_la_plata_La_Perla_beach/index.m3u8?token=111d4620a9ed35ad734e04d774dad278%3A1773118534763",
+        "city": "",
+        "country_code": "AR",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

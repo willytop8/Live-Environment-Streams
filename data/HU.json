@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      },
+      "properties": {
+        "name": "Hungarian Parliament Building",
+        "url": "https://edge01.balticlivecam.com/blc/p_HU_Budapest/index.m3u8?token=11fe633dc6f83a87ed1966103962328a%3A1773118413837",
+        "city": "",
+        "country_code": "HU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.24317,
+          46.76812
+        ]
+      },
+      "properties": {
+        "name": "Keszthely Main Square",
+        "url": "https://edge04.balticlivecam.com/blc/p_HUN_Keszthely_main_square/index.m3u8?token=ad64121fb66fb23113e06979459b3fef%3A1773118417810",
+        "city": "",
+        "country_code": "HU",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.07561,
+          47.66943
+        ]
+      },
+      "properties": {
+        "name": "Main Square",
+        "url": "https://edge04.balticlivecam.com/blc/p_HUN_Szentendre_Main_Square/index.m3u8?token=57ca80d07e3ca8b0d15a3636cb833ecc%3A1773118415586",
+        "city": "",
+        "country_code": "HU",
+        "environment": "street",
+        "timezone": ""
+      }
+    }
+  ]
+}

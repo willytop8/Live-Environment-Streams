@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40829,
+          19.74982
+        ]
+      },
+      "properties": {
+        "name": "Villa Taina beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_DO_Villa_Taina/index.m3u8?token=8f93550d4e1a75e070483e4076e9fd55:1773119080713",
+        "city": "",
+        "country_code": "DO",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

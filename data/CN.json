@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06667,
+          30.66667
+        ]
+      },
+      "properties": {
+        "name": "Anshun Bridge",
+        "url": "https://edge04.balticlivecam.com/blc/p_CN_Anshun_Bridge_Chengdu/index.m3u8?token=0bcb078e52ee70a1413106e875e70df5%3A1773118600986",
+        "city": "",
+        "country_code": "CN",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

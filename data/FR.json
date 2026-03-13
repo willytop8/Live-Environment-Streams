@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77,
+          48.67
+        ]
+      },
+      "properties": {
+        "name": "Lac du Bourget - Aix-les-Bains",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ta4b6nj9ve2md89ic68dkurg56",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37,
+          48.08
+        ]
+      },
+      "properties": {
+        "name": "Aix-les-Bains - Lake Bourget",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=btdfvqt7d556aev3iovirjt2j3",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24,
+          49.55
+        ]
+      },
+      "properties": {
+        "name": "Arbusigny - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=h9gmu1uu0bskin8nfmp51alt40",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.79,
+          48.29
+        ]
+      },
+      "properties": {
+        "name": "Lake Annecy - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=btj8a1kve0j7debg37n2vhemf0",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.78,
+          48.92
+        ]
+      },
+      "properties": {
+        "name": "Le Mont-Dore - Sommet de Sancy",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=agoqcqbfggbc32du8btc3o84f1",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08,
+          48.64
+        ]
+      },
+      "properties": {
+        "name": "Vallorcine - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ilqi21dpqungprh7emfg67lha5",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49,
+          48.86
+        ]
+      },
+      "properties": {
+        "name": "Porto-Vecchio - Folacca Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kn63iutqe6q4oniau9rsbg53t1",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36,
+          47.83
+        ]
+      },
+      "properties": {
+        "name": "La Rochelle - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=al3cvka28cpha05fajtcdpb737",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.82,
+          49.14
+        ]
+      },
+      "properties": {
+        "name": "Royan - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ss7f9fjhjob98evt62e7g0c6s7",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.46,
+          48.8
+        ]
+      },
+      "properties": {
+        "name": "Collioure - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ag93cboiv7s8o2upf308mr2ds5",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69,
+          47.86
+        ]
+      },
+      "properties": {
+        "name": "S\u00e8te - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nf61kmvirgoe1ie3an8v1mj956",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87,
+          48.26
+        ]
+      },
+      "properties": {
+        "name": "Fr\u00e9jus Beach - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=iugokn7p23l88na27p01d8lv35",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3258,
+          43.3325
+        ]
+      },
+      "properties": {
+        "name": "Marseille - Massif des Calanques",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7750tjng3egg6jfeipah840mq4",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12807,
+          50.98651
+        ]
+      },
+      "properties": {
+        "name": "Gravelines",
+        "url": "https://edge01.balticlivecam.com/blc/p_FR_Gravelines/index.m3u8?token=5a05965ca9b9dd981613aa7916f7c715%3A1773118682934",
+        "city": "",
+        "country_code": "FR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.2120555,
+          46.8374544
+        ]
+      },
+      "properties": {
+        "name": "Saint Pierre and Miquelon",
+        "url": "https://edge04.balticlivecam.com/blc/p_FR_Saint-PIerre_and_Miquelon/index.m3u8?token=00281061b6a2227ef77b2ffbcbbd0a86%3A1773118679331",
+        "city": "",
+        "country_code": "FR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

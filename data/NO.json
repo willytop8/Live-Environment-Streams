@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3221,
+          60.3913
+        ]
+      },
+      "properties": {
+        "name": "Bergen Harbor",
+        "url": "https://www.youtube.com/watch?v=9Cqk4Nh0hNw",
+        "city": "",
+        "country_code": "NO",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "name": "Oslo City",
+        "url": "https://www.youtube.com/watch?v=Hn8L5qYpqPQ",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9553,
+          69.6492
+        ]
+      },
+      "properties": {
+        "name": "Troms\u00f8 Northern Lights",
+        "url": "https://www.youtube.com/watch?v=7xH7eGFuSYU",
+        "city": "",
+        "country_code": "NO",
+        "environment": "nature",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - S\u00f8rv\u00e5gen Live cam",
+        "url": "livee.m3u8?a=jrqr0oafiulfieh0oo7uk4v056",
+        "city": "",
+        "country_code": "NO",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Reinefjord Live cam",
+        "url": "livee.m3u8?a=9tkb8b7irfvmsve6pvv2il35f0",
+        "city": "",
+        "country_code": "NO",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord - Norway Live cam",
+        "url": "livee.m3u8?a=0lv9ns6p5jvce1iq805otghno2",
+        "city": "",
+        "country_code": "NO",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Henningsv\u00e6r Live cam",
+        "url": "livee.m3u8?a=dabhv6l889622og7ukrrprr8l6",
+        "city": "",
+        "country_code": "NO",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Troms\u00f8 - Norway Live cam",
+        "url": "livee.m3u8?a=vt62irft10f7sjb4edlp160at0",
+        "city": "",
+        "country_code": "NO",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24,
+          60.56
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Hamn\u00f8y",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4ifi9dfjm76pc2meg613eph8l2",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31,
+          59.69
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Henningsv\u00e6r",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7sruvomamc0uqtah2m8bk4cti0",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89,
+          60.32
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Reinefjord",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0lbe91l2djsbivo4jvgpqsloj6",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24,
+          61.0
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - S\u00f8rv\u00e5gen",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=drlc5uipoc0pv6sn1mastmgfk2",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73,
+          60.46
+        ]
+      },
+      "properties": {
+        "name": "Silsand - Senja",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3obnbusquv81qj0jar7thd7ku1",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9353,
+          69.6852
+        ]
+      },
+      "properties": {
+        "name": "Troms\u00f8 - Norway",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4sa6io3i0rk309mh2gjlqu9ln3",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1966,
+          59.1384
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord - Norway",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2kbufnekv234fugas12qi37j05",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3611,
+          60.4373
+        ]
+      },
+      "properties": {
+        "name": "Bergen",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bd6att371venlq7jdmf76h7ho0",
+        "city": "",
+        "country_code": "NO",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

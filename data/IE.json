@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603,
+          53.3498
+        ]
+      },
+      "properties": {
+        "name": "Dublin City Centre",
+        "url": "https://www.youtube.com/watch?v=AdUw5RdyZxI",
+        "city": "",
+        "country_code": "IE",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0568,
+          53.2707
+        ]
+      },
+      "properties": {
+        "name": "Galway Bay",
+        "url": "https://www.youtube.com/watch?v=Gxl7rbzNoc4",
+        "city": "",
+        "country_code": "IE",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4756,
+          51.8985
+        ]
+      },
+      "properties": {
+        "name": "Cork City",
+        "url": "https://www.youtube.com/watch?v=kLwGv9V1rVE",
+        "city": "",
+        "country_code": "IE",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.6921,
+          53.1424
+        ]
+      },
+      "properties": {
+        "name": "Kerry Live cam",
+        "url": "livee.m3u8?a=6c65c1mu3b70apj2asu95c1hv3",
+        "city": "",
+        "country_code": "IE",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.84,
+          52.39
+        ]
+      },
+      "properties": {
+        "name": "Kerry",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=638np4ksdl2f0tq9iaoknbs9o5",
+        "city": "",
+        "country_code": "IE",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.62861,
+          53.09806
+        ]
+      },
+      "properties": {
+        "name": "View of Galway bay",
+        "url": "https://edge04.balticlivecam.com/blc/p_IRL_Aran_Islands_view_of_Galway_bay/index.m3u8?token=28c4599e8bf29fd36b2251a948f6b9a1%3A1773118452109",
+        "city": "",
+        "country_code": "IE",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.505322,
+          52.0595746
+        ]
+      },
+      "properties": {
+        "name": "Killarney",
+        "url": "https://edge04.balticlivecam.com/blc/p_IRL_Killarney/index.m3u8?token=53629cc3c2b3ed28c0056d06e3f407fd%3A1773118449974",
+        "city": "Killarney",
+        "country_code": "IE",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

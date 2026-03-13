@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54577,
+          50.32717
+        ]
+      },
+      "properties": {
+        "name": "Freedom Square",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Zatec_Freedom_Square/index.m3u8?token=cd57c8f62dcdf799efdb8ed024caa2dc%3A1773118628770",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.43688,
+          49.77984
+        ]
+      },
+      "properties": {
+        "name": "Hav\u00ed\u0159ov view",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Havirov_view/index.m3u8?token=4c2d5891e0c36f5cf9f9e235b9582e2f%3A1773118620307",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26667,
+          50.38333
+        ]
+      },
+      "properties": {
+        "name": "Historic center of Kada\u0148",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Kadan_historic_center/index.m3u8?token=8bd6b4e4c494daeac976737a4ba38443%3A1773118623807",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.76458,
+          49.57672
+        ]
+      },
+      "properties": {
+        "name": "Jablunkov city view",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Jablunkov_city_view/index.m3u8?token=d85a210f5318312d5434130be13cfbf3%3A1773118622106",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26667,
+          50.38333
+        ]
+      },
+      "properties": {
+        "name": "Kada\u0148 castle",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Kadan_castle/index.m3u8?token=27433d711f062181156173e830625659%3A1773118625445",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.54169,
+          49.854
+        ]
+      },
+      "properties": {
+        "name": "Karvin\u00e1 city view",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Karvina_city_view/index.m3u8?token=453a5e59eb64658c2065329b48c15c5f%3A1773118635285",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.43357,
+          50.72561
+        ]
+      },
+      "properties": {
+        "name": "Rokytnice nad Jizerou town view",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Rokytnice_nad_Jizerou/index.m3u8?token=40a74c430459e3a589a64cffe8ec8521%3A1773118632058",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67078,
+          49.67763
+        ]
+      },
+      "properties": {
+        "name": "T\u0159inec panorama",
+        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Trinec_panorama/index.m3u8?token=1e754e69ae5a907c2d4f0f21de0c3f38%3A1773118627005",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.47434,
+          48.97447
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e9 Bud\u011bjovice Town Hall",
+        "url": "https://edge04.balticlivecam.com/blc/p_CZ_Town_hall_Ceske_budejovice/index.m3u8?token=62762569566d185a1ecffd8ec947cbc8%3A1773118618760",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.47434,
+          48.97447
+        ]
+      },
+      "properties": {
+        "name": "\u010cesk\u00e9 Bud\u011bjovice panorama",
+        "url": "https://edge04.balticlivecam.com/blc/p_CZ_Ceske_Budejovice_city/index.m3u8?token=10419449df3cad16123e3aa6d89bd786%3A1773118616413",
+        "city": "",
+        "country_code": "CZ",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

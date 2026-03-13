@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.02488,
+          32.61603
+        ]
+      },
+      "properties": {
+        "name": "Al Abbas Mosque",
+        "url": "https://edge04.balticlivecam.com/blc/p_IQ_Al_Abbas_Mosque_Karbala/index.m3u8?token=afe303c3acf2b8a6f4d80730e8af7a84%3A1773118431324",
+        "city": "",
+        "country_code": "IQ",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

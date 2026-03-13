@@ -1,0 +1,3731 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81,
+          37.75
+        ]
+      },
+      "properties": {
+        "name": "Acharnae",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mklroq5fh5hkcdrtfc3e216sg1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76,
+          38.02
+        ]
+      },
+      "properties": {
+        "name": "The Acropolis of Athens - The Parthenon",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lvl5iosrdgrv4893mvrk2vj1n7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.21,
+          38.04
+        ]
+      },
+      "properties": {
+        "name": "The legendary Acropolis - Athens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6vnpeeh6ha0vtj8btkgn3fjk80",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          38.33
+        ]
+      },
+      "properties": {
+        "name": "The Parthenon - Acropolis",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=oh1vb1cupgm14ql2f09f9eio11",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.08,
+          36.9
+        ]
+      },
+      "properties": {
+        "name": "Athens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=50c3rpkmvtbic6pr9lq92ba040",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          37.15
+        ]
+      },
+      "properties": {
+        "name": "Athens-Thessaloniki Motorway",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jtmppi5m7mlnjp6me3bg1922j6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.55,
+          37.57
+        ]
+      },
+      "properties": {
+        "name": "Ermou Street and Syntagma Square in Athens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gvd7n70io2315h2ph86dd3d1k4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.05,
+          38.03
+        ]
+      },
+      "properties": {
+        "name": "Hellenic Parliament - Athens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=563bscbn1cb3usvfrtdtsenso5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.06,
+          38.57
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Acharnae",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qtn6v6hsa6l8lpkps4fqlgnqo3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.15,
+          38.38
+        ]
+      },
+      "properties": {
+        "name": "Porto Rafti - Athens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=k45e3k6vhebvd4eaumc7r7utj2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41,
+          37.53
+        ]
+      },
+      "properties": {
+        "name": "Piraeus - Attica",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ib4v6oi57766lhe658p0cbjef5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.92,
+          38.53
+        ]
+      },
+      "properties": {
+        "name": "Port of Piraeus",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2emfomtcaadovc1tol5n5mlac0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26,
+          37.83
+        ]
+      },
+      "properties": {
+        "name": "Granitsa - Evrytania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7utvu9vg5lnrdeurk1f5qcklb4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1,
+          38.75
+        ]
+      },
+      "properties": {
+        "name": "Agios Nikolaos - Evrytania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7q7ppimd8ps5kgdcgbp42trth4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.51,
+          38.01
+        ]
+      },
+      "properties": {
+        "name": "Phocis - Mountains",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dcpcukp7fb9ml5ffm9j605tee0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.83,
+          36.98
+        ]
+      },
+      "properties": {
+        "name": "Stilia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v7mbj63mdmhd447ao2nup7vuf2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51,
+          37.69
+        ]
+      },
+      "properties": {
+        "name": "Port of Skyros",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=46s217nfn62j3d4ic7hgefmes3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.007,
+          35.4928
+        ]
+      },
+      "properties": {
+        "name": "Agia Marina - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4lf0anqggpv596c20jg9mk4ba0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.97,
+          35.4678
+        ]
+      },
+      "properties": {
+        "name": "Agia Roumeli Sfakia - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0g4ecagqool5ih9ibg5n6tij66",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.057,
+          35.5588
+        ]
+      },
+      "properties": {
+        "name": "Crete - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1egabnt3o5399ae0gphuj5qon0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.038,
+          35.5198
+        ]
+      },
+      "properties": {
+        "name": "Daratsos - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3dts9v8qlqploripl1lkcs94j2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.034,
+          35.4808
+        ]
+      },
+      "properties": {
+        "name": "Georgioupoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=87adpgd98ncl16k58att4nloa0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.999,
+          35.5488
+        ]
+      },
+      "properties": {
+        "name": "Port of Hora Sfakion - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=c9hfnr04giu371hb2ug9o1feu0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.996,
+          35.5418
+        ]
+      },
+      "properties": {
+        "name": "Kantanos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gku3po6fgjk7bvre1pv41k0ss0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.973,
+          35.4718
+        ]
+      },
+      "properties": {
+        "name": "Kastri - Gavdos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g1tmj2ug8p1bd0n0qjoedtej90",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.007,
+          35.5378
+        ]
+      },
+      "properties": {
+        "name": "Kato Stalos - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=82ukkcqe6atd2ld40k2uv8t9t2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018,
+          35.5238
+        ]
+      },
+      "properties": {
+        "name": "Kato Stalos - Agia Marina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=u2mfobuolaoofoa1021g9qcod5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03,
+          35.5348
+        ]
+      },
+      "properties": {
+        "name": "Kolymbari - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8on130e0a9tp1dia2bmf0rl3r1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.036,
+          35.5218
+        ]
+      },
+      "properties": {
+        "name": "Loutro Sfakia - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6l8rps92s8ktqlhogeji0epao0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.999,
+          35.5148
+        ]
+      },
+      "properties": {
+        "name": "Old Port of Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8174upls8hq9pntaq6edp0gkn6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.022,
+          35.4708
+        ]
+      },
+      "properties": {
+        "name": "Omalos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0phml2e2k9n4ijp161v5fp83u3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.06,
+          35.5128
+        ]
+      },
+      "properties": {
+        "name": "Palea Roumata - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9uvpinfdcbekc8v8suna02guh7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.029,
+          35.5178
+        ]
+      },
+      "properties": {
+        "name": "Paleochora - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hhoufahvr6p12ts39v4m4qc6g1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.022,
+          35.5088
+        ]
+      },
+      "properties": {
+        "name": "Paleochora - Pachia Ammos Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ol69n43ard9pk16e4lsgk3hph6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.986,
+          35.5438
+        ]
+      },
+      "properties": {
+        "name": "Paleochora - Pachia Ammos Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=o984g43e8171j996lsus337f13",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.994,
+          35.5518
+        ]
+      },
+      "properties": {
+        "name": "Panorama Paleochora",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=eqqvukptc6t4766e1n7p96frh6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.008,
+          35.5158
+        ]
+      },
+      "properties": {
+        "name": "Port of Gavdos - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8qk4clhg9mp6e2nfqki9u9evt2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.994,
+          35.5538
+        ]
+      },
+      "properties": {
+        "name": "Vamos - Chania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nk4v62pf5tuu2sairg2nvmg770",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.001,
+          35.5128
+        ]
+      },
+      "properties": {
+        "name": "Chania - Old Venetian Harbor",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=t054ab8hrqk77gm8slf91t31d3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1342,
+          35.3827
+        ]
+      },
+      "properties": {
+        "name": "Agia Varvara - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hlofh1d63vsqfh987hkqhtmf91",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1552,
+          35.2947
+        ]
+      },
+      "properties": {
+        "name": "Agioi Deka - Gortyna",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=khjuhd89aiueulh2jrhphi5pu1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1202,
+          35.3567
+        ]
+      },
+      "properties": {
+        "name": "Amira - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6h7nng9abnlgjch0mvcqrq8d23",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1442,
+          35.2937
+        ]
+      },
+      "properties": {
+        "name": "Arvi - Viannos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b59lrpks98i3cr9n8gobp2in91",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1112,
+          35.2997
+        ]
+      },
+      "properties": {
+        "name": "Asimi - Monofatsi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nafj8mq2ja7gc8soob2ag4nkd7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1882,
+          35.3857
+        ]
+      },
+      "properties": {
+        "name": "Chondros - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=csfjeh71lo5mvtgbpqniubrn97",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1362,
+          35.3537
+        ]
+      },
+      "properties": {
+        "name": "Daru - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=urmkttcn9cj6ou78gmqe8ifcr4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1092,
+          35.3757
+        ]
+      },
+      "properties": {
+        "name": "Emparos - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=camt9l5u2qvlbm4cs109lu8jt7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1602,
+          35.3797
+        ]
+      },
+      "properties": {
+        "name": "Fodele - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gaohdbacv8ifrncoh5mvf26os6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1672,
+          35.2907
+        ]
+      },
+      "properties": {
+        "name": "Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=et9r8tvjco519vsipgfr8e15m7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1442,
+          35.3827
+        ]
+      },
+      "properties": {
+        "name": "Kalamaki - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=t3c0ijducom24vn56tdde0lel2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1452,
+          35.3517
+        ]
+      },
+      "properties": {
+        "name": "Kato Asites - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3mo0tat07lrn2qo2s8t130e9i2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1122,
+          35.3627
+        ]
+      },
+      "properties": {
+        "name": "Koutouloufari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tpodhd9q57bo97vvp7eb6b4lh5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1162,
+          35.3867
+        ]
+      },
+      "properties": {
+        "name": "Krousonas - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s07slel0n9cj976chsut7pofl2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1362,
+          35.3487
+        ]
+      },
+      "properties": {
+        "name": "Lentas - Petrakis Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nehmh27obo536v00otu81mhe62",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1082,
+          35.3077
+        ]
+      },
+      "properties": {
+        "name": "Martha - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=75a9hao42jdlsm3le8mjlq7sm0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1542,
+          35.3267
+        ]
+      },
+      "properties": {
+        "name": "Mathi\u00e1 - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fv109ls38i8iohsr70gvq47b62",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1252,
+          35.3447
+        ]
+      },
+      "properties": {
+        "name": "Mesochori - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=smb6vcangllbg1a9lp9mujdpe0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1932,
+          35.3617
+        ]
+      },
+      "properties": {
+        "name": "Mesochori\u00f3 - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bk7pin7qtejtkcacj2l4d7uar2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1862,
+          35.2907
+        ]
+      },
+      "properties": {
+        "name": "Mohos - Hersonissos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5r6unp0ph24nldl4gflvrgu113",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1392,
+          35.3677
+        ]
+      },
+      "properties": {
+        "name": "Moires - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5u39448g4fvj7n9hq2p90l0a54",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1802,
+          35.3107
+        ]
+      },
+      "properties": {
+        "name": "Panasos - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=l90seohj7vgfo2ith6usaaikj6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1892,
+          35.3207
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Gergeri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sp1godv2bnh4p83j0n92kaehg6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1772,
+          35.3077
+        ]
+      },
+      "properties": {
+        "name": "Port of Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0gem9aibscmik9u5psai6060v2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1312,
+          35.3727
+        ]
+      },
+      "properties": {
+        "name": "Prophet Elias - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=oel8iddep9no99aprbob4mdn05",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1932,
+          35.3607
+        ]
+      },
+      "properties": {
+        "name": "Psari Forada - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=98rsmdh65nkb038kcdrjc619e3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1022,
+          35.3047
+        ]
+      },
+      "properties": {
+        "name": "Pyrgos Monofatsiou - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gov1rn452hbghuraqq63s7ir80",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1062,
+          35.3647
+        ]
+      },
+      "properties": {
+        "name": "Sidonia Beach - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2obansjkl2d6larerpuaug1du4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1062,
+          35.3637
+        ]
+      },
+      "properties": {
+        "name": "Tris Ekklisies - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ki24qdt53k8j5d0hvat35g1db4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1282,
+          35.3127
+        ]
+      },
+      "properties": {
+        "name": "Kolovrechtis Beach - Tris Ekklisies - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=saq5nf5ilihto72ps37tjv3ac3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1272,
+          35.3477
+        ]
+      },
+      "properties": {
+        "name": "Tsoutsouros",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2a1icifgp77r1k8q3bba55sl75",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1672,
+          35.2937
+        ]
+      },
+      "properties": {
+        "name": "Tympaki - Phaistos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kgq9l2fgp3ojhgeefib12qc4j3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1362,
+          35.3487
+        ]
+      },
+      "properties": {
+        "name": "Venerato - Koudouni",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b16hua7201hq8at4rnale4nlc0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1332,
+          35.3037
+        ]
+      },
+      "properties": {
+        "name": "Viannos - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=13ftronti58totet83f12e4ll6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0972,
+          35.3347
+        ]
+      },
+      "properties": {
+        "name": "Weather in Mesochori",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lcu772jnv32djeh12lu81ktsn3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1652,
+          35.3797
+        ]
+      },
+      "properties": {
+        "name": "Zaros - Heraklion",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d0er754saqoeo64tl2qi2bs3u2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65,
+          38.4
+        ]
+      },
+      "properties": {
+        "name": "Agios Nikolaos - Almyros Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5m94jmmlnn7ll42utej26jm943",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75,
+          38.18
+        ]
+      },
+      "properties": {
+        "name": "Agios Nikolaos - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=55j535jvhi8p1n3qbgjnbi16k3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19,
+          38.78
+        ]
+      },
+      "properties": {
+        "name": "Agios Nikolaos - Kitroplatia Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2g56cvve6oilr9315q3e951g81",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5,
+          38.02
+        ]
+      },
+      "properties": {
+        "name": "Agios Nikolaos - Schisma Eloundas Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rtkhn3tr9pqn0lopg63d520tb1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72,
+          38.37
+        ]
+      },
+      "properties": {
+        "name": "Dafni - Sitia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=17ehcmqtm1b8r7vujvc09rr4p5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.16,
+          38.35
+        ]
+      },
+      "properties": {
+        "name": "Exo Mouliana - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v39s0rfj185kc2rfccdbo3quh2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.96,
+          38.56
+        ]
+      },
+      "properties": {
+        "name": "Greek Mythology Thematic Park",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=631ma9qma1ifgn8urq7s2g3uq6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.62,
+          38.46
+        ]
+      },
+      "properties": {
+        "name": "Kalo Chorio - Beach of Agios Panteleimonas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9q575m3ijpe4gq6isotm5jfd13",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69,
+          38.5
+        ]
+      },
+      "properties": {
+        "name": "Lake Agios Nikolaos - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lnn3j27se2idifa73ebd5n3nj2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.47,
+          38.22
+        ]
+      },
+      "properties": {
+        "name": "Makry Gialos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pn9tsf5jlqfijrkpvjrm5dacm2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2,
+          37.34
+        ]
+      },
+      "properties": {
+        "name": "Marina of Agios Nikolaos - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rss08hf8io87ct5odi0fhi2g77",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.07,
+          36.97
+        ]
+      },
+      "properties": {
+        "name": "Lasithi - Mount Dikti",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uin2a56nr5igmsgkdvp3t99hh5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.36,
+          38.78
+        ]
+      },
+      "properties": {
+        "name": "Neapoli",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3m5b5o4pvu8tbetoehe2cgm7o1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56,
+          37.1
+        ]
+      },
+      "properties": {
+        "name": "Patsos Peak - Dafni - Lasithi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=o9hnh9eccpc9o8ahce2alpsjd5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57,
+          37.94
+        ]
+      },
+      "properties": {
+        "name": "Lasithi Plateau",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bjklmqqqg5fg2necc4e74vksv2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.17,
+          37.26
+        ]
+      },
+      "properties": {
+        "name": "Selakano - Ierapetra",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d4hharh99vvtj3n6l5psepvdi5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.03,
+          37.11
+        ]
+      },
+      "properties": {
+        "name": "Sitia harbour - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mfruk7jm9vtdpn43h7v3ghbmk7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61,
+          37.6
+        ]
+      },
+      "properties": {
+        "name": "Spinalonga - Lasithi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7qqsbqejh3pfh7mrhdpto9rps2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.71,
+          37.84
+        ]
+      },
+      "properties": {
+        "name": "Tzermiado",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hj90fhdmi8shddk4akpob68dl2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.46,
+          37.21
+        ]
+      },
+      "properties": {
+        "name": "Vai Beach - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d87r8hm2n0a4eknrn4t67hfpi4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.14,
+          37.97
+        ]
+      },
+      "properties": {
+        "name": "Zakros - Lasithi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lo0di3gd4o6en8qvr1h7n8tan6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.43,
+          37.3
+        ]
+      },
+      "properties": {
+        "name": "Ziros - Lasithi",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p15495jfrtidag3rkbn6sctgo4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          37.5
+        ]
+      },
+      "properties": {
+        "name": "Anogia - Mount Psiloritis",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=k6es8j26d7ci9u2kg2suoloje3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.13,
+          37.92
+        ]
+      },
+      "properties": {
+        "name": "Bali - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dvt5te6vg5qncdo3mggn6buiu6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.68,
+          38.12
+        ]
+      },
+      "properties": {
+        "name": "Reef diving, Karavostasi Bay - Bali",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0l519j2lubda7a679jdd6sf1v0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          36.93
+        ]
+      },
+      "properties": {
+        "name": "Rethymno - Chalepa Monastery",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=80shieek9020pgl8q8fp3jjnh1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33,
+          36.9
+        ]
+      },
+      "properties": {
+        "name": "Furfuras",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bffe9enigfi7l80psqg091ob40",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85,
+          37.71
+        ]
+      },
+      "properties": {
+        "name": "Underwater cam in Karavostasi - Crete",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g636pideo3q7nf4jeorksfqc83",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76,
+          38.77
+        ]
+      },
+      "properties": {
+        "name": "Kryon\u00e9ri Mylopotamos - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2hemvj6gnepc1bgn5tce0hbv40",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.29,
+          38.36
+        ]
+      },
+      "properties": {
+        "name": "Livadi Beach - Bali",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bdraehj5ug9vs6dhb335pi6hs6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          38.25
+        ]
+      },
+      "properties": {
+        "name": "Mikra Anogia - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=asj619bhnt19oaait71h5178c2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.43,
+          37.62
+        ]
+      },
+      "properties": {
+        "name": "Sellianos Plakias - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rlfoq1cvuh5ia7tmqfb16elgl7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5,
+          36.92
+        ]
+      },
+      "properties": {
+        "name": "Platanos Amariou",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ss9ofga1tmcefulgjvildthth1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.27,
+          37.96
+        ]
+      },
+      "properties": {
+        "name": "Souda Beach - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6lmg47siqsa80r8effuk0dqf82",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.75,
+          37.42
+        ]
+      },
+      "properties": {
+        "name": "Spili - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ldu6v4bl4r5pj82jg94pft3b72",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.17,
+          37.37
+        ]
+      },
+      "properties": {
+        "name": "Talean Mountains - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2b6mdjofs86fos1si55j4guql2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66,
+          37.0
+        ]
+      },
+      "properties": {
+        "name": "Vistagi - Amari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=rhh74jiqd2ejmmhndoq8ircm67",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43,
+          36.9
+        ]
+      },
+      "properties": {
+        "name": "Weather in Aggeliana - Rethymno",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0t2e05em7s92klv6use9elu7l0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.98,
+          37.84
+        ]
+      },
+      "properties": {
+        "name": "Potos - Thasos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2tkumc239n58ds672sdo2unds6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.93,
+          37.83
+        ]
+      },
+      "properties": {
+        "name": "Ioannina - Central Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n46ne6fdmirqmov0171m5ie4t6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85,
+          37.61
+        ]
+      },
+      "properties": {
+        "name": "Anthousa - Parga",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8f0dnfnqmjhk2lfmh5l9pnkqb3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.43,
+          37.33
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Parga - Preveza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=taul19dfi4reovl8d02tkvkim0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.63,
+          37.82
+        ]
+      },
+      "properties": {
+        "name": "Parga - Preveza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=59p4jeiiprrltq8kcovci1blr1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.05,
+          36.96
+        ]
+      },
+      "properties": {
+        "name": "Acharavi Beach - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=klnkscjohoe3j5ppvejhljf6j0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32,
+          37.39
+        ]
+      },
+      "properties": {
+        "name": "Afionas - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=493rrtgp7d1uja4qhn4rojcm36",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.37,
+          37.02
+        ]
+      },
+      "properties": {
+        "name": "Arillas - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lo1v9mamavkustq089uhvc00e6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41,
+          37.44
+        ]
+      },
+      "properties": {
+        "name": "Corfu - Sidari",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dnocpss7h0p6ekr0ohccdh6pe4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.33,
+          37.02
+        ]
+      },
+      "properties": {
+        "name": "Kalami - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tjh56p8gd92h2949q7jh1pqan6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47,
+          38.72
+        ]
+      },
+      "properties": {
+        "name": "Kanoni - Corfu Airstrip",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mme39jronlsj2cbo8ig10h4n31",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.96,
+          38.45
+        ]
+      },
+      "properties": {
+        "name": "Nisaki - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fjapaqjqs7cbd8suso66drdjl5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53,
+          37.77
+        ]
+      },
+      "properties": {
+        "name": "Othoni - Diapontian Islands",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=78p16m0luvs0amacvh6cpukhq5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.84,
+          37.26
+        ]
+      },
+      "properties": {
+        "name": "San George - Corfu",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ut5fjehcg64mp9bgk96ko3qtk1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69,
+          38.52
+        ]
+      },
+      "properties": {
+        "name": "Ithaca - Vathy",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=cs7o1m39jtsqaamglibevtusr7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.06,
+          37.16
+        ]
+      },
+      "properties": {
+        "name": "Port of Fiskardo - Kefalonia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nqqb4fl89ca0376cnkmtaqnta0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.89,
+          37.85
+        ]
+      },
+      "properties": {
+        "name": "Loggos Bay - Paxos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dmn1gq9iomsvfrp7t9dfem2ku0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02,
+          37.25
+        ]
+      },
+      "properties": {
+        "name": "Paxi - Lakka",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ievdqsserha81vnl0j6m6t0i1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.16,
+          37.55
+        ]
+      },
+      "properties": {
+        "name": "Nea Roda Chalkidiki",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g6cmmnvfpm1bcpa0g006cojbj1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.29,
+          37.89
+        ]
+      },
+      "properties": {
+        "name": "Paralia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=aou950k72m0ojsa8mpdnennm06",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84,
+          38.3
+        ]
+      },
+      "properties": {
+        "name": "Kavala",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gfa45hd59om7p76enndna1gs35",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.94,
+          38.62
+        ]
+      },
+      "properties": {
+        "name": "Agios Athanasios",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=eav0dv7s0ubniek8b2oc8kfr35",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91,
+          38.09
+        ]
+      },
+      "properties": {
+        "name": "Litochoro - Plaka",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fn95du963idassd4dge5g1db71",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38,
+          37.6
+        ]
+      },
+      "properties": {
+        "name": "Thessaloniki - Aristotelous Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uh4febgp88s6rjv4i24h1vroc3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          37.25
+        ]
+      },
+      "properties": {
+        "name": "Thessaloniki - Thermaic Gulf",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=009ttd31n3dco090c05b9kogj0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.17,
+          37.92
+        ]
+      },
+      "properties": {
+        "name": "Thessaloniki",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=059c85nq2l7shm2l3qm4dtint1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58,
+          38.25
+        ]
+      },
+      "properties": {
+        "name": "Veria - Clock Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=c0rfp6ea099209a6cohgvn7tc7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          38.64
+        ]
+      },
+      "properties": {
+        "name": "Holy Monastery of Megisti Lavra - Athos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s4tmgfqb1i6r1kbhj6h2cnejh2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8,
+          37.65
+        ]
+      },
+      "properties": {
+        "name": "Mount Athos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p2g3jkr7qa3a4qmgqfi5vijnp2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39,
+          38.1
+        ]
+      },
+      "properties": {
+        "name": "Agia Marina - Leros",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=roup72e8i7snr769r7t58jd6g6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3,
+          38.68
+        ]
+      },
+      "properties": {
+        "name": "Astypalaia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i3td0bfpe3fuv62gcv0uptlpe6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.48,
+          36.96
+        ]
+      },
+      "properties": {
+        "name": "Hippocrates Square - Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e5vcq159rn9s1vlrp5ef9r55l3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.74,
+          37.71
+        ]
+      },
+      "properties": {
+        "name": "Port of Kalymnos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3l318u1qq67p64odotfeq72p96",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56,
+          38.1
+        ]
+      },
+      "properties": {
+        "name": "Monolithos - Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lto8uqaf3dsjt0eknjch7b64a0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.81,
+          38.03
+        ]
+      },
+      "properties": {
+        "name": "Nisyros - Dodecanese",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e0r0ladhiqsiq2625v3t232261",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47,
+          37.28
+        ]
+      },
+      "properties": {
+        "name": "Entrance to the Old Port of Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ob560hqm7m5fk75hem3le7qum3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18,
+          37.92
+        ]
+      },
+      "properties": {
+        "name": "Port of Kalymnos - Dodecanese",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bo54i2mv4l8692jgkd0okusfs4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.38,
+          37.42
+        ]
+      },
+      "properties": {
+        "name": "Entrance to the Port of Symi - Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=23j5t908g1m51bonpfbfejdq30",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.32,
+          38.01
+        ]
+      },
+      "properties": {
+        "name": "Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d50neadncj6cdph623sr02o0t7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6,
+          37.51
+        ]
+      },
+      "properties": {
+        "name": "Rhodes - Faliraki Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nj946qndrd5a7jrvast9k7m505",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2,
+          37.3
+        ]
+      },
+      "properties": {
+        "name": "Rhodes - Fortress of Saint Nicholas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qfdcb0h4rek4g0dv3sgrp8qci2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.88,
+          37.1
+        ]
+      },
+      "properties": {
+        "name": "Kamiros Skala - Rhodes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=60e8ap5g3p4qpb99ft1e6issa1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.33,
+          36.95
+        ]
+      },
+      "properties": {
+        "name": "Rhodes - Kountourioti and Ioannidis squares",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hm9tm5s05irii13fjmh4kf1fm2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.99,
+          37.71
+        ]
+      },
+      "properties": {
+        "name": "Rhodes - Lindos Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3mue6h10ibhakfuv6i1tmsdub1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.21,
+          37.88
+        ]
+      },
+      "properties": {
+        "name": "Rhodes - Mandraki Harbour",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7arjtqtkeu9mm7chvv8g2hu7m7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91,
+          37.04
+        ]
+      },
+      "properties": {
+        "name": "Rhodes Sea Gate",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ptb4k24brms5m045vhvqb7pdm1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.85,
+          37.34
+        ]
+      },
+      "properties": {
+        "name": "Strongyli Island - Chalki",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=l14pb83epc1dev4dbe4je1vkt1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44,
+          38.55
+        ]
+      },
+      "properties": {
+        "name": "Aegiali Beach - Amorgos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5ela4t91ruk1t1rj1cfv5g33d1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53,
+          37.6
+        ]
+      },
+      "properties": {
+        "name": "Ermoupoli - Syros",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d2ecagdf3lqn1bpo2hi9laehb1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.84,
+          38.87
+        ]
+      },
+      "properties": {
+        "name": "Firostefani - Santorini",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=07kqtbrnvbsg54da3mtd7b9ce6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03,
+          38.84
+        ]
+      },
+      "properties": {
+        "name": "Kamares - Sifnos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1egsdpt9p967e43ldg0mof7q97",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.42,
+          37.98
+        ]
+      },
+      "properties": {
+        "name": "Sifnos Island - Kamares",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ahgr3p73e9ehcfgrksgmftjao7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49,
+          37.56
+        ]
+      },
+      "properties": {
+        "name": "Marpissa - Paros",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=losttjdamhqird7fgekfeqrba6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.37,
+          37.48
+        ]
+      },
+      "properties": {
+        "name": "Mouros Beach - Amorgos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n65jrho65knrktaid61nkkes15",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.48,
+          37.98
+        ]
+      },
+      "properties": {
+        "name": "Naxos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6n9qfn0bcrq1mtm8a7mlacgra6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.91,
+          37.43
+        ]
+      },
+      "properties": {
+        "name": "Naxos - Agios Prokopios",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ebpvn963k8v1v0pfl9qfuk6oc5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.47,
+          38.25
+        ]
+      },
+      "properties": {
+        "name": "Paros - Parikia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=u311d0g8g49r9t18rjbk1bhnd5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.96,
+          38.81
+        ]
+      },
+      "properties": {
+        "name": "Paros - Piso Livadi Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8rrd76onuurri22dbnlcn21305",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.14,
+          37.78
+        ]
+      },
+      "properties": {
+        "name": "Port of Kamares - Sifnos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lqqb5l1us1bnpq7mtnlleb5pv6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57,
+          38.4
+        ]
+      },
+      "properties": {
+        "name": "Old port of Mykonos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e3l1kbeob4jd470s5ml7j6hnd4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.91,
+          36.95
+        ]
+      },
+      "properties": {
+        "name": "Port of Syros - Cyclades",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=r2h7ksriercdeo60sb80tgrlh1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.57,
+          38.1
+        ]
+      },
+      "properties": {
+        "name": "Santorini - Pyrgos Kallistis",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uch6d6ust08d205ca4rgr9npq4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4,
+          38.18
+        ]
+      },
+      "properties": {
+        "name": "Syros - Miaouli Square",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0b8lvvae5a35pt026cgm74mmr3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.93,
+          37.91
+        ]
+      },
+      "properties": {
+        "name": "Port of Chios",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=t7296g91j1urc0sq3u80v82377",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.26,
+          38.2
+        ]
+      },
+      "properties": {
+        "name": "Agios Efstratios",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qskb4fdsgfqe1dnsflolfv19i6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.23,
+          38.35
+        ]
+      },
+      "properties": {
+        "name": "Anaxos Beach - Lesbos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kh6bbgfslh7a6lfjfc8kdmeof4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58,
+          38.69
+        ]
+      },
+      "properties": {
+        "name": "Lesbos - Molyvos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b5puo5s2a8cs4ns6nl04rfb3q5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72,
+          38.32
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Mytilene",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qu13hbbashlbeh60fmsh1rc5s6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88,
+          38.73
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Petra - Lesbos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0avlbr8kg09q6fpcdc1pl30s37",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.14,
+          37.56
+        ]
+      },
+      "properties": {
+        "name": "Lesvos - Petra",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=beelg50ujrof5rfnec7mnqmfs3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.02,
+          37.33
+        ]
+      },
+      "properties": {
+        "name": "Pera Melana Kynouria - Arcadia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=amiouplubi216tq1qtkqrhs7c1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.03,
+          38.21
+        ]
+      },
+      "properties": {
+        "name": "Tyros - Arcadia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ciq945ir05471dfl0l45it0iv7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7,
+          37.8
+        ]
+      },
+      "properties": {
+        "name": "Drepano Beach - Nafplio",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p63gnjnurle4d84glt6qgk0pi0",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.58,
+          37.93
+        ]
+      },
+      "properties": {
+        "name": "Elafonisos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=oeibs48ao3g9q9a04584je6dd6",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7546,
+          38.2146
+        ]
+      },
+      "properties": {
+        "name": "Romanos - Achaea",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=u8k2rmuob851403cqbq8s1lt04",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.21,
+          37.54
+        ]
+      },
+      "properties": {
+        "name": "Sparta",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=732sv84utveif0ltpuf161lgh7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.63,
+          37.39
+        ]
+      },
+      "properties": {
+        "name": "Pezoula - Karditsa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=aakt1kv7npu2a9lnj6tsc6egl2",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.41,
+          38.76
+        ]
+      },
+      "properties": {
+        "name": "Kato Sotiritsa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fsooc75fd3rv938st93264lqr7",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.27,
+          38.83
+        ]
+      },
+      "properties": {
+        "name": "Central Square in Larissa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dljtnedlcckhekf0sv0lo6svc3",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88,
+          37.24
+        ]
+      },
+      "properties": {
+        "name": "Nea Mesangala",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8ic9h85ddkqk1ultkklqjc97s4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59,
+          37.02
+        ]
+      },
+      "properties": {
+        "name": "Nees Pagases - Volos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5nofmjvn5srmd41mpfu2bqqg45",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.12,
+          38.75
+        ]
+      },
+      "properties": {
+        "name": "Alonnisos - Sporades",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ejaa7chiec4rlkan47gqs5sjo4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.44,
+          38.36
+        ]
+      },
+      "properties": {
+        "name": "Skopelos - Sporades",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jqiprtli0157tekbnitbqmsp82",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.13,
+          37.11
+        ]
+      },
+      "properties": {
+        "name": "Kalambaka - Theopetra",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a1un3v7943g7im5t2gfdvvp0k5",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63,
+          37.48
+        ]
+      },
+      "properties": {
+        "name": "Meteora",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=uuhncgq8acffp52ak30no8fjc4",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.17,
+          37.43
+        ]
+      },
+      "properties": {
+        "name": "Platanos Nafpaktias - Aetolia-Acarnania",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mbueffdp3f5qoka1vil1uujlr1",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.92016,
+          39.62441
+        ]
+      },
+      "properties": {
+        "name": "Kanoni in Kerkyra city",
+        "url": "https://edge04.balticlivecam.com/blc/p_GR_Corfu_Kerkyra_Kanoni/index.m3u8?token=842f650c6cff2bfdc72397910ed2dc5b%3A1773118703560",
+        "city": "",
+        "country_code": "GR",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90308,
+          35.20523
+        ]
+      },
+      "properties": {
+        "name": "Mesochori",
+        "url": "https://edge01.balticlivecam.com/blc/p_GR_Mesochori_Crete/index.m3u8?token=75983c187dfba6459e4463dceb565d79%3A1773118707934",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.45682,
+          36.40572
+        ]
+      },
+      "properties": {
+        "name": "Oia",
+        "url": "https://edge04.balticlivecam.com/blc/p_GR_Evmenia_Luxury_Cave_Villa_Oia_Santorini/index.m3u8?token=fc696083b70fb361496f6fc0d681e2bf%3A1773118700391",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70944,
+          40.77806
+        ]
+      },
+      "properties": {
+        "name": "Thassos Panorama",
+        "url": "https://edge04.balticlivecam.com/blc/p_GR_Thassos/index.m3u8?token=7d5872fb6f2631df92cc43512c395c09%3A1773118705856",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.70442,
+          38.83036
+        ]
+      },
+      "properties": {
+        "name": "Tsoukalades",
+        "url": "https://edge01.balticlivecam.com/blc/p_GR_Lefkada_Tsoukalades/index.m3u8?token=60e665aa1fa0f44250ee13fbc82a6e15%3A1773118711805",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.45682,
+          36.40572
+        ]
+      },
+      "properties": {
+        "name": "Vlychada",
+        "url": "https://edge04.balticlivecam.com/blc/p_GR_Vlychada_Santorini/index.m3u8?token=2ec77b7e8a95d552b47c73285c633abf%3A1773118702066",
+        "city": "",
+        "country_code": "GR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4878796,
+          38.1756733
+        ]
+      },
+      "properties": {
+        "name": "Argostoli",
+        "url": "https://edge04.balticlivecam.com/blc/p_GR_Kefalonia_Argostoli/index.m3u8?token=c31e3dee5e7660d920d510e90adf6427%3A1773118715435",
+        "city": "\u0391\u03c1\u03b3\u03bf\u03c3\u03c4\u03cc\u03bb\u03b9",
+        "country_code": "GR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9237698,
+          39.3646492
+        ]
+      },
+      "properties": {
+        "name": "Karditsa",
+        "url": "https://edge01.balticlivecam.com/blc/p_GR_Karditsa/index.m3u8?token=64c3abfe9a69f2522a7e3603667df3aa%3A1773118717084",
+        "city": "\u039a\u03b1\u03c1\u03b4\u03af\u03c4\u03c3\u03b1",
+        "country_code": "GR",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.13227,
+          51.31306
+        ]
+      },
+      "properties": {
+        "name": "Blankenberge beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_BE_Blankenberge_beach/index.m3u8?token=297d69756e06ea9122ccd9570647b5f3%3A1773118557618",
+        "city": "",
+        "country_code": "BE",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70093,
+          50.87959
+        ]
+      },
+      "properties": {
+        "name": "Sluispark",
+        "url": "https://edge01.balticlivecam.com/blc/p_BE_Sluispark_Leuven/index.m3u8?token=df5262665d543a3be1fbb595c7a94c8e%3A1773118562707",
+        "city": "",
+        "country_code": "BE",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7687,
+          51.15961
+        ]
+      },
+      "properties": {
+        "name": "Westende beach",
+        "url": "https://edge01.balticlivecam.com/blc/p_BE_Westende_beach/index.m3u8?token=e2ff497f65df320dc5314d345118d90b%3A1773118565020",
+        "city": "",
+        "country_code": "BE",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

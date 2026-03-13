@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.47738,
+          19.76616
+        ]
+      },
+      "properties": {
+        "name": "Sai Baba Samadhi Mandir",
+        "url": "https://edge04.balticlivecam.com/blc/p_IN_Sai_Baba_Samadh_Mandir_temple/index.m3u8?token=b9fb2d4b69923711b6d5c0f3f92f009b%3A1773118426413",
+        "city": "",
+        "country_code": "IN",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

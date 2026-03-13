@@ -1,0 +1,2651 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Las Vistas Beach - Tenerife Live cam",
+        "url": "livee.m3u8?a=n14hfa9d8hrnnjhhtblid33ti6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Playa de Fa\u00f1ab\u00e9 - Tenerife Live cam",
+        "url": "livee.m3u8?a=j9rcrsqies1sg2ng2mnuvj5sn2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz - Tenerife Live cam",
+        "url": "livee.m3u8?a=e6puhist66tmn2e0p0gib978h4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Playa del Duque - Tenerife Live cam",
+        "url": "livee.m3u8?a=qjv5emaje176u6v03kserehm06",
+        "city": "",
+        "country_code": "ES",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Karting Club Tenerife - Las Chafiras Live cam",
+        "url": "livee.m3u8?a=9g5s67hcvh8oom6fh3u660tp86",
+        "city": "",
+        "country_code": "ES",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "La Orotava - Tenerife Live cam",
+        "url": "livee.m3u8?a=p30tesbvqkj835vahnl5ijpgg6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.6291,
+          28.2916
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de Tenerife - Playa de Benijo Live cam",
+        "url": "livee.m3u8?a=h7qk978trnn1nq0vc6n0rd9mr0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16,
+          39.94
+        ]
+      },
+      "properties": {
+        "name": "Almerimar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2lk3b1f0nbp7vm5fum6v56qpa3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26,
+          40.39
+        ]
+      },
+      "properties": {
+        "name": "Varadero Balerma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ofr9sb1rndq85dc5optolt13t5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6,
+          40.67
+        ]
+      },
+      "properties": {
+        "name": "Moj\u00e1car",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g0dpfsnflskk78ohu2favvibt0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16,
+          39.57
+        ]
+      },
+      "properties": {
+        "name": "Mojacar - Plaza Nueva",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5pp2kck2rdrc5crc1v9ugtfcr3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98,
+          41.08
+        ]
+      },
+      "properties": {
+        "name": "Beach of Mojacar - Andalusia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ljfsp52fgu1qvteenibejnfk55",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2426,
+          36.5101
+        ]
+      },
+      "properties": {
+        "name": "Alcal\u00e1 de los Gazules - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ed9673rd7hel3ifvh0hvj61u85",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3036,
+          36.5541
+        ]
+      },
+      "properties": {
+        "name": "Algodonales",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=k9fv4vr42fvi7tvltk61pfr2f6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3036,
+          36.5651
+        ]
+      },
+      "properties": {
+        "name": "Barbate - Playa del Carmen",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3ntco62kut92g3n7bkh4k3qpe4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3236,
+          36.5561
+        ]
+      },
+      "properties": {
+        "name": "Benalup-Casas Viejas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7idgma8itb0af7lrl3l1vk37o1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3336,
+          36.4811
+        ]
+      },
+      "properties": {
+        "name": "Benamahoma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i2ptsniglsurnjhhu0nooqhgc4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2606,
+          36.5691
+        ]
+      },
+      "properties": {
+        "name": "Bornos - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=27lpmva5k0v4t50dlvj58f8597",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3346,
+          36.5721
+        ]
+      },
+      "properties": {
+        "name": "C\u00e1diz - Santa Mar\u00eda del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pereukhee17fpn0fv7qvgef315",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3156,
+          36.4981
+        ]
+      },
+      "properties": {
+        "name": "Chiclana de la Frontera - Salina Santa Teresa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ufs8hbih18j1vdnelisje24t60",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3156,
+          36.5631
+        ]
+      },
+      "properties": {
+        "name": "Chiclana de la Frontera - Iro River",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m0rhblvplt1if2j9645sbgbte7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3376,
+          36.4801
+        ]
+      },
+      "properties": {
+        "name": "Playa de la Barrosa - Chiclana de la Frontera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=th0fe7jbcv18691b53liamltm1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2766,
+          36.5481
+        ]
+      },
+      "properties": {
+        "name": "Conil de la Frontera - Playa de la Fontanilla",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ihkm13jb6na2uav0hskrc0jd60",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2736,
+          36.5691
+        ]
+      },
+      "properties": {
+        "name": "El Bosque - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9b1brtlkbmn0vr1t5s2se1pcs5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2566,
+          36.5451
+        ]
+      },
+      "properties": {
+        "name": "Grazalema - Plaza de los Asomaderos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hutp38a0en1re61s4qne1il8v1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2396,
+          36.5441
+        ]
+      },
+      "properties": {
+        "name": "Medina-Sidonia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2bm867il7e0g6djjc4f8t358i3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2476,
+          36.4921
+        ]
+      },
+      "properties": {
+        "name": "Medina Sidonia - Plaza del Ayuntamiento",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tuq5pdr9cs84odo27ocl6ngs05",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2526,
+          36.4911
+        ]
+      },
+      "properties": {
+        "name": "Olvera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7c13e0nnohfucd6u8pffts8s90",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2856,
+          36.5331
+        ]
+      },
+      "properties": {
+        "name": "Paterna de Rivera - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=otvkt3in2mu9nkbdq3mmqqgc81",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2916,
+          36.5641
+        ]
+      },
+      "properties": {
+        "name": "Playa de Fuentebrav\u00eda - El Puerto de Santa Mar\u00eda",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=oo4t810nnqbvkml0lpto1uemj6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3296,
+          36.4961
+        ]
+      },
+      "properties": {
+        "name": "Playa de Sancti Petri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e968dq7e7djttkiaap7j2oe917",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3246,
+          36.4851
+        ]
+      },
+      "properties": {
+        "name": "Playa del Aculadero - El Puerto de Santa Mar\u00eda",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ncqmesntkbnhvojpe9seb4b3a7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3006,
+          36.5101
+        ]
+      },
+      "properties": {
+        "name": "Playa Santa Mar\u00eda del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ncg0424dvoeoatvklg929dams1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3046,
+          36.5241
+        ]
+      },
+      "properties": {
+        "name": "Prado del Rey - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=t28bkqaiqtsprolv82hfetu1n1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2676,
+          36.5121
+        ]
+      },
+      "properties": {
+        "name": "Harbour of Conil de la Frontera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s95eprqc0ltkj03sq94ld3ko71",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2926,
+          36.5681
+        ]
+      },
+      "properties": {
+        "name": "Porto of Sancti Petri",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ai16ks6sg979ep4q914lavnk20",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2906,
+          36.4791
+        ]
+      },
+      "properties": {
+        "name": "Puerto Sherry - El Puerto de Santa Mar\u00eda",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=51s0mpkh4dvfr3v9f7g0f3f2b4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3256,
+          36.5701
+        ]
+      },
+      "properties": {
+        "name": "Setenil de las Bodegas - Cadiz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kmdtk7hc576ss4cd1of768lvr7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2876,
+          36.5161
+        ]
+      },
+      "properties": {
+        "name": "Villaluenga del Rosario",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qdti40evk9io4lprr6bkj74p31",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2826,
+          36.5181
+        ]
+      },
+      "properties": {
+        "name": "Villamart\u00edn - C\u00e1diz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e7r162os7l4b84kqltvej7otp5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2656,
+          36.5371
+        ]
+      },
+      "properties": {
+        "name": "Villamart\u00edn - Plaza del Ayuntamiento",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=oc6scd8ivltt1v4jngdb09mc16",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2596,
+          36.5011
+        ]
+      },
+      "properties": {
+        "name": "Zahara - Cadiz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1ndi8c0huurh6rubbmql2bbh02",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6296,
+          37.1463
+        ]
+      },
+      "properties": {
+        "name": "The Alhambra of Granada",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n26o1uien71623gp945e2rn2m2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6476,
+          37.1923
+        ]
+      },
+      "properties": {
+        "name": "Playa de San Cristobal - Almu\u00f1ecar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=cl4o09hdl2kfi97nqkoqs3nn87",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5496,
+          37.1303
+        ]
+      },
+      "properties": {
+        "name": "Granada - Beach of La Mamola",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=msv1mofk8nl5ua1qnbp9evc323",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5676,
+          37.1763
+        ]
+      },
+      "properties": {
+        "name": "La Mamola - Granada",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=biqhi645k0fug7kpmf3hcuo1k1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5586,
+          37.1753
+        ]
+      },
+      "properties": {
+        "name": "Almu\u00f1ecar - Playa de San Crist\u00f3bal",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kneq0rc18d3e6c5lcb0l0u59i7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94,
+          41.05
+        ]
+      },
+      "properties": {
+        "name": "Islantilla Golf",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fetbhcacbuo6gotlf2bdugr415",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4684,
+          36.6833
+        ]
+      },
+      "properties": {
+        "name": "Benalaur\u00eda - M\u00e1laga",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ohq1n506k3rnkqfjav47tcat01",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4004,
+          36.7413
+        ]
+      },
+      "properties": {
+        "name": "Benalm\u00e1dena - M\u00e1laga",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1485ft3mt1uf9hkut3q7sau2i3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4084,
+          36.7313
+        ]
+      },
+      "properties": {
+        "name": "Marbella",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=52808a2su5ac55uub7ead724p4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3944,
+          36.6843
+        ]
+      },
+      "properties": {
+        "name": "Marbella - Marina",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hph56cmnpt4l155vqtqmmgf0f2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4054,
+          36.7003
+        ]
+      },
+      "properties": {
+        "name": "Montejaque",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3i39hplm2qau3i1vqoebn53an1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3734,
+          36.7633
+        ]
+      },
+      "properties": {
+        "name": "Panorama of Benalmadena",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ghjjkoqpj9rm3i17dniu58u7g5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9845,
+          37.3761
+        ]
+      },
+      "properties": {
+        "name": "Seville - Plaza de San Francisco",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j8se7uvgsc2rg4jag5t57ni3q3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0085,
+          37.3471
+        ]
+      },
+      "properties": {
+        "name": "Seville - Puente de Triana",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=net18k9in7km0p14s7177qjkm7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29,
+          41.19
+        ]
+      },
+      "properties": {
+        "name": "Fuerteventura - Corralejo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=joh15fdhgskou8ogrhsfp3pp93",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.22,
+          41.3
+        ]
+      },
+      "properties": {
+        "name": "Anfi del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hso8ivsatpu0cr0j6rb4jdjnp6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.69,
+          40.63
+        ]
+      },
+      "properties": {
+        "name": "Arguineguin - Playa de El Perchel",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8r72suec2nfvkvmfnm5d5kul74",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.37,
+          40.38
+        ]
+      },
+      "properties": {
+        "name": "La Cicer in Las Canteras - Surf Forecast",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=072tamqo4pvlai47bqieq57dr3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.87,
+          40.78
+        ]
+      },
+      "properties": {
+        "name": "Puerto del Carmen - Lanzarote",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qef229ld5jnq502a674dt3gd63",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.75,
+          41.17
+        ]
+      },
+      "properties": {
+        "name": "Aquarium Poema del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5dueah3cbb9061fqj8jtv8oab1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.34,
+          40.33
+        ]
+      },
+      "properties": {
+        "name": "Mog\u00e1n",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=r7vg2l0q2i5r7q2ila4q3iccm7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29,
+          40.85
+        ]
+      },
+      "properties": {
+        "name": "Mog\u00e1n - Playa de Puerto Rico",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n01kf52t2f93fietvh2avlmcn1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65,
+          40.74
+        ]
+      },
+      "properties": {
+        "name": "Mog\u00e1n - Playa del Cura",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=63cvij99fjnfsj49ovvq2hrch7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.82,
+          40.99
+        ]
+      },
+      "properties": {
+        "name": "Mog\u00e1n - Playa la Lajilla",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=p0t254fbtv1hvu6ggkib81sk42",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88,
+          40.55
+        ]
+      },
+      "properties": {
+        "name": "Mog\u00e1n - Playa Taurito",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=avmbcgn11ungvaeur9m7v8nhk4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4,
+          40.29
+        ]
+      },
+      "properties": {
+        "name": "Patalavaca - Anfi del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=stncqcd2rk1v8g7e0rncj85oa5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9,
+          41.39
+        ]
+      },
+      "properties": {
+        "name": "Playa Grande in Las Canteras - Gran Canaria",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=spqj4en4snunttdn460oi1lfl6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89,
+          41.12
+        ]
+      },
+      "properties": {
+        "name": "Las Palmas - Beach of Las Canteras",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f81ao2u25t9g5fchstknu7gij0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96,
+          39.4
+        ]
+      },
+      "properties": {
+        "name": "Puerto Rico de Gran Canaria - Playa de Amadores",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jp3vl525nulfg90e982p122ej6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.32,
+          40.52
+        ]
+      },
+      "properties": {
+        "name": "Lanzarote - Isla de la Graciosa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m8sf54lnm7istdii5mdfdpesn3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28,
+          40.17
+        ]
+      },
+      "properties": {
+        "name": "Lanzarote - Playa de las Cucharas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mg2f0fuojup23tfvt48lvnslu2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03,
+          40.43
+        ]
+      },
+      "properties": {
+        "name": "San Bartolom\u00e9 de Tirajana",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e0q5mbhp9rnr2li07tglmer672",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.61,
+          40.89
+        ]
+      },
+      "properties": {
+        "name": "Arona - Parque Santiago",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8nm81ra67vck1v605bliehpqm5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28,
+          39.97
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de Tenerife - Avenida Tres de Mayo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=envu8v1q1smv3snkurer6n1qn6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47,
+          40.53
+        ]
+      },
+      "properties": {
+        "name": "Bah\u00eda de Los Cristianos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1him7h0gooiiobrchr1pgqaiq5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.39,
+          40.39
+        ]
+      },
+      "properties": {
+        "name": "Callao Salvaje - Playa de Ajabo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1j8f216bfo654b0h0o4n3i0du2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24,
+          41.26
+        ]
+      },
+      "properties": {
+        "name": "Candelaria",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=eqsr2ig18uvuuu1i36u6lf5412",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03,
+          40.2
+        ]
+      },
+      "properties": {
+        "name": "Candelaria - Playa de Punta Larga",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ro5da74hh1gselak2qrovird0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.61,
+          40.12
+        ]
+      },
+      "properties": {
+        "name": "Candelaria - Plaza de la Patrona de Canarias",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=afhpol7thbkcbc5j34cltmnu20",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51,
+          40.44
+        ]
+      },
+      "properties": {
+        "name": "Catamaran Royal Delfin - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ut0ku5744nrhg2ci20vspdqlv6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27,
+          41.05
+        ]
+      },
+      "properties": {
+        "name": "Costa Adeje - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ksagf9jc7r9hiquuj394qrt7l7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68,
+          40.77
+        ]
+      },
+      "properties": {
+        "name": "Costa Adeje - Playa del Bobo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=j802np2n4a48gep33gvknt5so6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8,
+          40.29
+        ]
+      },
+      "properties": {
+        "name": "Costa Adeje - Playa de Torviscas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=er9eilfjil0b36ptmkcck71ad5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.16,
+          41.28
+        ]
+      },
+      "properties": {
+        "name": "El Hierro - La Frontera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f38af0jj59cguc3guqk50no1k0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.41,
+          40.7
+        ]
+      },
+      "properties": {
+        "name": "El Hierro - Timijiraque",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=d4e0khns3l941jt82sspto6831",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.48,
+          40.44
+        ]
+      },
+      "properties": {
+        "name": "El M\u00e9dano - Weather",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2f7dc328i1s6c66snn0k5qs6g2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.04,
+          40.35
+        ]
+      },
+      "properties": {
+        "name": "El M\u00e9dano - Playa La Tejita",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pir3s4tm201k47h6ga4orbkuu6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51,
+          40.12
+        ]
+      },
+      "properties": {
+        "name": "El Sauzal - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1dr5pqt5ptuc0ukr1tepooc332",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.92,
+          41.27
+        ]
+      },
+      "properties": {
+        "name": "Garachico - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2edjiapadk0bna52b2qn0453i1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97,
+          40.54
+        ]
+      },
+      "properties": {
+        "name": "Golf Costa Adeje",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=q12kufu1gh5mbscmis8ind5rh4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.22,
+          40.61
+        ]
+      },
+      "properties": {
+        "name": "Karting Club Tenerife - Las Chafiras",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kqfacui7tm26l5030e4fdf6d05",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94,
+          40.33
+        ]
+      },
+      "properties": {
+        "name": "La Caleta - Costa Adeje",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i2li8m6kkdtrf394mdlckbd8n5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27,
+          39.76
+        ]
+      },
+      "properties": {
+        "name": "Playa de Santiago - La Gomera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tjajcg6hqfenpvkmmhoj6dvf04",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.21,
+          40.76
+        ]
+      },
+      "properties": {
+        "name": "La Orotava - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=1i1l1p6o31vpi52je4aaf861v3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.37,
+          40.98
+        ]
+      },
+      "properties": {
+        "name": "La Orotava - Victoria Gardens",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=6dnf0i8j32fhe2ikhlquu6k6f1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.12,
+          40.18
+        ]
+      },
+      "properties": {
+        "name": "Marina del Sur - Las Galletas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=st6sqfs3ao1a7s8p41ve7c7jf5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.16,
+          39.9
+        ]
+      },
+      "properties": {
+        "name": "Los Gigantes - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=426saqqtc6ckn5kere2971bnl7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88,
+          40.13
+        ]
+      },
+      "properties": {
+        "name": "Los Llanos de Aridane - Playa de Puerto Naos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=i7l8n7im6kj5t0jnv9qa9erqs6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52,
+          40.02
+        ]
+      },
+      "properties": {
+        "name": "Los Llanos de Aridane - La Palma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=m6v4l4dgpnl9127uimrt641e56",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42,
+          40.9
+        ]
+      },
+      "properties": {
+        "name": "Los Realejos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kd1kmt2lfn3f53fepncnrsk6p3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.35,
+          41.26
+        ]
+      },
+      "properties": {
+        "name": "Masca Valley - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3383b6frv45ikkppl6lbcr3me4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03,
+          40.24
+        ]
+      },
+      "properties": {
+        "name": "Panoramic tour of Garachico",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=41g8e98q9n9djta9qgrg6tjp73",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48,
+          40.87
+        ]
+      },
+      "properties": {
+        "name": "El M\u00e9dano Beach - Canary Islands",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=th7pmqlkqomgq4b2j3oup4fts3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35,
+          40.53
+        ]
+      },
+      "properties": {
+        "name": "Playa de Fa\u00f1ab\u00e9 - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lfplku7kerplg2m3vu9puu5u01",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83,
+          40.45
+        ]
+      },
+      "properties": {
+        "name": "Arona - Playa de Las Americas",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5d65biog8a7v8st5449d6djqr4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29,
+          41.11
+        ]
+      },
+      "properties": {
+        "name": "Playa del Duque - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=g3hf09695tft61g00pem3fgj33",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67,
+          40.52
+        ]
+      },
+      "properties": {
+        "name": "Playa del Duque - El Beril",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ifnc82e0d7qsf4k232ee474sl5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.72,
+          41.15
+        ]
+      },
+      "properties": {
+        "name": "El M\u00e9dano - Playa El Cabezo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=21dv4cg9s4ogggsl9hf4b4f9s6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.34,
+          40.95
+        ]
+      },
+      "properties": {
+        "name": "Costa Adeje - Playa La Pinta",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=pbu8e7g8dek02q7qbe5ncvegn6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.22,
+          40.72
+        ]
+      },
+      "properties": {
+        "name": "Las Vistas Beach - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=s7s4f56v6ld18hhv07g4f3b3t7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27,
+          39.78
+        ]
+      },
+      "properties": {
+        "name": "Playa de Los Cristianos - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=gqd69qilb9mf8vrv0fdsabo6s4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4,
+          40.3
+        ]
+      },
+      "properties": {
+        "name": "Playa de Troya - Las Americas - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f4icjhg2lnc8eielb6jdh2ttg0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29,
+          40.93
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de Tenerife - Plaza de Espa\u00f1a",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=31u53jfk0s01cvdfclu7fu6ud2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.85,
+          41.12
+        ]
+      },
+      "properties": {
+        "name": "Plaza de la Candelaria - Santa Cruz de Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=flodsku1mrl5tc3joo7rdimli7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98,
+          40.0
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3tft161rn95vec1ldf8enrmai1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96,
+          40.99
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz - Lago Marti\u00e1nez",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9llt2lmsfdnm49e3a4esa6l1s6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.55,
+          41.03
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz - Playa San Telmo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5rk1kvcrjjuikh8t31rspuc5i2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.22,
+          41.14
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=fj3ri7th6m5rnd1k34vfredu13",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11,
+          39.77
+        ]
+      },
+      "properties": {
+        "name": "Puerto de la Cruz - Punta Brava",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jbdmcl4lfcdse54bm1ho7r1mo0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0,
+          39.99
+        ]
+      },
+      "properties": {
+        "name": "Tenerife - Punta del Hidalgo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5vic3em10po459gqfcqolkfk67",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99,
+          39.59
+        ]
+      },
+      "properties": {
+        "name": "San Crist\u00f3bal de La Laguna - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=heqv33drvdn6tde6imb5d8gqr3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.81,
+          40.11
+        ]
+      },
+      "properties": {
+        "name": "San Crist\u00f3bal de La Laguna - Bajamar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ivbgtenc68dhkcr0p2r9soa3f7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4,
+          40.21
+        ]
+      },
+      "properties": {
+        "name": "San Sebasti\u00e1n de la Gomera",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sohc9sd7p0408c192r2f8d8gv3",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09,
+          39.68
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de La Palma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=9qnp0p8inh83upii752seso2t2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83,
+          39.54
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de La Palma - La Palma",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=dkjveh8p5vlt5tjmm4pcb1q2h2",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          40.75
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de Tenerife - Playa de Benijo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=8o30g7fh725c8l43mi47b4oka0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47,
+          39.44
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz de Tenerife - Torre 1 - Cabo Llanos",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=euru1rs9mb27et24sth9rjv5f6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.27,
+          40.74
+        ]
+      },
+      "properties": {
+        "name": "Santiago del Teide",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ebck1nf4b95lc8vf8c716hlfa5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35,
+          39.49
+        ]
+      },
+      "properties": {
+        "name": "Santiago del Teide - Santa Cruz de Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=18m4dnn59jq5nbv961m2phthv5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11,
+          40.84
+        ]
+      },
+      "properties": {
+        "name": "Santiago del Teide - Los Gigantes",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=a33hfv3lsd46koaajrtunia3j0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57,
+          39.85
+        ]
+      },
+      "properties": {
+        "name": "Santiago del Teide - Puerto de Santiago",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tl8o1t1sa1qv12knhf64t12k00",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.21,
+          40.32
+        ]
+      },
+      "properties": {
+        "name": "El M\u00e9dano surf and kitesurf - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ovefkpu2p4ajq8f5354el2r3p4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52,
+          40.01
+        ]
+      },
+      "properties": {
+        "name": "Tacoronte - Mesa del Mar",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ss3dh7tv27uf400174co8qd2j6",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36,
+          40.06
+        ]
+      },
+      "properties": {
+        "name": "Tenerife - Buenavista Golf",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ekir0hn1thhqq4es3vf0fhl464",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.66,
+          39.78
+        ]
+      },
+      "properties": {
+        "name": "Tenerife - Puerto de la Cruz",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jh8ufcohbh84qsd5j090bn5m70",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7,
+          40.83
+        ]
+      },
+      "properties": {
+        "name": "Tijarafe - Mirador El Time",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ccb4stqse9a9eneoto0sqc79g5",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72,
+          40.29
+        ]
+      },
+      "properties": {
+        "name": "Volcano Teide - Tenerife",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5lej9qj1ibknu43t56454dmkg4",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1466,
+          41.3664
+        ]
+      },
+      "properties": {
+        "name": "Sant Sebasti\u00e0 Beach - Barcelona",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2ed1jni5ueekohe0a37c1buec0",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.66,
+          39.73
+        ]
+      },
+      "properties": {
+        "name": "Formentera - Es Pujols",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ndbqqsi8e9ubqusdg2jclhhib7",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3896,
+          38.8627
+        ]
+      },
+      "properties": {
+        "name": "Ibiza - Cala Vadella",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lcmhu4doujbrdbj7p3nhdoak65",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3766,
+          38.9427
+        ]
+      },
+      "properties": {
+        "name": "Cala Vadella - Ibiza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=79p9qgvv0lcd58b9umpk9amep1",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4336,
+          38.9247
+        ]
+      },
+      "properties": {
+        "name": "Sant Antoni de Portmany - Ibiza",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kut9t3ef646mh7ri4air1trp91",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.32,
+          39.52
+        ]
+      },
+      "properties": {
+        "name": "Mallorca - Pollen\u00e7a Bay",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=huiraqpieqn1euhil4iiitdv70",
+        "city": "",
+        "country_code": "ES",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2507843,
+          28.467178
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz | Navio",
+        "url": "https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8",
+        "city": "Santa Cruz de Tenerife",
+        "country_code": "ES",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.2507843,
+          28.467178
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz | Praia Azul",
+        "url": "https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8",
+        "city": "Santa Cruz de Tenerife",
+        "country_code": "ES",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

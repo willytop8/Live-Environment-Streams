@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      },
+      "properties": {
+        "name": "Melbourne Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Byxe6MlCnBw",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      },
+      "properties": {
+        "name": "Melbourne Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=l_8DrACHpwY",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8614,
+          -31.95224
+        ]
+      },
+      "properties": {
+        "name": "Perth Webcams - SpotiCam",
+        "url": "https://www.youtube.com/channel/UCytuti58w93kG92WngmvrUw/live",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      },
+      "properties": {
+        "name": "Sydney Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=5uZa3-RMFos",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      },
+      "properties": {
+        "name": "Sydney Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=7pcL-0Wo77U",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0251,
+          -27.4698
+        ]
+      },
+      "properties": {
+        "name": "Brisbane Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=FlwUkQ69rjM",
+        "city": "",
+        "country_code": "AU",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.06355,
+          -36.419
+        ]
+      },
+      "properties": {
+        "name": "Bermagui marina",
+        "url": "https://edge01.balticlivecam.com/blc/p_AUS_Bermagui_Marina/index.m3u8?token=0e561f39667063203e9495936f4e673f%3A1773118541963",
+        "city": "",
+        "country_code": "AU",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    }
+  ]
+}

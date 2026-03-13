@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.48
+        ]
+      },
+      "properties": {
+        "name": "Lamai - Koh Samui Live cam",
+        "url": "livee.m3u8?a=4dk7cgea062b6mu6ji07jnjli6",
+        "city": "",
+        "country_code": "TH",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.54
+        ]
+      },
+      "properties": {
+        "name": "Choengmon Beach - Thailand Live cam",
+        "url": "livee.m3u8?a=gtkof5bjieq86gq7672o4a0ll1",
+        "city": "",
+        "country_code": "TH",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.54
+        ]
+      },
+      "properties": {
+        "name": "Choengmon Beach - Thailand",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ddpuc25jt7lkptlofqddj78at2",
+        "city": "",
+        "country_code": "TH",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.48
+        ]
+      },
+      "properties": {
+        "name": "Lamai - Koh Samui",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tvbdvn887cjmlujpvtg5un4pr4",
+        "city": "",
+        "country_code": "TH",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

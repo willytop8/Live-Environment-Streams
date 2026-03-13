@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2973,
+          4.5709
+        ]
+      },
+      "properties": {
+        "name": "Calima Lake - Colombia Live cam",
+        "url": "livee.m3u8?a=amm724s38hp0cc6suphgtfm617",
+        "city": "",
+        "country_code": "CO",
+        "environment": "nature",
+        "timezone": ""
+      }
+    }
+  ]
+}

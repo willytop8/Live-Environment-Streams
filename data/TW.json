@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.575,
+          25.027
+        ]
+      },
+      "properties": {
+        "name": "Taipei Elephant Mountain - Taipei 101 4K",
+        "url": "https://www.youtube.com/watch?v=JLEmtG9heG0",
+        "city": "",
+        "country_code": "TW",
+        "environment": "landmark",
+        "timezone": ""
+      }
+    }
+  ]
+}

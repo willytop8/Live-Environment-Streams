@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3058329,
+          5.5744917
+        ]
+      },
+      "properties": {
+        "name": "Blue Cross",
+        "url": "https://edge04.balticlivecam.com/blc/p_BSN_Medjugorje_Blue_cross/index.m3u8?token=5a4a648dcfe2d7316c19aa8998d017ec%3A1773118566660",
+        "city": "Gbawe",
+        "country_code": "GH",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

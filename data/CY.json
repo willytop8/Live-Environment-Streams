@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.70132,
+          34.66942
+        ]
+      },
+      "properties": {
+        "name": "Pissouri",
+        "url": "https://edge01.balticlivecam.com/blc/p_CYP_Pissouri/index.m3u8?token=81743e60a4a3f00a42d9f9679275e801%3A1773118636919",
+        "city": "",
+        "country_code": "CY",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

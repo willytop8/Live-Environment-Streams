@@ -1,0 +1,5369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.75,
+          30.35
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Atchafalaya Basin 1",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-001.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.78,
+          30.34
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Atchafalaya Basin 2",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-003.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.79,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Henderson",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-007.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.66,
+          30.36
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Whiskey Bay",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-005.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09,
+          30.24
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Scott",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-011.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.02,
+          30.22
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Lafayette East",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-013.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.05,
+          30.21
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Lafayette West",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-015.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.37,
+          30.21
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Crowley",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-017.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.66,
+          30.22
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Jennings",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-019.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22,
+          30.23
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Lake Charles East",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-021.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.38,
+          30.24
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Lake Charles West",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-023.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.58,
+          30.19
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-10 Sulphur",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-025.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19,
+          30.45
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-12 Baton Rouge East",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-027.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.96,
+          30.49
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-12 Denham Springs",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-029.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.46,
+          30.5
+        ]
+      },
+      "properties": {
+        "name": "Louisiana I-12 Hammond",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-031.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.75,
+          42.65
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Albany Area 1",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_001/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78,
+          42.66
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Albany Area 3",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_003/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8,
+          42.67
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Albany Area 4",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_004/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92,
+          42.8
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Schenectady Area 1",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_013/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95,
+          42.82
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Schenectady Area 2",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_014/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98,
+          42.84
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Schenectady Area 3",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_015/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23,
+          43.1
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Utica Area 1",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_050/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3,
+          43.12
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Utica Area 2",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_055/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4,
+          43.08
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Utica Area 3",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_060/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          43.05
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Syracuse East",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_065/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1,
+          43.04
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Syracuse",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_070/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75,
+          43.08
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Canastota",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_080/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3,
+          43.03
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Syracuse West",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_075/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55,
+          42.93
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Auburn",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_085/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8,
+          42.91
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Seneca Falls",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_090/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0,
+          42.87
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Geneva",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_095/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5,
+          43.15
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Rochester East",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_100/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55,
+          43.16
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Rochester 1",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_101/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6,
+          43.17
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Rochester 2",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_102/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.18,
+          43.0
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Batavia",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_105/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0,
+          42.98
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Leroy",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_250/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75,
+          42.88
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Buffalo East",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_150/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8,
+          42.88
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Buffalo 1",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_160/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85,
+          42.9
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Buffalo 2",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_165/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92,
+          41.07
+        ]
+      },
+      "properties": {
+        "name": "NY I-87 Gov Mario M Cuomo Bridge",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_168/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7,
+          42.9
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Depew",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_210/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65,
+          42.9
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Lancaster",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_220/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5,
+          42.9
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Alden",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_230/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.473,
+          38.816
+        ]
+      },
+      "properties": {
+        "name": "Virginia I-66 Gainesville",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/NROCCTVI66E00501/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.29,
+          38.872
+        ]
+      },
+      "properties": {
+        "name": "Virginia I-66 Fairfax",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/NROCCTVI66E00610/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.405,
+          38.84
+        ]
+      },
+      "properties": {
+        "name": "Virginia US-29 Centreville",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/NROCCTVUS29N02300/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.186,
+          38.9
+        ]
+      },
+      "properties": {
+        "name": "Virginia Fairfax 231",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/FairfaxVideo0231/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.103,
+          38.891
+        ]
+      },
+      "properties": {
+        "name": "Virginia Fairfax CCTV 245",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/FairfaxCCTV245/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.182,
+          38.76
+        ]
+      },
+      "properties": {
+        "name": "Virginia Fairfax 520",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/FairfaxVideo0520/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.512,
+          38.277
+        ]
+      },
+      "properties": {
+        "name": "Virginia Fairfax CCTV 4055",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/FairfaxCCTV4055/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.278,
+          38.657
+        ]
+      },
+      "properties": {
+        "name": "Virginia Fairfax 470",
+        "url": "https://media-sfs8.vdotcameras.com:443/rtplive/FairfaxVideo0470/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92301,
+          34.912901
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-AT TRUCK ESCAPE RAMP (SHOULDER)",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Truck_Esc_Ramp_Shoulder.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.92381,
+          34.921729
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-AT TRUCK ESCAPE RAMP(MEDIAN)",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Truck_Esc_Ramp_Median.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.930646,
+          34.939257
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-AT GRAPEVINE UC",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Grapevine_UC.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.228696,
+          35.271401
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-N/O RTE 119",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_NO_RTE_119.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.035789,
+          35.317488
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-99-AT WHITE LANE",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_White_Lane.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.044588,
+          35.399757
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-99-AT AIRPORT DR",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_Airport_Dr.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2876,
+          35.320279
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-N/O RTE 43",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Rte_43.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.419989,
+          35.415128
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-N/O RTE 58",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_NO_Rte_58.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.626532,
+          35.58653
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-5-S/O RTE 46",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Rte_46.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.25138,
+          35.76942
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-99-AT 11TH AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_11th_Ave.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.328243,
+          36.211044
+        ]
+      },
+      "properties": {
+        "name": "California - Tulare - TUL-99-AT RTE 137",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_RTE_137.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.345497,
+          36.240244
+        ]
+      },
+      "properties": {
+        "name": "California - Tulare - TUL-99-AT CARTMILL AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_Cartmill_Ave.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.867974,
+          35.615273
+        ]
+      },
+      "properties": {
+        "name": "California - Kern - KER-46-AT RTE 33",
+        "url": "https://wzmedia.dot.ca.gov/D6/46_RTE_33.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.630048,
+          36.648405
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-5-N/O PANOCHE ROAD",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Panoche.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.39393,
+          36.43614
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-5-AT RTE 33",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Rte_33.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.785139,
+          36.719132
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-41-AT RTE 99 IC",
+        "url": "https://wzmedia.dot.ca.gov/D6/41_RTE_99.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.776917,
+          36.74348
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-41-AT TULARE AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/41_Tulare.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.774021,
+          36.707221
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-99-AT JENSEN AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_Jensen_Ave.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.56135,
+          36.518117
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-99-AT RTE 201",
+        "url": "https://wzmedia.dot.ca.gov/D6/99_RTE_201.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.749632,
+          36.761689
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-168-AT FLORADORA AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/168_Floradora.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.749637,
+          36.779787
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-168-AT SHIELDS AVE",
+        "url": "https://wzmedia.dot.ca.gov/D6/168_Shields.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.10212,
+          36.07638
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-5-AT RTE 269",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Rte_269.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.215415,
+          36.209442
+        ]
+      },
+      "properties": {
+        "name": "California - Fresno - FRE-5-S/O RTE 198",
+        "url": "https://wzmedia.dot.ca.gov/D6/5_Rte_198.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6558,
+          37.331009
+        ]
+      },
+      "properties": {
+        "name": "California - Madera - MAD-41-AT RTE 49",
+        "url": "https://wzmedia.dot.ca.gov/D6/41_RTE_49.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.93702,
+          36.04722
+        ]
+      },
+      "properties": {
+        "name": "California - Tulare - TUL-190-AT ROAD 284",
+        "url": "https://wzmedia.dot.ca.gov/D6/190_Rd_284.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21391,
+          34.05367
+        ]
+      },
+      "properties": {
+        "name": "California - Los Angeles - I-5 : (17) South of I-10",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-17.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2369,
+          34.08842
+        ]
+      },
+      "properties": {
+        "name": "California - Los Angeles - I-5 : (25) Meadowdale",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-25.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28078,
+          34.15109
+        ]
+      },
+      "properties": {
+        "name": "California - Los Angeles - I-5 : (31) Zoo Drive",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-31.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.30795,
+          34.17717
+        ]
+      },
+      "properties": {
+        "name": "California - Los Angeles - I-5 : (37) Olive",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-37.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71968,
+          34.08198
+        ]
+      },
+      "properties": {
+        "name": "California - Los Angeles - I-10 : (431) Indian Hill Blvd",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-431.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.82729,
+          34.15945
+        ]
+      },
+      "properties": {
+        "name": "California - Ventura - US-101 : (712) West Lake Blvd",
+        "url": "https://wzmedia.dot.ca.gov/D7/CCTV-712.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.28509,
+          37.84451
+        ]
+      },
+      "properties": {
+        "name": "California - San Joaquin - SB I-5 Lathrop Rd",
+        "url": "https://wzmedia.dot.ca.gov/D10/SJ_SB5_NO_LathropRd.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.30189,
+          37.78955
+        ]
+      },
+      "properties": {
+        "name": "California - San Joaquin - SB I-5 Junction SR 120",
+        "url": "https://wzmedia.dot.ca.gov/D10/SJ_SB5_JctRte120.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.21751,
+          37.83667
+        ]
+      },
+      "properties": {
+        "name": "California - San Joaquin - NB SR-99 N/O Lathrop Road OC",
+        "url": "https://wzmedia.dot.ca.gov/D10/SJ_NB99_NO_LathropRdOC.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.13316,
+          37.74673
+        ]
+      },
+      "properties": {
+        "name": "California - San Joaquin - NB SR 99 Before Milgeo Avenue OC",
+        "url": "https://wzmedia.dot.ca.gov/D10/SJ_NB99_SO_MilgeoAveOC.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.11891,
+          37.73814
+        ]
+      },
+      "properties": {
+        "name": "California - San Joaquin - NB SR 99 Main Street",
+        "url": "https://wzmedia.dot.ca.gov/D10/SJ_NB99_MainStreet.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29806,
+          37.84672
+        ]
+      },
+      "properties": {
+        "name": "California - Alameda - TV516 -- I-80 : West of Ashby Avenue",
+        "url": "https://wzmedia.dot.ca.gov/D4/E80_JWO_ASHBY_Av.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87167,
+          37.70189
+        ]
+      },
+      "properties": {
+        "name": "California - Alameda - TVA49 -- I-580 : Tassajara",
+        "url": "https://wzmedia.dot.ca.gov/D4/W580_at_Tassajara_Rd.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19642,
+          37.786788
+        ]
+      },
+      "properties": {
+        "name": "California - Alameda - TVA40 -- I-580 : High Street",
+        "url": "https://wzmedia.dot.ca.gov/D4/E580_at_High_St.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.48915,
+          37.29878
+        ]
+      },
+      "properties": {
+        "name": "California - Merced - SB SR-99 N/O SR- 59/MLK Blvd",
+        "url": "https://wzmedia.dot.ca.gov/D10/MER_SB99_NO_Rte59MLKBlvd.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.68083,
+          37.37426
+        ]
+      },
+      "properties": {
+        "name": "California - Merced - NB SR 99 South of Sultana Drive",
+        "url": "https://wzmedia.dot.ca.gov/D10/MER_NB99_SO_SultanaDr.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.023247,
+          37.115586
+        ]
+      },
+      "properties": {
+        "name": "California - Merced - SB I-5 N/O Santa Nella",
+        "url": "https://wzmedia.dot.ca.gov/D10/MER_SB5_NO_SantaNellaRwis.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.06008,
+          37.06207
+        ]
+      },
+      "properties": {
+        "name": "California - Merced - EB SR-152 San Luis Reservoir",
+        "url": "https://wzmedia.dot.ca.gov/D10/MER_EB152_SanLuisReservoir.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9731,
+          37.49408
+        ]
+      },
+      "properties": {
+        "name": "California - Mariposa - EB SR 140 Mariposa",
+        "url": "https://wzmedia.dot.ca.gov/D10/MPA_EB140_Mariposa.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.510528,
+          38.481128
+        ]
+      },
+      "properties": {
+        "name": "California - Sacramento - Hwy 5 at Pocket",
+        "url": "https://wzmedia.dot.ca.gov/D3/5_Pocket_Rd_OC_SAC5_SB.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51647,
+          38.495353
+        ]
+      },
+      "properties": {
+        "name": "California - Sacramento - Hwy 5 at Florin",
+        "url": "https://wzmedia.dot.ca.gov/D3/5_Florin_Rd_SAC5_MD.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1141451,
+          38.643686
+        ]
+      },
+      "properties": {
+        "name": "California - Sacramento - Hwy 50 at E_Bidwell_St_SAC50_WB_1",
+        "url": "https://wzmedia.dot.ca.gov/D3/50_E_Bidwell_St_SAC50_WB_1.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1141451,
+          38.643676
+        ]
+      },
+      "properties": {
+        "name": "California - Sacramento - Hwy 50 at E_Bidwell_St_SAC50_WB_2",
+        "url": "https://wzmedia.dot.ca.gov/D3/50_E_Bidwell_St_SAC50_WB_2.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1557241,
+          38.642402
+        ]
+      },
+      "properties": {
+        "name": "California - Sacramento - Hwy 50 at Prairie City",
+        "url": "https://wzmedia.dot.ca.gov/D3/50_Prairie_City_Rd_SAC50_WB.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.38092,
+          36.97718
+        ]
+      },
+      "properties": {
+        "name": "California - Santa Clara - EB SR-152 W/O Casa de Fruta",
+        "url": "https://wzmedia.dot.ca.gov/D10/SCL_EB152_WO_CasaDeFruta.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.974743,
+          37.226643
+        ]
+      },
+      "properties": {
+        "name": "California - Santa Clara - TVC01 -- SR-17 : Saratoga Road",
+        "url": "https://wzmedia.dot.ca.gov/D4/N17_at_Saratoga_Rd.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.958959,
+          37.248916
+        ]
+      },
+      "properties": {
+        "name": "California - Santa Clara - TVB98 -- SR-17 : Lark Offramp",
+        "url": "https://wzmedia.dot.ca.gov/D4/N17_at_Lark_OFR.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.67619,
+          38.734511
+        ]
+      },
+      "properties": {
+        "name": "California - El Dorado - Snow_ED50_EB_1",
+        "url": "https://wzmedia.dot.ca.gov/D3/50_Snows_Rd_ED50_EB_1.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.67619,
+          38.734511
+        ]
+      },
+      "properties": {
+        "name": "California - El Dorado - Snow_ED50_EB_2",
+        "url": "https://wzmedia.dot.ca.gov/D3/50_Snows_Rd_ED50_EB_2.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.653231,
+          36.687188
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - US-101 : North Main Street",
+        "url": "https://wzmedia.dot.ca.gov/D5/101atMainSt-Route183.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.688966,
+          36.614841
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - SR-68 : East of Portola Drive",
+        "url": "https://wzmedia.dot.ca.gov/D5/68atPortolaRd.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.655766,
+          36.677438
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - SR-183 : Salinas St",
+        "url": "https://wzmedia.dot.ca.gov/D5/183atMarketSt.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.876953,
+          36.593548
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - SR-1 : Sloat Avenue",
+        "url": "https://wzmedia.dot.ca.gov/D5/1atSloatAve.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.86134,
+          36.6066
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - SR-1 : North of Del Monte Blvd",
+        "url": "https://wzmedia.dot.ca.gov/D5/1atDelMonteAve.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.870198,
+          36.594317
+        ]
+      },
+      "properties": {
+        "name": "California - Monterey - SR-1 : SR-68 East",
+        "url": "https://wzmedia.dot.ca.gov/D5/1atRoute68EastNBOfframp.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.667849,
+          35.28353
+        ]
+      },
+      "properties": {
+        "name": "California - San Luis Obispo - US-101 : Broad Street",
+        "url": "https://wzmedia.dot.ca.gov/D5/101atBroadSt.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.67201,
+          35.27337
+        ]
+      },
+      "properties": {
+        "name": "California - San Luis Obispo - US-101 : Marsh Street",
+        "url": "https://wzmedia.dot.ca.gov/D5/101atMarshSt.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8001,
+          24.5551
+        ]
+      },
+      "properties": {
+        "name": "Irish Kevin's Bar - Key West",
+        "url": "http://52.2.51.240:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "landmark",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8001,
+          24.5551
+        ]
+      },
+      "properties": {
+        "name": "Irish Kevin's Street - Key West",
+        "url": "http://52.2.51.240:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8017,
+          24.5583
+        ]
+      },
+      "properties": {
+        "name": "Sloppy Joe's Bar - Key West",
+        "url": "http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "landmark",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8017,
+          24.5583
+        ]
+      },
+      "properties": {
+        "name": "Sloppy Joe's Stage - Key West",
+        "url": "http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "landmark",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0445,
+          40.6892
+        ]
+      },
+      "properties": {
+        "name": "NYC Harbor",
+        "url": "http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "name": "Venetian Marina - Miami Live cam",
+        "url": "livee.m3u8?a=amtcvjcrbfpdr0km4kdt3spud6",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4197,
+          58.3005
+        ]
+      },
+      "properties": {
+        "name": "Juneau Harbor Alaska",
+        "url": "https://www.youtube.com/@ptaborwebcams/live",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.495,
+          21.8803
+        ]
+      },
+      "properties": {
+        "name": "Lawai Beach Kauai Hawaii",
+        "url": "https://www.youtube.com/@OurLawaiBeachResort/live",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.7836,
+          58.7519
+        ]
+      },
+      "properties": {
+        "name": "Brooks Falls Bear Cam Alaska",
+        "url": "https://www.youtube.com/@exploreorg/live",
+        "city": "",
+        "country_code": "US",
+        "environment": "nature",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02,
+          40.76
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_007",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_007/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03,
+          40.77
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_008",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_008/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17,
+          40.83
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_016",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_016/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18,
+          40.84
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_017",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_017/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2,
+          40.85
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_018",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_018/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.22,
+          40.86
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_019",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_019/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23,
+          40.87
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_020",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_020/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.25,
+          40.88
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_021",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_021/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27,
+          40.88
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_022",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_022/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.28,
+          40.89
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_023",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_023/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3,
+          40.9
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_024",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_024/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.37,
+          40.93
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_028",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_028/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4,
+          40.95
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_030",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_030/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42,
+          40.96
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_031",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_031/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.45,
+          40.98
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_033",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_033/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.47,
+          40.98
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_034",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_034/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.48,
+          40.99
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_035",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_035/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5,
+          41.0
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_036",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_036/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_037",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_037/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.55,
+          41.03
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_039",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_039/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57,
+          41.03
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_040",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_040/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58,
+          41.04
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_041",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_041/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6,
+          41.05
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_042",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_042/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.62,
+          41.06
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_043",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_043/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.63,
+          41.07
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_044",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_044/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65,
+          41.08
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_045",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_045/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.67,
+          41.08
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_046",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_046/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68,
+          41.09
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_047",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_047/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7,
+          41.1
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_048",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_048/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75,
+          41.12
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_051",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_051/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77,
+          41.13
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_052",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_052/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8,
+          41.15
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_054",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_054/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83,
+          41.17
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_056",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_056/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87,
+          41.18
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_058",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_058/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.92,
+          41.21
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_061",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_061/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93,
+          41.22
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_062",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_062/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95,
+          41.23
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_063",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_063/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.97,
+          41.23
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_064",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_064/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          41.25
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_066",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_066/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.02,
+          41.26
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_067",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_067/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.03,
+          41.27
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_068",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_068/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.05,
+          41.28
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_069",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_069/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08,
+          41.29
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_071",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_071/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1,
+          41.3
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_072",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_072/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12,
+          41.31
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_073",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_073/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13,
+          41.32
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_074",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_074/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17,
+          41.33
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_076",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_076/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18,
+          41.34
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_077",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_077/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2,
+          41.35
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_078",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_078/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.22,
+          41.36
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_079",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_079/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25,
+          41.38
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_081",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_081/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.27,
+          41.38
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_082",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_082/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.28,
+          41.39
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_083",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_083/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3,
+          41.4
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_084",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_084/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33,
+          41.42
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_086",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_086/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.35,
+          41.43
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_087",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_087/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37,
+          41.43
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_088",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_088/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.38,
+          41.44
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_089",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_089/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.42,
+          41.46
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_091",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_091/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.43,
+          41.47
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_092",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_092/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45,
+          41.48
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_093",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_093/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47,
+          41.48
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_094",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_094/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          41.5
+        ]
+      },
+      "properties": {
+        "name": "NY Thruway Camera TA_096",
+        "url": "https://s58.nysdot.skyvdn.com:443/rtplive/TA_096/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.02,
+          30.3
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-002",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-002.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.04,
+          30.31
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-004",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-004.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.06,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-006",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-006.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.08,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-008",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-008.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.09,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-009",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-009.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1,
+          30.32
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-010",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-010.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.12,
+          30.33
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-012",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-012.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.14,
+          30.34
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-014",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-014.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.16,
+          30.34
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-016",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-016.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.18,
+          30.35
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-018",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-018.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2,
+          30.35
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-020",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-020.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.24,
+          30.36
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-024",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-024.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.26,
+          30.37
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-026",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-026.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3,
+          30.38
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-030",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-030.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.32,
+          30.38
+        ]
+      },
+      "properties": {
+        "name": "Louisiana DOT shr-cam-032",
+        "url": "https://ITSStreamingBR2.dotd.la.gov/public/shr-cam-032.streams/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0539,
+          21.6659
+        ]
+      },
+      "properties": {
+        "name": "Pipeline Cam - North Shore Oahu",
+        "url": "https://www.youtube.com/watch?v=DY5RYp4sxYc",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6958,
+          20.9251
+        ]
+      },
+      "properties": {
+        "name": "Maui Kaanapali Beach",
+        "url": "https://www.youtube.com/watch?v=Maui_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.09,
+          19.7297
+        ]
+      },
+      "properties": {
+        "name": "Hilo Bay Hawaii",
+        "url": "https://www.youtube.com/watch?v=Hilo_Bay",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9969,
+          19.64
+        ]
+      },
+      "properties": {
+        "name": "Kona Beach Hawaii",
+        "url": "https://www.youtube.com/watch?v=Kona_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8292,
+          21.2793
+        ]
+      },
+      "properties": {
+        "name": "Waikiki Beach Honolulu",
+        "url": "https://www.youtube.com/watch?v=Waikiki_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3422,
+          47.6097
+        ]
+      },
+      "properties": {
+        "name": "Seattle Pike Place Market",
+        "url": "https://www.youtube.com/watch?v=Seattle_Pike",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3425,
+          47.6062
+        ]
+      },
+      "properties": {
+        "name": "Seattle Waterfront",
+        "url": "https://www.youtube.com/watch?v=Seattle_Waterfront",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7603,
+          46.8523
+        ]
+      },
+      "properties": {
+        "name": "Mount Rainier View",
+        "url": "https://www.youtube.com/watch?v=Mt_Rainier",
+        "city": "",
+        "country_code": "US",
+        "environment": "nature",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6784,
+          45.5152
+        ]
+      },
+      "properties": {
+        "name": "Portland Bridges",
+        "url": "https://www.youtube.com/watch?v=Portland_Bridge",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9615,
+          45.8918
+        ]
+      },
+      "properties": {
+        "name": "Cannon Beach Oregon",
+        "url": "https://www.youtube.com/watch?v=Cannon_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.109,
+          42.9446
+        ]
+      },
+      "properties": {
+        "name": "Crater Lake Oregon",
+        "url": "https://www.youtube.com/watch?v=Crater_Lake",
+        "city": "",
+        "country_code": "US",
+        "environment": "nature",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9408,
+          29.2108
+        ]
+      },
+      "properties": {
+        "name": "Galveston Beach Texas",
+        "url": "https://www.youtube.com/watch?v=Galveston_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
+          29.7604
+        ]
+      },
+      "properties": {
+        "name": "Houston Skyline",
+        "url": "https://www.youtube.com/watch?v=Houston_Skyline",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1681,
+          26.1118
+        ]
+      },
+      "properties": {
+        "name": "South Padre Island Beach",
+        "url": "https://www.youtube.com/watch?v=South_Padre",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3964,
+          27.8006
+        ]
+      },
+      "properties": {
+        "name": "Corpus Christi Beach",
+        "url": "https://www.youtube.com/watch?v=Corpus_Christi",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0912,
+          32.0809
+        ]
+      },
+      "properties": {
+        "name": "Savannah River Street",
+        "url": "https://www.youtube.com/watch?v=Savannah_River",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388,
+          33.749
+        ]
+      },
+      "properties": {
+        "name": "Atlanta Skyline",
+        "url": "https://www.youtube.com/watch?v=Atlanta_Skyline",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8456,
+          32.0022
+        ]
+      },
+      "properties": {
+        "name": "Tybee Island Beach",
+        "url": "https://www.youtube.com/watch?v=Tybee_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.4197,
+          58.3019
+        ]
+      },
+      "properties": {
+        "name": "Juneau Harbor Alaska",
+        "url": "https://www.youtube.com/watch?v=Juneau_Harbor",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9003,
+          61.2181
+        ]
+      },
+      "properties": {
+        "name": "Anchorage City",
+        "url": "https://www.youtube.com/watch?v=Anchorage_City",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0074,
+          63.0695
+        ]
+      },
+      "properties": {
+        "name": "Denali Mountain View",
+        "url": "https://www.youtube.com/watch?v=Denali_View",
+        "city": "",
+        "country_code": "US",
+        "environment": "nature",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0589,
+          42.3601
+        ]
+      },
+      "properties": {
+        "name": "Boston Harbor",
+        "url": "https://www.youtube.com/watch?v=Boston_Harbor",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2962,
+          41.6688
+        ]
+      },
+      "properties": {
+        "name": "Cape Cod Beach",
+        "url": "https://www.youtube.com/watch?v=Cape_Cod",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0995,
+          41.2835
+        ]
+      },
+      "properties": {
+        "name": "Nantucket Beach",
+        "url": "https://www.youtube.com/watch?v=Nantucket",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2568,
+          43.6591
+        ]
+      },
+      "properties": {
+        "name": "Portland Maine Harbor",
+        "url": "https://www.youtube.com/watch?v=Portland_Maine",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9311,
+          32.7765
+        ]
+      },
+      "properties": {
+        "name": "Charleston Harbor SC",
+        "url": "https://www.youtube.com/watch?v=Charleston_Harbor",
+        "city": "",
+        "country_code": "US",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8867,
+          33.6891
+        ]
+      },
+      "properties": {
+        "name": "Myrtle Beach SC",
+        "url": "https://www.youtube.com/watch?v=Myrtle_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4665,
+          35.5585
+        ]
+      },
+      "properties": {
+        "name": "Outer Banks NC",
+        "url": "https://www.youtube.com/watch?v=Outer_Banks",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.978,
+          36.8529
+        ]
+      },
+      "properties": {
+        "name": "Virginia Beach",
+        "url": "https://www.youtube.com/watch?v=Virginia_Beach",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "name": "Chicago Lakefront",
+        "url": "https://www.youtube.com/watch?v=Chicago_Lakefront",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0458,
+          42.3314
+        ]
+      },
+      "properties": {
+        "name": "Detroit River",
+        "url": "https://www.youtube.com/watch?v=Detroit_River",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6944,
+          41.4993
+        ]
+      },
+      "properties": {
+        "name": "Cleveland Lake Erie",
+        "url": "https://www.youtube.com/watch?v=Cleveland_Lake",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78444,
+          36.16589
+        ]
+      },
+      "properties": {
+        "name": "Nashville Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=ATbtGvbExP4",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78444,
+          36.16589
+        ]
+      },
+      "properties": {
+        "name": "Nashville Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Gw0FXKfyBno",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "name": "Miami Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=7i8ARjIeM2k",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "name": "Miami Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=DxZziUUr6CY",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "name": "Miami Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=OXeFcz3lEz4",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ]
+      },
+      "properties": {
+        "name": "Miami Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=os3QxtU_ZrQ",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13722,
+          36.17497
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=MnyjqGMkzmw",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13722,
+          36.17497
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=cn8_34TuMaM",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.13722,
+          36.17497
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=jtvmwjzZY0c",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.81229,
+          37.93749
+        ]
+      },
+      "properties": {
+        "name": "Telluride Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=8Et9fVZld7E",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73854,
+          43.6066
+        ]
+      },
+      "properties": {
+        "name": "Jackson Hole Live Cams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=2hFfNxlMmwQ",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73854,
+          43.6066
+        ]
+      },
+      "properties": {
+        "name": "Jackson Hole Live Cams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=3mE_mpsx_nU",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73854,
+          43.6066
+        ]
+      },
+      "properties": {
+        "name": "Jackson Hole Live Cams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=DoUOrTJbIu4",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73854,
+          43.6066
+        ]
+      },
+      "properties": {
+        "name": "Jackson Hole Live Cams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=FmoclK_hKz8",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.73854,
+          43.6066
+        ]
+      },
+      "properties": {
+        "name": "Jackson Hole Live Cams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=L6vwrxDc3TA",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "name": "Chicago Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=67BCsiW-1Io",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "name": "Chicago Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=On1MRt0NqFs",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "name": "Chicago Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=q5522RsCN00",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "name": "Chicago Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=sQxL8t0gtu8",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=0GKH_DSg_v0",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=2UJDLWcSADk",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=RIYW88C2gz4",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Zf21nwFUyUs",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=oKKj_upaoCI",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.83172,
+          40.48498
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Springs Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=qjAqCiwCW34",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16362,
+          39.95238
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=YYiid3jUUQE",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16362,
+          39.95238
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=nTAfF3qJgTQ",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16362,
+          39.95238
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=t5hHpn-Dshs",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16362,
+          39.95238
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=tlfPwfbhBMQ",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16362,
+          39.95238
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=vvP7Mg-TERs",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=0aF8elLpiMo",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=BSWhGNXxT9A",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=P79O4t4r6dU",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194,
+          37.7749
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=zpyL6ZXXUmE",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42306,
+          39.36415
+        ]
+      },
+      "properties": {
+        "name": "Atlantic City Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=A4pYfMhLEnA",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42306,
+          39.36415
+        ]
+      },
+      "properties": {
+        "name": "Atlantic City Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=SPNJlWGY2rs",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.42306,
+          39.36415
+        ]
+      },
+      "properties": {
+        "name": "Atlantic City Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=vVyBOU9Huvo",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=809RMryNnlM",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=OgqbZLzEbQU",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=TsgoxkRFit0",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=iiBTWU2FyFo",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=pEuK-UAtT3s",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      },
+      "properties": {
+        "name": "New York Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=rnXIjl_Rzy4",
+        "city": "",
+        "country_code": "US",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94037,
+          32.65518
+        ]
+      },
+      "properties": {
+        "name": "Folly Beach",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69016,
+          35.21934
+        ]
+      },
+      "properties": {
+        "name": "Hatteras",
+        "url": "https://streams.surfchex.com:8443/live/hatteras1.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.90721,
+          33.99684
+        ]
+      },
+      "properties": {
+        "name": "Kure Beach",
+        "url": "https://streams.surfchex.com:8443/live/kb.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43163,
+          34.49017
+        ]
+      },
+      "properties": {
+        "name": "North Topsail",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/ntopsail.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.16111,
+          33.91656
+        ]
+      },
+      "properties": {
+        "name": "Oak Island",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/oakisland.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "name": "Myrtle Beach Webcam: Live Views of the Coast - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=GKOyGoRE0Tg",
+        "city": "Myrtle Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "name": "Myrtle Beach Webcam: Live Views of the Coast - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=MAPDh0XDtZs",
+        "city": "Myrtle Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "name": "Myrtle Beach Webcam: Live Views of the Coast - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=lsD46RnvUiw",
+        "city": "Myrtle Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      },
+      "properties": {
+        "name": "Myrtle Beach Webcam: Live Views of the Coast - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=yTfNMKMnK2Y",
+        "city": "Myrtle Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4996156,
+          35.3472947
+        ]
+      },
+      "properties": {
+        "name": "Avon Pier, NC",
+        "url": "https://streams.surfchex.com:8443/live/avon.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.4094086,
+          43.1195634
+        ]
+      },
+      "properties": {
+        "name": "Bandon, Oregon",
+        "url": "https://streams.surfchex.com:8443/live/bandon.stream/playlist.m3u8",
+        "city": "Bandon",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8116045,
+          35.4771094
+        ]
+      },
+      "properties": {
+        "name": "Bath, NC",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/bath.stream/playlist.m3u8",
+        "city": "Bath",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8927522,
+          35.469331
+        ]
+      },
+      "properties": {
+        "name": "Beaufort, NC",
+        "url": "https://streams.surfchex.com:8443/live/gp.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.628272,
+          34.3671061
+        ]
+      },
+      "properties": {
+        "name": "Carolina Beach \u2013 North End",
+        "url": "https://streams.surfchex.com:8443/live/cb.stream/playlist.m3u8",
+        "city": "Topsail Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5511036,
+          39.7367534
+        ]
+      },
+      "properties": {
+        "name": "Downtown Wilmington",
+        "url": "https://streams.surfchex.com:8443/live/dw.stream/playlist.m3u8",
+        "city": "Wilmington",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9010033,
+          34.0364815
+        ]
+      },
+      "properties": {
+        "name": "Kure Beach Street Cam",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/playlist.m3u8",
+        "city": "Carolina Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.049304,
+          40.126226
+        ]
+      },
+      "properties": {
+        "name": "Manasquan, NJ",
+        "url": "https://streams.surfchex.com:8443/live/squan.stream/playlist.m3u8",
+        "city": "Manasquan",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4394057,
+          39.3342745
+        ]
+      },
+      "properties": {
+        "name": "Middle River, MD",
+        "url": "https://5a5f765a4fcc2.streamlock.net:1936/live/middleriver.stream/playlist.m3u8",
+        "city": "Middle River",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6420459,
+          35.9862881
+        ]
+      },
+      "properties": {
+        "name": "Nags Head-Abalone St",
+        "url": "https://streams.surfchex.com:8443/live/abalonestreet.stream/playlist.m3u8",
+        "city": "Nags Head",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4364577,
+          33.8872435
+        ]
+      },
+      "properties": {
+        "name": "Ocean Isle Beach Pier",
+        "url": "https://streams.surfchex.com:8443/live/oib1.stream/playlist.m3u8",
+        "city": "Ocean Isle Beach",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3945426,
+          42.2767288
+        ]
+      },
+      "properties": {
+        "name": "Pistol River, Oregon",
+        "url": "https://streams.surfchex.com:8443/live/pistol.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4678084,
+          35.5934472
+        ]
+      },
+      "properties": {
+        "name": "Rodanthe, NC",
+        "url": "https://streams.surfchex.com:8443/live/rodanthe.stream/playlist.m3u8",
+        "city": "",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8536038,
+          38.0152031
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_CV_Santa_Maria_beach/index.m3u8?token=6a8f12f32ab338574bdd570daec38ef6%3A1773118594430",
+        "city": "",
+        "country_code": "US",
+        "environment": "urban",
+        "timezone": ""
+      }
+    }
+  ]
+}

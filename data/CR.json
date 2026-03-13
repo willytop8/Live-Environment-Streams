@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7534,
+          9.7489
+        ]
+      },
+      "properties": {
+        "name": "Panorama of San Jos\u00e9 - Costa Rica Live cam",
+        "url": "livee.m3u8?a=ivs2jp3i6gplgu6rsik173npk4",
+        "city": "",
+        "country_code": "CR",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7534,
+          9.7489
+        ]
+      },
+      "properties": {
+        "name": "C\u00f3bano Airport Live cam",
+        "url": "livee.m3u8?a=1nn1ed1ivoar9bohknf545c5k6",
+        "city": "",
+        "country_code": "CR",
+        "environment": "harbor",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7534,
+          9.7489
+        ]
+      },
+      "properties": {
+        "name": "San Vicente - Costa Rica Live cam",
+        "url": "livee.m3u8?a=j9aje8nive23a8u9d1blgdh1l6",
+        "city": "",
+        "country_code": "CR",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16231,
+          9.43063
+        ]
+      },
+      "properties": {
+        "name": "Quepos beach",
+        "url": "https://edge01.balticlivecam.com/blc/p_CR_Quepos/index.m3u8?token=5d88227c75fafe55e54a0af902826cda%3A1773118603220",
+        "city": "",
+        "country_code": "CR",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

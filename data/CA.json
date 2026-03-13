@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207,
+          49.2827
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Webcams - SpotiCam",
+        "url": "https://www.youtube.com/channel/UCNOXlPIEg4nNvCqlInpKcXw/live",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207,
+          49.2827
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Webcams - SpotiCam",
+        "url": "https://www.youtube.com/channel/UCr7GtOadmMI2KMfei9yElxQ/live",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08529,
+          51.05011
+        ]
+      },
+      "properties": {
+        "name": "Calgary Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=2udtsRKecyw",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08529,
+          51.05011
+        ]
+      },
+      "properties": {
+        "name": "Calgary Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=xsRDTfuksyI",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.583,
+          46.25
+        ]
+      },
+      "properties": {
+        "name": "Mont Tremblant Camera - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=3LXQWU67Ufk",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://streamer2.brownrice.com/whistlervillage/whistlervillage.stream/main_playlist.m3u8",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fstreamer6.brownrice.com%2Fwhistlervillagefitz%2Fwhistlervillagefitz.stream%2Fmain_playlist.m3u8",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://www.spoticam.com/wp-content/themes/spoticam/pl.php?url=https%3A%2F%2Fstreamer2.brownrice.com%2Fwhistlervillage%2Fwhistlervillage.stream%2Fmain_playlist.m3u8",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=IEhDUXECe_k",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=JVQaZtahjwg",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95396,
+          50.11817
+        ]
+      },
+      "properties": {
+        "name": "Whistler Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Zyf8-rxl1jI",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.35,
+          56.13
+        ]
+      },
+      "properties": {
+        "name": "Toronto Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=axD_9MHqFts",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.35,
+          56.13
+        ]
+      },
+      "properties": {
+        "name": "Toronto Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=jwHkDXvIo10",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.56982,
+          51.17622
+        ]
+      },
+      "properties": {
+        "name": "Banff Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=HghxOQ12dy4",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.56982,
+          51.17622
+        ]
+      },
+      "properties": {
+        "name": "Banff Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Nk7sVL31cbE",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.56982,
+          51.17622
+        ]
+      },
+      "properties": {
+        "name": "Banff Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=R8hxzxRfJhs",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.56982,
+          51.17622
+        ]
+      },
+      "properties": {
+        "name": "Banff Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=urgoWZlqxMU",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53436,
+          52.80006
+        ]
+      },
+      "properties": {
+        "name": "Northern Light Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=AWqY7wLUWW8",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53436,
+          52.80006
+        ]
+      },
+      "properties": {
+        "name": "Northern Light Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=bOEvPL206Hc",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53436,
+          52.80006
+        ]
+      },
+      "properties": {
+        "name": "Northern Light Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=ccTVAhJU5lg",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53436,
+          52.80006
+        ]
+      },
+      "properties": {
+        "name": "Northern Light Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=dnlQtDad6Dk",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.53436,
+          52.80006
+        ]
+      },
+      "properties": {
+        "name": "Northern Light Webcam - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=w6vZFCz6cwo",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ]
+      },
+      "properties": {
+        "name": "Canmore Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=RdRmXqnBZ-c",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ]
+      },
+      "properties": {
+        "name": "Canmore Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=Rf7DljbjA-Q",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ]
+      },
+      "properties": {
+        "name": "Canmore Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=_0wPODlF9wU",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ]
+      },
+      "properties": {
+        "name": "Canmore Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=kC6_JqEt3GA",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35206,
+          51.08335
+        ]
+      },
+      "properties": {
+        "name": "Canmore Webcams - SpotiCam",
+        "url": "https://www.youtube.com/watch?v=qIOP6NJLlc8",
+        "city": "",
+        "country_code": "CA",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1256,
+          46.23459
+        ]
+      },
+      "properties": {
+        "name": "Charlottetown city center",
+        "url": "https://edge04.balticlivecam.com/blc/p_CAN_Charlottetown_center/index.m3u8?token=063862a7361e22488ac5c671e3f57b4b%3A1773118590642",
+        "city": "",
+        "country_code": "CA",
+        "environment": "street",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01637,
+          44.5168
+        ]
+      },
+      "properties": {
+        "name": "Wasaga beach seaside",
+        "url": "https://edge01.balticlivecam.com/blc/p_CA_Wasaga_beach_seaside/index.m3u8?token=d5ec561dc2eaf65dd492c6c779ad342f%3A1773118592796",
+        "city": "",
+        "country_code": "CA",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

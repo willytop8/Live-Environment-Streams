@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792,
+          6.5244
+        ]
+      },
+      "properties": {
+        "name": "Cordoama",
+        "url": "https://video-auth1.iol.pt/beachcam/cordoama/playlist.m3u8",
+        "city": "",
+        "country_code": "NG",
+        "environment": "beach",
+        "timezone": ""
+      }
+    }
+  ]
+}

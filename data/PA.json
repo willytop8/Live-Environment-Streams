@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5906,
+          8.996
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Miraflores Locks (Cam 1)",
+        "url": "https://videos.panama-canal.com/live/camera1/playlist.m3u8",
+        "city": "",
+        "country_code": "PA",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5906,
+          8.996
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Miraflores Locks (Cam 2)",
+        "url": "https://videos.panama-canal.com/live/camera2/playlist.m3u8",
+        "city": "",
+        "country_code": "PA",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92,
+          9.269
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Gatun Locks (Cam 3)",
+        "url": "https://videos.panama-canal.com/live/camera3/playlist.m3u8",
+        "city": "",
+        "country_code": "PA",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.92,
+          9.269
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Gatun Locks (Cam 4)",
+        "url": "https://videos.panama-canal.com/live/camera4/playlist.m3u8",
+        "city": "",
+        "country_code": "PA",
+        "environment": "traffic",
+        "timezone": ""
+      }
+    }
+  ]
+}

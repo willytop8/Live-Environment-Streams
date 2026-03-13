@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45,
+          11.18
+        ]
+      },
+      "properties": {
+        "name": "Philippines - El Nido Live cam",
+        "url": "livee.m3u8?a=ns8oieojbbgdav5vtqtmcntll4",
+        "city": "",
+        "country_code": "PH",
+        "environment": "webcam",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45,
+          11.18
+        ]
+      },
+      "properties": {
+        "name": "Philippines - El Nido",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hir3tarfqkbiddl8o34jiss3g2",
+        "city": "",
+        "country_code": "PH",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

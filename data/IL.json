@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.94821,
+          29.55805
+        ]
+      },
+      "properties": {
+        "name": "Almog beach",
+        "url": "https://edge01.balticlivecam.com/blc/p_ISR_Almog_beach_Eilat/index.m3u8?token=79b3b798c1254289cffe5f9448d1b640:1773119165952",
+        "city": "",
+        "country_code": "IL",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9885,
+          32.81841
+        ]
+      },
+      "properties": {
+        "name": "Bat Galim beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Bat_Galim_beach_Haifa/index.m3u8?token=c6917c8af5e6426ddc456bddd5ec3b46%3A1773118444751",
+        "city": "",
+        "country_code": "IL",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.90459,
+          32.51888
+        ]
+      },
+      "properties": {
+        "name": "Caesarea beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Caesarea_beach/index.m3u8?token=482c1860a23ddfebc8a4610b7aad76c7:1773119163601",
+        "city": "",
+        "country_code": "IL",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78057,
+          32.08088
+        ]
+      },
+      "properties": {
+        "name": "Hilton Beach",
+        "url": "https://edge01.balticlivecam.com/blc/p_ISR_Tel_Aviv_Hilton_beach/index.m3u8?token=5ee0633e6acdcbd0663eecbe0e53a7e1%3A1773118438094",
+        "city": "",
+        "country_code": "IL",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85992,
+          32.33291
+        ]
+      },
+      "properties": {
+        "name": "Poleg beach",
+        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Netanya_Poleg_beach/index.m3u8?token=8bf27d47a2fecb5e047eed405931b957%3A1773118446535",
+        "city": "",
+        "country_code": "IL",
+        "environment": "beach",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78057,
+          32.08088
+        ]
+      },
+      "properties": {
+        "name": "Tel Aviv",
+        "url": "https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=07db8f73f171d6b98427225fdd6fe2e6%3A1773118435441",
+        "city": "",
+        "country_code": "IL",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}

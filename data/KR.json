@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0,
+          37.51
+        ]
+      },
+      "properties": {
+        "name": "Seoul Han River - Banpo Bridge 4K",
+        "url": "https://www.youtube.com/@dailyseoul/live",
+        "city": "",
+        "country_code": "KR",
+        "environment": "city",
+        "timezone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.998,
+          37.534
+        ]
+      },
+      "properties": {
+        "name": "Seoul UN Village - Han River 4K",
+        "url": "https://www.youtube.com/@UNvillage_live/live",
+        "city": "",
+        "country_code": "KR",
+        "environment": "city",
+        "timezone": ""
+      }
+    }
+  ]
+}
