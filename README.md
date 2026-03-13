@@ -1,6 +1,7 @@
 # Live Environment Streams
 
-A curated, agent-optimized master repository of live outdoor webcams across the globe.
+A curated, agent-optimized master repository of live outdoor webcams across the globe. 
+(Originally created to make https://www.twitch.tv/alwaysrainsomewhere)
 
 ## Usage for Computer Vision
 This repository provides immediate access to real-time streams, allowing AI models, agents, and computer vision pipelines to continuously gather environmental data. 
