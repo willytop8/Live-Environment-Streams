@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.8175826,
-          61.8348155
+          -6.77,
+          62.01
         ]
       },
       "properties": {
-        "name": "Sandur",
-        "url": "https://edge01.balticlivecam.com/blc/p_Faroe_Sandur/index.m3u8?token=1b47b42bffceb2ecd588979709435e9b%3A1773118640991",
-        "city": "Sandur",
+        "name": "Eystur - Sydrugota",
+        "url": "https://www.skylinewebcams.com/en/webcam/faroe-islands/eysturoy/eystur/sydrugota.html",
+        "display_name": "Eystur - Sydrugota",
         "country_code": "FO",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

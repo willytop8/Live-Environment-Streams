@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05,
+          18.04
+        ]
+      },
+      "properties": {
+        "name": "Philipsburg - Great Bay Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/philipsburg/great-bay-beach.html",
+        "display_name": "Philipsburg - Great Bay Beach",
+        "country_code": "SX",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05,
+          18.04
+        ]
+      },
+      "properties": {
+        "name": "Simpson Bay - Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/beach.html",
+        "display_name": "Simpson Bay - Beach",
+        "country_code": "SX",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05,
+          18.04
+        ]
+      },
+      "properties": {
+        "name": "Simpson Bay - Maho Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/maho-beach.html",
+        "display_name": "Simpson Bay - Maho Beach",
+        "country_code": "SX",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05,
+          18.04
+        ]
+      },
+      "properties": {
+        "name": "Simpson Bay - Princess Juliana International Airport",
+        "url": "https://www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/princess-juliana-international-airport.html",
+        "display_name": "Simpson Bay - Princess Juliana International Airport",
+        "country_code": "SX",
+        "environment": "transport",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.05,
+          18.04
+        ]
+      },
+      "properties": {
+        "name": "Simpson Bay - Sunset Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sint-maarten/saint-martin/simpson-bay/sunset-beach.html",
+        "display_name": "Simpson Bay - Sunset Beach",
+        "country_code": "SX",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}

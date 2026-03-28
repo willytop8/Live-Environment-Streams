@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6167,
+          13.0975
+        ]
+      },
+      "properties": {
+        "name": "Bridgetown - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/barbados/saint-michael/bridgetown/port.html",
+        "display_name": "Bridgetown - Port",
+        "country_code": "BB",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61,
+          13.09
+        ]
+      },
+      "properties": {
+        "name": "Silver Rock Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-rock-beach/silver-rock-beach.html",
+        "display_name": "Silver Rock Beach",
+        "country_code": "BB",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61,
+          13.09
+        ]
+      },
+      "properties": {
+        "name": "Silver Sands",
+        "url": "https://www.skylinewebcams.com/en/webcam/barbados/christ-church/silver-sands/silver-sands.html",
+        "display_name": "Silver Sands",
+        "country_code": "BB",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

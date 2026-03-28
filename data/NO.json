@@ -6,269 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3221,
-          60.3913
+          10.75,
+          59.91
         ]
       },
       "properties": {
-        "name": "Bergen Harbor",
-        "url": "https://www.youtube.com/watch?v=9Cqk4Nh0hNw",
-        "city": "",
+        "name": "Beitostolen - Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/beitostolen/ski-area.html",
+        "display_name": "Beitostolen - Ski Area",
         "country_code": "NO",
-        "environment": "harbor",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.7522,
-          59.9139
-        ]
-      },
-      "properties": {
-        "name": "Oslo City",
-        "url": "https://www.youtube.com/watch?v=Hn8L5qYpqPQ",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.9553,
-          69.6492
-        ]
-      },
-      "properties": {
-        "name": "Troms\u00f8 Northern Lights",
-        "url": "https://www.youtube.com/watch?v=7xH7eGFuSYU",
-        "city": "",
-        "country_code": "NO",
-        "environment": "nature",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4689,
-          60.472
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - S\u00f8rv\u00e5gen Live cam",
-        "url": "livee.m3u8?a=jrqr0oafiulfieh0oo7uk4v056",
-        "city": "",
-        "country_code": "NO",
-        "environment": "webcam",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4689,
-          60.472
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - Reinefjord Live cam",
-        "url": "livee.m3u8?a=9tkb8b7irfvmsve6pvv2il35f0",
-        "city": "",
-        "country_code": "NO",
-        "environment": "webcam",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4689,
-          60.472
-        ]
-      },
-      "properties": {
-        "name": "Sandefjord - Norway Live cam",
-        "url": "livee.m3u8?a=0lv9ns6p5jvce1iq805otghno2",
-        "city": "",
-        "country_code": "NO",
-        "environment": "webcam",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4689,
-          60.472
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - Henningsv\u00e6r Live cam",
-        "url": "livee.m3u8?a=dabhv6l889622og7ukrrprr8l6",
-        "city": "",
-        "country_code": "NO",
-        "environment": "webcam",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4689,
-          60.472
-        ]
-      },
-      "properties": {
-        "name": "Troms\u00f8 - Norway Live cam",
-        "url": "livee.m3u8?a=vt62irft10f7sjb4edlp160at0",
-        "city": "",
-        "country_code": "NO",
-        "environment": "webcam",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.24,
-          60.56
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - Hamn\u00f8y",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4ifi9dfjm76pc2meg613eph8l2",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.31,
-          59.69
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - Henningsv\u00e6r",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7sruvomamc0uqtah2m8bk4cti0",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.89,
-          60.32
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - Reinefjord",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0lbe91l2djsbivo4jvgpqsloj6",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.24,
-          61.0
-        ]
-      },
-      "properties": {
-        "name": "Lofoten Islands - S\u00f8rv\u00e5gen",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=drlc5uipoc0pv6sn1mastmgfk2",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.73,
-          60.46
-        ]
-      },
-      "properties": {
-        "name": "Silsand - Senja",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3obnbusquv81qj0jar7thd7ku1",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.9353,
-          69.6852
-        ]
-      },
-      "properties": {
-        "name": "Troms\u00f8 - Norway",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4sa6io3i0rk309mh2gjlqu9ln3",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.1966,
-          59.1384
-        ]
-      },
-      "properties": {
-        "name": "Sandefjord - Norway",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2kbufnekv234fugas12qi37j05",
-        "city": "",
-        "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
       }
     },
     {
@@ -283,10 +33,1792 @@
       "properties": {
         "name": "Bergen",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=bd6att371venlq7jdmf76h7ho0",
-        "city": "",
+        "display_name": "Bergen, Norway",
         "country_code": "NO",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3221,
+          60.3913
+        ]
+      },
+      "properties": {
+        "name": "Bergen Harbor",
+        "url": "https://www.youtube.com/watch?v=9Cqk4Nh0hNw",
+        "display_name": "Bergen Harbor, Norway",
+        "country_code": "NO",
+        "environment": "harbor",
+        "source_family": "youtube",
+        "quality_tier": "standard",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Bodo",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/bodo/bodo.html",
+        "display_name": "Bodo",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Bodo - Saltstraumen",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/bodo/saltstraumen.html",
+        "display_name": "Bodo - Saltstraumen",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Bryggja Deer Farm",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/bryggja/bryggja-deer-farm.html",
+        "display_name": "Bryggja Deer Farm",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Bud",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/bud/bud.html",
+        "display_name": "Bud",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Geiranger",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/geiranger.html",
+        "display_name": "Geiranger",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Geiranger - Marina",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/marina.html",
+        "display_name": "Geiranger - Marina",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Geiranger Cruise Pier",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/geiranger-cruise-pier.html",
+        "display_name": "Geiranger Cruise Pier",
+        "country_code": "NO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Geirangerfjord Cruise Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/geirangerfjord-cruise-port.html",
+        "display_name": "Geirangerfjord Cruise Port",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Hafjell Alpinsenter",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/hafjell/hafjell-alpinsenter.html",
+        "display_name": "Hafjell Alpinsenter",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Halsnoy",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/halsnoy/halsnoy.html",
+        "display_name": "Halsnoy",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0078,
+          34.0181
+        ]
+      },
+      "properties": {
+        "name": "Hammerfest - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/hammerfest/port.html",
+        "display_name": "Hammerfest - Port",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Harstad",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/harstad.html",
+        "display_name": "Harstad",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Harstad - Grytoya",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/grytoya.html",
+        "display_name": "Harstad - Grytoya",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Harstad - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/panorama.html",
+        "display_name": "Harstad - Panorama",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Harstad - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/port.html",
+        "display_name": "Harstad - Port",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Hellesylt",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/hellesylt/hellesylt.html",
+        "display_name": "Hellesylt",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Jorpeland",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/rogaland/jorpeland/jorpeland.html",
+        "display_name": "Jorpeland",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Kristiansund",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/kristiansund/kristiansund.html",
+        "display_name": "Kristiansund",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Kristiansund - City",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/kristiansund/city.html",
+        "display_name": "Kristiansund - City",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5709,
+          68.2313
+        ]
+      },
+      "properties": {
+        "name": "Lofoten - Hamnoy",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/hamnoy.html",
+        "display_name": "Lofoten - Hamnoy",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5709,
+          68.2313
+        ]
+      },
+      "properties": {
+        "name": "Lofoten - Henningsvaer",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/henningsvaer.html",
+        "display_name": "Lofoten - Henningsvaer",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5709,
+          68.2313
+        ]
+      },
+      "properties": {
+        "name": "Lofoten - Reine",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/reine.html",
+        "display_name": "Lofoten - Reine",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5709,
+          68.2313
+        ]
+      },
+      "properties": {
+        "name": "Lofoten - Sorvagen",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/sorvagen.html",
+        "display_name": "Lofoten - Sorvagen",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24,
+          60.56
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Hamnøy",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4ifi9dfjm76pc2meg613eph8l2",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31,
+          59.69
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Henningsvær",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7sruvomamc0uqtah2m8bk4cti0",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Henningsvær Live cam",
+        "url": "livee.m3u8?a=dabhv6l889622og7ukrrprr8l6",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89,
+          60.32
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Reinefjord",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=0lbe91l2djsbivo4jvgpqsloj6",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Reinefjord Live cam",
+        "url": "livee.m3u8?a=9tkb8b7irfvmsve6pvv2il35f0",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24,
+          61.0
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Sørvågen",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=drlc5uipoc0pv6sn1mastmgfk2",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Lofoten Islands - Sørvågen Live cam",
+        "url": "livee.m3u8?a=jrqr0oafiulfieh0oo7uk4v056",
+        "display_name": "Lofoten Islands, Norway",
+        "country_code": "NO",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Maloy",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/maloy/maloy.html",
+        "display_name": "Maloy",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Molde",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/molde/molde.html",
+        "display_name": "Molde",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Narvik - Marina",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/narvik/marina.html",
+        "display_name": "Narvik - Marina",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Narvikfjellet",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/narvik/narvikfjellet.html",
+        "display_name": "Narvikfjellet",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Nordfjordeid",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/nordfjordeid/nordfjordeid.html",
+        "display_name": "Nordfjordeid",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Nordkapp - Honningsvag",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/nordkapp/honningsvag.html",
+        "display_name": "Nordkapp - Honningsvag",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4833,
+          60.4167
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E16 Arnatveit",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1203",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4833,
+          60.4167
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E16 Arnatveit",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1203&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3497,
+          60.3679
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E39 Danmarksplass",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1201",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3497,
+          60.3679
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E39 Danmarksplass",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1201&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3325,
+          60.3897
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E39 Nygårdstangen",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1202",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3325,
+          60.3897
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen E39 Nygårdstangen",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1202&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.35,
+          60.35
+        ]
+      },
+      "properties": {
+        "name": "Norway - Bergen Fv580 Fjøsanger",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1204",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1167,
+          61.1833
+        ]
+      },
+      "properties": {
+        "name": "Norway - Filefjell E16",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5001",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1167,
+          61.1833
+        ]
+      },
+      "properties": {
+        "name": "Norway - Filefjell E16",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5001&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          60.5333
+        ]
+      },
+      "properties": {
+        "name": "Norway - Hardangervidda Rv7",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5003",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          60.5333
+        ]
+      },
+      "properties": {
+        "name": "Norway - Hardangervidda Rv7",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5003&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5667,
+          60.8667
+        ]
+      },
+      "properties": {
+        "name": "Norway - Hemsedalsfjellet E52",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5002",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5667,
+          60.8667
+        ]
+      },
+      "properties": {
+        "name": "Norway - Hemsedalsfjellet E52",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=5002&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7178,
+          58.8942
+        ]
+      },
+      "properties": {
+        "name": "Norway - Stavanger E39 Forus",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1101",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7178,
+          58.8942
+        ]
+      },
+      "properties": {
+        "name": "Norway - Stavanger E39 Forus",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1101&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7,
+          58.95
+        ]
+      },
+      "properties": {
+        "name": "Norway - Stavanger E39 Tjensvoll",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1102",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9551,
+          69.6489
+        ]
+      },
+      "properties": {
+        "name": "Norway - Tromsø E8",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1901",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9551,
+          69.6489
+        ]
+      },
+      "properties": {
+        "name": "Norway - Tromsø E8",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1901&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3933,
+          63.4097
+        ]
+      },
+      "properties": {
+        "name": "Norway - Trondheim E6 Sluppen",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1601",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3933,
+          63.4097
+        ]
+      },
+      "properties": {
+        "name": "Norway - Trondheim E6 Sluppen",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1601&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1549,
+          62.4722
+        ]
+      },
+      "properties": {
+        "name": "Norway - Ålesund E136",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1501",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1549,
+          62.4722
+        ]
+      },
+      "properties": {
+        "name": "Norway - Ålesund E136",
+        "url": "https://webkamera.atlas.vegvesen.no/public/kamera?telefonkode=1501&telefonkode2=&telefonkode3=&telefonkode4=",
+        "display_name": "Norway",
+        "country_code": "NO",
+        "environment": "traffic",
+        "source_family": "vegvesen",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Orsta - Hjorundfjorden",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/orsta/hjorundfjorden.html",
+        "display_name": "Orsta - Hjorundfjorden",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "name": "Oslo",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/oslo/oslo.html",
+        "display_name": "Oslo",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "name": "Oslo - Skimore",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/oslo/skimore.html",
+        "display_name": "Oslo - Skimore",
+        "country_code": "NO",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522,
+          59.9139
+        ]
+      },
+      "properties": {
+        "name": "Oslo City",
+        "url": "https://www.youtube.com/watch?v=Hn8L5qYpqPQ",
+        "display_name": "Oslo City, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Rauland - Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/rauland/ski-area.html",
+        "display_name": "Rauland - Ski Area",
+        "country_code": "NO",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Rotsund - Northern Lights",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/rotsund/northern-lights.html",
+        "display_name": "Rotsund - Northern Lights",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Saebovik - Sabovik",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/saebovik/sabovik.html",
+        "display_name": "Saebovik - Sabovik",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord - Harbor Bjerggata",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/vestfold/sandefjord/harbor-bjerggata.html",
+        "display_name": "Sandefjord - Harbor Bjerggata",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1966,
+          59.1384
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord - Norway",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2kbufnekv234fugas12qi37j05",
+        "display_name": "Sandefjord",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord - Norway Live cam",
+        "url": "livee.m3u8?a=0lv9ns6p5jvce1iq805otghno2",
+        "display_name": "Sandefjord",
+        "country_code": "NO",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Sandefjord Harbor",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/vestfold/sandefjord/sandefjord-harbor.html",
+        "display_name": "Sandefjord Harbor",
+        "country_code": "NO",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Sandnes - Dale",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/rogaland/sandnes/dale.html",
+        "display_name": "Sandnes - Dale",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Selje",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/selje/selje.html",
+        "display_name": "Selje",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Senja - Silsand",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/senja/silsand.html",
+        "display_name": "Senja - Silsand",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73,
+          60.46
+        ]
+      },
+      "properties": {
+        "name": "Silsand - Senja",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=3obnbusquv81qj0jar7thd7ku1",
+        "display_name": "Silsand, Norway",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Skarsvag North Cape",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/skarsvag/skarsvag-north-cape.html",
+        "display_name": "Skarsvag North Cape",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Smola",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/smola/smola.html",
+        "display_name": "Smola",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Sor Varanger - Kirkenes",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/sor-varanger/kirkenes.html",
+        "display_name": "Sor Varanger - Kirkenes",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Sor Varanger - Kirkenes Bokfjorden",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/sor-varanger/kirkenes-bokfjorden.html",
+        "display_name": "Sor Varanger - Kirkenes Bokfjorden",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Stad - Vestkapp",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/stad/vestkapp.html",
+        "display_name": "Stad - Vestkapp",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331,
+          58.97
+        ]
+      },
+      "properties": {
+        "name": "Stavanger",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/rogaland/stavanger/stavanger.html",
+        "display_name": "Stavanger",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Tjeldsund",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/tjeldsund/tjeldsund.html",
+        "display_name": "Tjeldsund",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Tromso",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/tromso/tromso.html",
+        "display_name": "Tromso",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Tromso - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/tromso/panorama.html",
+        "display_name": "Tromso - Panorama",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9353,
+          69.6852
+        ]
+      },
+      "properties": {
+        "name": "Tromsø - Norway",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4sa6io3i0rk309mh2gjlqu9ln3",
+        "display_name": "Tromsø",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4689,
+          60.472
+        ]
+      },
+      "properties": {
+        "name": "Tromsø - Norway Live cam",
+        "url": "livee.m3u8?a=vt62irft10f7sjb4edlp160at0",
+        "display_name": "Tromsø",
+        "country_code": "NO",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9553,
+          69.6492
+        ]
+      },
+      "properties": {
+        "name": "Tromsø Northern Lights",
+        "url": "https://www.youtube.com/watch?v=7xH7eGFuSYU",
+        "display_name": "Tromsø Northern Lights, Norway",
+        "country_code": "NO",
+        "environment": "nature",
+        "source_family": "youtube",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3951,
+          63.4305
+        ]
+      },
+      "properties": {
+        "name": "Trondheim",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/trondelag/trondheim/trondheim.html",
+        "display_name": "Trondheim",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Tysfjord",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/tysfjord/tysfjord.html",
+        "display_name": "Tysfjord",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.91
+        ]
+      },
+      "properties": {
+        "name": "Voss - Myrkdalen",
+        "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/voss/myrkdalen.html",
+        "display_name": "Voss - Myrkdalen",
+        "country_code": "NO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

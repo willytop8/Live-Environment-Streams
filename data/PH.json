@@ -6,17 +6,399 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.45,
-          11.18
+          120.98,
+          14.6
         ]
       },
       "properties": {
-        "name": "Philippines - El Nido Live cam",
-        "url": "livee.m3u8?a=ns8oieojbbgdav5vtqtmcntll4",
-        "city": "",
+        "name": "Bulusan Volcano",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/bicol/bulusan/bulusan-volcano.html",
+        "display_name": "Bulusan Volcano",
         "country_code": "PH",
-        "environment": "webcam",
-        "timezone": ""
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Agdao Wilfredo Aquino Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/agdao-wilfredo-aquino-street.html",
+        "display_name": "Davao Del Sur - Agdao Wilfredo Aquino Street",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Barber Shop",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/barber-shop.html",
+        "display_name": "Davao Del Sur - Barber Shop",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Benboys Motor Bike Shop",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/benboys-motor-bike-shop.html",
+        "display_name": "Davao Del Sur - Benboys Motor Bike Shop",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Boy Sayong Store",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/boy-sayong-store.html",
+        "display_name": "Davao Del Sur - Boy Sayong Store",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Coreas Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/coreas-street.html",
+        "display_name": "Davao Del Sur - Coreas Street",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Davao City",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city.html",
+        "display_name": "Davao Del Sur - Davao City",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Davao City Agdao",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city-agdao.html",
+        "display_name": "Davao Del Sur - Davao City Agdao",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Davao City Soliman Crossing",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city-soliman-crossing.html",
+        "display_name": "Davao Del Sur - Davao City Soliman Crossing",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Davao Market",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-market.html",
+        "display_name": "Davao Del Sur - Davao Market",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Lyns Sisig Beef",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/lyns-sisig-beef.html",
+        "display_name": "Davao Del Sur - Lyns Sisig Beef",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Lyns Sisig Beef Bbq",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/lyns-sisig-beef-bbq.html",
+        "display_name": "Davao Del Sur - Lyns Sisig Beef Bbq",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Market Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/market-area.html",
+        "display_name": "Davao Del Sur - Market Area",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Public Market",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/public-market.html",
+        "display_name": "Davao Del Sur - Public Market",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Rosemary Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/rosemary-street.html",
+        "display_name": "Davao Del Sur - Rosemary Street",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Roxas Avenue",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/roxas-avenue.html",
+        "display_name": "Davao Del Sur - Roxas Avenue",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Stores",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/stores.html",
+        "display_name": "Davao Del Sur - Stores",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Streets",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/streets.html",
+        "display_name": "Davao Del Sur - Streets",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Davao Del Sur - Tyre Repair Shop",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/tyre-repair-shop.html",
+        "display_name": "Davao Del Sur - Tyre Repair Shop",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.98,
+          14.6
+        ]
+      },
+      "properties": {
+        "name": "Palawan - El Nido",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/mimaropa/palawan/el-nido.html",
+        "display_name": "Palawan - El Nido",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -31,10 +413,52 @@
       "properties": {
         "name": "Philippines - El Nido",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hir3tarfqkbiddl8o34jiss3g2",
-        "city": "",
+        "display_name": "Philippines",
         "country_code": "PH",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.45,
+          11.18
+        ]
+      },
+      "properties": {
+        "name": "Philippines - El Nido Live cam",
+        "url": "livee.m3u8?a=ns8oieojbbgdav5vtqtmcntll4",
+        "display_name": "Philippines",
+        "country_code": "PH",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.774,
+          12.8797
+        ]
+      },
+      "properties": {
+        "name": "Philippines Webcams Hub - SkylineWebcams",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines.html",
+        "display_name": "Philippines Webcams Hub - SkylineWebcams",
+        "country_code": "PH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
       }
     }
   ]

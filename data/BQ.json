@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.26,
+          12.2
+        ]
+      },
+      "properties": {
+        "name": "Kralendijk - Bonaire",
+        "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html",
+        "display_name": "Kralendijk - Bonaire",
+        "country_code": "BQ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.26,
+          12.2
+        ]
+      },
+      "properties": {
+        "name": "Kralendijk - Coral Reef Underwater Cam",
+        "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/coral-reef-underwater-cam.html",
+        "display_name": "Kralendijk - Coral Reef Underwater Cam",
+        "country_code": "BQ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.26,
+          12.2
+        ]
+      },
+      "properties": {
+        "name": "Kralendijk - Sorobon Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/sorobon-beach.html",
+        "display_name": "Kralendijk - Sorobon Beach",
+        "country_code": "BQ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}

@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.06,
-          9.48
+          100.5018,
+          13.7563
         ]
       },
       "properties": {
-        "name": "Lamai - Koh Samui Live cam",
-        "url": "livee.m3u8?a=4dk7cgea062b6mu6ji07jnjli6",
-        "city": "",
+        "name": "Bangkok - Petchaburi Road",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/petchaburi-road.html",
+        "display_name": "Bangkok - Petchaburi Road",
         "country_code": "TH",
-        "environment": "webcam",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -24,17 +26,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.06,
-          9.54
+          100.5018,
+          13.7563
         ]
       },
       "properties": {
-        "name": "Choengmon Beach - Thailand Live cam",
-        "url": "livee.m3u8?a=gtkof5bjieq86gq7672o4a0ll1",
-        "city": "",
+        "name": "Bangkok - Sukhumvit",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/sukhumvit.html",
+        "display_name": "Bangkok - Sukhumvit",
         "country_code": "TH",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      },
+      "properties": {
+        "name": "Bangkok - Sukhumvit Road",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/sukhumvit-road.html",
+        "display_name": "Bangkok - Sukhumvit Road",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -49,10 +73,452 @@
       "properties": {
         "name": "Choengmon Beach - Thailand",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ddpuc25jt7lkptlofqddj78at2",
-        "city": "",
+        "display_name": "Choengmon Beach",
         "country_code": "TH",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.54
+        ]
+      },
+      "properties": {
+        "name": "Choengmon Beach - Thailand Live cam",
+        "url": "livee.m3u8?a=gtkof5bjieq86gq7672o4a0ll1",
+        "display_name": "Choengmon Beach",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Haad Rin",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/koh-phangan/haad-rin/haad-rin.html",
+        "display_name": "Haad Rin",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Bangrak",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/bangrak.html",
+        "display_name": "Ko Samui - Bangrak",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Banyan Food Market",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/banyan-food-market.html",
+        "display_name": "Ko Samui - Banyan Food Market",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Black Pearl",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/black-pearl.html",
+        "display_name": "Ko Samui - Black Pearl",
+        "country_code": "TH",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Bondi Lamai",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/bondi-lamai.html",
+        "display_name": "Ko Samui - Bondi Lamai",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Chaweng City",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chaweng-city.html",
+        "display_name": "Ko Samui - Chaweng City",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Chaweng Soi Green Mango",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chaweng-soi-green-mango.html",
+        "display_name": "Ko Samui - Chaweng Soi Green Mango",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Choengmon Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/choengmon-beach.html",
+        "display_name": "Ko Samui - Choengmon Beach",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Chong Mon Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chong-mon-beach.html",
+        "display_name": "Ko Samui - Chong Mon Beach",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Koh Samui Baobab",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/koh-samui-baobab.html",
+        "display_name": "Ko Samui - Koh Samui Baobab",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Koh Samui Village Bophut",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/koh-samui-village-bophut.html",
+        "display_name": "Ko Samui - Koh Samui Village Bophut",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Lamai",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/lamai.html",
+        "display_name": "Ko Samui - Lamai",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Lamai Banyan Tree Samui",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/lamai-banyan-tree-samui.html",
+        "display_name": "Ko Samui - Lamai Banyan Tree Samui",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Resort",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/resort.html",
+        "display_name": "Ko Samui - Resort",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Teddy Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/teddy-beach.html",
+        "display_name": "Ko Samui - Teddy Beach",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - The Palms Chaweng",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/the-palms-chaweng.html",
+        "display_name": "Ko Samui - The Palms Chaweng",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui - Two Palms Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/two-palms-beach.html",
+        "display_name": "Ko Samui - Two Palms Beach",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui Chaweng",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/ko-samui-chaweng.html",
+        "display_name": "Ko Samui Chaweng",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Ko Samui Crystal Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/ko-samui-crystal-bay.html",
+        "display_name": "Ko Samui Crystal Bay",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Koh Tao - Mae Haad Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/koh-tao/mae-haad-bay.html",
+        "display_name": "Koh Tao - Mae Haad Bay",
+        "country_code": "TH",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52,
+          13.75
+        ]
+      },
+      "properties": {
+        "name": "Koh Tao Island",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/koh-phangan/koh-tao/koh-tao-island.html",
+        "display_name": "Koh Tao Island",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -67,10 +533,532 @@
       "properties": {
         "name": "Lamai - Koh Samui",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=tvbdvn887cjmlujpvtg5un4pr4",
-        "city": "",
+        "display_name": "Lamai, Thailand",
         "country_code": "TH",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.06,
+          9.48
+        ]
+      },
+      "properties": {
+        "name": "Lamai - Koh Samui Live cam",
+        "url": "livee.m3u8?a=4dk7cgea062b6mu6ji07jnjli6",
+        "display_name": "Lamai, Thailand",
+        "country_code": "TH",
+        "environment": "webcam",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8825,
+          12.9236
+        ]
+      },
+      "properties": {
+        "name": "Pattaya - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/panorama.html",
+        "display_name": "Pattaya - Panorama",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8825,
+          12.9236
+        ]
+      },
+      "properties": {
+        "name": "Pattaya - Soi Buakhao",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/soi-buakhao.html",
+        "display_name": "Pattaya - Soi Buakhao",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.8825,
+          12.9236
+        ]
+      },
+      "properties": {
+        "name": "Pattaya - Walking Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/walking-street.html",
+        "display_name": "Pattaya - Walking Street",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3923,
+          7.8804
+        ]
+      },
+      "properties": {
+        "name": "Phuket - Nanai Road",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/kathu-district/phuket/nanai-road.html",
+        "display_name": "Phuket - Nanai Road",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3923,
+          7.8804
+        ]
+      },
+      "properties": {
+        "name": "Phuket - Sainamyen Road",
+        "url": "https://www.skylinewebcams.com/en/webcam/thailand/kathu-district/phuket/sainamyen-road.html",
+        "display_name": "Phuket - Sainamyen Road",
+        "country_code": "TH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52788,
+          13.827772
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - Big C วงศ์สว่าง",
+        "url": "https://camerai1.iticfoundation.org/hls/charlie-new-tran-10.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.527849,
+          13.828683
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - MRT วงศ์สว่าง",
+        "url": "https://camerai1.iticfoundation.org/hls/charlie-new-tran-9.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.552203,
+          13.72309
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ถ.พระราม4 แยกทางด่วนพระราม4",
+        "url": "https://camera1.iticfoundation.org/hls/10.8.0.14_8002.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.553284,
+          13.72257
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ทางด่วน แยกทางด่วนพระราม4",
+        "url": "https://camera1.iticfoundation.org/hls/10.8.0.14_8003.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.539016,
+          13.794136
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ทางพิเศษศรีรัชด้านใต้ถนนกำแพงเพชร",
+        "url": "https://camera1.iticfoundation.org/hls/10.8.0.19_8801.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.539249,
+          13.830396
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ประชานุกูลไปต่างระดับรัชวิภา",
+        "url": "https://camerai1.iticfoundation.org/hls/cl210-d.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.538049,
+          13.830535
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ประชานุกูลไปวงศ์สว่าง",
+        "url": "https://camerai1.iticfoundation.org/hls/cl212-d.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53918,
+          13.831026
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - ประชานุกูลไปแยกประชานิเวศน์",
+        "url": "https://camerai1.iticfoundation.org/hls/cl211-d.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.528819,
+          13.828649
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - รัชดาภิเษก-วงศ์สว่าง",
+        "url": "https://camerai1.iticfoundation.org/hls/charlie-new-tran-8.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.541248,
+          13.839855
+        ]
+      },
+      "properties": {
+        "name": "TH - Bangkok - แยกประชานิเวศน์",
+        "url": "https://camerai1.iticfoundation.org/hls/charlie-new5.m3u8",
+        "display_name": "Bangkok, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.03103,
+          13.620204
+        ]
+      },
+      "properties": {
+        "name": "TH - Chachoengsao - แยกหัวเนิน E",
+        "url": "https://camera1.iticfoundation.org/hls/10.8.0.24_8555.m3u8",
+        "display_name": "Chachoengsao, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.030445,
+          13.619935
+        ]
+      },
+      "properties": {
+        "name": "TH - Chachoengsao - แยกหัวเนิน S",
+        "url": "https://camera1.iticfoundation.org/hls/10.8.0.24_8556.m3u8",
+        "display_name": "Chachoengsao, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.894491,
+          12.933848
+        ]
+      },
+      "properties": {
+        "name": "TH - Chon Buri - ATC4-35 แยกพัทยากลาง-บิ๊กซีเอ็กตร้า",
+        "url": "https://camerai1.iticfoundation.org/hls/pty83.m3u8",
+        "display_name": "Chon Buri, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.878662,
+          12.920066
+        ]
+      },
+      "properties": {
+        "name": "TH - Chon Buri - ATC4-51 แยกที่ดิน",
+        "url": "https://camerai1.iticfoundation.org/hls/pty85.m3u8",
+        "display_name": "Chon Buri, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.878624,
+          12.920173
+        ]
+      },
+      "properties": {
+        "name": "TH - Chon Buri - ATC4-52 แยกที่ดิน",
+        "url": "https://camerai1.iticfoundation.org/hls/pty86.m3u8",
+        "display_name": "Chon Buri, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.891165,
+          12.950681
+        ]
+      },
+      "properties": {
+        "name": "TH - Chon Buri - ปากซอยเพ็ชรตระกูลถนนพัทยาเหนือ",
+        "url": "https://camerai1.iticfoundation.org/hls/pty21.m3u8",
+        "display_name": "Chon Buri, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "premium",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.892842,
+          12.958322
+        ]
+      },
+      "properties": {
+        "name": "TH - Chon Buri - หน้าลุมพินีวิลล์ นาเกลือ-วงศ์อมาตย์",
+        "url": "https://camerai1.iticfoundation.org/hls/pty32.m3u8",
+        "display_name": "Chon Buri, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "premium",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.829102,
+          16.439944
+        ]
+      },
+      "properties": {
+        "name": "TH - Khon Kaen - ป้อมยามสามเหลี่ยม2",
+        "url": "https://camerai1.iticfoundation.org/hls/kk13.m3u8",
+        "display_name": "Khon Kaen, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.828979,
+          16.439944
+        ]
+      },
+      "properties": {
+        "name": "TH - Khon Kaen - ป้อมยามสามเหลี่ยม3",
+        "url": "https://camerai1.iticfoundation.org/hls/kk14.m3u8",
+        "display_name": "Khon Kaen, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.823759,
+          16.432483
+        ]
+      },
+      "properties": {
+        "name": "TH - Khon Kaen - แยก Central ทิศเหนือ",
+        "url": "https://camerai1.iticfoundation.org/hls/kk01.m3u8",
+        "display_name": "Khon Kaen, Thailand",
+        "country_code": "TH",
+        "environment": "traffic",
+        "source_family": "iticfoundation",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     }
   ]

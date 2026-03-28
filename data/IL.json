@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.94821,
-          29.55805
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Almog beach",
-        "url": "https://edge01.balticlivecam.com/blc/p_ISR_Almog_beach_Eilat/index.m3u8?token=79b3b798c1254289cffe5f9448d1b640:1773119165952",
-        "city": "",
+        "name": "Ashdod - Oranim Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/southern-district/ashdod/oranim-beach.html",
+        "display_name": "Ashdod - Oranim Beach",
         "country_code": "IL",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     },
     {
@@ -24,17 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.9885,
-          32.81841
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Bat Galim beach",
-        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Bat_Galim_beach_Haifa/index.m3u8?token=c6917c8af5e6426ddc456bddd5ec3b46%3A1773118444751",
-        "city": "",
+        "name": "Haifa - Barn Owl",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/haifa/haifa/barn-owl.html",
+        "display_name": "Haifa - Barn Owl",
         "country_code": "IL",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -42,17 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.90459,
-          32.51888
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Caesarea beach",
-        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Caesarea_beach/index.m3u8?token=482c1860a23ddfebc8a4610b7aad76c7:1773119163601",
-        "city": "",
+        "name": "Jerusalem - Mount Of Olives",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/mount-of-olives.html",
+        "display_name": "Jerusalem - Mount Of Olives",
         "country_code": "IL",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -60,17 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.78057,
-          32.08088
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Hilton Beach",
-        "url": "https://edge01.balticlivecam.com/blc/p_ISR_Tel_Aviv_Hilton_beach/index.m3u8?token=5ee0633e6acdcbd0663eecbe0e53a7e1%3A1773118438094",
-        "city": "",
+        "name": "Jerusalem - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/panorama.html",
+        "display_name": "Jerusalem - Panorama",
         "country_code": "IL",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -78,17 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.85992,
-          32.33291
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Poleg beach",
-        "url": "https://edge04.balticlivecam.com/blc/p_ISR_Netanya_Poleg_beach/index.m3u8?token=8bf27d47a2fecb5e047eed405931b957%3A1773118446535",
-        "city": "",
+        "name": "Jerusalem - Temple Mount",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/temple-mount.html",
+        "display_name": "Jerusalem - Temple Mount",
         "country_code": "IL",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -96,17 +106,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.78057,
-          32.08088
+          35.22,
+          31.77
         ]
       },
       "properties": {
-        "name": "Tel Aviv",
-        "url": "https://edge01.balticlivecam.com/blc/Israel1/index.m3u8?token=07db8f73f171d6b98427225fdd6fe2e6%3A1773118435441",
-        "city": "",
+        "name": "Jerusalem - Western Wall",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/western-wall.html",
+        "display_name": "Jerusalem - Western Wall",
         "country_code": "IL",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22,
+          31.77
+        ]
+      },
+      "properties": {
+        "name": "Nazareth - Grotto Of The Annunciation",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/northern-district/nazareth/grotto-of-the-annunciation.html",
+        "display_name": "Nazareth - Grotto Of The Annunciation",
+        "country_code": "IL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.22,
+          31.77
+        ]
+      },
+      "properties": {
+        "name": "Yardenit - Jordan River",
+        "url": "https://www.skylinewebcams.com/en/webcam/israel/northern-district/yardenit/jordan-river.html",
+        "display_name": "Yardenit - Jordan River",
+        "country_code": "IL",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
       }
     }
   ]

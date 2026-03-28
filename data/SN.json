@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.47,
+          14.72
+        ]
+      },
+      "properties": {
+        "name": "Niaga Peulh - Lac Rose",
+        "url": "https://www.skylinewebcams.com/en/webcam/senegal/dakar/niaga-peulh/lac-rose.html",
+        "display_name": "Niaga Peulh - Lac Rose",
+        "country_code": "SN",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    }
+  ]
+}

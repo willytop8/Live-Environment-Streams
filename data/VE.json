@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.88,
+          10.49
+        ]
+      },
+      "properties": {
+        "name": "La Guaira - Playa La Poza",
+        "url": "https://www.skylinewebcams.com/en/webcam/venezuela/vargas/la-guaira/playa-la-poza.html",
+        "display_name": "La Guaira - Playa La Poza",
+        "country_code": "VE",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.88,
+          10.49
+        ]
+      },
+      "properties": {
+        "name": "Margarita Island - Venezuela Isla De Margarita",
+        "url": "https://www.skylinewebcams.com/en/webcam/venezuela/nueva-esparta/margarita-island/venezuela-isla-de-margarita.html",
+        "display_name": "Margarita Island - Venezuela Isla De Margarita",
+        "country_code": "VE",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

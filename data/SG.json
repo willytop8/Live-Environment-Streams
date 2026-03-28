@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8625,
+          1.3026
+        ]
+      },
+      "properties": {
+        "name": "Singapore - Kampong Gelam",
+        "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/kampong-gelam.html",
+        "display_name": "Singapore - Kampong Gelam",
+        "country_code": "SG",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7866,
+          1.4375
+        ]
+      },
+      "properties": {
+        "name": "Singapore - Woodlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/woodlands.html",
+        "display_name": "Singapore - Woodlands",
+        "country_code": "SG",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8525,
+          1.2841
+        ]
+      },
+      "properties": {
+        "name": "Singapore Downtown",
+        "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/downtown-singapore.html",
+        "display_name": "Singapore Downtown",
+        "country_code": "SG",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8501,
+          1.2897
+        ]
+      },
+      "properties": {
+        "name": "Singapore Harbor",
+        "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/singapore.html",
+        "display_name": "Singapore Harbor",
+        "country_code": "SG",
+        "environment": "harbor",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "harbor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8576,
+          1.281
+        ]
+      },
+      "properties": {
+        "name": "Singapore Marina Bay",
+        "url": "https://www.skylinewebcams.com/webcam/republic-of-singapore/singapore/singapore/singapore-marina.html",
+        "display_name": "Singapore Marina Bay",
+        "country_code": "SG",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

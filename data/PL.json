@@ -6,287 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.58342,
-          54.17565
+          21.01,
+          52.23
         ]
       },
       "properties": {
-        "name": "KO\u0141OBRZEG - widok na pla\u017c\u0119 zachodni\u0105 NOWO\u015a\u0106",
-        "url": "https://imageserver.webcamera.pl/rec/zachodnia-plaza-kolobrzeg/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.0621,
-          54.26086
-        ]
-      },
-      "properties": {
-        "name": "MIELNO - widok na promenad\u0119 NOWO\u015a\u0106",
-        "url": "https://imageserver.webcamera.pl/rec/mielno-promenada/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.80545,
-          54.0348
-        ]
-      },
-      "properties": {
-        "name": "DZIWN\u00d3WEK - widok na deptak NOWO\u015a\u0106",
-        "url": "https://imageserver.webcamera.pl/rec/dziwnowek-deptak/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.39465,
-          50.42769
-        ]
-      },
-      "properties": {
-        "name": "\u0141azy, widok na pla\u017c\u0119 i Morze Ba\u0142tyckie. Pla\u017ca w \u0141azach na \u017cywo",
-        "url": "https://imageserver.webcamera.pl/rec/widok-na-plaze-w-lazach/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Kamera Plac Wszystkich \u015awi\u0119tych w Krakowie",
-        "url": "https://imageserver.webcamera.pl/rec/krakow-plac-wszystkich-swietych/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.47395,
-          51.77058
-        ]
-      },
-      "properties": {
-        "name": "Kamera \u0141\u00f3d\u017a - Manufaktura. \u0141\u00f3dzka Manufaktura live \u2013 sprawd\u017a, co si\u0119 dzieje",
-        "url": "https://imageserver.webcamera.pl/rec/lodz-manufaktura/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.76728,
-          49.78498
-        ]
-      },
-      "properties": {
-        "name": "KAMERA PRZEMY\u015aL - widok na Plac Niepodleg\u0142o\u015bci NOWO\u015a\u0106",
-        "url": "https://imageserver.webcamera.pl/rec/przemysl-plac-niepodleglosci/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.40884,
-          54.1522
-        ]
-      },
-      "properties": {
-        "name": "Elbl\u0105g NOWO\u015a\u0106 - widok na rzek\u0119 i Bulwar Zygmunta Augusta",
-        "url": "https://imageserver.webcamera.pl/rec/elblag-bulwar-stare-miasto/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Krak\u00f3w - Zakole Wis\u0142y ogl\u0105daj na \u017cywo",
-        "url": "https://imageserver.webcamera.pl/rec/krakow2/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Krak\u00f3w kamera live WebCamera.pl ogl\u0105daj Webcam Main Square",
-        "url": "https://imageserver.webcamera.pl/rec/krakow-wentzl/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "street",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.76728,
-          49.78498
-        ]
-      },
-      "properties": {
-        "name": "PRZEMY\u015aL - widok na rynek NOWO\u015a\u0106",
-        "url": "https://imageserver.webcamera.pl/rec/przemysl-rynek/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Kamera z widokiem na Now\u0105 Hut\u0119 w Krakowie",
-        "url": "https://imageserver.webcamera.pl/rec/krakow-nowa-huta/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.40884,
-          54.1522
-        ]
-      },
-      "properties": {
-        "name": "Kamera Elbl\u0105g - kamera na \u017cywo, widok na panoram\u0119 miasta",
-        "url": "https://imageserver.webcamera.pl/rec/miasto-elblag-panorama/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Krak\u00f3w - widok panoramiczny Nowo\u015b\u0107 WebCamera.pl",
-        "url": "https://imageserver.webcamera.pl/rec/krakow-mogilska-umk/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.93658,
-          50.06143
-        ]
-      },
-      "properties": {
-        "name": "Krak\u00f3w - widok na ulic\u0119 Grodzk\u0105",
-        "url": "https://imageserver.webcamera.pl/rec/hotel-senacki-krakow/latest.mp4",
-        "city": "",
-        "country_code": "PL",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9445724,
-          50.0702739
-        ]
-      },
-      "properties": {
-        "name": "Krak\u00f3w kamera - widok na Rynek G\u0142\u00f3wny - Nowe uj\u0119cie",
-        "url": "https://imageserver.webcamera.pl/rec/krakow1/latest.mp4",
-        "city": "Krak\u00f3w",
+        "name": "Elblag - Stare Miasto",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/warmian-masurian-voivodeship/elblag/stare-miasto.html",
+        "display_name": "Elblag - Stare Miasto",
         "country_code": "PL",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -294,17 +26,319 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9371069,
-          50.0615174
+          21.01,
+          52.23
         ]
       },
       "properties": {
-        "name": "Webcam Main Square, Krak\u00f3w - Online Live Cam WebCamera.pl",
-        "url": "https://imageserver.webcamera.pl/rec/krakow4/latest.mp4",
-        "city": "Krak\u00f3w",
+        "name": "Gdansk",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/pomerania/gdansk/gdansk.html",
+        "display_name": "Gdansk",
         "country_code": "PL",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Jelenia Gora - Plac Ratuszowy",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lower-silesian-voivodeship/jelenia-gora/plac-ratuszowy.html",
+        "display_name": "Jelenia Gora - Plac Ratuszowy",
+        "country_code": "PL",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Jurgow - Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/jurgow/ski-area.html",
+        "display_name": "Jurgow - Ski Area",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Krakow",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/krakow/krakow.html",
+        "display_name": "Krakow",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Krakow - Grodzka Kosciol Sw Apostolow Piotra I Pawla",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/krakow/grodzka-kosciol-sw-apostolow-piotra-i-pawla.html",
+        "display_name": "Krakow - Grodzka Kosciol Sw Apostolow Piotra I Pawla",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Kudowa Zdroj",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lower-silesian-voivodeship/kudowa-zdroj/kudowa-zdroj.html",
+        "display_name": "Kudowa Zdroj",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Lodz",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lodz-voivodeship/lodz/lodz.html",
+        "display_name": "Lodz",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Nowy Sacz - Streets",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/nowy-sacz/streets.html",
+        "display_name": "Nowy Sacz - Streets",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Nowy Targ County - Niedzica Camping",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/nowy-targ-county/niedzica-camping.html",
+        "display_name": "Nowy Targ County - Niedzica Camping",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Poronin - Skisuche Stacja Narciarska",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lesser-poland-voivodeship/poronin/skisuche-stacja-narciarska.html",
+        "display_name": "Poronin - Skisuche Stacja Narciarska",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Rynek Ratusz Sandomierz",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/swietokrzyskie-voivodeship/sandomierz/rynek-ratusz-sandomierz.html",
+        "display_name": "Rynek Ratusz Sandomierz",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Sandomierz",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/swietokrzyskie-voivodeship/sandomierz/sandomierz.html",
+        "display_name": "Sandomierz",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Sandomierz - Rynek Starego Miasta",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/swietokrzyskie-voivodeship/sandomierz/rynek-starego-miasta.html",
+        "display_name": "Sandomierz - Rynek Starego Miasta",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Ski Resort Spalona",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lower-silesian-voivodeship/spalona/ski-resort-spalona.html",
+        "display_name": "Ski Resort Spalona",
+        "country_code": "PL",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Sopot Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/pomerania/sopot/sopot-beach.html",
+        "display_name": "Sopot Beach",
+        "country_code": "PL",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Wroclaw - Streets",
+        "url": "https://www.skylinewebcams.com/en/webcam/poland/lower-silesian-voivodeship/wroclaw/streets.html",
+        "display_name": "Wroclaw - Streets",
+        "country_code": "PL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

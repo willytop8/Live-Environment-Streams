@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Jambiani",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/jambiani/jambiani.html",
+        "display_name": "Jambiani",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Jambiani Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/jambiani/jambiani-beach.html",
+        "display_name": "Jambiani Beach",
+        "country_code": "TZ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Kiwengwa Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/kiwengwa-beach.html",
+        "display_name": "Kiwengwa Beach",
+        "country_code": "TZ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Michamvi Pingwe",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/michamvi/michamvi-pingwe.html",
+        "display_name": "Michamvi Pingwe",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Nungwi Zanzibar",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/nungwi/nungwi-zanzibar.html",
+        "display_name": "Nungwi Zanzibar",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Pingwe Michamvi",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/michamvi/pingwe-michamvi.html",
+        "display_name": "Pingwe Michamvi",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Zanzibar City - Stone Town",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-urban-west-region/zanzibar-city/stone-town.html",
+        "display_name": "Zanzibar City - Stone Town",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Zanzibar Kiwengwa",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/zanzibar-kiwengwa.html",
+        "display_name": "Zanzibar Kiwengwa",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19,
+          -6.17
+        ]
+      },
+      "properties": {
+        "name": "Zanzibar Nungwi",
+        "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/nungwi/zanzibar-nungwi.html",
+        "display_name": "Zanzibar Nungwi",
+        "country_code": "TZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

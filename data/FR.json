@@ -6,17 +6,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.77,
-          48.67
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Lac du Bourget - Aix-les-Bains",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ta4b6nj9ve2md89ic68dkurg56",
-        "city": "",
+        "name": "Aix Les Bains - Lac Du Bourget",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/aix-les-bains/lac-du-bourget.html",
+        "display_name": "Aix Les Bains - Lac Du Bourget",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Aix Les Bains - Lac Du Bourget France",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/aix-les-bains/lac-du-bourget-france.html",
+        "display_name": "Aix Les Bains - Lac Du Bourget France",
+        "country_code": "FR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
       }
     },
     {
@@ -31,10 +53,12 @@
       "properties": {
         "name": "Aix-les-Bains - Lake Bourget",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=btdfvqt7d556aev3iovirjt2j3",
-        "city": "",
+        "display_name": "Aix-les-Bains, France",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
       }
     },
     {
@@ -49,10 +73,12 @@
       "properties": {
         "name": "Arbusigny - France",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=h9gmu1uu0bskin8nfmp51alt40",
-        "city": "",
+        "display_name": "Arbusigny",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -60,17 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.79,
-          48.29
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Lake Annecy - France",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=btj8a1kve0j7debg37n2vhemf0",
-        "city": "",
+        "name": "Arbusigny - Les Aravis Mont Blanc",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/arbusigny/les-aravis-mont-blanc.html",
+        "display_name": "Arbusigny - Les Aravis Mont Blanc",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
       }
     },
     {
@@ -78,17 +106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.78,
-          48.92
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Le Mont-Dore - Sommet de Sancy",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=agoqcqbfggbc32du8btc3o84f1",
-        "city": "",
+        "name": "Besse Et Saint Anastaise - Super Besse",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/besse-et-saint-anastaise/super-besse.html",
+        "display_name": "Besse Et Saint Anastaise - Super Besse",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -96,17 +126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.08,
-          48.64
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Vallorcine - France",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ilqi21dpqungprh7emfg67lha5",
-        "city": "",
+        "name": "Bourg Saint Maurice - Les Arcs",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/bourg-saint-maurice/les-arcs.html",
+        "display_name": "Bourg Saint Maurice - Les Arcs",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -114,17 +146,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.49,
-          48.86
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Porto-Vecchio - Folacca Beach",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kn63iutqe6q4oniau9rsbg53t1",
-        "city": "",
+        "name": "Bourg Saint Maurice - Les Arcs Snowpark",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/bourg-saint-maurice/les-arcs-snowpark.html",
+        "display_name": "Bourg Saint Maurice - Les Arcs Snowpark",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
       }
     },
     {
@@ -132,17 +166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.36,
-          47.83
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "La Rochelle - France",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=al3cvka28cpha05fajtcdpb737",
-        "city": "",
+        "name": "Bourg Saint Maurice - Les Arcs Varet",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/bourg-saint-maurice/les-arcs-varet.html",
+        "display_name": "Bourg Saint Maurice - Les Arcs Varet",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -150,17 +186,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.82,
-          49.14
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "Royan - France",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ss7f9fjhjob98evt62e7g0c6s7",
-        "city": "",
+        "name": "Boutx - Station De Ski Le Mourtis",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/occitanie/boutx/station-de-ski-le-mourtis.html",
+        "display_name": "Boutx - Station De Ski Le Mourtis",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4861,
+          48.3904
+        ]
+      },
+      "properties": {
+        "name": "Brest - Place de la Liberté, Brittany, France",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/bretagne/brest/brest-place-de-la-liberte.html",
+        "display_name": "Brest - Place de la Liberté, Brittany, France",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9326,
+          48.202
+        ]
+      },
+      "properties": {
+        "name": "Brittany (Bretagne) Webcams Hub - France",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/bretagne.html",
+        "display_name": "Brittany (Bretagne) Webcams Hub - France",
+        "country_code": "FR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0174,
+          43.5528
+        ]
+      },
+      "properties": {
+        "name": "Cannes - Boulevard Du Midi",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/cannes/boulevard-du-midi.html",
+        "display_name": "Cannes - Boulevard Du Midi",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0174,
+          43.5528
+        ]
+      },
+      "properties": {
+        "name": "Cannes Quai Laubeuf",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/cannes/cannes-quai-laubeuf.html",
+        "display_name": "Cannes Quai Laubeuf",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -175,10 +293,12 @@
       "properties": {
         "name": "Collioure - France",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ag93cboiv7s8o2upf308mr2ds5",
-        "city": "",
+        "display_name": "Collioure",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -186,17 +306,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.69,
-          47.86
+          2.35,
+          48.85
         ]
       },
       "properties": {
-        "name": "S\u00e8te - France",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nf61kmvirgoe1ie3an8v1mj956",
-        "city": "",
+        "name": "Doussard - Lac D Annecy France",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/doussard/lac-d-annecy-france.html",
+        "display_name": "Doussard - Lac D Annecy France",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
       }
     },
     {
@@ -209,12 +331,194 @@
         ]
       },
       "properties": {
-        "name": "Fr\u00e9jus Beach - France",
+        "name": "Fréjus Beach - France",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=iugokn7p23l88na27p01d8lv35",
-        "city": "",
+        "display_name": "Fréjus Beach",
         "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Hauteluce - Domaine Skiable Des Contamines Montjoie",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/hauteluce/domaine-skiable-des-contamines-montjoie.html",
+        "display_name": "Hauteluce - Domaine Skiable Des Contamines Montjoie",
+        "country_code": "FR",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36,
+          47.83
+        ]
+      },
+      "properties": {
+        "name": "La Rochelle - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=al3cvka28cpha05fajtcdpb737",
+        "display_name": "La Rochelle",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "La Rochelle - Vieux Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/la-rochelle/vieux-port.html",
+        "display_name": "La Rochelle - Vieux Port",
+        "country_code": "FR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.77,
+          48.67
+        ]
+      },
+      "properties": {
+        "name": "Lac du Bourget - Aix-les-Bains",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ta4b6nj9ve2md89ic68dkurg56",
+        "display_name": "Lac du Bourget, France",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.79,
+          48.29
+        ]
+      },
+      "properties": {
+        "name": "Lake Annecy - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=btj8a1kve0j7debg37n2vhemf0",
+        "display_name": "Lake Annecy",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Le Mont Dore",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/mont-dore/le-mont-dore.html",
+        "display_name": "Le Mont Dore",
+        "country_code": "FR",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.78,
+          48.92
+        ]
+      },
+      "properties": {
+        "name": "Le Mont-Dore - Sommet de Sancy",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=agoqcqbfggbc32du8btc3o84f1",
+        "display_name": "Le Mont-Dore, France",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3698,
+          43.2965
+        ]
+      },
+      "properties": {
+        "name": "Les Calanques De Marseille",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/marseille/les-calanques-de-marseille.html",
+        "display_name": "Les Calanques De Marseille",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Les Gets - Chavannes",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/les-gets/chavannes.html",
+        "display_name": "Les Gets - Chavannes",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -229,46 +533,232 @@
       "properties": {
         "name": "Marseille - Massif des Calanques",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7750tjng3egg6jfeipah840mq4",
-        "city": "",
-        "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.12807,
-          50.98651
-        ]
-      },
-      "properties": {
-        "name": "Gravelines",
-        "url": "https://edge01.balticlivecam.com/blc/p_FR_Gravelines/index.m3u8?token=5a05965ca9b9dd981613aa7916f7c715%3A1773118682934",
-        "city": "",
-        "country_code": "FR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.2120555,
-          46.8374544
-        ]
-      },
-      "properties": {
-        "name": "Saint Pierre and Miquelon",
-        "url": "https://edge04.balticlivecam.com/blc/p_FR_Saint-PIerre_and_Miquelon/index.m3u8?token=00281061b6a2227ef77b2ffbcbbd0a86%3A1773118679331",
-        "city": "",
+        "display_name": "Marseille, France",
         "country_code": "FR",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49,
+          48.86
+        ]
+      },
+      "properties": {
+        "name": "Porto-Vecchio - Folacca Beach",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kn63iutqe6q4oniau9rsbg53t1",
+        "display_name": "Porto-Vecchio, France",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.82,
+          49.14
+        ]
+      },
+      "properties": {
+        "name": "Royan - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ss7f9fjhjob98evt62e7g0c6s7",
+        "display_name": "Royan",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Royan - Plage De Pontaillac",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/nouvelle-aquitaine/royan/plage-de-pontaillac.html",
+        "display_name": "Royan - Plage De Pontaillac",
+        "country_code": "FR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Saint Laurent Du Var",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/saint-laurent-du-var/saint-laurent-du-var.html",
+        "display_name": "Saint Laurent Du Var",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Sanctuaire De Lourdes",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/occitanie/lourdes/sanctuaire-de-lourdes.html",
+        "display_name": "Sanctuaire De Lourdes",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Sete - Port De Plaisance",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/occitanie/sete/port-de-plaisance.html",
+        "display_name": "Sete - Port De Plaisance",
+        "country_code": "FR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69,
+          47.86
+        ]
+      },
+      "properties": {
+        "name": "Sète - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=nf61kmvirgoe1ie3an8v1mj956",
+        "display_name": "Sète",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08,
+          48.64
+        ]
+      },
+      "properties": {
+        "name": "Vallorcine - France",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ilqi21dpqungprh7emfg67lha5",
+        "display_name": "Vallorcine",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Vallorcine Mont Blanc",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/vallorcine/vallorcine-mont-blanc.html",
+        "display_name": "Vallorcine Mont Blanc",
+        "country_code": "FR",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Villard De Lans",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/auvergne-rhone-alpes/villard-de-lans/villard-de-lans.html",
+        "display_name": "Villard De Lans",
+        "country_code": "FR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35,
+          48.85
+        ]
+      },
+      "properties": {
+        "name": "Villefranche Sur Mer - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/france/provence-alpes-cote-dazur/villefranche-sur-mer/port.html",
+        "display_name": "Villefranche Sur Mer - Port",
+        "country_code": "FR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     }
   ]

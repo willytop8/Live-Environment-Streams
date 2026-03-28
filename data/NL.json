@@ -6,6 +6,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.8922,
+          52.3731
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Canals - Netherlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/netherlands/north-holland/amsterdam/canals.html",
+        "display_name": "Amsterdam Canals - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam City Center - Netherlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/netherlands/north-holland/amsterdam/city-center.html",
+        "display_name": "Amsterdam City Center - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8935,
+          52.3731
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Dam Square - Netherlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/netherlands/north-holland/amsterdam/amsterdam-dam-square.html",
+        "display_name": "Amsterdam Dam Square - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.893,
           52.373
         ]
@@ -13,10 +73,72 @@
       "properties": {
         "name": "Amsterdam Dam Square 4K",
         "url": "https://www.youtube.com/@WebCamNL/live",
-        "city": "",
+        "display_name": "Amsterdam Dam Square 4K, Netherlands",
         "country_code": "NL",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "reservoir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8952,
+          52.3702
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Streets - Netherlands",
+        "url": "https://www.skylinewebcams.com/webcam/netherlands/north-holland/amsterdam/streets.html",
+        "display_name": "Amsterdam Streets - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5665,
+          53.2194
+        ]
+      },
+      "properties": {
+        "name": "Groningen Grote Markt - Netherlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/netherlands/groningen/groningen/groningen-grote-markt.html",
+        "display_name": "Groningen Grote Markt - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4864,
+          51.9051
+        ]
+      },
+      "properties": {
+        "name": "Rotterdam Erasmus Bridge - Netherlands",
+        "url": "https://www.skylinewebcams.com/en/webcam/netherlands/south-holland/rotterdam/rotterdam-erasmus-bridge.html",
+        "display_name": "Rotterdam Erasmus Bridge - Netherlands",
+        "country_code": "NL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

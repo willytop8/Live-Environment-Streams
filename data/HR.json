@@ -6,17 +6,199 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.08,
-          43.26
+          15.98,
+          45.81
         ]
       },
       "properties": {
-        "name": "Weather Banjole",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e7c1lpe22utm0ia2bn5ocedc46",
-        "city": "",
+        "name": "Barban",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/barban/barban.html",
+        "display_name": "Barban",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Bol - Zlatni Rat",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/bol/zlatni-rat.html",
+        "display_name": "Bol - Zlatni Rat",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Brodarica Rezaliste",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/brodarica/brodarica-rezaliste.html",
+        "display_name": "Brodarica Rezaliste",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Cabar - Nacionalni Park Risnjak",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/cabar/nacionalni-park-risnjak.html",
+        "display_name": "Cabar - Nacionalni Park Risnjak",
+        "country_code": "HR",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Donji Miholjac - Mailath Castle",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/osijek-baranja-county/donji-miholjac/mailath-castle.html",
+        "display_name": "Donji Miholjac - Mailath Castle",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Ibenik - Kaprije",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/ibenik/kaprije.html",
+        "display_name": "Ibenik - Kaprije",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Krk - Punat",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/krk/punat.html",
+        "display_name": "Krk - Punat",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Krk - Silo",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/krk/silo.html",
+        "display_name": "Krk - Silo",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Mali Losinj - Veli Zal",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/losinj/mali-losinj/veli-zal.html",
+        "display_name": "Mali Losinj - Veli Zal",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Malinska",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/malinska/malinska.html",
+        "display_name": "Malinska",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -31,10 +213,12 @@
       "properties": {
         "name": "Marian Shrine of Marija Bistrica",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=571221lcdl4msb641jg2sf4s21",
-        "city": "",
+        "display_name": "Marian Shrine of Marija Bistrica, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -42,17 +226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.65,
-          43.43
+          13.8496,
+          44.8666
         ]
       },
       "properties": {
-        "name": "Plitvice Lakes National Park",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=74as8t86itg1n04vlli3j9mhm7",
-        "city": "",
+        "name": "Marina Verudela Pula",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/pula/marina-verudela-pula.html",
+        "display_name": "Marina Verudela Pula",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -60,17 +246,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.42,
-          44.17
+          15.98,
+          45.81
         ]
       },
       "properties": {
-        "name": "\u0160trigova - Me\u0111imurje",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b2n28mcrpdemflmlfq1t5ull34",
-        "city": "",
+        "name": "Martin Scaron Ica - Slatina Martinscica",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/martin-scaron-ica/slatina-martinscica.html",
+        "display_name": "Martin Scaron Ica - Slatina Martinscica",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -78,17 +266,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.09,
-          43.4
+          15.98,
+          45.81
         ]
       },
       "properties": {
-        "name": "Risnjak National Park",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=605426akp57bcgee98eus8q8c0",
-        "city": "",
+        "name": "Nin - Zaton",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/zadar/nin/zaton.html",
+        "display_name": "Nin - Zaton",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -96,17 +286,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.38,
-          44.05
+          15.98,
+          45.81
         ]
       },
       "properties": {
-        "name": "Selce",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=67nlskoe5p379a2bo3v737tmi2",
-        "city": "",
+        "name": "Omi Alj - Njivice",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/primorsko-goranska/omi-alj/njivice.html",
+        "display_name": "Omi Alj - Njivice",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -121,10 +313,212 @@
       "properties": {
         "name": "Paradise Beach - Lopar",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=2b35jcnbudtkej10aajv4d7226",
-        "city": "",
+        "display_name": "Paradise Beach, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4402,
+          43.5081
+        ]
+      },
+      "properties": {
+        "name": "Pjaca Split",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/split/pjaca-split.html",
+        "display_name": "Pjaca Split",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.65,
+          43.43
+        ]
+      },
+      "properties": {
+        "name": "Plitvice Lakes National Park",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=74as8t86itg1n04vlli3j9mhm7",
+        "display_name": "Plitvice Lakes National Park, Croatia",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Primosten",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/primosten/primosten.html",
+        "display_name": "Primosten",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Prvi Epurine - Marina",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/prvi-epurine/marina.html",
+        "display_name": "Prvi Epurine - Marina",
+        "country_code": "HR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Rabac",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/rabac/rabac.html",
+        "display_name": "Rabac",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Rabac - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/rabac/port.html",
+        "display_name": "Rabac - Port",
+        "country_code": "HR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.09,
+          43.4
+        ]
+      },
+      "properties": {
+        "name": "Risnjak National Park",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=605426akp57bcgee98eus8q8c0",
+        "display_name": "Risnjak National Park, Croatia",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.38,
+          44.05
+        ]
+      },
+      "properties": {
+        "name": "Selce",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=67nlskoe5p379a2bo3v737tmi2",
+        "display_name": "Selce, Croatia",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Sibenik",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/ibenik/sibenik.html",
+        "display_name": "Sibenik",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Skradin - Krka Bridge",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/sibensko-kninska/skradin/krka-bridge.html",
+        "display_name": "Skradin - Krka Bridge",
+        "country_code": "HR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
       }
     },
     {
@@ -139,10 +533,32 @@
       "properties": {
         "name": "Split - Pjaca",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=sqsca3u908hgj6g2oma0c2b2u5",
-        "city": "",
+        "display_name": "Split, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Strigova",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/medimurje/strigova/strigova.html",
+        "display_name": "Strigova",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -155,12 +571,34 @@
         ]
       },
       "properties": {
-        "name": "Trako\u0161\u0107an Castle - Bednja",
+        "name": "Trakošćan Castle - Bednja",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=n0vllon6ljg21qr158iv44dc60",
-        "city": "",
+        "display_name": "Trakošćan Castle, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Varazdin - Dvorac Trakoscan Bednja",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/varazdinska/varazdin/dvorac-trakoscan-bednja.html",
+        "display_name": "Varazdin - Dvorac Trakoscan Bednja",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -173,12 +611,74 @@
         ]
       },
       "properties": {
-        "name": "Vara\u017edin",
+        "name": "Varaždin",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=v8ob55e24oovjlh0r6ankv6002",
-        "city": "",
+        "display_name": "Varaždin, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Vodnjan Narodni Trg",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/istra/vodnjan/vodnjan-narodni-trg.html",
+        "display_name": "Vodnjan Narodni Trg",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.98,
+          45.81
+        ]
+      },
+      "properties": {
+        "name": "Vrboska",
+        "url": "https://www.skylinewebcams.com/en/webcam/hrvatska/splitsko-dalmatinska/vrboska/vrboska.html",
+        "display_name": "Vrboska",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.08,
+          43.26
+        ]
+      },
+      "properties": {
+        "name": "Weather Banjole",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e7c1lpe22utm0ia2bn5ocedc46",
+        "display_name": "Weather Banjole, Croatia",
+        "country_code": "HR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -193,10 +693,12 @@
       "properties": {
         "name": "Zadar",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=7skbvuegbbpevrc0kn1vddg1a0",
-        "city": "",
+        "display_name": "Zadar, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -204,71 +706,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.58988,
-          43.82043
+          15.42,
+          44.17
         ]
       },
       "properties": {
-        "name": "Jezera",
-        "url": "https://edge01.balticlivecam.com/blc/p_CR_Jezera_Murter/index.m3u8?token=85a7097f988d1efc41e6de6d86b37e6a%3A1773118611752",
-        "city": "",
+        "name": "Štrigova - Međimurje",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=b2n28mcrpdemflmlfq1t5ull34",
+        "display_name": "Štrigova, Croatia",
         "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.10909,
-          42.64125
-        ]
-      },
-      "properties": {
-        "name": "Old town of Dubrovnik",
-        "url": "https://edge01.balticlivecam.com/blc/p_CRO_Dubrovnik_Old_town/index.m3u8?token=379de1d4907e6bdc5bad959c286ca3f5%3A1773118605357",
-        "city": "",
-        "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.10909,
-          42.64125
-        ]
-      },
-      "properties": {
-        "name": "Port of Gru\u017e",
-        "url": "https://edge01.balticlivecam.com/blc/p_CRO_Port_of_Gruz_Dubrovnik/index.m3u8?token=4ccb7bdb2e83bd3a0c4d4ceabc3e1f62%3A1773118607166",
-        "city": "",
-        "country_code": "HR",
-        "environment": "harbor",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.64333,
-          43.80417
-        ]
-      },
-      "properties": {
-        "name": "Tisno bridge",
-        "url": "https://edge04.balticlivecam.com/blc/p_HR_Tisno_bridge/index.m3u8?token=33ea0a45c8d3a525345bfa9608dfdcd6%3A1773118610041",
-        "city": "",
-        "country_code": "HR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     }
   ]

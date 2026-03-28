@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.7534,
-          9.7489
+          -84.08,
+          9.93
         ]
       },
       "properties": {
-        "name": "Panorama of San Jos\u00e9 - Costa Rica Live cam",
-        "url": "livee.m3u8?a=ivs2jp3i6gplgu6rsik173npk4",
-        "city": "",
+        "name": "Costa Rica Puntarenas",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/puntarenas/puntarenas/costa-rica-puntarenas.html",
+        "display_name": "Costa Rica Puntarenas",
         "country_code": "CR",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     },
     {
@@ -29,12 +31,194 @@
         ]
       },
       "properties": {
-        "name": "C\u00f3bano Airport Live cam",
+        "name": "Cóbano Airport Live cam",
         "url": "livee.m3u8?a=1nn1ed1ivoar9bohknf545c5k6",
-        "city": "",
+        "display_name": "Cóbano Airport",
         "country_code": "CR",
         "environment": "harbor",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "La Cruz - Bahia Salinas",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/guanacaste/la-cruz/bahia-salinas.html",
+        "display_name": "La Cruz - Bahia Salinas",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Moravia - Heredia Braulio Carrillo",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/heredia-braulio-carrillo.html",
+        "display_name": "Moravia - Heredia Braulio Carrillo",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Moravia - Irazu",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/irazu.html",
+        "display_name": "Moravia - Irazu",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Moravia - Panorama San Jose",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/panorama-san-jose.html",
+        "display_name": "Moravia - Panorama San Jose",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Moravia - Panorama San Jose Costa Rica",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/panorama-san-jose-costa-rica.html",
+        "display_name": "Moravia - Panorama San Jose Costa Rica",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Moravia - San Vicente",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/moravia/san-vicente.html",
+        "display_name": "Moravia - San Vicente",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7534,
+          9.7489
+        ]
+      },
+      "properties": {
+        "name": "Panorama of San José - Costa Rica Live cam",
+        "url": "livee.m3u8?a=ivs2jp3i6gplgu6rsik173npk4",
+        "display_name": "Panorama of San José",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Perez Zeledon - San Isidro",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/san-jose-province/perez-zeledon/san-isidro.html",
+        "display_name": "Perez Zeledon - San Isidro",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08,
+          9.93
+        ]
+      },
+      "properties": {
+        "name": "Puntarenas - Cobano",
+        "url": "https://www.skylinewebcams.com/en/webcam/costa-rica/puntarenas/puntarenas/cobano.html",
+        "display_name": "Puntarenas - Cobano",
+        "country_code": "CR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     },
     {
@@ -49,28 +233,12 @@
       "properties": {
         "name": "San Vicente - Costa Rica Live cam",
         "url": "livee.m3u8?a=j9aje8nive23a8u9d1blgdh1l6",
-        "city": "",
+        "display_name": "San Vicente",
         "country_code": "CR",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.16231,
-          9.43063
-        ]
-      },
-      "properties": {
-        "name": "Quepos beach",
-        "url": "https://edge01.balticlivecam.com/blc/p_CR_Quepos/index.m3u8?token=5d88227c75fafe55e54a0af902826cda%3A1773118603220",
-        "city": "",
-        "country_code": "CR",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "beach"
       }
     }
   ]

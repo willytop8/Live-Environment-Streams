@@ -6,53 +6,239 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -20.44161,
-          64.17829
+          -18.0958,
+          65.6885
         ]
       },
       "properties": {
-        "name": "Geldingaffel hut",
-        "url": "https://edge01.balticlivecam.com/blc/p_IS_Geldingaffel_hut/index.m3u8?token=37e5b58f4bc468dd2476d19cbee8449b%3A1773118424069",
-        "city": "",
-        "country_code": "IS",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -23.13498,
-          66.07475
-        ]
-      },
-      "properties": {
-        "name": "Isafjordur",
-        "url": "https://edge04.balticlivecam.com/blc/p_IS_Isafjordur/index.m3u8?token=be11978b0286d2b1f80054a3bf292e03%3A1773118419905",
-        "city": "",
-        "country_code": "IS",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -17.3462419,
-          66.0455413
-        ]
-      },
-      "properties": {
-        "name": "H\u00fasav\u00edk port",
-        "url": "https://edge01.balticlivecam.com/blc/p_IS_Husavik_port/index.m3u8?token=ca9473d8a1e202f404addb4acf5a3374%3A1773118421818",
-        "city": "H\u00fasav\u00edk",
+        "name": "Akureyri - Rosenborg",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/northeastern-region/akureyri/rosenborg.html",
+        "display_name": "Akureyri - Rosenborg",
         "country_code": "IS",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Blaskogabygge - Apavatn Northern Lights",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/blaskogabygge/apavatn-northern-lights.html",
+        "display_name": "Blaskogabygge - Apavatn Northern Lights",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Fjallabygge",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/northeastern-region/fjallabygge/fjallabygge.html",
+        "display_name": "Fjallabygge",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Fjallabygge - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/northeastern-region/fjallabygge/port.html",
+        "display_name": "Fjallabygge - Port",
+        "country_code": "IS",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Grindavik - Geldingadalir Icelandic Volcano",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/geldingadalir-icelandic-volcano.html",
+        "display_name": "Grindavik - Geldingadalir Icelandic Volcano",
+        "country_code": "IS",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Grindavik - Langholl",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/langholl.html",
+        "display_name": "Grindavik - Langholl",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Grindavik - Orbjorn",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/orbjorn.html",
+        "display_name": "Grindavik - Orbjorn",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Grundarfjorour - Kirkjufell Mountain",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/western-region/grundarfjorour/kirkjufell-mountain.html",
+        "display_name": "Grundarfjorour - Kirkjufell Mountain",
+        "country_code": "IS",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.94,
+          64.15
+        ]
+      },
+      "properties": {
+        "name": "Hofn - Jokulsarlon",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/austurland/hofn/jokulsarlon.html",
+        "display_name": "Hofn - Jokulsarlon",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8954,
+          64.1355
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik - Borg",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/borg.html",
+        "display_name": "Reykjavik - Borg",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8954,
+          64.1355
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik - Hallgrimskirkja Church",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/hallgrimskirkja-church.html",
+        "display_name": "Reykjavik - Hallgrimskirkja Church",
+        "country_code": "IS",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.8954,
+          64.1355
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik - Mount Esja",
+        "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/mount-esja.html",
+        "display_name": "Reykjavik - Mount Esja",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

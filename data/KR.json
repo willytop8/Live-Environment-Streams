@@ -13,10 +13,12 @@
       "properties": {
         "name": "Seoul Han River - Banpo Bridge 4K",
         "url": "https://www.youtube.com/@dailyseoul/live",
-        "city": "",
+        "display_name": "Seoul Han River, Korea",
         "country_code": "KR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "river"
       }
     },
     {
@@ -31,10 +33,412 @@
       "properties": {
         "name": "Seoul UN Village - Han River 4K",
         "url": "https://www.youtube.com/@UNvillage_live/live",
-        "city": "",
+        "display_name": "Seoul UN Village, Korea",
         "country_code": "KR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1328,
+          35.1469
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Busan Gwangan Bridge",
+        "url": "http://cctvsec.ktict.co.kr/55/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.1636,
+          35.1631
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Busan Haeundae",
+        "url": "http://cctvsec.ktict.co.kr/55/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0756,
+          35.1796
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Gyeongbu Expressway Busan",
+        "url": "http://cctvsec.ktict.co.kr/71/eVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.1139,
+          36.8151
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Gyeongbu Expressway Cheonan",
+        "url": "http://cctvsec.ktict.co.kr/71/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6014,
+          35.8714
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Gyeongbu Expressway Daegu",
+        "url": "http://cctvsec.ktict.co.kr/71/dVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3845,
+          36.3504
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Gyeongbu Expressway Daejeon",
+        "url": "http://cctvsec.ktict.co.kr/71/cVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0286,
+          37.2636
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Gyeongbu Expressway Suwon",
+        "url": "http://cctvsec.ktict.co.kr/71/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8526,
+          35.1595
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Honam Expressway Gwangju",
+        "url": "http://cctvsec.ktict.co.kr/25/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.148,
+          35.8242
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Honam Expressway Jeonju",
+        "url": "http://cctvsec.ktict.co.kr/25/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.4407,
+          37.4602
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Incheon Airport Expressway",
+        "url": "http://cctvsec.ktict.co.kr/130/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5312,
+          33.4996
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Jeju City",
+        "url": "http://cctvsec.ktict.co.kr/99/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.56,
+          33.2541
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Jeju Seogwipo",
+        "url": "http://cctvsec.ktict.co.kr/99/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0449,
+          37.5283
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Seoul Gangbyeon Expressway",
+        "url": "http://cctvsec.ktict.co.kr/2/dVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0276,
+          37.4979
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Seoul Gangnam Expressway",
+        "url": "http://cctvsec.ktict.co.kr/2/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0411,
+          37.5219
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Seoul Olympic Expressway",
+        "url": "http://cctvsec.ktict.co.kr/2/cVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0473,
+          37.5172
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Seoul Yeongdong Expressway",
+        "url": "http://cctvsec.ktict.co.kr/2/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7369,
+          35.9676
+        ]
+      },
+      "properties": {
+        "name": "South Korea - West Coast Expressway Gunsan",
+        "url": "http://cctvsec.ktict.co.kr/15/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7052,
+          37.4563
+        ]
+      },
+      "properties": {
+        "name": "South Korea - West Coast Expressway Incheon",
+        "url": "http://cctvsec.ktict.co.kr/15/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.8761,
+          37.7519
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Yeongdong Expressway Gangneung",
+        "url": "http://cctvsec.ktict.co.kr/50/bVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9202,
+          37.3422
+        ]
+      },
+      "properties": {
+        "name": "South Korea - Yeongdong Expressway Wonju",
+        "url": "http://cctvsec.ktict.co.kr/50/aVnFfpQZHlNbOLZDqxJGJw==",
+        "display_name": "South Korea",
+        "country_code": "KR",
+        "environment": "traffic",
+        "source_family": "ktict",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     }
   ]

@@ -1,0 +1,465 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Anniviers - Grimentz",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/anniviers/grimentz.html",
+        "display_name": "Anniviers - Grimentz",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Bagnes - Verbier Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/bagnes/verbier-ski-area.html",
+        "display_name": "Bagnes - Verbier Ski Area",
+        "country_code": "CH",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Basel",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/basel-stadt/basel/basel.html",
+        "display_name": "Basel",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Bouveret - Port Valais",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/bouveret/port-valais.html",
+        "display_name": "Bouveret - Port Valais",
+        "country_code": "CH",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Entlebuch",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-lucerne/entlebuch/entlebuch.html",
+        "display_name": "Entlebuch",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6323,
+          46.5197
+        ]
+      },
+      "properties": {
+        "name": "Lausanne - Bessieres Bridge",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/vaud/lausanne/bessieres-bridge.html",
+        "display_name": "Lausanne - Bessieres Bridge",
+        "country_code": "CH",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Locarno - Ascona",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/kanton-tessin/locarno/ascona.html",
+        "display_name": "Locarno - Ascona",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Luzern",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-lucerne/luzern/luzern.html",
+        "display_name": "Luzern",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Martigny - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/martigny/panorama.html",
+        "display_name": "Martigny - Panorama",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Martigny - Valais",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/martigny/valais.html",
+        "display_name": "Martigny - Valais",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Nendaz - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/nendaz/panorama.html",
+        "display_name": "Nendaz - Panorama",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Neuhausen Am Rheinfall - Rhine Falls",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-schaffhausen/neuhausen-am-rheinfall/rhine-falls.html",
+        "display_name": "Neuhausen Am Rheinfall - Rhine Falls",
+        "country_code": "CH",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Oberland - Interlaken",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-bern/oberland/interlaken.html",
+        "display_name": "Oberland - Interlaken",
+        "country_code": "CH",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Oberland - Unterseen",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-bern/oberland/unterseen.html",
+        "display_name": "Oberland - Unterseen",
+        "country_code": "CH",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8389,
+          46.498
+        ]
+      },
+      "properties": {
+        "name": "Panorama St Moritz",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/graubunden/st-moritz/panorama-st-moritz.html",
+        "display_name": "Panorama St Moritz",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Rorschach",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-st-gallen/rorschach/rorschach.html",
+        "display_name": "Rorschach",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Saas Fee - Dom Mountain",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-valais/saas-fee/dom-mountain.html",
+        "display_name": "Saas Fee - Dom Mountain",
+        "country_code": "CH",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Silvaplana Surfcenter",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/graubunden/silvaplana/silvaplana-surfcenter.html",
+        "display_name": "Silvaplana Surfcenter",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Silvaplana Switzerland",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/graubunden/silvaplana/silvaplana-switzerland.html",
+        "display_name": "Silvaplana Switzerland",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8389,
+          46.498
+        ]
+      },
+      "properties": {
+        "name": "St Moritz",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/graubunden/st-moritz/st-moritz.html",
+        "display_name": "St Moritz",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8389,
+          46.498
+        ]
+      },
+      "properties": {
+        "name": "St Moritz - Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/graubunden/st-moritz/ski-area.html",
+        "display_name": "St Moritz - Ski Area",
+        "country_code": "CH",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Stein Am Rhein - Burg Hohenklingen",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-schaffhausen/stein-am-rhein/burg-hohenklingen.html",
+        "display_name": "Stein Am Rhein - Burg Hohenklingen",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54,
+          47.38
+        ]
+      },
+      "properties": {
+        "name": "Villars Sur Glane",
+        "url": "https://www.skylinewebcams.com/en/webcam/schweiz/canton-of-fribourg/villars-sur-glane/villars-sur-glane.html",
+        "display_name": "Villars Sur Glane",
+        "country_code": "CH",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.5,
+          -20.16
+        ]
+      },
+      "properties": {
+        "name": "Le Morne",
+        "url": "https://www.skylinewebcams.com/en/webcam/mauritius/le-morne-brabant/le-morne/le-morne.html",
+        "display_name": "Le Morne",
+        "country_code": "MU",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

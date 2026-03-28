@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35,
+          43.85
+        ]
+      },
+      "properties": {
+        "name": "Mostar - Old Bridge",
+        "url": "https://www.skylinewebcams.com/en/webcam/bosnia-and-herzegovina/herzegovina-neretva-canton/mostar/old-bridge.html",
+        "display_name": "Mostar - Old Bridge",
+        "country_code": "BA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35,
+          43.85
+        ]
+      },
+      "properties": {
+        "name": "Sarajevo",
+        "url": "https://www.skylinewebcams.com/en/webcam/bosnia-and-herzegovina/sarajevo-canton/sarajevo/sarajevo.html",
+        "display_name": "Sarajevo",
+        "country_code": "BA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35,
+          43.85
+        ]
+      },
+      "properties": {
+        "name": "Ugljevik",
+        "url": "https://www.skylinewebcams.com/en/webcam/bosnia-and-herzegovina/republika-srpska/ugljevik/ugljevik.html",
+        "display_name": "Ugljevik",
+        "country_code": "BA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

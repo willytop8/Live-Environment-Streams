@@ -13,10 +13,52 @@
       "properties": {
         "name": "Calima Lake - Colombia Live cam",
         "url": "livee.m3u8?a=amm724s38hp0cc6suphgtfm617",
-        "city": "",
+        "display_name": "Calima Lake",
         "country_code": "CO",
         "environment": "nature",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "standard",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5145,
+          10.4068
+        ]
+      },
+      "properties": {
+        "name": "Cartagena - Playa las Velas, Colombia",
+        "url": "https://www.skylinewebcams.com/en/webcam/colombia/bolivar/cartagena/playa-las-velas.html",
+        "display_name": "Cartagena - Playa las Velas, Colombia",
+        "country_code": "CO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4794,
+          10.391
+        ]
+      },
+      "properties": {
+        "name": "Cartagena Webcams Hub - Colombia",
+        "url": "https://www.skylinewebcams.com/webcam/colombia/bolivar/cartagena.html",
+        "display_name": "Cartagena Webcams Hub - Colombia",
+        "country_code": "CO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
       }
     }
   ]

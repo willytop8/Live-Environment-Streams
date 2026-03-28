@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          10.82
+        ]
+      },
+      "properties": {
+        "name": "Da Nang",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/da-nang.html",
+        "display_name": "Da Nang",
+        "country_code": "VN",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          10.82
+        ]
+      },
+      "properties": {
+        "name": "Da Nang - Streets",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/streets.html",
+        "display_name": "Da Nang - Streets",
+        "country_code": "VN",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          10.82
+        ]
+      },
+      "properties": {
+        "name": "Da Nang Quang Trung Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/da-nang-quang-trung-street.html",
+        "display_name": "Da Nang Quang Trung Street",
+        "country_code": "VN",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6297,
+          10.8231
+        ]
+      },
+      "properties": {
+        "name": "Ho Chi Minh City Streets - Vietnam",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/southeast/ho-chi-minh/streets.html",
+        "display_name": "Ho Chi Minh City Streets - Vietnam",
+        "country_code": "VN",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63,
+          10.82
+        ]
+      },
+      "properties": {
+        "name": "Hoang Mai Town Nghe An",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html",
+        "display_name": "Hoang Mai Town Nghe An",
+        "country_code": "VN",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    }
+  ]
+}

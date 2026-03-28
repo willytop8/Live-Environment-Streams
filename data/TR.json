@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Bulancak",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/bulancak/bulancak.html",
+        "display_name": "Bulancak",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Dereli",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/dereli/dereli.html",
+        "display_name": "Dereli",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Dereli - Yavuzkemal",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/dereli/yavuzkemal.html",
+        "display_name": "Dereli - Yavuzkemal",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Erbaa - Pnarbeyli Koyu Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/black-sea-region/erbaa/pnarbeyli-koyu-panorama.html",
+        "display_name": "Erbaa - Pnarbeyli Koyu Panorama",
+        "country_code": "TR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Giresun - Gazi Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/gazi-street.html",
+        "display_name": "Giresun - Gazi Street",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Giresun - Goksu Travertenleri",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/goksu-travertenleri.html",
+        "display_name": "Giresun - Goksu Travertenleri",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Giresun - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/panorama.html",
+        "display_name": "Giresun - Panorama",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9784,
+          41.0082
+        ]
+      },
+      "properties": {
+        "name": "Istanbul - Golden Horn",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/istanbul/golden-horn.html",
+        "display_name": "Istanbul - Golden Horn",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Kizdere - Golyayla Village",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/black-sea-region/kizdere/golyayla-village.html",
+        "display_name": "Kizdere - Golyayla Village",
+        "country_code": "TR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Nevsehir - Cappadocia Uchisar",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html",
+        "display_name": "Nevsehir - Cappadocia Uchisar",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Nilufer - Golyazi",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/nilufer/golyazi.html",
+        "display_name": "Nilufer - Golyazi",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Nilufer - Golyazi Lake Uluabat",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/nilufer/golyazi-lake-uluabat.html",
+        "display_name": "Nilufer - Golyazi Lake Uluabat",
+        "country_code": "TR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.97,
+          41.01
+        ]
+      },
+      "properties": {
+        "name": "Sebinkarahisar",
+        "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/sebinkarahisar/sebinkarahisar.html",
+        "display_name": "Sebinkarahisar",
+        "country_code": "TR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

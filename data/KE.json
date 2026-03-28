@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82,
+          -1.29
+        ]
+      },
+      "properties": {
+        "name": "Diani Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/kenya/kwale-county/diani-beach/diani-beach.html",
+        "display_name": "Diani Beach",
+        "country_code": "KE",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82,
+          -1.29
+        ]
+      },
+      "properties": {
+        "name": "Nakuru - Masai Mara",
+        "url": "https://www.skylinewebcams.com/en/webcam/kenya/rift-valley-province/nakuru/masai-mara.html",
+        "display_name": "Nakuru - Masai Mara",
+        "country_code": "KE",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82,
+          -1.29
+        ]
+      },
+      "properties": {
+        "name": "Voi - Tsavo East National Park",
+        "url": "https://www.skylinewebcams.com/en/webcam/kenya/taita-taveta-county/voi/tsavo-east-national-park.html",
+        "display_name": "Voi - Tsavo East National Park",
+        "country_code": "KE",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82,
+          -1.29
+        ]
+      },
+      "properties": {
+        "name": "Watamu Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/kenya/malindi/watamu/watamu-beach.html",
+        "display_name": "Watamu Beach",
+        "country_code": "KE",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}

@@ -6,683 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.88333,
-          32.75
+          132.4553,
+          34.3853
         ]
       },
       "properties": {
-        "name": "Nagasaki Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=SVpsCVjzoiI",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.88333,
-          32.75
-        ]
-      },
-      "properties": {
-        "name": "Nagasaki Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=sPOq_two14k",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.88333,
-          32.75
-        ]
-      },
-      "properties": {
-        "name": "Nagasaki Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=xAQN-uKmE_0",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.88333,
-          32.75
-        ]
-      },
-      "properties": {
-        "name": "Nagasaki Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=zNahac5x0Tw",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=6dp-bvQ7RWo",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=DjdUEyjx8GM",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=KR7qSzE1j_w",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=_k-5U7IeK8g",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.73666,
-          41.77583
-        ]
-      },
-      "properties": {
-        "name": "Hakodate Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=FrW7wCqB2xQ",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.73666,
-          41.77583
-        ]
-      },
-      "properties": {
-        "name": "Hakodate Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=s--MDmshT3I",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=BWHTBaK39bE",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=CdesNZ150HE",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=KlBpMCPXyZY",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=O7aL3u5n1gQ",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=gaNLXSEUVRw",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=kfIQBC0hrII",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.3545,
-          43.0618
-        ]
-      },
-      "properties": {
-        "name": "Live Webcam Sapporo - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=uvNVpMKG8rw",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "name": "Osaka Live Cameras - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=IDoDJpRTwcE",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "name": "Osaka Live Cameras - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=Iv2VUE_UhRQ",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "name": "Osaka Live Cameras - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=YIjxwMxWzgE",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5023,
-          34.6937
-        ]
-      },
-      "properties": {
-        "name": "Osaka Live Cameras - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=nVeVH2ssSYI",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.93333,
-          34.65
-        ]
-      },
-      "properties": {
-        "name": "Okayama Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=7NpeaNdfNYQ",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.93333,
-          34.65
-        ]
-      },
-      "properties": {
-        "name": "Okayama Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=j2CdAIRbdWc",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          133.93333,
-          34.65
-        ]
-      },
-      "properties": {
-        "name": "Okayama Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=m7S2xDg01zs",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/1Xm5bjdI5hU?autoplay=1&rel=0",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/1Xm5bjdI5hU?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/3KZ20aH_Oq4?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/6dp-bvQ7RWo?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/Ml0_q9_s_xY?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/MwcMURMzJ7A?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/Okc4okfC45E?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/Zhmmh7l6KEw?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/Zq-D5z2n0EY?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/ktds5GPgu6Q?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/lA6TaaMGgDo?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/nvjYhbiznNk?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.6503,
-          35.6762
-        ]
-      },
-      "properties": {
-        "name": "Tokyo Search Discovery",
-        "url": "https://www.youtube.com/embed/urE7veQRlrQ?autoplay=1&rel=0%5C",
-        "city": "",
-        "country_code": "JP",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          141.0329324,
-          37.4230135
-        ]
-      },
-      "properties": {
-        "name": "Fukushima Daiichi nuclear power station 1",
-        "url": "https://edge04.balticlivecam.com/blc/Fukusima1/index.m3u8?token=b2361e614c067c3964c777718bdfbf98%3A1773118543566",
-        "city": "\u5927\u718a\u753a",
+        "name": "Hiroshima, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/prefecture-of-hiroshima/hiroshima.html",
+        "display_name": "Hiroshima, Japan",
         "country_code": "JP",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -690,17 +26,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          141.03267,
-          37.4222606
+          135.7682,
+          35.0053
         ]
       },
       "properties": {
-        "name": "Fukushima Daiichi nuclear power station 2",
-        "url": "https://edge04.balticlivecam.com/blc/Fukusima2/index.m3u8?token=70ed2cd0ec425bed5c64e2adc24cd0ec%3A1773118545648",
-        "city": "\u5927\u718a\u753a",
+        "name": "Kyoto - Nishiki Market, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kansai/kyoto/nishiki-market.html",
+        "display_name": "Kyoto - Nishiki Market, Japan",
         "country_code": "JP",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.7681,
+          35.0116
+        ]
+      },
+      "properties": {
+        "name": "Kyoto Webcams Hub - Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kansai/kyoto.html",
+        "display_name": "Kyoto Webcams Hub - Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.9066,
+          35.1815
+        ]
+      },
+      "properties": {
+        "name": "Nagoya, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/aichi-prefecture/nagoya.html",
+        "display_name": "Nagoya, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3545,
+          43.0618
+        ]
+      },
+      "properties": {
+        "name": "Sapporo City, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/prefecture-of-hokkaido/sapporo/sapporo-city.html",
+        "display_name": "Sapporo City, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7005,
+          35.6595
+        ]
+      },
+      "properties": {
+        "name": "Tokyo - Shibuya Crossing, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kanto/tokyo/streets-of-shibuya.html",
+        "display_name": "Tokyo - Shibuya Crossing, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7034,
+          35.6938
+        ]
+      },
+      "properties": {
+        "name": "Tokyo - Shinjuku Kabukicho, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kanto/tokyo/shinjuku-kabukicho.html",
+        "display_name": "Tokyo - Shinjuku Kabukicho, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "name": "Tokyo Panorama, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kanto/tokyo/panorama-di-tokyo.html",
+        "display_name": "Tokyo Panorama, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503,
+          35.6762
+        ]
+      },
+      "properties": {
+        "name": "Tokyo Skyline, Japan",
+        "url": "https://www.skylinewebcams.com/en/webcam/japan/kanto/tokyo/tokyo-skyline.html",
+        "display_name": "Tokyo Skyline, Japan",
+        "country_code": "JP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

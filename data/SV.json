@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19,
+          13.69
+        ]
+      },
+      "properties": {
+        "name": "La Libertad - Playa Conchalio",
+        "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio.html",
+        "display_name": "La Libertad - Playa Conchalio",
+        "country_code": "SV",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19,
+          13.69
+        ]
+      },
+      "properties": {
+        "name": "La Libertad - Playa Conchalio El Salvador",
+        "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio-el-salvador.html",
+        "display_name": "La Libertad - Playa Conchalio El Salvador",
+        "country_code": "SV",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19,
+          13.69
+        ]
+      },
+      "properties": {
+        "name": "San Miguel - Volcan Chaparrastique",
+        "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/san-miguel-department/san-miguel/volcan-chaparrastique.html",
+        "display_name": "San Miguel - Volcan Chaparrastique",
+        "country_code": "SV",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2182,
+          13.6929
+        ]
+      },
+      "properties": {
+        "name": "San Salvador",
+        "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/san-salvador/san-salvador/san-salvador.html",
+        "display_name": "San Salvador",
+        "country_code": "SV",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.19,
+          13.69
+        ]
+      },
+      "properties": {
+        "name": "Tamanique - Playa El Tunco",
+        "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/tamanique/playa-el-tunco.html",
+        "display_name": "Tamanique - Playa El Tunco",
+        "country_code": "SV",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}

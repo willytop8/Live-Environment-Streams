@@ -6,17 +6,259 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.5562,
-          -38.00042
+          -58.3816,
+          -34.6037
         ]
       },
       "properties": {
-        "name": "La perla beach",
-        "url": "https://edge01.balticlivecam.com/blc/p_AR_Mar_de_la_plata_La_Perla_beach/index.m3u8?token=111d4620a9ed35ad734e04d774dad278%3A1773118534763",
-        "city": "",
+        "name": "Buenos Aires - Obelisco",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/buenos-aires/buenos-aires/obelisco.html",
+        "display_name": "Buenos Aires - Obelisco",
         "country_code": "AR",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3816,
+          -34.6037
+        ]
+      },
+      "properties": {
+        "name": "Buenos Aires - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/buenos-aires/buenos-aires/panorama.html",
+        "display_name": "Buenos Aires - Panorama",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Cipolletti",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/rio-negro-province/cipolletti/cipolletti.html",
+        "display_name": "Cipolletti",
+        "country_code": "AR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Cipolletti - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/rio-negro-province/cipolletti/panorama.html",
+        "display_name": "Cipolletti - Panorama",
+        "country_code": "AR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Necochea",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/buenos-aires/necochea/necochea.html",
+        "display_name": "Necochea",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Pinamar Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/buenos-aires/pinamar/pinamar-beach.html",
+        "display_name": "Pinamar Beach",
+        "country_code": "AR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Provincia De Cordoba - Villa Maria",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/departamento-general-san-martin/provincia-de-cordoba/villa-maria.html",
+        "display_name": "Provincia De Cordoba - Villa Maria",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "San Rafael - Canon Del Atuel",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/canon-del-atuel.html",
+        "display_name": "San Rafael - Canon Del Atuel",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "San Rafael - Valle Grande Rio Atuel",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/provincia-de-mendoza/san-rafael/valle-grande-rio-atuel.html",
+        "display_name": "San Rafael - Valle Grande Rio Atuel",
+        "country_code": "AR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Tolhuin",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/tolhuin/tolhuin.html",
+        "display_name": "Tolhuin",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Ushuaia",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/ushuaia.html",
+        "display_name": "Ushuaia",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Ushuaia - Plaza Islas Malvinas",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/plaza-islas-malvinas.html",
+        "display_name": "Ushuaia - Plaza Islas Malvinas",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38,
+          -34.61
+        ]
+      },
+      "properties": {
+        "name": "Ushuaia - Tren Del Fin Del Mundo",
+        "url": "https://www.skylinewebcams.com/en/webcam/argentina/tierra-del-fuego/ushuaia/tren-del-fin-del-mundo.html",
+        "display_name": "Ushuaia - Tren Del Fin Del Mundo",
+        "country_code": "AR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

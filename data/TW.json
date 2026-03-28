@@ -6,6 +6,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          120.6736,
+          24.1477
+        ]
+      },
+      "properties": {
+        "name": "Taichung - Wang Gao Liao, Taiwan",
+        "url": "https://www.skylinewebcams.com/webcam/taiwan/taichung/taichung/wang-gao-liao.html",
+        "display_name": "Taichung - Wang Gao Liao, Taiwan",
+        "country_code": "TW",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5101,
+          25.0622
+        ]
+      },
+      "properties": {
+        "name": "Taipei - Dadaocheng Wharf, Taiwan",
+        "url": "https://www.skylinewebcams.com/webcam/taiwan/new-taipei-city/taipei-city/dadaocheng-wharf.html",
+        "display_name": "Taipei - Dadaocheng Wharf, Taiwan",
+        "country_code": "TW",
+        "environment": "harbor",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "harbor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5167,
+          25.0797
+        ]
+      },
+      "properties": {
+        "name": "Taipei - Dajia Riverside Park, Taiwan",
+        "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/dajia-riverside-park.html",
+        "display_name": "Taipei - Dajia Riverside Park, Taiwan",
+        "country_code": "TW",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5175,
+          25.0781
+        ]
+      },
+      "properties": {
+        "name": "Taipei - Jiantanshan Observatory, Taiwan",
+        "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/jiantanshan-weifeng-observatory.html",
+        "display_name": "Taipei - Jiantanshan Observatory, Taiwan",
+        "country_code": "TW",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      },
+      "properties": {
+        "name": "Taipei City, Taiwan",
+        "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/taipei-taiwan.html",
+        "display_name": "Taipei City, Taiwan",
+        "country_code": "TW",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           121.575,
           25.027
         ]
@@ -13,10 +113,372 @@
       "properties": {
         "name": "Taipei Elephant Mountain - Taipei 101 4K",
         "url": "https://www.youtube.com/watch?v=JLEmtG9heG0",
-        "city": "",
+        "display_name": "Taipei Elephant Mountain, Taiwan",
         "country_code": "TW",
         "environment": "landmark",
-        "timezone": ""
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9718,
+          24.8015
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Freeway 1 Hsinchu",
+        "url": "https://cctv.freeway.gov.tw/abs2mjpg/bmjpg?camera=1-5K-0.01",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Freeway 1 Taipei",
+        "url": "https://cctv.freeway.gov.tw/abs2mjpg/bmjpg?camera=1-1K-0.01",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.301,
+          24.9936
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Freeway 1 Taoyuan",
+        "url": "https://cctv.freeway.gov.tw/abs2mjpg/bmjpg?camera=1-3K-0.01",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4651,
+          25.0118
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Freeway 3 New Taipei",
+        "url": "https://cctv.freeway.gov.tw/abs2mjpg/bmjpg?camera=3-1K-0.01",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7533,
+          24.757
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Freeway 5 Yilan",
+        "url": "https://cctv.freeway.gov.tw/abs2mjpg/bmjpg?camera=5-1K-0.01",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5161,
+          24.0518
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Changhua",
+        "url": "https://cctv-ss02.freeway.gov.tw/mjpeg/003?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3014,
+          22.6273
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Kaohsiung",
+        "url": "https://cctv-ss03.freeway.gov.tw/mjpeg/002?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7392,
+          25.1276
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Keelung",
+        "url": "https://cctv-ss01.freeway.gov.tw/mjpeg/002?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6736,
+          24.1477
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Taichung",
+        "url": "https://cctv-ss02.freeway.gov.tw/mjpeg/001?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2269,
+          22.9998
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Tainan",
+        "url": "https://cctv-ss03.freeway.gov.tw/mjpeg/001?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Taipei",
+        "url": "https://cctv-ss01.freeway.gov.tw/mjpeg/001?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.301,
+          24.9936
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 1 Taoyuan",
+        "url": "https://cctv-ss01.freeway.gov.tw/mjpeg/005?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8214,
+          24.5602
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 3 Miaoli",
+        "url": "https://cctv-ss02.freeway.gov.tw/mjpeg/002?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4651,
+          25.0119
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 3 New Taipei",
+        "url": "https://cctv-ss01.freeway.gov.tw/mjpeg/003?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4929,
+          22.6762
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 3 Pingtung",
+        "url": "https://cctv-ss03.freeway.gov.tw/mjpeg/003?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7533,
+          24.757
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - National Freeway 5 Yilan",
+        "url": "https://cctv-ss01.freeway.gov.tw/mjpeg/004?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1444,
+          22.7583
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Provincial Highway 9 Taitung",
+        "url": "https://cctv-ss04.freeway.gov.tw/mjpeg/002?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6014,
+          23.991
+        ]
+      },
+      "properties": {
+        "name": "Taiwan - Suhua Highway Hualien",
+        "url": "https://cctv-ss04.freeway.gov.tw/mjpeg/001?t=1",
+        "display_name": "Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "taiwan_freeway",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     }
   ]

@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.17,
+          41.15
+        ]
+      },
+      "properties": {
+        "name": "Durres Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/albania/durres/durres/durres-beach.html",
+        "display_name": "Durres Beach",
+        "country_code": "AL",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.17,
+          41.15
+        ]
+      },
+      "properties": {
+        "name": "Valona - Bestrove",
+        "url": "https://www.skylinewebcams.com/en/webcam/albania/valona/valona/bestrove.html",
+        "display_name": "Valona - Bestrove",
+        "country_code": "AL",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

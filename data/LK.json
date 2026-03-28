@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.85,
+          6.93
+        ]
+      },
+      "properties": {
+        "name": "Galle - Dewata Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sri-lanka/southern-province/galle/dewata-beach.html",
+        "display_name": "Galle - Dewata Beach",
+        "country_code": "LK",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.85,
+          6.93
+        ]
+      },
+      "properties": {
+        "name": "Midigama - Plantations Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/sri-lanka/southern-province/midigama/plantations-beach.html",
+        "display_name": "Midigama - Plantations Beach",
+        "country_code": "LK",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}

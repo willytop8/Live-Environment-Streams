@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.1207,
-          49.2827
+          7.4474,
+          46.948
         ]
       },
       "properties": {
-        "name": "Vancouver Webcams - SpotiCam",
-        "url": "https://www.youtube.com/channel/UCNOXlPIEg4nNvCqlInpKcXw/live",
-        "city": "",
+        "name": "Alberni - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/alberni/port.html",
+        "display_name": "Alberni - Port",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -24,17 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.1207,
-          49.2827
+          -73.609002,
+          45.463367
         ]
       },
       "properties": {
-        "name": "Vancouver Webcams - SpotiCam",
-        "url": "https://www.youtube.com/channel/UCr7GtOadmMI2KMfei9yElxQ/live",
-        "city": "",
+        "name": "Aut. 20 à l'ouest de l'échangeur Turcot",
+        "url": "https://www.quebec511.info/Carte/Fenetres/camera.ashx?format=mp4&id=3816",
+        "display_name": "Aut. 20 à l'ouest de l'échangeur Turcot, Canada",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "quebec511",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -42,17 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.08529,
-          51.05011
+          -79.42,
+          43.7
         ]
       },
       "properties": {
-        "name": "Calgary Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=2udtsRKecyw",
-        "city": "",
+        "name": "Banff - Northern Lights",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/banff/northern-lights.html",
+        "display_name": "Banff - Northern Lights",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -60,17 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -114.08529,
-          51.05011
+          -79.42,
+          43.7
         ]
       },
       "properties": {
-        "name": "Calgary Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=xsRDTfuksyI",
-        "city": "",
+        "name": "Banff - Sunshine Village",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/banff/sunshine-village.html",
+        "display_name": "Banff - Sunshine Village",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -78,17 +86,1119 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.583,
-          46.25
+          -79.42,
+          43.7
         ]
       },
       "properties": {
-        "name": "Mont Tremblant Camera - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=3LXQWU67Ufk",
-        "city": "",
+        "name": "Barrington - Baccaro Point Lighthouse",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/barrington/baccaro-point-lighthouse.html",
+        "display_name": "Barrington - Baccaro Point Lighthouse",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Burntcoat",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/burntcoat/burntcoat.html",
+        "display_name": "Burntcoat",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Calgary - Central Memorial Park",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/central-memorial-park.html",
+        "display_name": "Calgary - Central Memorial Park",
+        "country_code": "CA",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Calgary - Strees",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/strees.html",
+        "display_name": "Calgary - Strees",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Calgary Skyline",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/calgary-skyline.html",
+        "display_name": "Calgary Skyline",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Campbell River",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river.html",
+        "display_name": "Campbell River",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Campbell River - Discovery Passage",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-passage.html",
+        "display_name": "Campbell River - Discovery Passage",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Campbell River - Discovery Pier",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-pier.html",
+        "display_name": "Campbell River - Discovery Pier",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Campbell River Airport",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river-airport.html",
+        "display_name": "Campbell River Airport",
+        "country_code": "CA",
+        "environment": "transport",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Campbell River Airport Runway",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river-airport-runway.html",
+        "display_name": "Campbell River Airport Runway",
+        "country_code": "CA",
+        "environment": "transport",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Canmore",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/canmore/canmore.html",
+        "display_name": "Canmore",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Canmore - Civic Center",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/canmore/civic-center.html",
+        "display_name": "Canmore - Civic Center",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Channel Port Aux Basques",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/newfoundland-and-labrador/channel-port-aux-basques/channel-port-aux-basques.html",
+        "display_name": "Channel Port Aux Basques",
+        "country_code": "CA",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Colborne",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/colborne/colborne.html",
+        "display_name": "Colborne",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Cold Lake",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/cold-lake/cold-lake.html",
+        "display_name": "Cold Lake",
+        "country_code": "CA",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Collingwood Hurontario Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/collingwood/collingwood-hurontario-street.html",
+        "display_name": "Collingwood Hurontario Street",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Fort Erie - Canada Bound Truck Inspection",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/fort-erie/canada-bound-truck-inspection.html",
+        "display_name": "Fort Erie - Canada Bound Truck Inspection",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Fredericton - Officers Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fredericton/officers-square.html",
+        "display_name": "Fredericton - Officers Square",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Fredericton - Saint John River",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fredericton/saint-john-river.html",
+        "display_name": "Fredericton - Saint John River",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Fundy St Martins - Orange Hill",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html",
+        "display_name": "Fundy St Martins - Orange Hill",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Golden - Ski Resort",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/golden/ski-resort.html",
+        "display_name": "Golden - Ski Resort",
+        "country_code": "CA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Halifax - Peggys Cove",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/halifax/peggys-cove.html",
+        "display_name": "Halifax - Peggys Cove",
+        "country_code": "CA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Lockeport",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/lockeport/lockeport.html",
+        "display_name": "Lockeport",
+        "country_code": "CA",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Montreal - Trudeau Airport",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/quebec/montreal/trudeau-airport.html",
+        "display_name": "Montreal - Trudeau Airport",
+        "country_code": "CA",
+        "environment": "transport",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "transport"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Nanaimo",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/nanaimo/nanaimo.html",
+        "display_name": "Nanaimo",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Niagara Falls",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/niagara-falls/niagara-falls.html",
+        "display_name": "Niagara Falls",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Niagara Falls - Niagara",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/niagara-falls/niagara.html",
+        "display_name": "Niagara Falls - Niagara",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Niagara Falls - Streets",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/niagara-falls/streets.html",
+        "display_name": "Niagara Falls - Streets",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Ottawa",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/ottawa/ottawa.html",
+        "display_name": "Ottawa",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Ottawa - Cyrville Station",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/ottawa/cyrville-station.html",
+        "display_name": "Ottawa - Cyrville Station",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Ottawa - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/ottawa/panorama.html",
+        "display_name": "Ottawa - Panorama",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Parry Sound",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/parry-sound/parry-sound.html",
+        "display_name": "Parry Sound",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Quebec City - Fairmont Le Chateau Frontenac",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/quebec/quebec-city/fairmont-le-chateau-frontenac.html",
+        "display_name": "Quebec City - Fairmont Le Chateau Frontenac",
+        "country_code": "CA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Revelstoke - Railfan",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/revelstoke/railfan.html",
+        "display_name": "Revelstoke - Railfan",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Saguenay",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/quebec/saguenay/saguenay.html",
+        "display_name": "Saguenay",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "St John S - St Johns",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/newfoundland-and-labrador/st-john-s/st-johns.html",
+        "display_name": "St John S - St Johns",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Steinbach",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/manitoba/steinbach/steinbach.html",
+        "display_name": "Steinbach",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "The Shops Of Canmore Courtyard",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/canmore/the-shops-of-canmore-courtyard.html",
+        "display_name": "The Shops Of Canmore Courtyard",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Tofino - Crystal Cove Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/tofino/crystal-cove-beach.html",
+        "display_name": "Tofino - Crystal Cove Beach",
+        "country_code": "CA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Tofino - Long Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/tofino/long-beach.html",
+        "display_name": "Tofino - Long Beach",
+        "country_code": "CA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Toronto - Cn Tower",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/cn-tower.html",
+        "display_name": "Toronto - Cn Tower",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Toronto - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/panorama.html",
+        "display_name": "Toronto - Panorama",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Toronto - Skyline",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/skyline.html",
+        "display_name": "Toronto - Skyline",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Toronto - Ytz Cn Tower",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/ytz-cn-tower.html",
+        "display_name": "Toronto - Ytz Cn Tower",
+        "country_code": "CA",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Truro",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/truro/truro.html",
+        "display_name": "Truro",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Bc Place Stadium",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/bc-place-stadium.html",
+        "display_name": "Vancouver - Bc Place Stadium",
+        "country_code": "CA",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Deep Cove",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/deep-cove.html",
+        "display_name": "Vancouver - Deep Cove",
+        "country_code": "CA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Grouse Mountain Ski Area",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/grouse-mountain-ski-area.html",
+        "display_name": "Vancouver - Grouse Mountain Ski Area",
+        "country_code": "CA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/panorama.html",
+        "display_name": "Vancouver - Panorama",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Parksville",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/parksville.html",
+        "display_name": "Vancouver - Parksville",
+        "country_code": "CA",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Vancouver - Port",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/port.html",
+        "display_name": "Vancouver - Port",
+        "country_code": "CA",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4513,
+          -4.6191
+        ]
+      },
+      "properties": {
+        "name": "Victoria - Harbour",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/victoria/harbour.html",
+        "display_name": "Victoria - Harbour",
+        "country_code": "CA",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.4513,
+          -4.6191
+        ]
+      },
+      "properties": {
+        "name": "Victoria - Ross Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/victoria/ross-bay.html",
+        "display_name": "Victoria - Ross Bay",
+        "country_code": "CA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "West Vancouver - Cypress Plaza",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/west-vancouver/cypress-plaza.html",
+        "display_name": "West Vancouver - Cypress Plaza",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Whistler - Mountains",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/whistler/mountains.html",
+        "display_name": "Whistler - Mountains",
+        "country_code": "CA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42,
+          43.7
+        ]
+      },
+      "properties": {
+        "name": "Whistler Olympic Plaza",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/whistler/whistler-olympic-plaza.html",
+        "display_name": "Whistler Olympic Plaza",
+        "country_code": "CA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -102,11 +1212,13 @@
       },
       "properties": {
         "name": "Whistler Webcams - SpotiCam",
-        "url": "https://streamer2.brownrice.com/whistlervillage/whistlervillage.stream/main_playlist.m3u8",
-        "city": "",
+        "url": "https://streamer6.brownrice.com/whistlervillagefitz/whistlervillagefitz.stream/main_playlist.m3u8",
+        "display_name": "Whistler Webcams, Canada",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "brownrice",
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -114,17 +1226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.95396,
-          50.11817
+          -79.42,
+          43.7
         ]
       },
       "properties": {
-        "name": "Whistler Webcams - SpotiCam",
-        "url": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fstreamer6.brownrice.com%2Fwhistlervillagefitz%2Fwhistlervillagefitz.stream%2Fmain_playlist.m3u8",
-        "city": "",
+        "name": "White Rock",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/white-rock/white-rock.html",
+        "display_name": "White Rock",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -132,395 +1246,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.95396,
-          50.11817
+          -79.42,
+          43.7
         ]
       },
       "properties": {
-        "name": "Whistler Webcams - SpotiCam",
-        "url": "https://www.spoticam.com/wp-content/themes/spoticam/pl.php?url=https%3A%2F%2Fstreamer2.brownrice.com%2Fwhistlervillage%2Fwhistlervillage.stream%2Fmain_playlist.m3u8",
-        "city": "",
+        "name": "White Rock - Pier",
+        "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/white-rock/pier.html",
+        "display_name": "White Rock - Pier",
         "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.95396,
-          50.11817
-        ]
-      },
-      "properties": {
-        "name": "Whistler Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=IEhDUXECe_k",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.95396,
-          50.11817
-        ]
-      },
-      "properties": {
-        "name": "Whistler Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=JVQaZtahjwg",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.95396,
-          50.11817
-        ]
-      },
-      "properties": {
-        "name": "Whistler Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=Zyf8-rxl1jI",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.35,
-          56.13
-        ]
-      },
-      "properties": {
-        "name": "Toronto Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=axD_9MHqFts",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.35,
-          56.13
-        ]
-      },
-      "properties": {
-        "name": "Toronto Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=jwHkDXvIo10",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.56982,
-          51.17622
-        ]
-      },
-      "properties": {
-        "name": "Banff Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=HghxOQ12dy4",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.56982,
-          51.17622
-        ]
-      },
-      "properties": {
-        "name": "Banff Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=Nk7sVL31cbE",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.56982,
-          51.17622
-        ]
-      },
-      "properties": {
-        "name": "Banff Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=R8hxzxRfJhs",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.56982,
-          51.17622
-        ]
-      },
-      "properties": {
-        "name": "Banff Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=urgoWZlqxMU",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.53436,
-          52.80006
-        ]
-      },
-      "properties": {
-        "name": "Northern Light Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=AWqY7wLUWW8",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.53436,
-          52.80006
-        ]
-      },
-      "properties": {
-        "name": "Northern Light Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=bOEvPL206Hc",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.53436,
-          52.80006
-        ]
-      },
-      "properties": {
-        "name": "Northern Light Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=ccTVAhJU5lg",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.53436,
-          52.80006
-        ]
-      },
-      "properties": {
-        "name": "Northern Light Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=dnlQtDad6Dk",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.53436,
-          52.80006
-        ]
-      },
-      "properties": {
-        "name": "Northern Light Webcam - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=w6vZFCz6cwo",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.35206,
-          51.08335
-        ]
-      },
-      "properties": {
-        "name": "Canmore Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=RdRmXqnBZ-c",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.35206,
-          51.08335
-        ]
-      },
-      "properties": {
-        "name": "Canmore Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=Rf7DljbjA-Q",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.35206,
-          51.08335
-        ]
-      },
-      "properties": {
-        "name": "Canmore Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=_0wPODlF9wU",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.35206,
-          51.08335
-        ]
-      },
-      "properties": {
-        "name": "Canmore Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=kC6_JqEt3GA",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.35206,
-          51.08335
-        ]
-      },
-      "properties": {
-        "name": "Canmore Webcams - SpotiCam",
-        "url": "https://www.youtube.com/watch?v=qIOP6NJLlc8",
-        "city": "",
-        "country_code": "CA",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.1256,
-          46.23459
-        ]
-      },
-      "properties": {
-        "name": "Charlottetown city center",
-        "url": "https://edge04.balticlivecam.com/blc/p_CAN_Charlottetown_center/index.m3u8?token=063862a7361e22488ac5c671e3f57b4b%3A1773118590642",
-        "city": "",
-        "country_code": "CA",
-        "environment": "street",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.01637,
-          44.5168
-        ]
-      },
-      "properties": {
-        "name": "Wasaga beach seaside",
-        "url": "https://edge01.balticlivecam.com/blc/p_CA_Wasaga_beach_seaside/index.m3u8?token=d5ec561dc2eaf65dd492c6c779ad342f%3A1773118592796",
-        "city": "",
-        "country_code": "CA",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     }
   ]

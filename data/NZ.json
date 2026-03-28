@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7633,
+          -36.8485
+        ]
+      },
+      "properties": {
+        "name": "Auckland - Hauraki Gulf, New Zealand",
+        "url": "https://www.skylinewebcams.com/en/webcam/new-zealand/auckland/auckland/hauraki-gulf.html",
+        "display_name": "Auckland - Hauraki Gulf, New Zealand",
+        "country_code": "NZ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8094,
+          -41.3357
+        ]
+      },
+      "properties": {
+        "name": "Wellington - Lyall Bay, New Zealand",
+        "url": "https://www.skylinewebcams.com/webcam/new-zealand/wellington/wellington/lyall-bay.html",
+        "display_name": "Wellington - Lyall Bay, New Zealand",
+        "country_code": "NZ",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "coastal"
+      }
+    }
+  ]
+}

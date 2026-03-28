@@ -6,17 +6,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.70132,
-          34.66942
+          33.36,
+          35.17
         ]
       },
       "properties": {
-        "name": "Pissouri",
-        "url": "https://edge01.balticlivecam.com/blc/p_CYP_Pissouri/index.m3u8?token=81743e60a4a3f00a42d9f9679275e801%3A1773118636919",
-        "city": "",
+        "name": "Larnaca - Oroklini",
+        "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/oroklini.html",
+        "display_name": "Larnaca - Oroklini",
         "country_code": "CY",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.36,
+          35.17
+        ]
+      },
+      "properties": {
+        "name": "Larnaca Promenade",
+        "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html",
+        "display_name": "Larnaca Promenade",
+        "country_code": "CY",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.36,
+          35.17
+        ]
+      },
+      "properties": {
+        "name": "Larnaca Seafront",
+        "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html",
+        "display_name": "Larnaca Seafront",
+        "country_code": "CY",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     }
   ]

@@ -6,17 +6,79 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          104.06667,
-          30.66667
+          114.1694,
+          22.3193
         ]
       },
       "properties": {
-        "name": "Anshun Bridge",
-        "url": "https://edge04.balticlivecam.com/blc/p_CN_Anshun_Bridge_Chengdu/index.m3u8?token=0bcb078e52ee70a1413106e875e70df5%3A1773118600986",
-        "city": "",
+        "name": "Hong Kong - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/china/hong-kong/hong-kong/panorama.html",
+        "display_name": "Hong Kong - Panorama",
         "country_code": "CN",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3193
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Island",
+        "url": "https://www.skylinewebcams.com/en/webcam/china/hong-kong/hong-kong/hong-kong-island.html",
+        "display_name": "Hong Kong Island",
+        "country_code": "CN",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47,
+          31.23
+        ]
+      },
+      "properties": {
+        "name": "Panorama Of Qingdao",
+        "url": "https://www.skylinewebcams.com/en/webcam/china/shandong/qingdao/panorama-of-qingdao.html",
+        "display_name": "Panorama Of Qingdao",
+        "country_code": "CN",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      },
+      "properties": {
+        "name": "Skyline Of Shanghai",
+        "url": "https://www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html",
+        "display_name": "Skyline Of Shanghai",
+        "country_code": "CN",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

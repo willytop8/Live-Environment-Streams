@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5906,
-          8.996
+          -79.52,
+          8.99
         ]
       },
       "properties": {
-        "name": "Panama Canal - Miraflores Locks (Cam 1)",
-        "url": "https://videos.panama-canal.com/live/camera1/playlist.m3u8",
-        "city": "",
+        "name": "Chiriqui - Playa Las Lajas",
+        "url": "https://www.skylinewebcams.com/en/webcam/panama/chiriqui/chiriqui/playa-las-lajas.html",
+        "display_name": "Chiriqui - Playa Las Lajas",
         "country_code": "PA",
-        "environment": "traffic",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     },
     {
@@ -24,17 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.5906,
-          8.996
+          -79.52,
+          8.99
         ]
       },
       "properties": {
-        "name": "Panama Canal - Miraflores Locks (Cam 2)",
-        "url": "https://videos.panama-canal.com/live/camera2/playlist.m3u8",
-        "city": "",
+        "name": "Panama",
+        "url": "https://www.skylinewebcams.com/en/webcam/panama/panama/panama/panama.html",
+        "display_name": "Panama",
         "country_code": "PA",
-        "environment": "traffic",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -49,10 +53,12 @@
       "properties": {
         "name": "Panama Canal - Gatun Locks (Cam 3)",
         "url": "https://videos.panama-canal.com/live/camera3/playlist.m3u8",
-        "city": "",
+        "display_name": "Panama Canal",
         "country_code": "PA",
         "environment": "traffic",
-        "timezone": ""
+        "source_family": "panama_canal",
+        "quality_tier": "high",
+        "scene_type": "river"
       }
     },
     {
@@ -67,10 +73,52 @@
       "properties": {
         "name": "Panama Canal - Gatun Locks (Cam 4)",
         "url": "https://videos.panama-canal.com/live/camera4/playlist.m3u8",
-        "city": "",
+        "display_name": "Panama Canal",
         "country_code": "PA",
         "environment": "traffic",
-        "timezone": ""
+        "source_family": "panama_canal",
+        "quality_tier": "high",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5906,
+          8.996
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Miraflores Locks (Cam 1)",
+        "url": "https://videos.panama-canal.com/live/camera1/playlist.m3u8",
+        "display_name": "Panama Canal",
+        "country_code": "PA",
+        "environment": "traffic",
+        "source_family": "panama_canal",
+        "quality_tier": "high",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5906,
+          8.996
+        ]
+      },
+      "properties": {
+        "name": "Panama Canal - Miraflores Locks (Cam 2)",
+        "url": "https://videos.panama-canal.com/live/camera2/playlist.m3u8",
+        "display_name": "Panama Canal",
+        "country_code": "PA",
+        "environment": "traffic",
+        "source_family": "panama_canal",
+        "quality_tier": "high",
+        "scene_type": "river"
       }
     }
   ]

@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.166,
+          -6.334
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 75+500",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/8/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "wikaserangpanimbang",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48,
+          -6.32
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 12+750 A",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "serbaraja_toll",
+        "quality_tier": "premium",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70851,
+          -6.09238
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Dadap 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcpqn62mej02bc0h565epz/01jsrcpqn62mej02bc0h565epz.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "tangerangkab",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.333,
+          -7.509
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Bandar - KM 672 Interchange Bandar",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICBANDARA/icbandara.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "margaharjaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55,
+          -7.37
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - ENTRANCE BALONGBENDO/Lebani",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "waskitabumiwira",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.553,
+          -7.369
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - ENTRANCE BUNDER",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/847256887139548671784810.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "waskitabumiwira",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.06,
+          -7.7
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - ENTRANCE GENDING",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/136246164069906379647553.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.067,
+          -7.695
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - EXIT GENDING",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/977167874427763451746762.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.068,
+          -7.692
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - GATE GENDING",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/649541773858342348334288.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.072,
+          -7.688
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - GENDING 3+300",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/165508286173376779404196.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.131,
+          -7.631
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 837+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/138982752655280577416057.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.136,
+          -7.624
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 841+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/954022855801602338173268.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.139,
+          -7.623
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 842+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/445611965027008738399060.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.14,
+          -7.62
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 843+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/027664306647094286999949.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.143,
+          -7.619
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 844+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/289329487202780435350069.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.144,
+          -7.616
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 845+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/369911633632709343267317.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.147,
+          -7.615
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Gending - KM 846+600",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/662943616394767421464155.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.346,
+          -7.494
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Mojokerto - KM 706 Interchange Mojokerto Barat",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICMBRB/icmbrb.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "margaharjaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.349,
+          -7.493
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Mojokerto - KM 710 Mojokerto",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICMOKERB/icmokerb.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "margaharjaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.184,
+          -7.576
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Probolinggo - SS GENDING",
+        "url": "https://paspro-streaming.co.id/LiveApp/streams/375660359233015132536155.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "paspro",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    }
+  ]
+}

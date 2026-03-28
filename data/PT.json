@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.35,
-          39.35
+          -9.14,
+          38.72
         ]
       },
       "properties": {
-        "name": "Supertubos Beach - Portugal",
-        "url": "http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8",
-        "city": "",
+        "name": "Almada - Costa De Caparica",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/almada/costa-de-caparica.html",
+        "display_name": "Almada - Costa De Caparica",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -31,10 +33,12 @@
       "properties": {
         "name": "Faro - Portugal",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ga0bqtjns6ci3r98i3maf8gh96",
-        "city": "",
+        "display_name": "Faro",
         "country_code": "PT",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -42,17 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.38112,
-          39.3558
+          -16.9241,
+          32.6669
         ]
       },
       "properties": {
-        "name": "Peniche | SuperTubos | Molhe Leste",
-        "url": "https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8",
-        "city": "",
+        "name": "Funchal - Ilha Do Porto Santo",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/madeira/funchal/ilha-do-porto-santo.html",
+        "display_name": "Funchal - Ilha Do Porto Santo",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -60,17 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.35633,
-          38.69582
+          -8.6757,
+          37.1024
         ]
       },
       "properties": {
-        "name": "S\u00e3o Pedro do Estoril",
-        "url": "https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8",
-        "city": "",
+        "name": "Lagos Portugal",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/algarve/lagos/lagos-portugal.html",
+        "display_name": "Lagos Portugal",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
       }
     },
     {
@@ -78,17 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.35412,
-          38.69282
+          -9.1393,
+          38.7223
         ]
       },
       "properties": {
-        "name": "Parede",
-        "url": "https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8",
-        "city": "",
+        "name": "Lisbon - Costa Da Caparica",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/lisbon/costa-da-caparica.html",
+        "display_name": "Lisbon - Costa Da Caparica",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -96,17 +106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.38673,
-          38.70266
+          -9.1393,
+          38.7223
         ]
       },
       "properties": {
-        "name": "S\u00e3o Jo\u00e3o do Estoril",
-        "url": "https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8",
-        "city": "",
+        "name": "Lisbon - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/lisbon/panorama.html",
+        "display_name": "Lisbon - Panorama",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -114,377 +126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.35633,
-          38.69582
+          -9.14,
+          38.72
         ]
       },
       "properties": {
-        "name": "S\u00e3o Pedro do Estoril | Bico Est\u00e1tica",
-        "url": "https://video-auth1.iol.pt/beachcam/bcsaopedrofixa/playlist.m3u8",
-        "city": "",
+        "name": "Portimao - Marina",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/algarve/portimao/marina.html",
+        "display_name": "Portimao - Marina",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.32215,
-          38.69105
-        ]
-      },
-      "properties": {
-        "name": "Carcavelos",
-        "url": "https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.23556,
-          38.64458
-        ]
-      },
-      "properties": {
-        "name": "Costa de Caparica | CDS NORTE",
-        "url": "https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.68908,
-          41.18207
-        ]
-      },
-      "properties": {
-        "name": "Matosinhos",
-        "url": "https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.06836,
-          39.60289
-        ]
-      },
-      "properties": {
-        "name": "Nazar\u00e9 | Praia do Norte Panor\u00e2mica",
-        "url": "https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.64125,
-          41.00763
-        ]
-      },
-      "properties": {
-        "name": "Espinho | Panor\u00e2mica",
-        "url": "https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.06836,
-          39.60289
-        ]
-      },
-      "properties": {
-        "name": "Nazar\u00e9 | Praia da Vila",
-        "url": "https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.37305,
-          39.88821
-        ]
-      },
-      "properties": {
-        "name": "Furadouro",
-        "url": "https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.49657,
-          40.91565
-        ]
-      },
-      "properties": {
-        "name": "Arrifana",
-        "url": "https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.38112,
-          39.3558
-        ]
-      },
-      "properties": {
-        "name": "Peniche | Lagide | Cantinho da ba\u00eda",
-        "url": "https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.46846,
-          37.09736
-        ]
-      },
-      "properties": {
-        "name": "Carvoeiro",
-        "url": "https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.38112,
-          39.3558
-        ]
-      },
-      "properties": {
-        "name": "Peniche | Baleal | Panor\u00e2mica",
-        "url": "https://video-auth1.iol.pt/beachcam/bcbalealgeral/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.53698,
-          37.11748
-        ]
-      },
-      "properties": {
-        "name": "Praia da Rocha Panor\u00e2mica",
-        "url": "https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.21374,
-          39.43672
-        ]
-      },
-      "properties": {
-        "name": "Foz do Arelho",
-        "url": "https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.70027,
-          41.191
-        ]
-      },
-      "properties": {
-        "name": "Le\u00e7a da Palmeira",
-        "url": "https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.16181,
-          37.08599
-        ]
-      },
-      "properties": {
-        "name": "Praia da Fal\u00e9sia",
-        "url": "https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.62753,
-          40.95773
-        ]
-      },
-      "properties": {
-        "name": "Esmoriz",
-        "url": "https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.23556,
-          38.64458
-        ]
-      },
-      "properties": {
-        "name": "Costa de Caparica | S\u00e3o Jo\u00e3o | Cova do Vapor",
-        "url": "https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.80125,
-          40.45524
-        ]
-      },
-      "properties": {
-        "name": "Praia de Mira",
-        "url": "https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.23556,
-          38.64458
-        ]
-      },
-      "properties": {
-        "name": "Costa de Caparica | Riviera",
-        "url": "https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.75834,
-          37.08942
-        ]
-      },
-      "properties": {
-        "name": "Praia da Luz",
-        "url": "https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -497,12 +151,14 @@
         ]
       },
       "properties": {
-        "name": "S\u00e3o Martinho do Porto",
-        "url": "https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8",
-        "city": "",
+        "name": "Porto Moniz - Seixal",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/madeira/porto-moniz/seixal.html",
+        "display_name": "Porto Moniz - Seixal",
         "country_code": "PT",
-        "environment": "harbor",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -510,17 +166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.41563,
-          38.96275
+          -9.14,
+          38.72
         ]
       },
       "properties": {
-        "name": "Ericeira | Praia do Sul",
-        "url": "https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8",
-        "city": "",
+        "name": "Ribeira Brava",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/madeira/ribeira-brava/ribeira-brava.html",
+        "display_name": "Ribeira Brava",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -528,17 +186,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.86179,
-          40.15085
+          -9.14,
+          38.72
         ]
       },
       "properties": {
-        "name": "Figueira da Foz | Cabedelo",
-        "url": "https://video-auth1.iol.pt/beachcam/bcfigueiracabeledo/playlist.m3u8",
-        "city": "",
+        "name": "Sanctuary Of Our Lady Of Fatima",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/centro/fatima/sanctuary-of-our-lady-of-fatima.html",
+        "display_name": "Sanctuary Of Our Lady Of Fatima",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -546,17 +206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.59174,
-          37.12994
+          -9.14,
+          38.72
         ]
       },
       "properties": {
-        "name": "Alvor",
-        "url": "https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8",
-        "city": "",
+        "name": "Sesimbra Meco Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/sesimbra/sesimbra-meco-beach.html",
+        "display_name": "Sesimbra Meco Beach",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
       }
     },
     {
@@ -564,485 +226,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.65403,
-          37.11711
+          -9.35,
+          39.35
         ]
       },
       "properties": {
-        "name": "Meia Praia",
-        "url": "https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8",
-        "city": "",
+        "name": "Supertubos Beach - Portugal",
+        "url": "http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8",
+        "display_name": "Supertubos Beach",
         "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.35695,
-          37.10256
-        ]
-      },
-      "properties": {
-        "name": "Arma\u00e7\u00e3o de P\u00eara",
-        "url": "https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.32215,
-          38.69105
-        ]
-      },
-      "properties": {
-        "name": "Carcavelos | Calhau",
-        "url": "https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.76413,
-          41.48512
-        ]
-      },
-      "properties": {
-        "name": "Ap\u00falia",
-        "url": "https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.23556,
-          38.64458
-        ]
-      },
-      "properties": {
-        "name": "Costa de Caparica | Tarqu\u00ednio",
-        "url": "https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.92716,
-          37.01869
-        ]
-      },
-      "properties": {
-        "name": "Faro | Praia de Faro Este",
-        "url": "https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.83287,
-          41.69323
-        ]
-      },
-      "properties": {
-        "name": "Viana do Castelo | Cabedelo",
-        "url": "https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.4807,
-          37.17923
-        ]
-      },
-      "properties": {
-        "name": "Praia Verde | Castro Marim",
-        "url": "https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8",
-        "city": "",
-        "country_code": "PT",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.3992844,
-          38.7026652
-        ]
-      },
-      "properties": {
-        "name": "Praia do Tamariz",
-        "url": "https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8",
-        "city": "Cascais",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.3703579,
-          38.6928121
-        ]
-      },
-      "properties": {
-        "name": "Bafureira | Est\u00e1tica",
-        "url": "https://video-auth1.iol.pt/beachcam/bcbafureirafixa/playlist.m3u8",
-        "city": "Queluz",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.4727845,
-          38.7331576
-        ]
-      },
-      "properties": {
-        "name": "Praia do Guincho | Sul",
-        "url": "https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8",
-        "city": "Cascais",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.4191101,
-          38.9877489
-        ]
-      },
-      "properties": {
-        "name": "Ribeira D\u00b4Ilhas",
-        "url": "https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8",
-        "city": "Ericeira",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1961386,
-          38.5719147
-        ]
-      },
-      "properties": {
-        "name": "Fonte da Telha | Norte",
-        "url": "https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8",
-        "city": "Costa da Caparica",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.9032987,
-          37.1643588
-        ]
-      },
-      "properties": {
-        "name": "Praia do Amado",
-        "url": "https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8",
-        "city": "Aljezur",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.6624482,
-          41.1150524
-        ]
-      },
-      "properties": {
-        "name": "Praia Canide NORTE | SUL",
-        "url": "https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8",
-        "city": "Vila Nova de Gaia",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.7224071,
-          40.7371008
-        ]
-      },
-      "properties": {
-        "name": "Praia da Torreira",
-        "url": "https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8",
-        "city": "Torreira",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1258085,
-          38.4328089
-        ]
-      },
-      "properties": {
-        "name": "Praia Sesimbra",
-        "url": "https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8",
-        "city": "Sesimbra",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.2501024,
-          37.0865911
-        ]
-      },
-      "properties": {
-        "name": "Praia dos Pescadores",
-        "url": "https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8",
-        "city": "Albufeira",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8534287,
-          37.3389161
-        ]
-      },
-      "properties": {
-        "name": "Monte Cl\u00e9rigo",
-        "url": "https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8",
-        "city": "Aljezur",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.323377,
-          38.6752597
-        ]
-      },
-      "properties": {
-        "name": "Praia da Torre",
-        "url": "https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8",
-        "city": "Oeiras",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.3583648,
-          39.172251
-        ]
-      },
-      "properties": {
-        "name": "Praia de Santa Rita",
-        "url": "https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8",
-        "city": "Torres Vedras",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8048885,
-          37.919859
-        ]
-      },
-      "properties": {
-        "name": "S\u00e3o Torpes",
-        "url": "https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8",
-        "city": "Sines",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8419906,
-          40.329393
-        ]
-      },
-      "properties": {
-        "name": "Praia da Tocha",
-        "url": "https://video-auth1.iol.pt/beachcam/bctocha/playlist.m3u8",
-        "city": "Cantanhede",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.4118492,
-          38.9430891
-        ]
-      },
-      "properties": {
-        "name": "Foz do Lizandro",
-        "url": "https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8",
-        "city": "Mafra",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.3178814,
-          37.081858
-        ]
-      },
-      "properties": {
-        "name": "Praia da Gal\u00e9",
-        "url": "https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8",
-        "city": "Albufeira",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.473452,
-          39.5888644
-        ]
-      },
-      "properties": {
-        "name": "Gaios",
-        "url": "https://edge01.balticlivecam.com/blc/p_GR_Paxi_Gaios_port/index.m3u8?token=9d69ffbc3af4bf4dffdcc43e4153362b%3A1773118709646",
-        "city": "Tomar",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1838345,
-          38.4884407
-        ]
-      },
-      "properties": {
-        "name": "Praia do Meco, Portugal Live Webcam - Live Beaches",
-        "url": "https://www.youtube.com/channel/UCTHgx2TVt_HYE0FHRrYwyOw/live",
-        "city": "Sesimbra",
-        "country_code": "PT",
-        "environment": "urban",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "earthcam",
+        "quality_tier": "standard",
+        "scene_type": "beach"
       }
     }
   ]

@@ -6,17 +6,119 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.40829,
-          19.74982
+          -69.89,
+          18.47
         ]
       },
       "properties": {
-        "name": "Villa Taina beach",
-        "url": "https://edge04.balticlivecam.com/blc/p_DO_Villa_Taina/index.m3u8?token=8f93550d4e1a75e070483e4076e9fd55:1773119080713",
-        "city": "",
+        "name": "Bani - Las Calderas Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/peravia/bani/las-calderas-bay.html",
+        "display_name": "Bani - Las Calderas Bay",
         "country_code": "DO",
-        "environment": "beach",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "Bozo Beach Cabarete",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/bozo-beach-cabarete.html",
+        "display_name": "Bozo Beach Cabarete",
+        "country_code": "DO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "Cabarete Dominican Republic",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/cabarete-dominican-republic.html",
+        "display_name": "Cabarete Dominican Republic",
+        "country_code": "DO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "Guayacanes - Playa Juan Dolio",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/san-pedro-de-macoris/guayacanes/playa-juan-dolio.html",
+        "display_name": "Guayacanes - Playa Juan Dolio",
+        "country_code": "DO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "Higuey - Underwater Cam Playa Blanca",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/la-altagracia/higuey/underwater-cam-playa-blanca.html",
+        "display_name": "Higuey - Underwater Cam Playa Blanca",
+        "country_code": "DO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89,
+          18.47
+        ]
+      },
+      "properties": {
+        "name": "Playa De Cabarete",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/playa-de-cabarete.html",
+        "display_name": "Playa De Cabarete",
+        "country_code": "DO",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     }
   ]

@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.88236,
-          43.99159
+          23.32,
+          42.7
         ]
       },
       "properties": {
-        "name": "Bdinci square",
-        "url": "https://edge04.balticlivecam.com/blc/p_BG_Vidin_Bdinci_square/index.m3u8?token=4340220fa9fa650e150c04a1f71da524%3A1773118584086",
-        "city": "",
+        "name": "Dobrinishte - Pirin Mountains",
+        "url": "https://www.skylinewebcams.com/en/webcam/bulgaria/blagoevgrad/dobrinishte/pirin-mountains.html",
+        "display_name": "Dobrinishte - Pirin Mountains",
         "country_code": "BG",
-        "environment": "street",
-        "timezone": ""
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
       }
     },
     {
@@ -24,53 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.46781,
-          42.50606
+          23.32,
+          42.7
         ]
       },
       "properties": {
-        "name": "Slanchev Bryag (Sunny beach)",
-        "url": "https://edge01.balticlivecam.com/blc/p_BG_Burgas_Slanchev_Bryag/index.m3u8?token=a2dad8741733078167b67ef19630269a%3A1773118582430",
-        "city": "",
+        "name": "Veliko Tarnovo",
+        "url": "https://www.skylinewebcams.com/en/webcam/bulgaria/veliko-tarnovo/veliko-tarnovo/veliko-tarnovo.html",
+        "display_name": "Veliko Tarnovo",
         "country_code": "BG",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.31667,
-          43.08333
-        ]
-      },
-      "properties": {
-        "name": "Urdoviza beach",
-        "url": "https://edge04.balticlivecam.com/blc/p_BG_Kiten_Urdoviza_beach/index.m3u8?token=52ddca222bdace02eea12a3974a1a887%3A1773118580667",
-        "city": "",
-        "country_code": "BG",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.62904,
-          43.08124
-        ]
-      },
-      "properties": {
-        "name": "Veliko Tarnovo panoramic view",
-        "url": "https://edge04.balticlivecam.com/blc/p_BG_Veliko_Tarnovo/index.m3u8?token=1ac59d62872c8b0ada30318c512fe017%3A1773118585809",
-        "city": "",
-        "country_code": "BG",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

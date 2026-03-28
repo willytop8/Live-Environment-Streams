@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13,
+          49.61
+        ]
+      },
+      "properties": {
+        "name": "Mertert - Wasserbillig",
+        "url": "https://www.skylinewebcams.com/en/webcam/luxembourg/grevenmacher/mertert/wasserbillig.html",
+        "display_name": "Mertert - Wasserbillig",
+        "country_code": "LU",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

@@ -6,17 +6,339 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.57987,
-          -34.0750928
+          18.4241,
+          -33.9249
         ]
       },
       "properties": {
-        "name": "The city of Hydra",
-        "url": "https://edge01.balticlivecam.com/blc/p_GR_Hydra_view/index.m3u8?token=4cca664ebe9923f0f22eb5a3ca85d47b%3A1773118713485",
-        "city": "",
+        "name": "Cape Town",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/cape-town.html",
+        "display_name": "Cape Town",
         "country_code": "ZA",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Cape Town - Kalk Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/kalk-bay.html",
+        "display_name": "Cape Town - Kalk Bay",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Cape Town - Panorama Of Table Mountain",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/panorama-of-table-mountain.html",
+        "display_name": "Cape Town - Panorama Of Table Mountain",
+        "country_code": "ZA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Cape Town - Zeekoevlei",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/zeekoevlei.html",
+        "display_name": "Cape Town - Zeekoevlei",
+        "country_code": "ZA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Cape Town Clifton Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/cape-town-clifton-beach.html",
+        "display_name": "Cape Town Clifton Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4241,
+          -33.9249
+        ]
+      },
+      "properties": {
+        "name": "Cape Town Muizenberg Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/cape-town/cape-town-muizenberg-beach.html",
+        "display_name": "Cape Town Muizenberg Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Knysna Lagoon",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/knysna/knysna-lagoon.html",
+        "display_name": "Knysna Lagoon",
+        "country_code": "ZA",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Kruger National Park - Nkorho",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/limpopo/kruger-national-park/nkorho.html",
+        "display_name": "Kruger National Park - Nkorho",
+        "country_code": "ZA",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Kwadukuza - Ballitos Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/ballitos-beach.html",
+        "display_name": "Kwadukuza - Ballitos Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Kwadukuza - Thompson S Bay",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/thompson-s-bay.html",
+        "display_name": "Kwadukuza - Thompson S Bay",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Kwadukuza - Willard Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/willard-beach.html",
+        "display_name": "Kwadukuza - Willard Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Kwadukuza - Zinkwazi Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/kwadukuza/zinkwazi-beach.html",
+        "display_name": "Kwadukuza - Zinkwazi Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Langebaan - Shark Bay Table Mountain",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/langebaan/shark-bay-table-mountain.html",
+        "display_name": "Langebaan - Shark Bay Table Mountain",
+        "country_code": "ZA",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Manguzi - Tembe Elephant Park",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/kwazulu-natal/manguzi/tembe-elephant-park.html",
+        "display_name": "Manguzi - Tembe Elephant Park",
+        "country_code": "ZA",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Plettenberg Bay - Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/plettenberg-bay/beach.html",
+        "display_name": "Plettenberg Bay - Beach",
+        "country_code": "ZA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Pretoria Bird Feeder",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/tshwane/pretoria/pretoria-bird-feeder.html",
+        "display_name": "Pretoria Bird Feeder",
+        "country_code": "ZA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.42,
+          -33.93
+        ]
+      },
+      "properties": {
+        "name": "Stellenbosch - Dennesig",
+        "url": "https://www.skylinewebcams.com/en/webcam/south-africa/western-cape/stellenbosch/dennesig.html",
+        "display_name": "Stellenbosch - Dennesig",
+        "country_code": "ZA",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

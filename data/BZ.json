@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77,
+          17.25
+        ]
+      },
+      "properties": {
+        "name": "Placencia - Hummingbird Marina",
+        "url": "https://www.skylinewebcams.com/en/webcam/belize/stann-creek-district/placencia/hummingbird-marina.html",
+        "display_name": "Placencia - Hummingbird Marina",
+        "country_code": "BZ",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    }
+  ]
+}

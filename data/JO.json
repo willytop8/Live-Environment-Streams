@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9284,
+          31.9454
+        ]
+      },
+      "properties": {
+        "name": "Amman - Petra The Treasury",
+        "url": "https://www.skylinewebcams.com/en/webcam/jordan/maan/amman/petra-the-treasury.html",
+        "display_name": "Amman - Petra The Treasury",
+        "country_code": "JO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9284,
+          31.9454
+        ]
+      },
+      "properties": {
+        "name": "Amman - Petra Visitor Center",
+        "url": "https://www.skylinewebcams.com/en/webcam/jordan/maan/amman/petra-visitor-center.html",
+        "display_name": "Amman - Petra Visitor Center",
+        "country_code": "JO",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

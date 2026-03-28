@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.54577,
-          50.32717
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Freedom Square",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Zatec_Freedom_Square/index.m3u8?token=cd57c8f62dcdf799efdb8ed024caa2dc%3A1773118628770",
-        "city": "",
+        "name": "Beroun - Main Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/central-bohemian-region/beroun/main-square.html",
+        "display_name": "Beroun - Main Square",
         "country_code": "CZ",
-        "environment": "street",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -24,17 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.43688,
-          49.77984
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Hav\u00ed\u0159ov view",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Havirov_view/index.m3u8?token=4c2d5891e0c36f5cf9f9e235b9582e2f%3A1773118620307",
-        "city": "",
+        "name": "Bojkovice",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/bojkovice/bojkovice.html",
+        "display_name": "Bojkovice",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -42,17 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.26667,
-          50.38333
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Historic center of Kada\u0148",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Kadan_historic_center/index.m3u8?token=8bd6b4e4c494daeac976737a4ba38443%3A1773118623807",
-        "city": "",
+        "name": "Cerveny Kostelec",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/cerveny-kostelec/cerveny-kostelec.html",
+        "display_name": "Cerveny Kostelec",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -60,17 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.76458,
-          49.57672
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Jablunkov city view",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Jablunkov_city_view/index.m3u8?token=d85a210f5318312d5434130be13cfbf3%3A1773118622106",
-        "city": "",
+        "name": "Hole Ov - Holesov",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/hole-ov/holesov.html",
+        "display_name": "Hole Ov - Holesov",
         "country_code": "CZ",
-        "environment": "street",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -78,17 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.26667,
-          50.38333
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Kada\u0148 castle",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Kadan_castle/index.m3u8?token=27433d711f062181156173e830625659%3A1773118625445",
-        "city": "",
+        "name": "Hradec Kralove",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/hradec-kralove/hradec-kralove.html",
+        "display_name": "Hradec Kralove",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -96,17 +106,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.54169,
-          49.854
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Karvin\u00e1 city view",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Karvina_city_view/index.m3u8?token=453a5e59eb64658c2065329b48c15c5f%3A1773118635285",
-        "city": "",
+        "name": "Ji In - Valdstejnovo Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/ji-in/valdstejnovo-square.html",
+        "display_name": "Ji In - Valdstejnovo Square",
         "country_code": "CZ",
-        "environment": "street",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -114,17 +126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.43357,
-          50.72561
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "Rokytnice nad Jizerou town view",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Rokytnice_nad_Jizerou/index.m3u8?token=40a74c430459e3a589a64cffe8ec8521%3A1773118632058",
-        "city": "",
+        "name": "Lan Scaron Kroun - Lanskroun",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/pardubice-region/lan-scaron-kroun/lanskroun.html",
+        "display_name": "Lan Scaron Kroun - Lanskroun",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -132,17 +146,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.67078,
-          49.67763
+          7.262,
+          43.7102
         ]
       },
       "properties": {
-        "name": "T\u0159inec panorama",
-        "url": "https://edge01.balticlivecam.com/blc/p_CZ_Trinec_panorama/index.m3u8?token=1e754e69ae5a907c2d4f0f21de0c3f38%3A1773118627005",
-        "city": "",
+        "name": "Lomnice Nad Popelkou - Hus Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/liberec/lomnice-nad-popelkou/hus-square.html",
+        "display_name": "Lomnice Nad Popelkou - Hus Square",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -150,17 +166,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.47434,
-          48.97447
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "\u010cesk\u00e9 Bud\u011bjovice Town Hall",
-        "url": "https://edge04.balticlivecam.com/blc/p_CZ_Town_hall_Ceske_budejovice/index.m3u8?token=62762569566d185a1ecffd8ec947cbc8%3A1773118618760",
-        "city": "",
+        "name": "Lu Na - Train Station",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/central-bohemian-region/lu-na/train-station.html",
+        "display_name": "Lu Na - Train Station",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -168,17 +186,439 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.47434,
-          48.97447
+          14.43,
+          50.08
         ]
       },
       "properties": {
-        "name": "\u010cesk\u00e9 Bud\u011bjovice panorama",
-        "url": "https://edge04.balticlivecam.com/blc/p_CZ_Ceske_Budejovice_city/index.m3u8?token=10419449df3cad16123e3aa6d89bd786%3A1773118616413",
-        "city": "",
+        "name": "Luhacovice",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/luhacovice/luhacovice.html",
+        "display_name": "Luhacovice",
         "country_code": "CZ",
-        "environment": "city",
-        "timezone": ""
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Mala Moravka - Ski Arena Karlov",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/moravian-silesian-region/mala-moravka/ski-arena-karlov.html",
+        "display_name": "Mala Moravka - Ski Arena Karlov",
+        "country_code": "CZ",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Mlade Buky - Storks Nest",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/mlade-buky/storks-nest.html",
+        "display_name": "Mlade Buky - Storks Nest",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Olomouc",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/olomouc/olomouc/olomouc.html",
+        "display_name": "Olomouc",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Otrokovice",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/otrokovice/otrokovice.html",
+        "display_name": "Otrokovice",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Pisek - Makov Reserve",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/pisek/makov-reserve.html",
+        "display_name": "Pisek - Makov Reserve",
+        "country_code": "CZ",
+        "environment": "nature",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "nature"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Pozlovice - Swimming Pool",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/pozlovice/swimming-pool.html",
+        "display_name": "Pozlovice - Swimming Pool",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Prace - Main Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/prace/main-square.html",
+        "display_name": "Prace - Main Square",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "name": "Prague",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/prague.html",
+        "display_name": "Prague",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "name": "Prague - Old Town",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html",
+        "display_name": "Prague - Old Town",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "name": "Prague - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/panorama.html",
+        "display_name": "Prague - Panorama",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4378,
+          50.0755
+        ]
+      },
+      "properties": {
+        "name": "Prague - Train Station",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/train-station.html",
+        "display_name": "Prague - Train Station",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Trutnov - Male Svatonovice Karla Capka",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/male-svatonovice-karla-capka.html",
+        "display_name": "Trutnov - Male Svatonovice Karla Capka",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Trutnov - Uffo Center",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/uffo-center.html",
+        "display_name": "Trutnov - Uffo Center",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Trutnov - Zacler",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/zacler.html",
+        "display_name": "Trutnov - Zacler",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Turnov - Bohemian Paradise Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/liberec/turnov/bohemian-paradise-square.html",
+        "display_name": "Turnov - Bohemian Paradise Square",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Usti Nad Labem - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/usti-nad-labem/usti-nad-labem/panorama.html",
+        "display_name": "Usti Nad Labem - Panorama",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Valasske Klobouky - Horni",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/valasske-klobouky/horni.html",
+        "display_name": "Valasske Klobouky - Horni",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Volyne - Svobody Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/volyne/svobody-square.html",
+        "display_name": "Volyne - Svobody Square",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Zlin - Kvitkovicka",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/kvitkovicka.html",
+        "display_name": "Zlin - Kvitkovicka",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Zlin - Osvoboditelu Street",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/osvoboditelu-street.html",
+        "display_name": "Zlin - Osvoboditelu Street",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.43,
+          50.08
+        ]
+      },
+      "properties": {
+        "name": "Zlin - Peace Square",
+        "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/peace-square.html",
+        "display_name": "Zlin - Peace Square",
+        "country_code": "CZ",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

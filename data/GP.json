@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53,
+          16.24
+        ]
+      },
+      "properties": {
+        "name": "Terre De Haut - Ile Des Saintes",
+        "url": "https://www.skylinewebcams.com/en/webcam/guadeloupe/les-saintes/terre-de-haut/ile-des-saintes.html",
+        "display_name": "Terre De Haut - Ile Des Saintes",
+        "country_code": "GP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.53,
+          16.24
+        ]
+      },
+      "properties": {
+        "name": "Terre De Haut - Mer Des Caraibes",
+        "url": "https://www.skylinewebcams.com/en/webcam/guadeloupe/les-saintes/terre-de-haut/mer-des-caraibes.html",
+        "display_name": "Terre De Haut - Mer Des Caraibes",
+        "country_code": "GP",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    }
+  ]
+}

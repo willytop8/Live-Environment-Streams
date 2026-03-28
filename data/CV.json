@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.9864064,
-          16.8873057
+          16.1839,
+          43.059
         ]
       },
       "properties": {
-        "name": "Mindelo",
-        "url": "https://edge01.balticlivecam.com/blc/p_CV_Cape_Verde_Mindelo/index.m3u8?token=fe5724ce1789091be2920cbb073f43b3%3A1773118597011",
-        "city": "Mindelo",
+        "name": "Boa Vista - Praia Da Cruz",
+        "url": "https://www.skylinewebcams.com/en/webcam/cabo-verde/boa-vista/boa-vista/praia-da-cruz.html",
+        "display_name": "Boa Vista - Praia Da Cruz",
         "country_code": "CV",
-        "environment": "urban",
-        "timezone": ""
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
       }
     }
   ]

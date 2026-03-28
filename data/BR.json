@@ -6,17 +6,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.7043,
-          -9.6398
+          -46.773706,
+          -22.841037
         ]
       },
       "properties": {
-        "name": "Macei\u00f3 - Brazil",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e9d217803tj6egnci81nfoo1n6",
-        "city": "",
+        "name": "BR - SP - Amparo - SP360 km 110 - Constancio Cintra, Engenheiro",
+        "url": "https://34.104.32.249.nip.io/SP360-KM110/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
       }
     },
     {
@@ -24,17 +26,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.63,
-          -15.81
+          -45.864328,
+          -23.757808
         ]
       },
       "properties": {
-        "name": "Morro de S\u00e3o Paulo",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qmps0jklaeqpv9qc8h2uj0giu4",
-        "city": "",
+        "name": "BR - SP - Bertioga - SP055 km 193 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM193/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     },
     {
@@ -42,17 +46,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.75,
-          -15.35
+          -46.026994,
+          -23.787145
         ]
       },
       "properties": {
-        "name": "Morro de S\u00e3o Paulo - Gamboa",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ccf9g4duiqm1jlvesgo03j1h11",
-        "city": "",
+        "name": "BR - SP - Bertioga - SP055 km 211 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM211A/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     },
     {
@@ -60,17 +66,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.0957,
-          -16.4835
+          -46.026994,
+          -23.787145
         ]
       },
       "properties": {
-        "name": "Porto Seguro - Praia de Taperapuan",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mu0fiatr6mvsbedpr887o62812",
-        "city": "",
+        "name": "BR - SP - Bertioga - SP055 km 211 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM211B/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
       }
     },
     {
@@ -78,17 +86,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -39.2236,
-          -17.2984
+          -46.552909,
+          -22.925583
         ]
       },
       "properties": {
-        "name": "Prado - Bahia",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lnmm6g19d0uvp2g3sfpgk54922",
-        "city": "",
+        "name": "BR - SP - Bragança Paulista - SP008 km 95 - Pedro Astenori Mariagliani (Capitão)",
+        "url": "https://34.104.32.249.nip.io/SP008-KM095/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
       }
     },
     {
@@ -96,17 +106,659 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.9219,
-          -15.7815
+          -45.610237,
+          -22.756122
         ]
       },
       "properties": {
-        "name": "Brasilia - Brazil",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kuioeqjqju14tm4qucep2pql50",
-        "city": "",
+        "name": "BR - SP - Campos do Jordão - SP123 km 46 - Floriano Rodrigues Pinheiro",
+        "url": "https://34.104.32.249.nip.io/SP123-KM046/stream.m3u8",
+        "display_name": "SP, Brazil",
         "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.439534,
+          -23.697992
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Caraguatatuba - SP055 km 110,8 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM110A/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.439534,
+          -23.697992
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Caraguatatuba - SP055 km 110,8 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM110B/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.279329,
+          -23.566315
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Caraguatatuba - SP055 km 83,5 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM083/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.344917,
+          -23.601393
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Caraguatatuba - SP055 km 92,5 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM092/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.771025,
+          -22.977144
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Itatiba - SP063 km 28 - Alkindar Monteiro Junqueira",
+        "url": "https://34.104.32.249.nip.io/SP063-KM028/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.700743,
+          -23.079262
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Jarinu - SP354 km 75,4 - Edgard Máximo Zambotto",
+        "url": "https://34.104.32.249.nip.io/SP354-KM075/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.60252,
+          -22.863958
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Pindamonhangaba - SP123 km 26,5 - Floriano Rodrigues Pinheiro",
+        "url": "https://34.104.32.249.nip.io/SP123-KM026B/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.615561,
+          -22.846142
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Pindamonhangaba - SP123 km 31 - Floriano Rodrigues Pinheiro",
+        "url": "https://34.104.32.249.nip.io/SP123-KM031B/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.59989,
+          -22.722413
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Piracicaba - SP304 km 157 - Luiz de Queiroz",
+        "url": "https://34.104.32.249.nip.io/SP304-KM157/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.041296,
+          -23.056634
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Praça de Pedágio de Itupeva - SP324 km 81 - Miguel Melhado Campos",
+        "url": "https://34.104.32.249.nip.io/SP324-KM081/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.625271,
+          -22.830483
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Santo Antônio do Pinhal - SP046 km 167 - Oswaldo Barbosa Guisadi",
+        "url": "https://34.104.32.249.nip.io/SP046-KM167/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.624869,
+          -22.83032
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Santo Antônio do Pinhal - SP123 km 33 - Floriano Rodrigues Pinheiro",
+        "url": "https://34.104.32.249.nip.io/SP123-KM033A/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.313948,
+          -23.22821
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - São Luís do Paraitinga - SP125 km 42 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM042/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.202682,
+          -23.359811
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - São Luís do Paraitinga - SP125 km 67 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM067/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.456495,
+          -23.818631
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - São Sebastião - SP055 km 136 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM136/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.655829,
+          -23.76329
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - São Sebastião - SP055 km 168 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM168/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.64512,
+          -22.991794
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Taubaté - SP123 km 8 - Floriano Rodrigues Pinheiro",
+        "url": "https://34.104.32.249.nip.io/SP123-KM008/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.458897,
+          -23.191243
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Taubaté - SP125 km 21 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM022/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.067035,
+          -23.472165
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP055 km 55 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM055/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.20068,
+          -23.518264
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP055 km 73 - Doutor Manoel Hyppolito Rego",
+        "url": "https://34.104.32.249.nip.io/SP055-KM073/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.125468,
+          -23.366344
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP125 km 81 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM081/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.117302,
+          -23.407034
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP125 km 88 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM088A/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.096348,
+          -23.437404
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP125 km 93 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM093B/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.096348,
+          -23.437404
+        ]
+      },
+      "properties": {
+        "name": "BR - SP - Ubatuba - SP125 km 93 - Oswaldo Cruz",
+        "url": "https://34.104.32.249.nip.io/SP125-KM093A/stream.m3u8",
+        "display_name": "SP, Brazil",
+        "country_code": "BR",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Avenida Brasil",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/avenida-brasil.html",
+        "display_name": "Balneario Camboriu - Avenida Brasil",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Barra Norte",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/barra-norte.html",
+        "display_name": "Balneario Camboriu - Barra Norte",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Nova Praia Central",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/nova-praia-central.html",
+        "display_name": "Balneario Camboriu - Nova Praia Central",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Praia Central",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-central.html",
+        "display_name": "Balneario Camboriu - Praia Central",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Praia De Laranjeiras",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-de-laranjeiras.html",
+        "display_name": "Balneario Camboriu - Praia De Laranjeiras",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Praia Do Estaleiro",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-do-estaleiro.html",
+        "display_name": "Balneario Camboriu - Praia Do Estaleiro",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Camboriu - Vila Real",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/vila-real.html",
+        "display_name": "Balneario Camboriu - Vila Real",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Balneario Rincao - Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-rincao/beach.html",
+        "display_name": "Balneario Rincao - Beach",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
       }
     },
     {
@@ -121,154 +773,12 @@
       "properties": {
         "name": "Basilica of National Shrine of Our Lady Aperecida",
         "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=5f0khuqfoc1bk182rb826b7t26",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -53.45528,
-          -24.95583
-        ]
-      },
-      "properties": {
-        "name": "Cascavel center",
-        "url": "https://edge04.balticlivecam.com/blc/p_BR_Cascavel_centro/index.m3u8?token=f2a5b50e63bc84447483bbafebdd45f1%3A1773118568702",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.58806,
-          -25.54778
-        ]
-      },
-      "properties": {
-        "name": "Friendship Bridge",
-        "url": "https://edge04.balticlivecam.com/blc/p_BR_Friendship_Bridge/index.m3u8?token=34887cac2ac80e7a53cc401ad56be91f%3A1773118578958",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.25389,
-          -16.67861
-        ]
-      },
-      "properties": {
-        "name": "Goi\u00e2nia",
-        "url": "https://edge01.balticlivecam.com/blc/p_BR_Goiania/index.m3u8?token=3e08b98bcdea39f42bb22364b6aa001c%3A1773118570329",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.25639,
-          -23.99306
-        ]
-      },
-      "properties": {
-        "name": "Guaruj\u00e1",
-        "url": "https://edge01.balticlivecam.com/blc/p_BR_Guaruja/index.m3u8?token=e15bfe28be2802c662321d2f440b92c2%3A1773118575429",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.04056,
-          -22.95972
-        ]
-      },
-      "properties": {
-        "name": "Marina Itacuru\u00e7\u00e1",
-        "url": "https://edge04.balticlivecam.com/blc/p_BR_Marina_Itacuruca_Mangaratiba/index.m3u8?token=4596ee138b4fd787bac94f179ecfcc8d%3A1773118572014",
-        "city": "",
-        "country_code": "BR",
-        "environment": "harbor",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.35806,
-          -23.77806
-        ]
-      },
-      "properties": {
-        "name": "Praia do Curral",
-        "url": "https://edge01.balticlivecam.com/blc/p_BR_Ilhabela_Praia_do_Curral/index.m3u8?token=f04c683789df998d623495473dd5c25b:1773119079129",
-        "city": "",
-        "country_code": "BR",
-        "environment": "beach",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.25639,
-          -23.99306
-        ]
-      },
-      "properties": {
-        "name": "Pra\u00e7a das Bandeiras",
-        "url": "https://edge04.balticlivecam.com/blc/p_BR_Guaruja_Praca_das_Bandeiras/index.m3u8?token=922f575b0c651203f6879250555d3ad8%3A1773118573722",
-        "city": "",
-        "country_code": "BR",
-        "environment": "city",
-        "timezone": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -38.5311313,
-          -13.0101752
-        ]
-      },
-      "properties": {
-        "name": "Praia da Barra",
-        "url": "https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8",
-        "city": "Salvador",
+        "display_name": "Basilica of National Shrine of Our Lady Aperecida, Brazil",
         "country_code": "BR",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "landmark"
       }
     },
     {
@@ -276,17 +786,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.4144939,
-          -24.008979
+          -47.9297,
+          -15.7797
         ]
       },
       "properties": {
-        "name": "Praia Grande | Norte",
-        "url": "https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8",
-        "city": "",
+        "name": "Brasilia",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/distrito-federal/brasilia/brasilia.html",
+        "display_name": "Brasilia",
         "country_code": "BR",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     },
     {
@@ -294,17 +806,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.1263312,
-          -4.9506652
+          -47.9219,
+          -15.7815
         ]
       },
       "properties": {
-        "name": "Areia Branca",
-        "url": "https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8",
-        "city": "",
+        "name": "Brasilia - Brazil",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=kuioeqjqju14tm4qucep2pql50",
+        "display_name": "Brasilia",
         "country_code": "BR",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
       }
     },
     {
@@ -312,17 +826,739 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.4144939,
-          -24.008979
+          -46.63,
+          -23.55
         ]
       },
       "properties": {
-        "name": "Praia Grande | Sul",
-        "url": "https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8",
-        "city": "",
+        "name": "Cairu - Morro De Sao Paulo Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-beach.html",
+        "display_name": "Cairu - Morro De Sao Paulo Beach",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Cairu - Morro De Sao Paulo Gamboa",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-gamboa.html",
+        "display_name": "Cairu - Morro De Sao Paulo Gamboa",
         "country_code": "BR",
         "environment": "urban",
-        "timezone": ""
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Canal Do Porto De Santos",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/santos/canal-do-porto-de-santos.html",
+        "display_name": "Canal Do Porto De Santos",
+        "country_code": "BR",
+        "environment": "marina",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Canela - Skyglass",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-sul/canela/skyglass.html",
+        "display_name": "Canela - Skyglass",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.548,
+          -27.5954
+        ]
+      },
+      "properties": {
+        "name": "Florianopolis - Barra Da Lagoa",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/florianopolis/barra-da-lagoa.html",
+        "display_name": "Florianopolis - Barra Da Lagoa",
+        "country_code": "BR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Gramado",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-sul/gramado/gramado.html",
+        "display_name": "Gramado",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Guaruja - Acapulco Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/guaruja/acapulco-beach.html",
+        "display_name": "Guaruja - Acapulco Beach",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Guaruja - Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/guaruja/beach.html",
+        "display_name": "Guaruja - Beach",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Itapema - Coast",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/itapema/coast.html",
+        "display_name": "Itapema - Coast",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Itapema - Promenade",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/itapema/promenade.html",
+        "display_name": "Itapema - Promenade",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Jaboatao Dos Guararapes - Praia De Candeias",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/pernambuco/jaboatao-dos-guararapes/praia-de-candeias.html",
+        "display_name": "Jaboatao Dos Guararapes - Praia De Candeias",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.735,
+          -9.6658
+        ]
+      },
+      "properties": {
+        "name": "Maceio - Pajucara",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/alagoas/maceio/pajucara.html",
+        "display_name": "Maceio - Pajucara",
+        "country_code": "BR",
+        "environment": "lake",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.7043,
+          -9.6398
+        ]
+      },
+      "properties": {
+        "name": "Maceió - Brazil",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e9d217803tj6egnci81nfoo1n6",
+        "display_name": "Maceió",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0217,
+          -3.119
+        ]
+      },
+      "properties": {
+        "name": "Manaus - Ponta Negra",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/ponta-negra.html",
+        "display_name": "Manaus - Ponta Negra",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0217,
+          -3.119
+        ]
+      },
+      "properties": {
+        "name": "Manaus - Vieiralves",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/vieiralves.html",
+        "display_name": "Manaus - Vieiralves",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.0217,
+          -3.119
+        ]
+      },
+      "properties": {
+        "name": "Manaus Amazon Theatre",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/manaus-amazon-theatre.html",
+        "display_name": "Manaus Amazon Theatre",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Miracema - Praca Ary Parreiras",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/miracema/praca-ary-parreiras.html",
+        "display_name": "Miracema - Praca Ary Parreiras",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Montenegro",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-sul/montenegro/montenegro.html",
+        "display_name": "Montenegro",
+        "country_code": "BR",
+        "environment": "mountain",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "mountain"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.63,
+          -15.81
+        ]
+      },
+      "properties": {
+        "name": "Morro de São Paulo",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=qmps0jklaeqpv9qc8h2uj0giu4",
+        "display_name": "Morro de São Paulo, Brazil",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.75,
+          -15.35
+        ]
+      },
+      "properties": {
+        "name": "Morro de São Paulo - Gamboa",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=ccf9g4duiqm1jlvesgo03j1h11",
+        "display_name": "Morro de São Paulo, Brazil",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.211,
+          -5.7945
+        ]
+      },
+      "properties": {
+        "name": "Natal - Praia Di Ponta Negra",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-norte/natal/praia-di-ponta-negra.html",
+        "display_name": "Natal - Praia Di Ponta Negra",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2177,
+          -30.0346
+        ]
+      },
+      "properties": {
+        "name": "Porto Alegre",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-sul/porto-alegre/porto-alegre.html",
+        "display_name": "Porto Alegre",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0957,
+          -16.4835
+        ]
+      },
+      "properties": {
+        "name": "Porto Seguro - Praia de Taperapuan",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=mu0fiatr6mvsbedpr887o62812",
+        "display_name": "Porto Seguro, Brazil",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.2236,
+          -17.2984
+        ]
+      },
+      "properties": {
+        "name": "Prado - Bahia",
+        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=lnmm6g19d0uvp2g3sfpgk54922",
+        "display_name": "Prado, Brazil",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban_panorama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Prado - Praia De Guaratiba",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html",
+        "display_name": "Prado - Praia De Guaratiba",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Christ The Redeemer",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/christ-the-redeemer.html",
+        "display_name": "Rio De Janeiro - Christ The Redeemer",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Copacabana",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana.html",
+        "display_name": "Rio De Janeiro - Copacabana",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Copacabana Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana-beach.html",
+        "display_name": "Rio De Janeiro - Copacabana Beach",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Panorama",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/panorama.html",
+        "display_name": "Rio De Janeiro - Panorama",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Praia De Sao Conrado",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/praia-de-sao-conrado.html",
+        "display_name": "Rio De Janeiro - Praia De Sao Conrado",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1729,
+          -22.9068
+        ]
+      },
+      "properties": {
+        "name": "Rio De Janeiro - Praia Do Forte",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/praia-do-forte.html",
+        "display_name": "Rio De Janeiro - Praia Do Forte",
+        "country_code": "BR",
+        "environment": "waterway",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "river"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Rubineia",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/rubineia/rubineia.html",
+        "display_name": "Rubineia",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Do Sul",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/santa-fe-do-sul/santa-fe-do-sul.html",
+        "display_name": "Santa Fe Do Sul",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Do Sul - Train Station",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/santa-fe-do-sul/train-station.html",
+        "display_name": "Santa Fe Do Sul - Train Station",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Sao Vicente",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/sao-vicente/sao-vicente.html",
+        "display_name": "Sao Vicente",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Sao Vicente - Beach",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/sao-vicente/beach.html",
+        "display_name": "Sao Vicente - Beach",
+        "country_code": "BR",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.63,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Sao Vicente - Surf",
+        "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/sao-vicente/surf.html",
+        "display_name": "Sao Vicente - Surf",
+        "country_code": "BR",
+        "environment": "urban",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "urban"
       }
     }
   ]

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.85,
+          33.99
+        ]
+      },
+      "properties": {
+        "name": "Imsouane - Plage",
+        "url": "https://www.skylinewebcams.com/en/webcam/morocco/souss-massa/imsouane/plage.html",
+        "display_name": "Imsouane - Plage",
+        "country_code": "MA",
+        "environment": "coastal",
+        "source_family": "skylinewebcams",
+        "quality_tier": "premium",
+        "scene_type": "beach"
+      }
+    }
+  ]
+}
