@@ -13,12 +13,17 @@
       "properties": {
         "name": "Larnaca - Oroklini",
         "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/oroklini.html",
-        "display_name": "Larnaca - Oroklini",
+        "display_name": "Larnaca",
         "country_code": "CY",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Larnaca Promenade",
         "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-promenade.html",
-        "display_name": "Larnaca Promenade",
+        "display_name": "Larnaca",
         "country_code": "CY",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Larnaca Seafront",
         "url": "https://www.skylinewebcams.com/en/webcam/cyprus/larnaca-district/larnaca/larnaca-seafront.html",
-        "display_name": "Larnaca Seafront",
+        "display_name": "Larnaca",
         "country_code": "CY",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

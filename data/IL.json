@@ -13,12 +13,17 @@
       "properties": {
         "name": "Ashdod - Oranim Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/southern-district/ashdod/oranim-beach.html",
-        "display_name": "Ashdod - Oranim Beach",
+        "display_name": "Ashdod",
         "country_code": "IL",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Haifa - Barn Owl",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/haifa/haifa/barn-owl.html",
-        "display_name": "Haifa - Barn Owl",
+        "display_name": "Haifa",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Jerusalem - Mount Of Olives",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/mount-of-olives.html",
-        "display_name": "Jerusalem - Mount Of Olives",
+        "display_name": "Jerusalem",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Jerusalem - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/panorama.html",
-        "display_name": "Jerusalem - Panorama",
+        "display_name": "Jerusalem",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Jerusalem - Temple Mount",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/temple-mount.html",
-        "display_name": "Jerusalem - Temple Mount",
+        "display_name": "Jerusalem",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Jerusalem - Western Wall",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/jerusalem-district/jerusalem/western-wall.html",
-        "display_name": "Jerusalem - Western Wall",
+        "display_name": "Jerusalem",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Nazareth - Grotto Of The Annunciation",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/northern-district/nazareth/grotto-of-the-annunciation.html",
-        "display_name": "Nazareth - Grotto Of The Annunciation",
+        "display_name": "Nazareth",
         "country_code": "IL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Yardenit - Jordan River",
         "url": "https://www.skylinewebcams.com/en/webcam/israel/northern-district/yardenit/jordan-river.html",
-        "display_name": "Yardenit - Jordan River",
+        "display_name": "Yardenit",
         "country_code": "IL",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

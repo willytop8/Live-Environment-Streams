@@ -13,12 +13,17 @@
       "properties": {
         "name": "Arequipa - Plaza Mayor",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/arequipa/arequipa/plaza-mayor.html",
-        "display_name": "Arequipa - Plaza Mayor",
+        "display_name": "Arequipa",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Ascope Province - Ascope Puerto Malabrigo Chicama",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/ascope-province/ascope-puerto-malabrigo-chicama.html",
-        "display_name": "Ascope Province - Ascope Puerto Malabrigo Chicama",
+        "display_name": "Ascope Province",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Bongara - Cocachimba",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/amazonas/bongara/cocachimba.html",
-        "display_name": "Bongara - Cocachimba",
+        "display_name": "Bongara",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Cajamarca - Laguna San Nicolas",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/cajamarca/cajamarca/laguna-san-nicolas.html",
-        "display_name": "Cajamarca - Laguna San Nicolas",
+        "display_name": "Cajamarca",
         "country_code": "PE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Casma - Balneario De Tortugas",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/ancash/casma/balneario-de-tortugas.html",
-        "display_name": "Casma - Balneario De Tortugas",
+        "display_name": "Casma",
         "country_code": "PE",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Chachapoyas - Plaza Mayor",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/amazonas/chachapoyas/plaza-mayor.html",
-        "display_name": "Chachapoyas - Plaza Mayor",
+        "display_name": "Chachapoyas",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Chiclayo - Pimentel",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lambayeque/chiclayo/pimentel.html",
-        "display_name": "Chiclayo - Pimentel",
+        "display_name": "Chiclayo",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Cusco - Aeropuerto Internacional Alejandro Velasco Astete",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/cusco/cusco/aeropuerto-internacional-alejandro-velasco-astete.html",
-        "display_name": "Cusco - Aeropuerto Internacional Alejandro Velasco Astete",
+        "display_name": "Cusco",
         "country_code": "PE",
         "environment": "transport",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "transport"
+        "quality_tier": "unknown",
+        "scene_type": "transport",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Cusco - Plaza Mayor",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/cusco/cusco/plaza-mayor.html",
-        "display_name": "Cusco - Plaza Mayor",
+        "display_name": "Cusco",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Lima - Chorrillos Playa La Herradura",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/chorrillos-playa-la-herradura.html",
-        "display_name": "Lima - Chorrillos Playa La Herradura",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Lima - Miraflores",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/miraflores.html",
-        "display_name": "Lima - Miraflores",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Lima - Playa El Silencio",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/playa-el-silencio.html",
-        "display_name": "Lima - Playa El Silencio",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Lima - Playa Senoritas Punta Hermosa",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/playa-senoritas-punta-hermosa.html",
-        "display_name": "Lima - Playa Senoritas Punta Hermosa",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Lima - Punta Hermosa",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/punta-hermosa.html",
-        "display_name": "Lima - Punta Hermosa",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Lima - San Bartolo",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/lima/lima/san-bartolo.html",
-        "display_name": "Lima - San Bartolo",
+        "display_name": "Lima",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Oxapampa - Plaza De Armas",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/pasco/oxapampa/plaza-de-armas.html",
-        "display_name": "Oxapampa - Plaza De Armas",
+        "display_name": "Oxapampa",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Paracas - Kitesurf",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/ica/paracas/kitesurf.html",
-        "display_name": "Paracas - Kitesurf",
+        "display_name": "Paracas",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Playa De Pacasmayo",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/pacasmayo/playa-de-pacasmayo.html",
-        "display_name": "Playa De Pacasmayo",
+        "display_name": "Pacasmayo",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Tacna - Plaza Mayor",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/tacna/tacna/plaza-mayor.html",
-        "display_name": "Tacna - Plaza Mayor",
+        "display_name": "Tacna",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Talara - Mancora",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/piura/talara/mancora.html",
-        "display_name": "Talara - Mancora",
+        "display_name": "Talara",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Trujillo - Balneario De Huanchaco",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/balneario-de-huanchaco.html",
-        "display_name": "Trujillo - Balneario De Huanchaco",
+        "display_name": "Trujillo",
         "country_code": "PE",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Trujillo - Huanchaco Playa Sunkella",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/huanchaco-playa-sunkella.html",
-        "display_name": "Trujillo - Huanchaco Playa Sunkella",
+        "display_name": "Trujillo",
         "country_code": "PE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Trujillo Huanchaco",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/department-of-la-libertad/trujillo/trujillo-huanchaco.html",
-        "display_name": "Trujillo Huanchaco",
+        "display_name": "Trujillo",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Urubamba - Hummingbird",
         "url": "https://www.skylinewebcams.com/en/webcam/peru/cusco/urubamba/hummingbird.html",
-        "display_name": "Urubamba - Hummingbird",
+        "display_name": "Urubamba",
         "country_code": "PE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

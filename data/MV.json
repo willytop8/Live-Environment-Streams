@@ -13,12 +13,17 @@
       "properties": {
         "name": "Akasdhoo - Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/south-male-atoll/akasdhoo/maldives.html",
-        "display_name": "Akasdhoo - Maldives",
+        "display_name": "Akasdhoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Hanimaadhoo Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/haa-dhaalu-atoll/hanimaadhoo/hanimaadhoo-maldives.html",
-        "display_name": "Hanimaadhoo Maldives",
+        "display_name": "Hanimaadhoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Huruelhi Island - Radisson Blu",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/alifu-dhaalu-atoll/huruelhi-island/radisson-blu.html",
-        "display_name": "Huruelhi Island - Radisson Blu",
+        "display_name": "Huruelhi Island",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Kooddoo Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/kooddoo/kooddoo-maldives.html",
-        "display_name": "Kooddoo Maldives",
+        "display_name": "Kooddoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Kudafolhudhoo Nika Island",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/kudafolhudhoo/kudafolhudhoo-nika-island.html",
-        "display_name": "Kudafolhudhoo Nika Island",
+        "display_name": "Kudafolhudhoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Kurendhoo - Maldives Kuredu",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/lhaviyani-atoll/kurendhoo/maldives-kuredu.html",
-        "display_name": "Kurendhoo - Maldives Kuredu",
+        "display_name": "Kurendhoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Maamutaa Island - Maamutaa",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/maamutaa-island/maamutaa.html",
-        "display_name": "Maamutaa Island - Maamutaa",
+        "display_name": "Maamutaa Island",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Male - Veligandu Island Resort",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/male/veligandu-island-resort.html",
-        "display_name": "Male - Veligandu Island Resort",
+        "display_name": "Male",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Male - Veligandu Maldives Resort Island",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/male/veligandu-maldives-resort-island.html",
-        "display_name": "Male - Veligandu Maldives Resort Island",
+        "display_name": "Male",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Manadhoo - Robinson Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/noonu-atoll/manadhoo/robinson-maldives.html",
-        "display_name": "Manadhoo - Robinson Maldives",
+        "display_name": "Manadhoo",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Meerufenfushi - Meeru Island Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/north-male-atoll/meerufenfushi/meeru-island-beach.html",
-        "display_name": "Meerufenfushi - Meeru Island Beach",
+        "display_name": "Meerufenfushi",
         "country_code": "MV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Robinson Maldives Funamadua",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/funamadua/robinson-maldives-funamadua.html",
-        "display_name": "Robinson Maldives Funamadua",
+        "display_name": "Funamadua",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Upper North Province - Ja Manafaru",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/haa-alif-atoll/upper-north-province/ja-manafaru.html",
-        "display_name": "Upper North Province - Ja Manafaru",
+        "display_name": "Upper North Province",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

@@ -1,0 +1,192 @@
+{
+  "skylinewebcams": {
+    "full_name": "Skyline Webcams",
+    "country": "multi",
+    "license_type": "fair_use",
+    "url_types": ["hls", "html_page"],
+    "refresh_method": "token_auth",
+    "website": "https://www.skylinewebcams.com",
+    "stream_count": 2771,
+    "notes": "665 streams have direct HLS URLs with expiring auth tokens. 2106 are HTML pages requiring browser/JS extraction to get the actual stream URL."
+  },
+  "vdot": {
+    "full_name": "Virginia Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.511virginia.org",
+    "stream_count": 1168,
+    "notes": "Reliable public feeds. 100% unique coordinates. Primary US traffic source."
+  },
+  "mdsha": {
+    "full_name": "Maryland State Highway Administration",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://chart.maryland.gov",
+    "stream_count": 404,
+    "notes": "Reliable public feeds. 100% unique coordinates."
+  },
+  "autobahn_nrw": {
+    "full_name": "Autobahn NRW Traffic Cameras",
+    "country": "DE",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.verkehr.nrw",
+    "stream_count": 281,
+    "notes": "German autobahn cameras. 58% unique coordinates — multiple cameras share interchange-level coords."
+  },
+  "deldot": {
+    "full_name": "Delaware Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://deldot.gov",
+    "stream_count": 261,
+    "notes": "Reliable public feeds. 100% unique coordinates."
+  },
+  "nysdot": {
+    "full_name": "New York State Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://511ny.org",
+    "stream_count": 91,
+    "notes": "Reliable public feeds. 100% unique coordinates."
+  },
+  "opencctv": {
+    "full_name": "OpenCCTV Public Feed Aggregator",
+    "country": "multi",
+    "license_type": "open_data",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://opencctv.com",
+    "stream_count": 30,
+    "notes": "Aggregated public CCTV feeds from various countries."
+  },
+  "ladot": {
+    "full_name": "Los Angeles Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.ladot.lacity.org",
+    "stream_count": 30,
+    "notes": "LA traffic cameras. 100% unique coordinates."
+  },
+  "youtube": {
+    "full_name": "YouTube Live Streams",
+    "country": "multi",
+    "license_type": "fair_use",
+    "url_types": ["youtube"],
+    "refresh_method": "static",
+    "website": "https://www.youtube.com",
+    "stream_count": 24,
+    "notes": "YouTube Live watch URLs. Use yt-dlp to extract HLS manifest."
+  },
+  "vegvesen": {
+    "full_name": "Norwegian Public Roads Administration",
+    "country": "NO",
+    "license_type": "public_domain",
+    "url_types": ["http_image"],
+    "refresh_method": "static",
+    "website": "https://www.vegvesen.no",
+    "stream_count": 22,
+    "notes": "Norwegian road cameras. 55% unique coordinates. HTTP image endpoints, not video streams."
+  },
+  "ktict": {
+    "full_name": "Korea Transport Institute Traffic Cameras",
+    "country": "KR",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.ktict.co.kr",
+    "stream_count": 20,
+    "notes": "Korean traffic cameras."
+  },
+  "iticfoundation": {
+    "full_name": "ITIC Foundation Cameras",
+    "country": "TH",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.iticfoundation.org",
+    "stream_count": 20,
+    "notes": "Thai traffic and environment cameras."
+  },
+  "taiwan_freeway": {
+    "full_name": "Taiwan Freeway Bureau",
+    "country": "TW",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.freeway.gov.tw",
+    "stream_count": 18,
+    "notes": "Taiwan highway cameras. Multiple CCTV server endpoints."
+  },
+  "paspro": {
+    "full_name": "PasPro Traffic Cameras",
+    "country": "ID",
+    "license_type": "unknown",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": null,
+    "stream_count": 12,
+    "notes": "Indonesian traffic cameras."
+  },
+  "vdotcameras": {
+    "full_name": "VDOT Secondary Camera Feeds",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.511virginia.org",
+    "stream_count": 8,
+    "notes": "Secondary VDOT feeds, separate endpoint from primary vdot source."
+  },
+  "earthcam": {
+    "full_name": "EarthCam Network",
+    "country": "multi",
+    "license_type": "fair_use",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.earthcam.com",
+    "stream_count": 6,
+    "notes": "Labeled as EarthCam but actual URLs point to independent endpoints (iol.pt, portfever.com, floridakeysmedia.com). May work without paywall — needs individual verification."
+  },
+  "panama_canal": {
+    "full_name": "Panama Canal Authority Webcams",
+    "country": "PA",
+    "license_type": "public_domain",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": "https://www.pancanal.com",
+    "stream_count": 4,
+    "notes": "Panama Canal views."
+  },
+  "brownrice": {
+    "full_name": "Brown Rice Internet Japan",
+    "country": "JP",
+    "license_type": "unknown",
+    "url_types": ["hls"],
+    "refresh_method": "static",
+    "website": null,
+    "stream_count": 1,
+    "notes": "Single Japanese stream."
+  },
+  "quebec511": {
+    "full_name": "Quebec 511 Traffic Cameras",
+    "country": "CA",
+    "license_type": "public_domain",
+    "url_types": ["http_image"],
+    "refresh_method": "static",
+    "website": "https://www.quebec511.info",
+    "stream_count": 1,
+    "notes": "HTTP image endpoint."
+  }
+}

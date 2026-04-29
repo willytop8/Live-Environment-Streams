@@ -13,12 +13,17 @@
       "properties": {
         "name": "Kralendijk - Bonaire",
         "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/bonaire.html",
-        "display_name": "Kralendijk - Bonaire",
+        "display_name": "Kralendijk",
         "country_code": "BQ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Kralendijk - Coral Reef Underwater Cam",
         "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/coral-reef-underwater-cam.html",
-        "display_name": "Kralendijk - Coral Reef Underwater Cam",
+        "display_name": "Kralendijk",
         "country_code": "BQ",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Kralendijk - Sorobon Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/caribbean-netherlands/bonaire/kralendijk/sorobon-beach.html",
-        "display_name": "Kralendijk - Sorobon Beach",
+        "display_name": "Kralendijk",
         "country_code": "BQ",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

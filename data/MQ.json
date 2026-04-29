@@ -13,12 +13,17 @@
       "properties": {
         "name": "Baie Sainte Anne",
         "url": "https://www.skylinewebcams.com/en/webcam/martinique/martinique/sainte-anne/baie-sainte-anne.html",
-        "display_name": "Baie Sainte Anne",
+        "display_name": "Sainte Anne",
         "country_code": "MQ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

@@ -13,12 +13,17 @@
       "properties": {
         "name": "Eystur - Sydrugota",
         "url": "https://www.skylinewebcams.com/en/webcam/faroe-islands/eysturoy/eystur/sydrugota.html",
-        "display_name": "Eystur - Sydrugota",
+        "display_name": "Eystur",
         "country_code": "FO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

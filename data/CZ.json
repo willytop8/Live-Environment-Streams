@@ -13,12 +13,17 @@
       "properties": {
         "name": "Beroun - Main Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/central-bohemian-region/beroun/main-square.html",
-        "display_name": "Beroun - Main Square",
+        "display_name": "Beroun",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Hole Ov - Holesov",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/hole-ov/holesov.html",
-        "display_name": "Hole Ov - Holesov",
+        "display_name": "Hole Ov",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Ji In - Valdstejnovo Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/ji-in/valdstejnovo-square.html",
-        "display_name": "Ji In - Valdstejnovo Square",
+        "display_name": "Ji In",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Lan Scaron Kroun - Lanskroun",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/pardubice-region/lan-scaron-kroun/lanskroun.html",
-        "display_name": "Lan Scaron Kroun - Lanskroun",
+        "display_name": "Lan Scaron Kroun",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Lomnice Nad Popelkou - Hus Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/liberec/lomnice-nad-popelkou/hus-square.html",
-        "display_name": "Lomnice Nad Popelkou - Hus Square",
+        "display_name": "Lomnice Nad Popelkou",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Lu Na - Train Station",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/central-bohemian-region/lu-na/train-station.html",
-        "display_name": "Lu Na - Train Station",
+        "display_name": "Lu Na",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Mala Moravka - Ski Arena Karlov",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/moravian-silesian-region/mala-moravka/ski-arena-karlov.html",
-        "display_name": "Mala Moravka - Ski Arena Karlov",
+        "display_name": "Mala Moravka",
         "country_code": "CZ",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Mlade Buky - Storks Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/mlade-buky/storks-nest.html",
-        "display_name": "Mlade Buky - Storks Nest",
+        "display_name": "Mlade Buky",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -277,8 +342,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Pisek - Makov Reserve",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/pisek/makov-reserve.html",
-        "display_name": "Pisek - Makov Reserve",
+        "display_name": "Pisek",
         "country_code": "CZ",
         "environment": "nature",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "nature"
+        "quality_tier": "unknown",
+        "scene_type": "nature",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Pozlovice - Swimming Pool",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/pozlovice/swimming-pool.html",
-        "display_name": "Pozlovice - Swimming Pool",
+        "display_name": "Pozlovice",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Prace - Main Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/prace/main-square.html",
-        "display_name": "Prace - Main Square",
+        "display_name": "Prace",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Prague - Old Town",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/old-town.html",
-        "display_name": "Prague - Old Town",
+        "display_name": "Prague",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Prague - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/panorama.html",
-        "display_name": "Prague - Panorama",
+        "display_name": "Prague",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Prague - Train Station",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/prague/prague/train-station.html",
-        "display_name": "Prague - Train Station",
+        "display_name": "Prague",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Trutnov - Male Svatonovice Karla Capka",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/male-svatonovice-karla-capka.html",
-        "display_name": "Trutnov - Male Svatonovice Karla Capka",
+        "display_name": "Trutnov",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Trutnov - Uffo Center",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/uffo-center.html",
-        "display_name": "Trutnov - Uffo Center",
+        "display_name": "Trutnov",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Trutnov - Zacler",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/hradec-kralove/trutnov/zacler.html",
-        "display_name": "Trutnov - Zacler",
+        "display_name": "Trutnov",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Turnov - Bohemian Paradise Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/liberec/turnov/bohemian-paradise-square.html",
-        "display_name": "Turnov - Bohemian Paradise Square",
+        "display_name": "Turnov",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Usti Nad Labem - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/usti-nad-labem/usti-nad-labem/panorama.html",
-        "display_name": "Usti Nad Labem - Panorama",
+        "display_name": "Usti Nad Labem",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -533,12 +663,17 @@
       "properties": {
         "name": "Valasske Klobouky - Horni",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/valasske-klobouky/horni.html",
-        "display_name": "Valasske Klobouky - Horni",
+        "display_name": "Valasske Klobouky",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -553,12 +688,17 @@
       "properties": {
         "name": "Volyne - Svobody Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/south-bohemian/volyne/svobody-square.html",
-        "display_name": "Volyne - Svobody Square",
+        "display_name": "Volyne",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -573,12 +713,17 @@
       "properties": {
         "name": "Zlin - Kvitkovicka",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/kvitkovicka.html",
-        "display_name": "Zlin - Kvitkovicka",
+        "display_name": "Zlin",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -593,12 +738,17 @@
       "properties": {
         "name": "Zlin - Osvoboditelu Street",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/osvoboditelu-street.html",
-        "display_name": "Zlin - Osvoboditelu Street",
+        "display_name": "Zlin",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Zlin - Peace Square",
         "url": "https://www.skylinewebcams.com/en/webcam/czech-republic/zlin/zlin/peace-square.html",
-        "display_name": "Zlin - Peace Square",
+        "display_name": "Zlin",
         "country_code": "CZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

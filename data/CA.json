@@ -13,12 +13,17 @@
       "properties": {
         "name": "Alberni - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/alberni/port.html",
-        "display_name": "Alberni - Port",
+        "display_name": "Alberni",
         "country_code": "CA",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "quebec511",
-        "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "quality_tier": "low",
+        "scene_type": "urban_panorama",
+        "url_type": "http_image",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Banff - Northern Lights",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/banff/northern-lights.html",
-        "display_name": "Banff - Northern Lights",
+        "display_name": "Banff",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Banff - Sunshine Village",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/banff/sunshine-village.html",
-        "display_name": "Banff - Sunshine Village",
+        "display_name": "Banff",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Barrington - Baccaro Point Lighthouse",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/barrington/baccaro-point-lighthouse.html",
-        "display_name": "Barrington - Baccaro Point Lighthouse",
+        "display_name": "Barrington",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Calgary - Central Memorial Park",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/central-memorial-park.html",
-        "display_name": "Calgary - Central Memorial Park",
+        "display_name": "Calgary",
         "country_code": "CA",
         "environment": "nature",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "nature"
+        "quality_tier": "unknown",
+        "scene_type": "nature",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Calgary - Strees",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/strees.html",
-        "display_name": "Calgary - Strees",
+        "display_name": "Calgary",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Calgary Skyline",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/calgary/calgary-skyline.html",
-        "display_name": "Calgary Skyline",
+        "display_name": "Calgary",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Campbell River - Discovery Passage",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-passage.html",
-        "display_name": "Campbell River - Discovery Passage",
+        "display_name": "Campbell River",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Campbell River - Discovery Pier",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/discovery-pier.html",
-        "display_name": "Campbell River - Discovery Pier",
+        "display_name": "Campbell River",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Campbell River Airport",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river-airport.html",
-        "display_name": "Campbell River Airport",
+        "display_name": "Campbell River",
         "country_code": "CA",
         "environment": "transport",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "transport"
+        "quality_tier": "unknown",
+        "scene_type": "transport",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Campbell River Airport Runway",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/campbell-river/campbell-river-airport-runway.html",
-        "display_name": "Campbell River Airport Runway",
+        "display_name": "Campbell River",
         "country_code": "CA",
         "environment": "transport",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "transport"
+        "quality_tier": "unknown",
+        "scene_type": "transport",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -297,8 +367,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Canmore - Civic Center",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/canmore/civic-center.html",
-        "display_name": "Canmore - Civic Center",
+        "display_name": "Canmore",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -337,8 +417,13 @@
         "country_code": "CA",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -377,8 +467,13 @@
         "country_code": "CA",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Collingwood Hurontario Street",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/collingwood/collingwood-hurontario-street.html",
-        "display_name": "Collingwood Hurontario Street",
+        "display_name": "Collingwood",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Fort Erie - Canada Bound Truck Inspection",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/fort-erie/canada-bound-truck-inspection.html",
-        "display_name": "Fort Erie - Canada Bound Truck Inspection",
+        "display_name": "Fort Erie",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Fredericton - Officers Square",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fredericton/officers-square.html",
-        "display_name": "Fredericton - Officers Square",
+        "display_name": "Fredericton",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Fredericton - Saint John River",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fredericton/saint-john-river.html",
-        "display_name": "Fredericton - Saint John River",
+        "display_name": "Fredericton",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Fundy St Martins - Orange Hill",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/new-brunswick/fundy-st-martins/orange-hill.html",
-        "display_name": "Fundy St Martins - Orange Hill",
+        "display_name": "Fundy St Martins",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Golden - Ski Resort",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/golden/ski-resort.html",
-        "display_name": "Golden - Ski Resort",
+        "display_name": "Golden",
         "country_code": "CA",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Halifax - Peggys Cove",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/nova-scotia/halifax/peggys-cove.html",
-        "display_name": "Halifax - Peggys Cove",
+        "display_name": "Halifax",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -537,8 +667,13 @@
         "country_code": "CA",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -553,12 +688,17 @@
       "properties": {
         "name": "Montreal - Trudeau Airport",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/quebec/montreal/trudeau-airport.html",
-        "display_name": "Montreal - Trudeau Airport",
+        "display_name": "Montreal",
         "country_code": "CA",
         "environment": "transport",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "transport"
+        "quality_tier": "unknown",
+        "scene_type": "transport",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -577,8 +717,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -597,8 +742,13 @@
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Niagara Falls - Niagara",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/niagara-falls/niagara.html",
-        "display_name": "Niagara Falls - Niagara",
+        "display_name": "Niagara Falls",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -633,12 +788,17 @@
       "properties": {
         "name": "Niagara Falls - Streets",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/niagara-falls/streets.html",
-        "display_name": "Niagara Falls - Streets",
+        "display_name": "Niagara Falls",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -657,8 +817,13 @@
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -673,12 +838,17 @@
       "properties": {
         "name": "Ottawa - Cyrville Station",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/ottawa/cyrville-station.html",
-        "display_name": "Ottawa - Cyrville Station",
+        "display_name": "Ottawa",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -693,12 +863,17 @@
       "properties": {
         "name": "Ottawa - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/ottawa/panorama.html",
-        "display_name": "Ottawa - Panorama",
+        "display_name": "Ottawa",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -717,8 +892,13 @@
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -733,12 +913,17 @@
       "properties": {
         "name": "Quebec City - Fairmont Le Chateau Frontenac",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/quebec/quebec-city/fairmont-le-chateau-frontenac.html",
-        "display_name": "Quebec City - Fairmont Le Chateau Frontenac",
+        "display_name": "Quebec City",
         "country_code": "CA",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -753,12 +938,17 @@
       "properties": {
         "name": "Revelstoke - Railfan",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/revelstoke/railfan.html",
-        "display_name": "Revelstoke - Railfan",
+        "display_name": "Revelstoke",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -777,8 +967,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -793,12 +988,17 @@
       "properties": {
         "name": "St John S - St Johns",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/newfoundland-and-labrador/st-john-s/st-johns.html",
-        "display_name": "St John S - St Johns",
+        "display_name": "St John S",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -817,8 +1017,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -833,12 +1038,17 @@
       "properties": {
         "name": "The Shops Of Canmore Courtyard",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/alberta/canmore/the-shops-of-canmore-courtyard.html",
-        "display_name": "The Shops Of Canmore Courtyard",
+        "display_name": "Canmore",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -853,12 +1063,17 @@
       "properties": {
         "name": "Tofino - Crystal Cove Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/tofino/crystal-cove-beach.html",
-        "display_name": "Tofino - Crystal Cove Beach",
+        "display_name": "Tofino",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -873,12 +1088,17 @@
       "properties": {
         "name": "Tofino - Long Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/tofino/long-beach.html",
-        "display_name": "Tofino - Long Beach",
+        "display_name": "Tofino",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -893,12 +1113,17 @@
       "properties": {
         "name": "Toronto - Cn Tower",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/cn-tower.html",
-        "display_name": "Toronto - Cn Tower",
+        "display_name": "Toronto",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -913,12 +1138,17 @@
       "properties": {
         "name": "Toronto - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/panorama.html",
-        "display_name": "Toronto - Panorama",
+        "display_name": "Toronto",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -933,12 +1163,17 @@
       "properties": {
         "name": "Toronto - Skyline",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/skyline.html",
-        "display_name": "Toronto - Skyline",
+        "display_name": "Toronto",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -953,12 +1188,17 @@
       "properties": {
         "name": "Toronto - Ytz Cn Tower",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/ontario/toronto/ytz-cn-tower.html",
-        "display_name": "Toronto - Ytz Cn Tower",
+        "display_name": "Toronto",
         "country_code": "CA",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -977,8 +1217,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -993,12 +1238,17 @@
       "properties": {
         "name": "Vancouver - Bc Place Stadium",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/bc-place-stadium.html",
-        "display_name": "Vancouver - Bc Place Stadium",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1013,12 +1263,17 @@
       "properties": {
         "name": "Vancouver - Deep Cove",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/deep-cove.html",
-        "display_name": "Vancouver - Deep Cove",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1033,12 +1288,17 @@
       "properties": {
         "name": "Vancouver - Grouse Mountain Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/grouse-mountain-ski-area.html",
-        "display_name": "Vancouver - Grouse Mountain Ski Area",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1053,12 +1313,17 @@
       "properties": {
         "name": "Vancouver - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/panorama.html",
-        "display_name": "Vancouver - Panorama",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1073,12 +1338,17 @@
       "properties": {
         "name": "Vancouver - Parksville",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/parksville.html",
-        "display_name": "Vancouver - Parksville",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "nature",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "nature"
+        "quality_tier": "unknown",
+        "scene_type": "nature",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1093,12 +1363,17 @@
       "properties": {
         "name": "Vancouver - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/vancouver/port.html",
-        "display_name": "Vancouver - Port",
+        "display_name": "Vancouver",
         "country_code": "CA",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1113,12 +1388,17 @@
       "properties": {
         "name": "Victoria - Harbour",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/victoria/harbour.html",
-        "display_name": "Victoria - Harbour",
+        "display_name": "Victoria",
         "country_code": "CA",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1133,12 +1413,17 @@
       "properties": {
         "name": "Victoria - Ross Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/victoria/ross-bay.html",
-        "display_name": "Victoria - Ross Bay",
+        "display_name": "Victoria",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1153,12 +1438,17 @@
       "properties": {
         "name": "West Vancouver - Cypress Plaza",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/west-vancouver/cypress-plaza.html",
-        "display_name": "West Vancouver - Cypress Plaza",
+        "display_name": "West Vancouver",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1173,12 +1463,17 @@
       "properties": {
         "name": "Whistler - Mountains",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/whistler/mountains.html",
-        "display_name": "Whistler - Mountains",
+        "display_name": "Whistler",
         "country_code": "CA",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1193,12 +1488,17 @@
       "properties": {
         "name": "Whistler Olympic Plaza",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/whistler/whistler-olympic-plaza.html",
-        "display_name": "Whistler Olympic Plaza",
+        "display_name": "Whistler",
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1217,8 +1517,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "brownrice",
-        "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "quality_tier": "unknown",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1237,8 +1542,13 @@
         "country_code": "CA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1253,12 +1563,17 @@
       "properties": {
         "name": "White Rock - Pier",
         "url": "https://www.skylinewebcams.com/en/webcam/canada/british-columbia/white-rock/pier.html",
-        "display_name": "White Rock - Pier",
+        "display_name": "White Rock",
         "country_code": "CA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

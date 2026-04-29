@@ -13,12 +13,17 @@
       "properties": {
         "name": "Almada - Costa De Caparica",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/almada/costa-de-caparica.html",
-        "display_name": "Almada - Costa De Caparica",
+        "display_name": "Almada",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "PT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Funchal - Ilha Do Porto Santo",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/madeira/funchal/ilha-do-porto-santo.html",
-        "display_name": "Funchal - Ilha Do Porto Santo",
+        "display_name": "Funchal",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Lagos Portugal",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/algarve/lagos/lagos-portugal.html",
-        "display_name": "Lagos Portugal",
+        "display_name": "Lagos",
         "country_code": "PT",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Lisbon - Costa Da Caparica",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/lisbon/costa-da-caparica.html",
-        "display_name": "Lisbon - Costa Da Caparica",
+        "display_name": "Lisbon",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Lisbon - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/lisbon/panorama.html",
-        "display_name": "Lisbon - Panorama",
+        "display_name": "Lisbon",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Portimao - Marina",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/algarve/portimao/marina.html",
-        "display_name": "Portimao - Marina",
+        "display_name": "Portimao",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Porto Moniz - Seixal",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/madeira/porto-moniz/seixal.html",
-        "display_name": "Porto Moniz - Seixal",
+        "display_name": "Porto Moniz",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -177,8 +217,13 @@
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Sanctuary Of Our Lady Of Fatima",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/centro/fatima/sanctuary-of-our-lady-of-fatima.html",
-        "display_name": "Sanctuary Of Our Lady Of Fatima",
+        "display_name": "Fatima",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Sesimbra Meco Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/portugal/lisboa/sesimbra/sesimbra-meco-beach.html",
-        "display_name": "Sesimbra Meco Beach",
+        "display_name": "Sesimbra",
         "country_code": "PT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -238,7 +293,12 @@
         "environment": "coastal",
         "source_family": "earthcam",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

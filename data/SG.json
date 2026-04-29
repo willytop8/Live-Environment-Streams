@@ -13,12 +13,17 @@
       "properties": {
         "name": "Singapore - Kampong Gelam",
         "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/kampong-gelam.html",
-        "display_name": "Singapore - Kampong Gelam",
+        "display_name": "Singapore",
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Singapore - Woodlands",
         "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/woodlands.html",
-        "display_name": "Singapore - Woodlands",
+        "display_name": "Singapore",
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Singapore Downtown",
         "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/downtown-singapore.html",
-        "display_name": "Singapore Downtown",
+        "display_name": "Singapore",
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Singapore Harbor",
         "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/singapore.html",
-        "display_name": "Singapore Harbor",
+        "display_name": "Singapore",
         "country_code": "SG",
         "environment": "harbor",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "harbor"
+        "quality_tier": "unknown",
+        "scene_type": "harbor",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Singapore Marina Bay",
         "url": "https://www.skylinewebcams.com/webcam/republic-of-singapore/singapore/singapore/singapore-marina.html",
-        "display_name": "Singapore Marina Bay",
+        "display_name": "Singapore",
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

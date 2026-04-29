@@ -17,8 +17,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Cabo San Lucas - Sea Of Cortez",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/baja-california-sur/cabo-san-lucas/sea-of-cortez.html",
-        "display_name": "Cabo San Lucas - Sea Of Cortez",
+        "display_name": "Cabo San Lucas",
         "country_code": "MX",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -137,8 +167,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -157,8 +192,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Mexico City - Alcaldia",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/alcaldia.html",
-        "display_name": "Mexico City - Alcaldia",
+        "display_name": "Mexico City",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Mexico City - Monumento A La Revolucion",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/monumento-a-la-revolucion.html",
-        "display_name": "Mexico City - Monumento A La Revolucion",
+        "display_name": "Mexico City",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Mexico City - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/panorama.html",
-        "display_name": "Mexico City - Panorama",
+        "display_name": "Mexico City",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Mexico City - Plaza Garibaldi",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/plaza-garibaldi.html",
-        "display_name": "Mexico City - Plaza Garibaldi",
+        "display_name": "Mexico City",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Mexico City - Zocalo",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/zocalo.html",
-        "display_name": "Mexico City - Zocalo",
+        "display_name": "Mexico City",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Pachuca - Plaza",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/hidalgo/pachuca/plaza.html",
-        "display_name": "Pachuca - Plaza",
+        "display_name": "Pachuca",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -297,8 +367,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -317,8 +392,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -337,8 +417,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Puerto Vallarta - Playa",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/jalisco/puerto-vallarta/playa.html",
-        "display_name": "Puerto Vallarta - Playa",
+        "display_name": "Puerto Vallarta",
         "country_code": "MX",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -397,8 +492,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -417,8 +517,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "San Pedro Benito Juarez - Popocatepetl",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/puebla/san-pedro-benito-juarez/popocatepetl.html",
-        "display_name": "San Pedro Benito Juarez - Popocatepetl",
+        "display_name": "San Pedro Benito Juarez",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "San Pedro Mixtepec - Puerto Escondido",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/oaxaca/san-pedro-mixtepec/puerto-escondido.html",
-        "display_name": "San Pedro Mixtepec - Puerto Escondido",
+        "display_name": "San Pedro Mixtepec",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Solidaridad - Cancun Quintana Roo",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-quintana-roo.html",
-        "display_name": "Solidaridad - Cancun Quintana Roo",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Solidaridad - Cancun Swimming Pools",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-swimming-pools.html",
-        "display_name": "Solidaridad - Cancun Swimming Pools",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Solidaridad - Cancun The Royal Sands",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-the-royal-sands.html",
-        "display_name": "Solidaridad - Cancun The Royal Sands",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -533,12 +663,17 @@
       "properties": {
         "name": "Solidaridad - El Parque De Xcaret",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/el-parque-de-xcaret.html",
-        "display_name": "Solidaridad - El Parque De Xcaret",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -553,12 +688,17 @@
       "properties": {
         "name": "Solidaridad - Panorama De Playa Del Carmen",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/panorama-de-playa-del-carmen.html",
-        "display_name": "Solidaridad - Panorama De Playa Del Carmen",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -573,12 +713,17 @@
       "properties": {
         "name": "Solidaridad - Panorama Of Cancun",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/panorama-of-cancun.html",
-        "display_name": "Solidaridad - Panorama Of Cancun",
+        "display_name": "Solidaridad",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -597,8 +742,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Tulum - Playa",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/tulum/playa.html",
-        "display_name": "Tulum - Playa",
+        "display_name": "Tulum",
         "country_code": "MX",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -637,8 +792,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -657,8 +817,13 @@
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -673,12 +838,17 @@
       "properties": {
         "name": "Zaragoza - Border",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/chihuahua/zaragoza/border.html",
-        "display_name": "Zaragoza - Border",
+        "display_name": "Zaragoza",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -693,12 +863,17 @@
       "properties": {
         "name": "Zihuatanejo - Ixtapa",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/guerrero/zihuatanejo/ixtapa.html",
-        "display_name": "Zihuatanejo - Ixtapa",
+        "display_name": "Zihuatanejo",
         "country_code": "MX",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "Zihuatanejo - Playa La Madera",
         "url": "https://www.skylinewebcams.com/en/webcam/mexico/guerrero/zihuatanejo/playa-la-madera.html",
-        "display_name": "Zihuatanejo - Playa La Madera",
+        "display_name": "Zihuatanejo",
         "country_code": "MX",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

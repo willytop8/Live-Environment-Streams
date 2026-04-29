@@ -13,12 +13,17 @@
       "properties": {
         "name": "Piriapolis - Playa Grande",
         "url": "https://www.skylinewebcams.com/en/webcam/uruguay/maldonado/piriapolis/playa-grande.html",
-        "display_name": "Piriapolis - Playa Grande",
+        "display_name": "Piriapolis",
         "country_code": "UY",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Punta Del Este Uruguay",
         "url": "https://www.skylinewebcams.com/en/webcam/uruguay/maldonado/punta-del-este/punta-del-este-uruguay.html",
-        "display_name": "Punta Del Este Uruguay",
+        "display_name": "Punta Del Este",
         "country_code": "UY",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

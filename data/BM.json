@@ -13,12 +13,17 @@
       "properties": {
         "name": "St George S Parish - Cahow",
         "url": "https://www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/cahow.html",
-        "display_name": "St George S Parish - Cahow",
+        "display_name": "St George S Parish",
         "country_code": "BM",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "St George S Parish - St George S Harbour",
         "url": "https://www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-harbour.html",
-        "display_name": "St George S Parish - St George S Harbour",
+        "display_name": "St George S Parish",
         "country_code": "BM",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "St George S Parish - St George S Town Square Bermuda",
         "url": "https://www.skylinewebcams.com/en/webcam/bermuda/st-george-s-parish/st-george-s-parish/st-george-s-town-square-bermuda.html",
-        "display_name": "St George S Parish - St George S Town Square Bermuda",
+        "display_name": "St George S Parish",
         "country_code": "BM",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

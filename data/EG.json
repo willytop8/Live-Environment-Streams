@@ -13,12 +13,17 @@
       "properties": {
         "name": "Cairo - Great Pyramid Of Giza",
         "url": "https://www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html",
-        "display_name": "Cairo - Great Pyramid Of Giza",
+        "display_name": "Cairo",
         "country_code": "EG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

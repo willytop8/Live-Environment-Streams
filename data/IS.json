@@ -13,12 +13,17 @@
       "properties": {
         "name": "Akureyri - Rosenborg",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/northeastern-region/akureyri/rosenborg.html",
-        "display_name": "Akureyri - Rosenborg",
+        "display_name": "Akureyri",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Blaskogabygge - Apavatn Northern Lights",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/blaskogabygge/apavatn-northern-lights.html",
-        "display_name": "Blaskogabygge - Apavatn Northern Lights",
+        "display_name": "Blaskogabygge",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Fjallabygge - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/northeastern-region/fjallabygge/port.html",
-        "display_name": "Fjallabygge - Port",
+        "display_name": "Fjallabygge",
         "country_code": "IS",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Grindavik - Geldingadalir Icelandic Volcano",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/geldingadalir-icelandic-volcano.html",
-        "display_name": "Grindavik - Geldingadalir Icelandic Volcano",
+        "display_name": "Grindavik",
         "country_code": "IS",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Grindavik - Langholl",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/langholl.html",
-        "display_name": "Grindavik - Langholl",
+        "display_name": "Grindavik",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Grindavik - Orbjorn",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/orbjorn.html",
-        "display_name": "Grindavik - Orbjorn",
+        "display_name": "Grindavik",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Grundarfjorour - Kirkjufell Mountain",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/western-region/grundarfjorour/kirkjufell-mountain.html",
-        "display_name": "Grundarfjorour - Kirkjufell Mountain",
+        "display_name": "Grundarfjorour",
         "country_code": "IS",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Hofn - Jokulsarlon",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/austurland/hofn/jokulsarlon.html",
-        "display_name": "Hofn - Jokulsarlon",
+        "display_name": "Hofn",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Reykjavik - Borg",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/borg.html",
-        "display_name": "Reykjavik - Borg",
+        "display_name": "Reykjavik",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Reykjavik - Hallgrimskirkja Church",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/hallgrimskirkja-church.html",
-        "display_name": "Reykjavik - Hallgrimskirkja Church",
+        "display_name": "Reykjavik",
         "country_code": "IS",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Reykjavik - Mount Esja",
         "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/mount-esja.html",
-        "display_name": "Reykjavik - Mount Esja",
+        "display_name": "Reykjavik",
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

@@ -13,12 +13,17 @@
       "properties": {
         "name": "Mafuta - Zambezi National Park",
         "url": "https://www.skylinewebcams.com/en/webcam/zambia/lusaka-province/mafuta/zambezi-national-park.html",
-        "display_name": "Mafuta - Zambezi National Park",
+        "display_name": "Mafuta",
         "country_code": "ZM",
         "environment": "nature",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "nature"
+        "quality_tier": "unknown",
+        "scene_type": "nature",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

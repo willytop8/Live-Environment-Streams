@@ -13,12 +13,17 @@
       "properties": {
         "name": "Roatan - West Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/honduras/bay-islands/roatan/west-bay.html",
-        "display_name": "Roatan - West Bay",
+        "display_name": "Roatan",
         "country_code": "HN",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Roatan - West End",
         "url": "https://www.skylinewebcams.com/en/webcam/honduras/bay-islands/roatan/west-end.html",
-        "display_name": "Roatan - West End",
+        "display_name": "Roatan",
         "country_code": "HN",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

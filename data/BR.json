@@ -17,8 +17,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -38,7 +43,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -58,7 +68,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -78,7 +93,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -118,7 +143,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -138,7 +168,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -158,7 +193,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -178,7 +218,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -198,7 +243,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -218,7 +268,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -237,8 +292,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -278,7 +343,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -298,7 +368,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -318,7 +393,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -338,7 +418,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -378,7 +468,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -398,7 +493,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -418,7 +518,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -438,7 +543,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -458,7 +568,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -477,8 +592,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -498,7 +618,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -518,7 +643,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -538,7 +668,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -557,8 +692,13 @@
         "country_code": "BR",
         "environment": "traffic",
         "source_family": "opencctv",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -578,7 +718,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -598,7 +743,12 @@
         "environment": "traffic",
         "source_family": "opencctv",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Balneario Camboriu - Avenida Brasil",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/avenida-brasil.html",
-        "display_name": "Balneario Camboriu - Avenida Brasil",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -633,12 +788,17 @@
       "properties": {
         "name": "Balneario Camboriu - Barra Norte",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/barra-norte.html",
-        "display_name": "Balneario Camboriu - Barra Norte",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -653,12 +813,17 @@
       "properties": {
         "name": "Balneario Camboriu - Nova Praia Central",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/nova-praia-central.html",
-        "display_name": "Balneario Camboriu - Nova Praia Central",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -673,12 +838,17 @@
       "properties": {
         "name": "Balneario Camboriu - Praia Central",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-central.html",
-        "display_name": "Balneario Camboriu - Praia Central",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -693,12 +863,17 @@
       "properties": {
         "name": "Balneario Camboriu - Praia De Laranjeiras",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-de-laranjeiras.html",
-        "display_name": "Balneario Camboriu - Praia De Laranjeiras",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "Balneario Camboriu - Praia Do Estaleiro",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/praia-do-estaleiro.html",
-        "display_name": "Balneario Camboriu - Praia Do Estaleiro",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -733,12 +913,17 @@
       "properties": {
         "name": "Balneario Camboriu - Vila Real",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-camboriu/vila-real.html",
-        "display_name": "Balneario Camboriu - Vila Real",
+        "display_name": "Balneario Camboriu",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -753,12 +938,17 @@
       "properties": {
         "name": "Balneario Rincao - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/balneario-rincao/beach.html",
-        "display_name": "Balneario Rincao - Beach",
+        "display_name": "Balneario Rincao",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -777,8 +967,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "landmark"
+        "quality_tier": "standard",
+        "scene_type": "landmark",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -797,8 +992,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -817,8 +1017,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -833,12 +1038,17 @@
       "properties": {
         "name": "Cairu - Morro De Sao Paulo Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-beach.html",
-        "display_name": "Cairu - Morro De Sao Paulo Beach",
+        "display_name": "Cairu",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -853,12 +1063,17 @@
       "properties": {
         "name": "Cairu - Morro De Sao Paulo Gamboa",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/cairu/morro-de-sao-paulo-gamboa.html",
-        "display_name": "Cairu - Morro De Sao Paulo Gamboa",
+        "display_name": "Cairu",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -873,12 +1088,17 @@
       "properties": {
         "name": "Canal Do Porto De Santos",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/santos/canal-do-porto-de-santos.html",
-        "display_name": "Canal Do Porto De Santos",
+        "display_name": "Santos",
         "country_code": "BR",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -893,12 +1113,17 @@
       "properties": {
         "name": "Canela - Skyglass",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-sul/canela/skyglass.html",
-        "display_name": "Canela - Skyglass",
+        "display_name": "Canela",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -913,12 +1138,17 @@
       "properties": {
         "name": "Florianopolis - Barra Da Lagoa",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/florianopolis/barra-da-lagoa.html",
-        "display_name": "Florianopolis - Barra Da Lagoa",
+        "display_name": "Florianopolis",
         "country_code": "BR",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -937,8 +1167,13 @@
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -953,12 +1188,17 @@
       "properties": {
         "name": "Guaruja - Acapulco Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/guaruja/acapulco-beach.html",
-        "display_name": "Guaruja - Acapulco Beach",
+        "display_name": "Guaruja",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -973,12 +1213,17 @@
       "properties": {
         "name": "Guaruja - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/guaruja/beach.html",
-        "display_name": "Guaruja - Beach",
+        "display_name": "Guaruja",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -993,12 +1238,17 @@
       "properties": {
         "name": "Itapema - Coast",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/itapema/coast.html",
-        "display_name": "Itapema - Coast",
+        "display_name": "Itapema",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1013,12 +1263,17 @@
       "properties": {
         "name": "Itapema - Promenade",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/santa-catarina/itapema/promenade.html",
-        "display_name": "Itapema - Promenade",
+        "display_name": "Itapema",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1033,12 +1288,17 @@
       "properties": {
         "name": "Jaboatao Dos Guararapes - Praia De Candeias",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/pernambuco/jaboatao-dos-guararapes/praia-de-candeias.html",
-        "display_name": "Jaboatao Dos Guararapes - Praia De Candeias",
+        "display_name": "Jaboatao Dos Guararapes",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1053,12 +1313,17 @@
       "properties": {
         "name": "Maceio - Pajucara",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/alagoas/maceio/pajucara.html",
-        "display_name": "Maceio - Pajucara",
+        "display_name": "Maceio",
         "country_code": "BR",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1077,8 +1342,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1093,12 +1363,17 @@
       "properties": {
         "name": "Manaus - Ponta Negra",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/ponta-negra.html",
-        "display_name": "Manaus - Ponta Negra",
+        "display_name": "Manaus",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1113,12 +1388,17 @@
       "properties": {
         "name": "Manaus - Vieiralves",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/vieiralves.html",
-        "display_name": "Manaus - Vieiralves",
+        "display_name": "Manaus",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1133,12 +1413,17 @@
       "properties": {
         "name": "Manaus Amazon Theatre",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/amazonas/manaus/manaus-amazon-theatre.html",
-        "display_name": "Manaus Amazon Theatre",
+        "display_name": "Manaus",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1153,12 +1438,17 @@
       "properties": {
         "name": "Miracema - Praca Ary Parreiras",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/miracema/praca-ary-parreiras.html",
-        "display_name": "Miracema - Praca Ary Parreiras",
+        "display_name": "Miracema",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1177,8 +1467,13 @@
         "country_code": "BR",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1197,8 +1492,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1217,8 +1517,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1233,12 +1538,17 @@
       "properties": {
         "name": "Natal - Praia Di Ponta Negra",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-grande-do-norte/natal/praia-di-ponta-negra.html",
-        "display_name": "Natal - Praia Di Ponta Negra",
+        "display_name": "Natal",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1257,8 +1567,13 @@
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1277,8 +1592,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1297,8 +1617,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1313,12 +1638,17 @@
       "properties": {
         "name": "Prado - Praia De Guaratiba",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/bahia/prado/praia-de-guaratiba.html",
-        "display_name": "Prado - Praia De Guaratiba",
+        "display_name": "Prado",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1333,12 +1663,17 @@
       "properties": {
         "name": "Rio De Janeiro - Christ The Redeemer",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/christ-the-redeemer.html",
-        "display_name": "Rio De Janeiro - Christ The Redeemer",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1353,12 +1688,17 @@
       "properties": {
         "name": "Rio De Janeiro - Copacabana",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana.html",
-        "display_name": "Rio De Janeiro - Copacabana",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1373,12 +1713,17 @@
       "properties": {
         "name": "Rio De Janeiro - Copacabana Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/copacabana-beach.html",
-        "display_name": "Rio De Janeiro - Copacabana Beach",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1393,12 +1738,17 @@
       "properties": {
         "name": "Rio De Janeiro - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/panorama.html",
-        "display_name": "Rio De Janeiro - Panorama",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1413,12 +1763,17 @@
       "properties": {
         "name": "Rio De Janeiro - Praia De Sao Conrado",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/praia-de-sao-conrado.html",
-        "display_name": "Rio De Janeiro - Praia De Sao Conrado",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1433,12 +1788,17 @@
       "properties": {
         "name": "Rio De Janeiro - Praia Do Forte",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/rio-de-janeiro/rio-de-janeiro/praia-do-forte.html",
-        "display_name": "Rio De Janeiro - Praia Do Forte",
+        "display_name": "Rio De Janeiro",
         "country_code": "BR",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1457,8 +1817,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1477,8 +1842,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1493,12 +1863,17 @@
       "properties": {
         "name": "Santa Fe Do Sul - Train Station",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/santa-fe-do-sul/train-station.html",
-        "display_name": "Santa Fe Do Sul - Train Station",
+        "display_name": "Santa Fe Do Sul",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1517,8 +1892,13 @@
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1533,12 +1913,17 @@
       "properties": {
         "name": "Sao Vicente - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/sao-vicente/beach.html",
-        "display_name": "Sao Vicente - Beach",
+        "display_name": "Sao Vicente",
         "country_code": "BR",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1553,12 +1938,17 @@
       "properties": {
         "name": "Sao Vicente - Surf",
         "url": "https://www.skylinewebcams.com/en/webcam/brasil/sao-paulo/sao-vicente/surf.html",
-        "display_name": "Sao Vicente - Surf",
+        "display_name": "Sao Vicente",
         "country_code": "BR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

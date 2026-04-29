@@ -17,8 +17,13 @@
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Bad Goisern Am Hallstattersee",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/upper-austria/bad-goisern/bad-goisern-am-hallstattersee.html",
-        "display_name": "Bad Goisern Am Hallstattersee",
+        "display_name": "Bad Goisern",
         "country_code": "AT",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Ebbs - Eislaufplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/ebbs/eislaufplatz.html",
-        "display_name": "Ebbs - Eislaufplatz",
+        "display_name": "Ebbs",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Ebbs Zahmer Kaiser",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/ebbs/ebbs-zahmer-kaiser.html",
-        "display_name": "Ebbs Zahmer Kaiser",
+        "display_name": "Ebbs",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Feldkirch District - Dafins",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/vorarlberg/feldkirch-district/dafins.html",
-        "display_name": "Feldkirch District - Dafins",
+        "display_name": "Feldkirch District",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -137,8 +167,13 @@
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Kufstein - Kaisertal",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/kufstein/kaisertal.html",
-        "display_name": "Kufstein - Kaisertal",
+        "display_name": "Kufstein",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Kufstein Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/kufstein/kufstein-panorama.html",
-        "display_name": "Kufstein Panorama",
+        "display_name": "Kufstein",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Kufstein Thierberg",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/kufstein/kufstein-thierberg.html",
-        "display_name": "Kufstein Thierberg",
+        "display_name": "Kufstein",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Lermoos - Skigebiet Grubigstein Zugspitz Arena",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/lermoos/skigebiet-grubigstein-zugspitz-arena.html",
-        "display_name": "Lermoos - Skigebiet Grubigstein Zugspitz Arena",
+        "display_name": "Lermoos",
         "country_code": "AT",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Lermoos - Zugspitze Sonnenspitze",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/lermoos/zugspitze-sonnenspitze.html",
-        "display_name": "Lermoos - Zugspitze Sonnenspitze",
+        "display_name": "Lermoos",
         "country_code": "AT",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Salzburg - Embach",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/salzburg/salzburg/embach.html",
-        "display_name": "Salzburg - Embach",
+        "display_name": "Salzburg",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Salzburg - Gaisberg",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/salzburg/salzburg/gaisberg.html",
-        "display_name": "Salzburg - Gaisberg",
+        "display_name": "Salzburg",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Vienna - Kohlmarkt",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/vienna/vienna/kohlmarkt.html",
-        "display_name": "Vienna - Kohlmarkt",
+        "display_name": "Vienna",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Vienna - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/vienna/vienna/panorama.html",
-        "display_name": "Vienna - Panorama",
+        "display_name": "Vienna",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Vienna - Skyline",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/vienna/vienna/skyline.html",
-        "display_name": "Vienna - Skyline",
+        "display_name": "Vienna",
         "country_code": "AT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Westendorf - Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/austria/tyrol/westendorf/ski-area.html",
-        "display_name": "Westendorf - Ski Area",
+        "display_name": "Westendorf",
         "country_code": "AT",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

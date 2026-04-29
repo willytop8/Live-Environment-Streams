@@ -6,126 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.166,
-          -6.334
-        ]
-      },
-      "properties": {
-        "name": "ID - Banten - MR 75+500",
-        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/8/index.m3u8",
-        "display_name": "Banten",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "wikaserangpanimbang",
-        "quality_tier": "high",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.48,
-          -6.32
-        ]
-      },
-      "properties": {
-        "name": "ID - Banten - Tangerang - 12+750 A",
-        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
-        "display_name": "Banten",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "serbaraja_toll",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          106.70851,
-          -6.09238
-        ]
-      },
-      "properties": {
-        "name": "ID - Banten - Tangerang - Simpang Dadap 1",
-        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcpqn62mej02bc0h565epz/01jsrcpqn62mej02bc0h565epz.m3u8",
-        "display_name": "Banten",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "tangerangkab",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.333,
-          -7.509
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - Bandar - KM 672 Interchange Bandar",
-        "url": "https://toljomo.margaharjaya.co.id/video/ICBANDARA/icbandara.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "margaharjaya",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.55,
-          -7.37
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - ENTRANCE BALONGBENDO/Lebani",
-        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "waskitabumiwira",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.553,
-          -7.369
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - ENTRANCE BUNDER",
-        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/847256887139548671784810.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "waskitabumiwira",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           113.06,
           -7.7
         ]
@@ -138,7 +18,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -158,7 +43,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -178,7 +68,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -198,7 +93,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -218,7 +118,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -238,7 +143,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -258,7 +168,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -278,7 +193,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -298,7 +218,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -318,7 +243,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -338,47 +268,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.346,
-          -7.494
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - Mojokerto - KM 706 Interchange Mojokerto Barat",
-        "url": "https://toljomo.margaharjaya.co.id/video/ICMBRB/icmbrb.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "margaharjaya",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          112.349,
-          -7.493
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - Mojokerto - KM 710 Mojokerto",
-        "url": "https://toljomo.margaharjaya.co.id/video/ICMOKERB/icmokerb.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "margaharjaya",
-        "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -398,7 +293,12 @@
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

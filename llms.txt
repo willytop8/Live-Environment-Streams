@@ -1,63 +1,82 @@
-# Live Environment Streams - LLM Guide
+# Live Environment Streams — LLM Guide
 
-## Project Purpose
-This repository provides a master index of live outdoor camera sources (HLS, RTSP, YouTube Live) specifically formatted for machine learning, computer vision, and dynamic weather tracking. It serves as the primary data source for continuous environmental monitoring projects.
+## Purpose
+Master index of live outdoor camera sources (HLS, YouTube Live, HTTP snapshots) formatted for machine learning, computer vision, and AI agent pipelines. Primary data source for real-time environmental monitoring.
 
-**Stats: 5,242 streams · 80 countries · 25 source families**
+**5,172 streams · 80 countries · 19 source families**
 
-## Schema Definition
-The primary data file is `streams.geojson`, formatted as a standard GeoJSON FeatureCollection.
+## Important: not all streams are directly usable
 
-Each `Feature` represents a live stream:
-- `geometry`: Point geometry with `[longitude, latitude]`.
+Of 5,172 streams, only ~3,027 have direct HLS or YouTube URLs. The rest (2,106) are HTML page links that require browser/JavaScript extraction. Always filter by `url_type` before passing URLs to ffmpeg or yt-dlp.
+
+Recommended filter for immediately usable streams:
+
+```python
+usable = [f for f in streams
+    if f["properties"]["url_type"] in ("hls", "youtube")
+    and f["properties"]["coordinates_quality"] != "country_centroid"
+    and f["properties"]["source_url_requires"] is None]
+```
+
+## Schema
+
+Primary file: `streams.geojson` (GeoJSON FeatureCollection).
+
+Each Feature:
+- `geometry`: Point with `[longitude, latitude]`.
 - `properties`:
-  - `name`: Descriptive name of the camera location.
-  - `display_name`: Human-readable label (typically city or location name).
-  - `url`: Direct streaming URL (.m3u8, YouTube, etc.).
-  - `country_code`: ISO 3166-1 alpha-2 country code (e.g. US, DE, JP).
-  - `environment`: Broad scene category. Values: `traffic`, `urban`, `coastal`, `mountain`, `marina`, `waterway`, `lake`, `nature`, `other`.
-  - `source_family`: Identifier for the data source pipeline (see Source Family Index below).
-  - `quality_tier`: Stream quality. Values: `premium`, `high`, `standard`, `low`.
-  - `scene_type`: Granular scene label (e.g. `traffic`, `beach`, `urban_panorama`, `marina`, `river`, `lake`).
+  - `name` (string): Camera descriptive name.
+  - `display_name` (string): Human-readable location label.
+  - `url` (string): Stream URL — may be HLS manifest, YouTube link, HTML page, or HTTP image endpoint.
+  - `country_code` (string): ISO 3166-1 alpha-2.
+  - `environment` (string): `traffic`, `urban`, `coastal`, `mountain`, `marina`, `waterway`, `lake`, `nature`, `other`.
+  - `source_family` (string): Data source identifier. See `sources.json` for metadata.
+  - `quality_tier` (string): `standard`, `unknown`, or `low`. Based on source reliability, not verified resolution.
+  - `scene_type` (string): Granular scene label (traffic, beach, urban_panorama, etc.).
+  - `url_type` (string): **Critical for agents.** `hls` = direct .m3u8 manifest. `youtube` = YouTube watch URL (use yt-dlp). `html_page` = requires browser to extract stream. `http_image` = JPEG snapshot endpoint.
+  - `coordinates_quality` (string): `exact` = camera-level. `city` = interchange/city level. `country_centroid` = fallback to capital, unreliable for geo-queries.
+  - `status` (string): `active` = verified working. `unverified` = not yet tested. `deprecated` = confirmed dead.
+  - `last_verified` (string|null): ISO 8601 timestamp of last successful probe, or null.
+  - `source_url_requires` (string|null): `browser` = needs JS rendering. `token_refresh` = auth token expires. `null` = direct access.
 
 ## Source Family Index
-| source_family | Description |
-|---------------|-------------|
-| skylinewebcams | Skyline Webcams scenic/tourism network |
-| vdot | Virginia Department of Transportation |
-| mdsha | Maryland State Highway Administration |
-| autobahn_nrw | German Autobahn NRW traffic cameras |
-| deldot | Delaware Department of Transportation |
-| nysdot | New York State Department of Transportation |
-| caltrans | California Department of Transportation |
-| opencctv | OpenCCTV public feed aggregator |
-| ladot | Los Angeles Department of Transportation |
-| youtube | YouTube Live streams |
-| vegvesen | Norwegian Public Roads Administration |
-| ktict | Korea Transport Institute traffic cameras |
-| iticfoundation | ITIC Foundation cameras |
-| taiwan_freeway | Taiwan Freeway Bureau |
-| paspro | PasPro traffic cameras |
-| vdotcameras | VDOT secondary camera feeds |
-| earthcam | EarthCam live network |
-| panama_canal | Panama Canal Authority webcams |
-| margaharjaya | Marga Harjaya (Indonesia toll) |
-| waskitabumiwira | Waskita Bumi Wira (Indonesia toll) |
-| quebec511 | Quebec 511 traffic cameras |
-| brownrice | Brown Rice Internet Japan |
-| wikaserangpanimbang | Wika Serang-Panimbang (Indonesia toll) |
-| serbaraja_toll | Serbaraja toll cameras |
-| tangerangkab | Tangerang Kabupaten cameras |
 
-## AI / Agent Query Instructions
-When iterating through the streams:
-1. **Filtering by Location**: Use `geometry` or `country_code` to subset regions. Per-country files in `data/` minimize token load (e.g. `data/US.json`, `data/DE.json`).
-2. **Filtering by Environment**: Target `environment` for broad scene type (e.g. `coastal` for ocean monitoring, `traffic` for road analysis).
-3. **Filtering by Quality**: Use `quality_tier` to select reliable streams. Prefer `premium` for production CV pipelines.
-4. **Filtering by Scene**: Use `scene_type` for granular filtering (e.g. `beach`, `urban_panorama`, `marina`).
-5. **Source Attribution**: Use `source_family` to understand stream origin and expected format/reliability characteristics.
-6. **Data Retrieval**: Pass `url` directly to `yt-dlp` or `FFmpeg` for frame extraction.
+| source_family | Description | Streams | URL type | License |
+|---------------|-------------|---------|----------|---------|
+| skylinewebcams | Scenic/tourism webcam network | 2,771 | hls + html_page | fair_use |
+| vdot | Virginia DOT | 1,168 | hls | public_domain |
+| mdsha | Maryland SHA | 404 | hls | public_domain |
+| autobahn_nrw | German Autobahn NRW | 281 | hls | public_domain |
+| deldot | Delaware DOT | 261 | hls | public_domain |
+| nysdot | New York State DOT | 91 | hls | public_domain |
+| opencctv | OpenCCTV aggregator | 30 | hls | open_data |
+| ladot | Los Angeles DOT | 30 | hls | public_domain |
+| youtube | YouTube Live | 24 | youtube | fair_use |
+| vegvesen | Norwegian roads | 22 | http_image | public_domain |
+| ktict | Korea traffic | 20 | hls | public_domain |
+| iticfoundation | Thailand cameras | 20 | hls | public_domain |
+| taiwan_freeway | Taiwan highways | 18 | hls | public_domain |
+| paspro | Indonesia traffic | 12 | hls | unknown |
+| vdotcameras | VDOT secondary | 8 | hls | public_domain |
+| earthcam | EarthCam network | 6 | hls | fair_use |
+| panama_canal | Panama Canal | 4 | hls | public_domain |
+| quebec511 | Quebec traffic | 1 | http_image | public_domain |
+| brownrice | Japan | 1 | hls | unknown |
 
-## Directory Structure
-- `streams.geojson`: The monolithic master file (all 5,242 streams).
-- `data/`: Per-country GeoJSON files (e.g. `data/US.json`, `data/IT.json`) to minimize token context limits during region-specific agent processing.
+## Agent query patterns
+
+1. **Filter by URL type first.** Only `hls` and `youtube` URLs can be passed directly to media tools. `html_page` requires a browser. `http_image` returns JPEG snapshots, not video.
+
+2. **Filter by coordinates quality.** `country_centroid` coordinates are country-capital fallbacks — useless for weather correlation or geographic queries. Use `exact` or `city`.
+
+3. **Check `source_url_requires`.** Streams with `token_refresh` have expiring auth tokens in the URL. Streams with `browser` need JavaScript rendering.
+
+4. **Per-country files** in `data/` minimize token load. Use `data/US.json` instead of loading the full 5,172-stream file when you only need one country.
+
+5. **Source metadata** in `sources.json` provides license info, refresh method, and reliability notes per source family.
+
+## File structure
+- `streams.geojson`: Master file (all 5,172 streams).
+- `sources.json`: Per-source metadata.
+- `data/`: Per-country GeoJSON files (e.g. `data/US.json`, `data/IT.json`).
+- `scripts/`: Validation and maintenance tools.

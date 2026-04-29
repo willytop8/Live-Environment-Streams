@@ -17,8 +17,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Alhambra De Granada",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/granada/alhambra-de-granada.html",
-        "display_name": "Alhambra De Granada",
+        "display_name": "Granada",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Alicante - Benidorm Playa Levante",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-levante.html",
-        "display_name": "Alicante - Benidorm Playa Levante",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Alicante - Benidorm Playa Poniente",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-poniente.html",
-        "display_name": "Alicante - Benidorm Playa Poniente",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Alicante - Benidorm Playa Poniente Sur",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-poniente-sur.html",
-        "display_name": "Alicante - Benidorm Playa Poniente Sur",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Alicante - Benidorm Skyline",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-skyline.html",
-        "display_name": "Alicante - Benidorm Skyline",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Alicante - Calpe Penon De Ifach",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/calpe-penon-de-ifach.html",
-        "display_name": "Alicante - Calpe Penon De Ifach",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Alicante - Guardamar Del Segura",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/guardamar-del-segura.html",
-        "display_name": "Alicante - Guardamar Del Segura",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Alicante - Orihuela Costa",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/orihuela-costa.html",
-        "display_name": "Alicante - Orihuela Costa",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Alicante - Villajoyosa",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/villajoyosa.html",
-        "display_name": "Alicante - Villajoyosa",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Alicante Playa Almadraba",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/alicante-playa-almadraba.html",
-        "display_name": "Alicante Playa Almadraba",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Almeria - Balerma",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/almeria/balerma.html",
-        "display_name": "Almeria - Balerma",
+        "display_name": "Almeria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Almeria - Mojacar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/almeria/mojacar.html",
-        "display_name": "Almeria - Mojacar",
+        "display_name": "Almeria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Almeria - Mojacar Plaza Nueva",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/almeria/mojacar-plaza-nueva.html",
-        "display_name": "Almeria - Mojacar Plaza Nueva",
+        "display_name": "Almeria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Almeria - Pulpi Playa De Los Cocedores",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/almeria/pulpi-playa-de-los-cocedores.html",
-        "display_name": "Almeria - Pulpi Playa De Los Cocedores",
+        "display_name": "Almeria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -337,8 +417,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -377,8 +467,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -397,8 +492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "indoor"
+        "quality_tier": "standard",
+        "scene_type": "indoor",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -417,8 +517,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -437,8 +542,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -457,8 +567,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Avila - Madrigal De Las Altas Torres Ciguena Blanca",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/avila/madrigal-de-las-altas-torres-ciguena-blanca.html",
-        "display_name": "Avila - Madrigal De Las Altas Torres Ciguena Blanca",
+        "display_name": "Avila",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Bahia De Suances",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/suances/bahia-de-suances.html",
-        "display_name": "Bahia De Suances",
+        "display_name": "Suances",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -517,8 +642,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -537,8 +667,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -553,12 +688,17 @@
       "properties": {
         "name": "Barcelona - Castelldefels",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/castelldefels.html",
-        "display_name": "Barcelona - Castelldefels",
+        "display_name": "Barcelona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -573,12 +713,17 @@
       "properties": {
         "name": "Barcelona - Catamaran",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/catamaran.html",
-        "display_name": "Barcelona - Catamaran",
+        "display_name": "Barcelona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -593,12 +738,17 @@
       "properties": {
         "name": "Barcelona - Playa Sant Sebastia",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/barcelona/playa-sant-sebastia.html",
-        "display_name": "Barcelona - Playa Sant Sebastia",
+        "display_name": "Barcelona",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -617,8 +767,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -637,8 +792,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -657,8 +817,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -677,8 +842,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -697,8 +867,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "Benidorm Playa Alicante",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html",
-        "display_name": "Benidorm Playa Alicante",
+        "display_name": "Alicante",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -733,12 +913,17 @@
       "properties": {
         "name": "Biscay - Lequeitio",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-autonoma-vasca/biscay/lequeitio.html",
-        "display_name": "Biscay - Lequeitio",
+        "display_name": "Biscay",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -753,12 +938,17 @@
       "properties": {
         "name": "Biscay - Reserva De La Biosfera De Urdaibai",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-autonoma-vasca/biscay/reserva-de-la-biosfera-de-urdaibai.html",
-        "display_name": "Biscay - Reserva De La Biosfera De Urdaibai",
+        "display_name": "Biscay",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -773,12 +963,17 @@
       "properties": {
         "name": "Biscay - Sestao Puente Bizkaia Ria De Bilbao",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-autonoma-vasca/biscay/sestao-puente-bizkaia-ria-de-bilbao.html",
-        "display_name": "Biscay - Sestao Puente Bizkaia Ria De Bilbao",
+        "display_name": "Biscay",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -797,8 +992,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -813,12 +1013,17 @@
       "properties": {
         "name": "Burgos - Frias",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/burgos/frias.html",
-        "display_name": "Burgos - Frias",
+        "display_name": "Burgos",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -833,12 +1038,17 @@
       "properties": {
         "name": "Burgos - Puentedey",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/burgos/puentedey.html",
-        "display_name": "Burgos - Puentedey",
+        "display_name": "Burgos",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -857,8 +1067,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -877,8 +1092,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -897,8 +1117,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -917,8 +1142,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -937,8 +1167,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -953,12 +1188,17 @@
       "properties": {
         "name": "Casares - Playa Ancha",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/casares/playa-ancha.html",
-        "display_name": "Casares - Playa Ancha",
+        "display_name": "Casares",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -973,12 +1213,17 @@
       "properties": {
         "name": "Castellon - Benicasim",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/castellon/benicasim.html",
-        "display_name": "Castellon - Benicasim",
+        "display_name": "Castellon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -993,12 +1238,17 @@
       "properties": {
         "name": "Castellon - Oropesa Del Mar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/castellon/oropesa-del-mar.html",
-        "display_name": "Castellon - Oropesa Del Mar",
+        "display_name": "Castellon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1013,12 +1263,17 @@
       "properties": {
         "name": "Castellon - Peniscola",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/castellon/peniscola.html",
-        "display_name": "Castellon - Peniscola",
+        "display_name": "Castellon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1033,12 +1288,17 @@
       "properties": {
         "name": "Castellon - Vilafranca",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/castellon/vilafranca.html",
-        "display_name": "Castellon - Vilafranca",
+        "display_name": "Castellon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1057,8 +1317,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1077,8 +1342,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "standard",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1097,8 +1367,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1117,8 +1392,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1137,8 +1417,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1157,8 +1442,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1177,8 +1467,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1197,8 +1492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1217,8 +1517,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1237,8 +1542,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1257,8 +1567,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1277,8 +1592,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1297,8 +1617,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1317,8 +1642,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1337,8 +1667,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1357,8 +1692,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1377,8 +1717,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1397,8 +1742,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1417,8 +1767,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1433,12 +1788,17 @@
       "properties": {
         "name": "Formentera - Playa Es Pujols",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/formentera/playa-es-pujols.html",
-        "display_name": "Formentera - Playa Es Pujols",
+        "display_name": "Formentera",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1457,8 +1817,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1477,8 +1842,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1493,12 +1863,17 @@
       "properties": {
         "name": "Gerona - Calella De Palafrugell Costa Brava",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/calella-de-palafrugell-costa-brava.html",
-        "display_name": "Gerona - Calella De Palafrugell Costa Brava",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1513,12 +1888,17 @@
       "properties": {
         "name": "Gerona - Castell Platja D Aro",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/castell-platja-d-aro.html",
-        "display_name": "Gerona - Castell Platja D Aro",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1533,12 +1913,17 @@
       "properties": {
         "name": "Gerona - Fornells De La Selva",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/fornells-de-la-selva.html",
-        "display_name": "Gerona - Fornells De La Selva",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1553,12 +1938,17 @@
       "properties": {
         "name": "Gerona - Lloret De Mar Costa Brava",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/lloret-de-mar-costa-brava.html",
-        "display_name": "Gerona - Lloret De Mar Costa Brava",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1573,12 +1963,17 @@
       "properties": {
         "name": "Gerona - Palafrugell",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/palafrugell.html",
-        "display_name": "Gerona - Palafrugell",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1593,12 +1988,17 @@
       "properties": {
         "name": "Gerona - Puente Eiffel",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/puente-eiffel.html",
-        "display_name": "Gerona - Puente Eiffel",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1613,12 +2013,17 @@
       "properties": {
         "name": "Gerona - Tossa De Mar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/gerona/tossa-de-mar.html",
-        "display_name": "Gerona - Tossa De Mar",
+        "display_name": "Gerona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1637,8 +2042,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1653,12 +2063,17 @@
       "properties": {
         "name": "Granada - Almunecar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/granada/almunecar.html",
-        "display_name": "Granada - Almunecar",
+        "display_name": "Granada",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1677,8 +2092,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1693,12 +2113,17 @@
       "properties": {
         "name": "Granada - La Mamola",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/granada/la-mamola.html",
-        "display_name": "Granada - La Mamola",
+        "display_name": "Granada",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1713,12 +2138,17 @@
       "properties": {
         "name": "Granada - Playa De San Cristobal Almunecar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/granada/playa-de-san-cristobal-almunecar.html",
-        "display_name": "Granada - Playa De San Cristobal Almunecar",
+        "display_name": "Granada",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1737,8 +2167,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1757,8 +2192,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "standard",
+        "scene_type": "marina",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1773,12 +2213,17 @@
       "properties": {
         "name": "Huelva - Islantilla",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/huelva/islantilla.html",
-        "display_name": "Huelva - Islantilla",
+        "display_name": "Huelva",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1797,8 +2242,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1817,8 +2267,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1833,12 +2288,17 @@
       "properties": {
         "name": "Ibiza - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/ibiza/panorama.html",
-        "display_name": "Ibiza - Panorama",
+        "display_name": "Ibiza",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1853,12 +2313,17 @@
       "properties": {
         "name": "Ibiza - Sant Antoni De Portmany",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/ibiza/sant-antoni-de-portmany.html",
-        "display_name": "Ibiza - Sant Antoni De Portmany",
+        "display_name": "Ibiza",
         "country_code": "ES",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1877,8 +2342,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1897,8 +2367,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1918,7 +2393,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1937,8 +2417,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1957,8 +2442,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1977,8 +2467,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1997,8 +2492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2018,7 +2518,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2037,8 +2542,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2053,12 +2563,17 @@
       "properties": {
         "name": "La Peral Parque Natural De Somiedo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/asturias/somiedo/la-peral-parque-natural-de-somiedo.html",
-        "display_name": "La Peral Parque Natural De Somiedo",
+        "display_name": "Somiedo",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2077,8 +2592,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2097,8 +2617,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2113,12 +2638,17 @@
       "properties": {
         "name": "Laredo - Playa De Loredo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/laredo/playa-de-loredo.html",
-        "display_name": "Laredo - Playa De Loredo",
+        "display_name": "Laredo",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2133,12 +2663,17 @@
       "properties": {
         "name": "Laredo Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/laredo/laredo-beach.html",
-        "display_name": "Laredo Beach",
+        "display_name": "Laredo",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2157,8 +2692,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2173,12 +2713,17 @@
       "properties": {
         "name": "Las Palmas - Lanzarote Isla De La Graciosa",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas/lanzarote-isla-de-la-graciosa.html",
-        "display_name": "Las Palmas - Lanzarote Isla De La Graciosa",
+        "display_name": "Las Palmas",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2193,12 +2738,17 @@
       "properties": {
         "name": "Las Palmas - Playa Las Cucharas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas/playa-las-cucharas.html",
-        "display_name": "Las Palmas - Playa Las Cucharas",
+        "display_name": "Las Palmas",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2213,12 +2763,17 @@
       "properties": {
         "name": "Las Palmas - San Bartolome De Tirajana",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas/san-bartolome-de-tirajana.html",
-        "display_name": "Las Palmas - San Bartolome De Tirajana",
+        "display_name": "Las Palmas",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2233,12 +2788,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Arguineguin Playa De El Perchel",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/arguineguin-playa-de-el-perchel.html",
-        "display_name": "Las Palmas Gran Canaria - Arguineguin Playa De El Perchel",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2253,12 +2813,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - La Cicer Las Canteras",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/la-cicer-las-canteras.html",
-        "display_name": "Las Palmas Gran Canaria - La Cicer Las Canteras",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2273,12 +2838,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Mogan",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan.html",
-        "display_name": "Las Palmas Gran Canaria - Mogan",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2293,12 +2863,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Mogan Playa De Puerto Rico",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-de-puerto-rico.html",
-        "display_name": "Las Palmas Gran Canaria - Mogan Playa De Puerto Rico",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2313,12 +2888,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Mogan Playa Del Cura",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-del-cura.html",
-        "display_name": "Las Palmas Gran Canaria - Mogan Playa Del Cura",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2333,12 +2913,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Mogan Playa La Lajilla",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-la-lajilla.html",
-        "display_name": "Las Palmas Gran Canaria - Mogan Playa La Lajilla",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2353,12 +2938,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Mogan Playa Taurito",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-taurito.html",
-        "display_name": "Las Palmas Gran Canaria - Mogan Playa Taurito",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2373,12 +2963,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Patalavaca",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/patalavaca.html",
-        "display_name": "Las Palmas Gran Canaria - Patalavaca",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2393,12 +2988,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Playa Grande Las Canteras",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/playa-grande-las-canteras.html",
-        "display_name": "Las Palmas Gran Canaria - Playa Grande Las Canteras",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2413,12 +3013,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Playa Las Canteras",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/playa-las-canteras.html",
-        "display_name": "Las Palmas Gran Canaria - Playa Las Canteras",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2433,12 +3038,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Puerto Del Carmen Playa Los Pocillos",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/puerto-del-carmen-playa-los-pocillos.html",
-        "display_name": "Las Palmas Gran Canaria - Puerto Del Carmen Playa Los Pocillos",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2453,12 +3063,17 @@
       "properties": {
         "name": "Las Palmas Gran Canaria - Puerto Rico De Gran Canaria Playa Amadores",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas-gran-canaria/puerto-rico-de-gran-canaria-playa-amadores.html",
-        "display_name": "Las Palmas Gran Canaria - Puerto Rico De Gran Canaria Playa Amadores",
+        "display_name": "Las Palmas Gran Canaria",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2477,8 +3092,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2498,7 +3118,12 @@
         "environment": "coastal",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2513,12 +3138,17 @@
       "properties": {
         "name": "Leon - Castillo De Villapadierna",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon/castillo-de-villapadierna.html",
-        "display_name": "Leon - Castillo De Villapadierna",
+        "display_name": "Leon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2533,12 +3163,17 @@
       "properties": {
         "name": "Leon - Estacion Invernal Y De Montana San Isidro",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon/estacion-invernal-y-de-montana-san-isidro.html",
-        "display_name": "Leon - Estacion Invernal Y De Montana San Isidro",
+        "display_name": "Leon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2553,12 +3188,17 @@
       "properties": {
         "name": "Leon - Riano Y Pico Yordas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon/riano-y-pico-yordas.html",
-        "display_name": "Leon - Riano Y Pico Yordas",
+        "display_name": "Leon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2573,12 +3213,17 @@
       "properties": {
         "name": "Leon - Villafranca Del Bierzo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castilla-y-leon/leon/villafranca-del-bierzo.html",
-        "display_name": "Leon - Villafranca Del Bierzo",
+        "display_name": "Leon",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2597,8 +3242,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2617,8 +3267,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2637,8 +3292,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2657,8 +3317,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2673,12 +3338,17 @@
       "properties": {
         "name": "Madrid - Calle Alcala",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/calle-alcala.html",
-        "display_name": "Madrid - Calle Alcala",
+        "display_name": "Madrid",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2693,12 +3363,17 @@
       "properties": {
         "name": "Madrid - Puerta Del Sol Tio Pepe",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol-tio-pepe.html",
-        "display_name": "Madrid - Puerta Del Sol Tio Pepe",
+        "display_name": "Madrid",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2713,12 +3388,17 @@
       "properties": {
         "name": "Madrid - Sendero Vivo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/sendero-vivo.html",
-        "display_name": "Madrid - Sendero Vivo",
+        "display_name": "Madrid",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2733,12 +3413,17 @@
       "properties": {
         "name": "Madrid - Zarzalejo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/zarzalejo.html",
-        "display_name": "Madrid - Zarzalejo",
+        "display_name": "Madrid",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2753,12 +3438,17 @@
       "properties": {
         "name": "Madrid Plaza Del Callao",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/madrid/madrid-plaza-del-callao.html",
-        "display_name": "Madrid Plaza Del Callao",
+        "display_name": "Madrid",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2773,12 +3463,17 @@
       "properties": {
         "name": "Malaga - Benalauria",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/malaga/benalauria.html",
-        "display_name": "Malaga - Benalauria",
+        "display_name": "Malaga",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2793,12 +3488,17 @@
       "properties": {
         "name": "Malaga - Benalmadena",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/malaga/benalmadena.html",
-        "display_name": "Malaga - Benalmadena",
+        "display_name": "Malaga",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2813,12 +3513,17 @@
       "properties": {
         "name": "Malaga - Marbella Puerto Deportivo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/malaga/marbella-puerto-deportivo.html",
-        "display_name": "Malaga - Marbella Puerto Deportivo",
+        "display_name": "Malaga",
         "country_code": "ES",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2833,12 +3538,17 @@
       "properties": {
         "name": "Malaga - Panorama De Benalmadena",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/malaga/panorama-de-benalmadena.html",
-        "display_name": "Malaga - Panorama De Benalmadena",
+        "display_name": "Malaga",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2853,12 +3563,17 @@
       "properties": {
         "name": "Mallorca - Can Pastilla",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/can-pastilla.html",
-        "display_name": "Mallorca - Can Pastilla",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2873,12 +3588,17 @@
       "properties": {
         "name": "Mallorca - Paguera",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/paguera.html",
-        "display_name": "Mallorca - Paguera",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2893,12 +3613,17 @@
       "properties": {
         "name": "Mallorca - Platja De Sant Elm",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/platja-de-sant-elm.html",
-        "display_name": "Mallorca - Platja De Sant Elm",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2913,12 +3638,17 @@
       "properties": {
         "name": "Mallorca - Playa Cala Agulla",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/playa-cala-agulla.html",
-        "display_name": "Mallorca - Playa Cala Agulla",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2933,12 +3663,17 @@
       "properties": {
         "name": "Mallorca - Playa De Muro",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/playa-de-muro.html",
-        "display_name": "Mallorca - Playa De Muro",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -2957,8 +3692,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2977,8 +3717,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -2997,8 +3742,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "standard",
+        "scene_type": "marina",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3017,8 +3767,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "standard",
+        "scene_type": "marina",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3037,8 +3792,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "valley"
+        "quality_tier": "standard",
+        "scene_type": "valley",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3057,8 +3817,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3077,8 +3842,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3097,8 +3867,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3117,8 +3892,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3137,8 +3917,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3157,8 +3942,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3177,8 +3967,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3197,8 +3992,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3217,8 +4017,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3237,8 +4042,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3253,12 +4063,17 @@
       "properties": {
         "name": "Murcia - Aguilas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/aguilas.html",
-        "display_name": "Murcia - Aguilas",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3273,12 +4088,17 @@
       "properties": {
         "name": "Murcia - Aguilas Bahia De Levante",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/aguilas-bahia-de-levante.html",
-        "display_name": "Murcia - Aguilas Bahia De Levante",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3293,12 +4113,17 @@
       "properties": {
         "name": "Murcia - Aguilas Yacht Club",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/aguilas-yacht-club.html",
-        "display_name": "Murcia - Aguilas Yacht Club",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3313,12 +4138,17 @@
       "properties": {
         "name": "Murcia - Bullas Plaza De Espana",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/bullas-plaza-de-espana.html",
-        "display_name": "Murcia - Bullas Plaza De Espana",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3333,12 +4163,17 @@
       "properties": {
         "name": "Murcia - Calasparra Plaza De La Corredera",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/calasparra-plaza-de-la-corredera.html",
-        "display_name": "Murcia - Calasparra Plaza De La Corredera",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3353,12 +4188,17 @@
       "properties": {
         "name": "Murcia - Manga Mar Menor",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/manga-mar-menor.html",
-        "display_name": "Murcia - Manga Mar Menor",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3373,12 +4213,17 @@
       "properties": {
         "name": "Murcia - Manga Mar Menor Cartagena",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/manga-mar-menor-cartagena.html",
-        "display_name": "Murcia - Manga Mar Menor Cartagena",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3393,12 +4238,17 @@
       "properties": {
         "name": "Murcia - Marina Di Aguilas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/marina-di-aguilas.html",
-        "display_name": "Murcia - Marina Di Aguilas",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3413,12 +4263,17 @@
       "properties": {
         "name": "Murcia - Mula",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/mula.html",
-        "display_name": "Murcia - Mula",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3433,12 +4288,17 @@
       "properties": {
         "name": "Murcia - Playa De La Carolina Aguilas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/region-de-murcia/murcia/playa-de-la-carolina-aguilas.html",
-        "display_name": "Murcia - Playa De La Carolina Aguilas",
+        "display_name": "Murcia",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3457,8 +4317,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3473,12 +4338,17 @@
       "properties": {
         "name": "Ourense - A Teixeira Canon Del Sil Ribeira Sacra",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/galicia/ourense/a-teixeira-canon-del-sil-ribeira-sacra.html",
-        "display_name": "Ourense - A Teixeira Canon Del Sil Ribeira Sacra",
+        "display_name": "Ourense",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3493,12 +4363,17 @@
       "properties": {
         "name": "Panorama De Palma De Mallorca",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/mallorca/panorama-de-palma-de-mallorca.html",
-        "display_name": "Panorama De Palma De Mallorca",
+        "display_name": "Mallorca",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3513,12 +4388,17 @@
       "properties": {
         "name": "Panorama Tresviso",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/tresviso/panorama-tresviso.html",
-        "display_name": "Panorama Tresviso",
+        "display_name": "Tresviso",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3537,8 +4417,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3557,8 +4442,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3577,8 +4467,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3597,8 +4492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3613,12 +4513,17 @@
       "properties": {
         "name": "Penarrubia Cantabria",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/penarrubia/penarrubia-cantabria.html",
-        "display_name": "Penarrubia Cantabria",
+        "display_name": "Penarrubia",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3633,12 +4538,17 @@
       "properties": {
         "name": "Playa De Salinas",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/asturias/salinas/playa-de-salinas.html",
-        "display_name": "Playa De Salinas",
+        "display_name": "Salinas",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3653,12 +4563,17 @@
       "properties": {
         "name": "Playa Es Pujols Formentera",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/islas-baleares/formentera/playa-es-pujols-formentera.html",
-        "display_name": "Playa Es Pujols Formentera",
+        "display_name": "Formentera",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -3677,8 +4592,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3697,8 +4617,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3717,8 +4642,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3738,7 +4668,12 @@
         "environment": "coastal",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3757,8 +4692,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3777,8 +4717,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3797,8 +4742,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3817,8 +4767,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3837,8 +4792,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3857,8 +4817,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3877,8 +4842,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3897,8 +4867,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3917,8 +4892,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3937,8 +4917,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3958,7 +4943,12 @@
         "environment": "coastal",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3977,8 +4967,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -3993,12 +4988,17 @@
       "properties": {
         "name": "Pontevedra - Cabo Silleiro",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/galicia/pontevedra/cabo-silleiro.html",
-        "display_name": "Pontevedra - Cabo Silleiro",
+        "display_name": "Pontevedra",
         "country_code": "ES",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4017,8 +5017,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4037,8 +5042,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4053,12 +5063,17 @@
       "properties": {
         "name": "Provincia De La Coruna - Malpica De Bergantinos",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/galicia/provincia-de-la-coruna/malpica-de-bergantinos.html",
-        "display_name": "Provincia De La Coruna - Malpica De Bergantinos",
+        "display_name": "Provincia De La Coruna",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4077,8 +5092,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4097,8 +5117,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4117,8 +5142,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4137,8 +5167,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "standard",
+        "scene_type": "lake",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4157,8 +5192,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4177,8 +5217,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4197,8 +5242,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4218,7 +5268,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4237,8 +5292,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4253,12 +5313,17 @@
       "properties": {
         "name": "Salinas - Playa",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/asturias/salinas/playa.html",
-        "display_name": "Salinas - Playa",
+        "display_name": "Salinas",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4277,8 +5342,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4297,8 +5367,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4317,8 +5392,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4333,12 +5413,17 @@
       "properties": {
         "name": "San Sebastian - Playa La Concha",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-autonoma-vasca/san-sebastian/playa-la-concha.html",
-        "display_name": "San Sebastian - Playa La Concha",
+        "display_name": "San Sebastian",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4357,8 +5442,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4377,8 +5467,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4397,8 +5492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4417,8 +5517,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4437,8 +5542,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4457,8 +5567,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4477,8 +5592,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4498,7 +5618,12 @@
         "environment": "coastal",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4517,8 +5642,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4537,8 +5667,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4553,12 +5688,17 @@
       "properties": {
         "name": "Santa Pola - Gran Playa",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/santa-pola/gran-playa.html",
-        "display_name": "Santa Pola - Gran Playa",
+        "display_name": "Santa Pola",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4573,12 +5713,17 @@
       "properties": {
         "name": "Santa Pola - Paseo Maritimo",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-valenciana/santa-pola/paseo-maritimo.html",
-        "display_name": "Santa Pola - Paseo Maritimo",
+        "display_name": "Santa Pola",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4593,12 +5738,17 @@
       "properties": {
         "name": "Santander - Muelle Calderon",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/santander/muelle-calderon.html",
-        "display_name": "Santander - Muelle Calderon",
+        "display_name": "Santander",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4613,12 +5763,17 @@
       "properties": {
         "name": "Santander - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/santander/panorama.html",
-        "display_name": "Santander - Panorama",
+        "display_name": "Santander",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4633,12 +5788,17 @@
       "properties": {
         "name": "Santander - Playa Del Sardinero",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/santander/playa-del-sardinero.html",
-        "display_name": "Santander - Playa Del Sardinero",
+        "display_name": "Santander",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4657,8 +5817,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4677,8 +5842,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4697,8 +5867,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4717,8 +5892,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4733,12 +5913,17 @@
       "properties": {
         "name": "Santillana Del Mar Cantabria",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/santillana-del-mar/santillana-del-mar-cantabria.html",
-        "display_name": "Santillana Del Mar Cantabria",
+        "display_name": "Santillana Del Mar",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4757,8 +5942,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4773,12 +5963,17 @@
       "properties": {
         "name": "Sevilla - Giralda",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/sevilla/giralda.html",
-        "display_name": "Sevilla - Giralda",
+        "display_name": "Sevilla",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4793,12 +5988,17 @@
       "properties": {
         "name": "Sevilla - Siviglia Plaza San Francisco",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/sevilla/siviglia-plaza-san-francisco.html",
-        "display_name": "Sevilla - Siviglia Plaza San Francisco",
+        "display_name": "Sevilla",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4813,12 +6013,17 @@
       "properties": {
         "name": "Sevilla - Siviglia Puente De Triana",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/andalucia/sevilla/siviglia-puente-de-triana.html",
-        "display_name": "Sevilla - Siviglia Puente De Triana",
+        "display_name": "Sevilla",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4837,8 +6042,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4857,8 +6067,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4873,12 +6088,17 @@
       "properties": {
         "name": "Ski Area Candanchu Huesca",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/aragon/huesca/ski-area-candanchu-huesca.html",
-        "display_name": "Ski Area Candanchu Huesca",
+        "display_name": "Huesca",
         "country_code": "ES",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4893,12 +6113,17 @@
       "properties": {
         "name": "Suances - Playa De La Concha",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/suances/playa-de-la-concha.html",
-        "display_name": "Suances - Playa De La Concha",
+        "display_name": "Suances",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4913,12 +6138,17 @@
       "properties": {
         "name": "Suances - Playa De Los Locos",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cantabria/suances/playa-de-los-locos.html",
-        "display_name": "Suances - Playa De Los Locos",
+        "display_name": "Suances",
         "country_code": "ES",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4937,8 +6167,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -4953,12 +6188,17 @@
       "properties": {
         "name": "Tarragona - Calafell",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/calafell.html",
-        "display_name": "Tarragona - Calafell",
+        "display_name": "Tarragona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4973,12 +6213,17 @@
       "properties": {
         "name": "Tarragona - Lametlla De Mar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/lametlla-de-mar.html",
-        "display_name": "Tarragona - Lametlla De Mar",
+        "display_name": "Tarragona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4993,12 +6238,17 @@
       "properties": {
         "name": "Tarragona - Porto De Lametlla De Mar",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/porto-de-lametlla-de-mar.html",
-        "display_name": "Tarragona - Porto De Lametlla De Mar",
+        "display_name": "Tarragona",
         "country_code": "ES",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5013,12 +6263,17 @@
       "properties": {
         "name": "Tarragona - Reus",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/reus.html",
-        "display_name": "Tarragona - Reus",
+        "display_name": "Tarragona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5033,12 +6288,17 @@
       "properties": {
         "name": "Tarragona Balco Del Mediterrani",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/cataluna/tarragona/tarragona-balco-del-mediterrani.html",
-        "display_name": "Tarragona Balco Del Mediterrani",
+        "display_name": "Tarragona",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5057,8 +6317,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5077,8 +6342,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5097,8 +6367,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5117,8 +6392,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5137,8 +6417,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5153,12 +6438,17 @@
       "properties": {
         "name": "Toledo Puente Di San Martin",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/castiglia-la-mancia/toledo/toledo-puente-di-san-martin.html",
-        "display_name": "Toledo Puente Di San Martin",
+        "display_name": "Toledo",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5173,12 +6463,17 @@
       "properties": {
         "name": "Torrelaguna - Iglesia De Santa Maria Magdalena",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/comunidad-de-madrid/torrelaguna/iglesia-de-santa-maria-magdalena.html",
-        "display_name": "Torrelaguna - Iglesia De Santa Maria Magdalena",
+        "display_name": "Torrelaguna",
         "country_code": "ES",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5197,8 +6492,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5217,8 +6517,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5237,8 +6542,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5257,8 +6567,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5277,8 +6592,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_square"
+        "quality_tier": "standard",
+        "scene_type": "urban_square",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5297,8 +6617,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "standard",
+        "scene_type": "mountain",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5317,8 +6642,13 @@
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -5333,12 +6663,17 @@
       "properties": {
         "name": "Zaragoza - Anento",
         "url": "https://www.skylinewebcams.com/en/webcam/espana/aragon/zaragoza/anento.html",
-        "display_name": "Zaragoza - Anento",
+        "display_name": "Zaragoza",
         "country_code": "ES",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

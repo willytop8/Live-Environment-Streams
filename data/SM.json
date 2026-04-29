@@ -13,12 +13,17 @@
       "properties": {
         "name": "Citta Di San Marino - San Marino",
         "url": "https://www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino.html",
-        "display_name": "Citta Di San Marino - San Marino",
+        "display_name": "Citta Di San Marino",
         "country_code": "SM",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Citta Di San Marino - San Marino Chiesanuova",
         "url": "https://www.skylinewebcams.com/en/webcam/repubblica-di-san-marino/citta-di-san-marino/citta-di-san-marino/san-marino-chiesanuova.html",
-        "display_name": "Citta Di San Marino - San Marino Chiesanuova",
+        "display_name": "Citta Di San Marino",
         "country_code": "SM",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

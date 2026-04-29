@@ -13,12 +13,17 @@
       "properties": {
         "name": "Hong Kong - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/china/hong-kong/hong-kong/panorama.html",
-        "display_name": "Hong Kong - Panorama",
+        "display_name": "Hong Kong",
         "country_code": "CN",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Hong Kong Island",
         "url": "https://www.skylinewebcams.com/en/webcam/china/hong-kong/hong-kong/hong-kong-island.html",
-        "display_name": "Hong Kong Island",
+        "display_name": "Hong Kong",
         "country_code": "CN",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Panorama Of Qingdao",
         "url": "https://www.skylinewebcams.com/en/webcam/china/shandong/qingdao/panorama-of-qingdao.html",
-        "display_name": "Panorama Of Qingdao",
+        "display_name": "Qingdao",
         "country_code": "CN",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Skyline Of Shanghai",
         "url": "https://www.skylinewebcams.com/en/webcam/china/shanghai/shanghai/skyline-of-shanghai.html",
-        "display_name": "Skyline Of Shanghai",
+        "display_name": "Shanghai",
         "country_code": "CN",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

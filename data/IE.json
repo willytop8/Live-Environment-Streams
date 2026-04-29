@@ -18,7 +18,12 @@
         "environment": "urban",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Dublin - Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/bay.html",
-        "display_name": "Dublin - Bay",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Dublin - Cabra Road",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/cabra-road.html",
-        "display_name": "Dublin - Cabra Road",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Dublin - Collins Avenue",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/collins-avenue.html",
-        "display_name": "Dublin - Collins Avenue",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Dublin - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/port.html",
-        "display_name": "Dublin - Port",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Dublin - Streets",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/streets.html",
-        "display_name": "Dublin - Streets",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Dublin - Temple Bar",
         "url": "https://www.skylinewebcams.com/en/webcam/ireland/leinster/dublin/temple-bar.html",
-        "display_name": "Dublin - Temple Bar",
+        "display_name": "Dublin",
         "country_code": "IE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -158,7 +193,12 @@
         "environment": "urban",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -178,7 +218,12 @@
         "environment": "harbor",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "marina"
+        "scene_type": "marina",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "IE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -218,7 +268,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     }
   ]

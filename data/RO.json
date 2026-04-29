@@ -17,8 +17,13 @@
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Bor A - Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/bor-a/ski-area.html",
-        "display_name": "Bor A - Ski Area",
+        "display_name": "Bor A",
         "country_code": "RO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Bran Draculas Castle",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/bran/bran-draculas-castle.html",
-        "display_name": "Bran Draculas Castle",
+        "display_name": "Bran",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Brasov - Bear Sanctuary",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/bear-sanctuary.html",
-        "display_name": "Brasov - Bear Sanctuary",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Brasov - Cabana Postavarul",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/cabana-postavarul.html",
-        "display_name": "Brasov - Cabana Postavarul",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Brasov - Codlea",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/codlea.html",
-        "display_name": "Brasov - Codlea",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Brasov - Fagaras",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/fagaras.html",
-        "display_name": "Brasov - Fagaras",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Brasov - Partia Bradul Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/partia-bradul-ski-area.html",
-        "display_name": "Brasov - Partia Bradul Ski Area",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Brasov - Ski Slopes",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/ski-slopes.html",
-        "display_name": "Brasov - Ski Slopes",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Brasov Michael Weiss Street",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/brasov-michael-weiss-street.html",
-        "display_name": "Brasov Michael Weiss Street",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Bu Teni - Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/muntenia/bu-teni/ski-area.html",
-        "display_name": "Bu Teni - Ski Area",
+        "display_name": "Bu Teni",
         "country_code": "RO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Bucharest - Unirii Square",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/muntenia/bucharest/unirii-square.html",
-        "display_name": "Bucharest - Unirii Square",
+        "display_name": "Bucharest",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Cartisoara - Balea Lake Transfagarasan Road",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/cartisoara/balea-lake-transfagarasan-road.html",
-        "display_name": "Cartisoara - Balea Lake Transfagarasan Road",
+        "display_name": "Cartisoara",
         "country_code": "RO",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Cartisoara Balea Lake",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/cartisoara/cartisoara-balea-lake.html",
-        "display_name": "Cartisoara Balea Lake",
+        "display_name": "Cartisoara",
         "country_code": "RO",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Cluj Napoca - Unirii Square",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/cluj-napoca/unirii-square.html",
-        "display_name": "Cluj Napoca - Unirii Square",
+        "display_name": "Cluj Napoca",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Constanta - Mamaia",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/dobruja/constanta/mamaia.html",
-        "display_name": "Constanta - Mamaia",
+        "display_name": "Constanta",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Fardea - Lake Surduc",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/banat/fardea/lake-surduc.html",
-        "display_name": "Fardea - Lake Surduc",
+        "display_name": "Fardea",
         "country_code": "RO",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Harghita B I - Hargitafurdo Ski",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/harghita-b-i/hargitafurdo-ski.html",
-        "display_name": "Harghita B I - Hargitafurdo Ski",
+        "display_name": "Harghita B I",
         "country_code": "RO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Poiana Brasov",
         "url": "https://www.skylinewebcams.com/en/webcam/romania/transylvania/brasov/poiana-brasov.html",
-        "display_name": "Poiana Brasov",
+        "display_name": "Brasov",
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -437,8 +542,13 @@
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -457,8 +567,13 @@
         "country_code": "RO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

@@ -17,8 +17,13 @@
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Dereli - Yavuzkemal",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/dereli/yavuzkemal.html",
-        "display_name": "Dereli - Yavuzkemal",
+        "display_name": "Dereli",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Erbaa - Pnarbeyli Koyu Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/black-sea-region/erbaa/pnarbeyli-koyu-panorama.html",
-        "display_name": "Erbaa - Pnarbeyli Koyu Panorama",
+        "display_name": "Erbaa",
         "country_code": "TR",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Giresun - Gazi Street",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/gazi-street.html",
-        "display_name": "Giresun - Gazi Street",
+        "display_name": "Giresun",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Giresun - Goksu Travertenleri",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/goksu-travertenleri.html",
-        "display_name": "Giresun - Goksu Travertenleri",
+        "display_name": "Giresun",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Giresun - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/giresun/giresun/panorama.html",
-        "display_name": "Giresun - Panorama",
+        "display_name": "Giresun",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Istanbul - Golden Horn",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/istanbul/golden-horn.html",
-        "display_name": "Istanbul - Golden Horn",
+        "display_name": "Istanbul",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Kizdere - Golyayla Village",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/black-sea-region/kizdere/golyayla-village.html",
-        "display_name": "Kizdere - Golyayla Village",
+        "display_name": "Kizdere",
         "country_code": "TR",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Nevsehir - Cappadocia Uchisar",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/anatolia-region/nevsehir/cappadocia-uchisar.html",
-        "display_name": "Nevsehir - Cappadocia Uchisar",
+        "display_name": "Nevsehir",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Nilufer - Golyazi",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/nilufer/golyazi.html",
-        "display_name": "Nilufer - Golyazi",
+        "display_name": "Nilufer",
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Nilufer - Golyazi Lake Uluabat",
         "url": "https://www.skylinewebcams.com/en/webcam/turkey/marmara/nilufer/golyazi-lake-uluabat.html",
-        "display_name": "Nilufer - Golyazi Lake Uluabat",
+        "display_name": "Nilufer",
         "country_code": "TR",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "TR",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

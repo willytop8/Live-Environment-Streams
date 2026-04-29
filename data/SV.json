@@ -13,12 +13,17 @@
       "properties": {
         "name": "La Libertad - Playa Conchalio",
         "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio.html",
-        "display_name": "La Libertad - Playa Conchalio",
+        "display_name": "La Libertad",
         "country_code": "SV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "La Libertad - Playa Conchalio El Salvador",
         "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/la-libertad/playa-conchalio-el-salvador.html",
-        "display_name": "La Libertad - Playa Conchalio El Salvador",
+        "display_name": "La Libertad",
         "country_code": "SV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "San Miguel - Volcan Chaparrastique",
         "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/san-miguel-department/san-miguel/volcan-chaparrastique.html",
-        "display_name": "San Miguel - Volcan Chaparrastique",
+        "display_name": "San Miguel",
         "country_code": "SV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "SV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Tamanique - Playa El Tunco",
         "url": "https://www.skylinewebcams.com/en/webcam/el-salvador/la-libertad/tamanique/playa-el-tunco.html",
-        "display_name": "Tamanique - Playa El Tunco",
+        "display_name": "Tamanique",
         "country_code": "SV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

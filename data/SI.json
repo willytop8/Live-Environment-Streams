@@ -13,12 +13,17 @@
       "properties": {
         "name": "Kranjska Gora - Planica",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/gorenjska/kranjska-gora/planica.html",
-        "display_name": "Kranjska Gora - Planica",
+        "display_name": "Kranjska Gora",
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Kranjska Gora - Rtc Proga Kekec Mojca Rozle",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/gorenjska/kranjska-gora/rtc-proga-kekec-mojca-rozle.html",
-        "display_name": "Kranjska Gora - Rtc Proga Kekec Mojca Rozle",
+        "display_name": "Kranjska Gora",
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Kranjska Gora - Town Center",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/gorenjska/kranjska-gora/town-center.html",
-        "display_name": "Kranjska Gora - Town Center",
+        "display_name": "Kranjska Gora",
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Kranjska Gora Jasnsko Jezero",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/gorenjska/kranjska-gora/kranjska-gora-jasnsko-jezero.html",
-        "display_name": "Kranjska Gora Jasnsko Jezero",
+        "display_name": "Kranjska Gora",
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Piran - Trg Tartini",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/primorska/piran/trg-tartini.html",
-        "display_name": "Piran - Trg Tartini",
+        "display_name": "Piran",
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Portoroz Plaza",
         "url": "https://www.skylinewebcams.com/en/webcam/slovenija/primorska/portoroz/portoroz-plaza.html",
-        "display_name": "Portoroz Plaza",
+        "display_name": "Portoroz",
         "country_code": "SI",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -137,8 +167,13 @@
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -157,8 +192,13 @@
         "country_code": "SI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

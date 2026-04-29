@@ -13,12 +13,17 @@
       "properties": {
         "name": "Dobrinishte - Pirin Mountains",
         "url": "https://www.skylinewebcams.com/en/webcam/bulgaria/blagoevgrad/dobrinishte/pirin-mountains.html",
-        "display_name": "Dobrinishte - Pirin Mountains",
+        "display_name": "Dobrinishte",
         "country_code": "BG",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "BG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

@@ -17,8 +17,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Alfeld - Storks Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/alfeld/storks-nest.html",
-        "display_name": "Alfeld - Storks Nest",
+        "display_name": "Alfeld",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Altenstadt - Lindheim",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/altenstadt/lindheim.html",
-        "display_name": "Altenstadt - Lindheim",
+        "display_name": "Altenstadt",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Bad Lobenstein - Alter Turm",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/thuringen/bad-lobenstein/alter-turm.html",
-        "display_name": "Bad Lobenstein - Alter Turm",
+        "display_name": "Bad Lobenstein",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Bad Wildungen Brunnenallee Street",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/bad-wildungen/bad-wildungen-brunnenallee-street.html",
-        "display_name": "Bad Wildungen Brunnenallee Street",
+        "display_name": "Bad Wildungen",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Bad Wildungen Town Hall",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/bad-wildungen/bad-wildungen-town-hall.html",
-        "display_name": "Bad Wildungen Town Hall",
+        "display_name": "Bad Wildungen",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -177,8 +217,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Baden Baden - Augustaplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/baden-baden/augustaplatz.html",
-        "display_name": "Baden Baden - Augustaplatz",
+        "display_name": "Baden Baden",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -217,8 +267,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -237,8 +292,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Chieming - Chiemsee",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/chieming/chiemsee.html",
-        "display_name": "Chieming - Chiemsee",
+        "display_name": "Chieming",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -277,8 +342,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Cologne - Bonn Falcons",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/cologne/bonn-falcons.html",
-        "display_name": "Cologne - Bonn Falcons",
+        "display_name": "Cologne",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Cuxhaven - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/cuxhaven/beach.html",
-        "display_name": "Cuxhaven - Beach",
+        "display_name": "Cuxhaven",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Cuxhaven Duhnen Strand Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/cuxhaven/cuxhaven-duhnen-strand-beach.html",
-        "display_name": "Cuxhaven Duhnen Strand Beach",
+        "display_name": "Cuxhaven",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Dornum Dornumersiel Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/dornum/dornum-dornumersiel-beach.html",
-        "display_name": "Dornum Dornumersiel Beach",
+        "display_name": "Dornum",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Dortmund Hansaplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/dortmund/dortmund-hansaplatz.html",
-        "display_name": "Dortmund Hansaplatz",
+        "display_name": "Dortmund",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Einbeck - Market Square",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/einbeck/market-square.html",
-        "display_name": "Einbeck - Market Square",
+        "display_name": "Einbeck",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Elfershausen - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/elfershausen/panorama.html",
-        "display_name": "Elfershausen - Panorama",
+        "display_name": "Elfershausen",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Filsen - Bopparder Hamm",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/rheinland-pfalz/filsen/bopparder-hamm.html",
-        "display_name": "Filsen - Bopparder Hamm",
+        "display_name": "Filsen",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Freilassing - Train Station",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/freilassing/train-station.html",
-        "display_name": "Freilassing - Train Station",
+        "display_name": "Freilassing",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -478,7 +593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -498,7 +618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -518,7 +643,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -538,7 +668,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -558,7 +693,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -578,7 +718,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -598,7 +743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -618,7 +768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -638,7 +793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -658,7 +818,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -678,7 +843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -698,7 +868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -718,7 +893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -738,7 +918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -758,7 +943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -778,7 +968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -798,7 +993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -818,7 +1018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -838,7 +1043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -858,7 +1068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -878,7 +1093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -898,7 +1118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -918,7 +1143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -938,7 +1168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -958,7 +1193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -978,7 +1218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -998,7 +1243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1018,7 +1268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1038,7 +1293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1058,7 +1318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1078,7 +1343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1098,7 +1368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1118,7 +1393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1138,7 +1418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1158,7 +1443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1178,7 +1468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1198,7 +1493,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1218,7 +1518,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1238,7 +1543,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1258,7 +1568,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1278,7 +1593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1298,7 +1618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1318,7 +1643,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1338,7 +1668,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1358,7 +1693,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1378,7 +1718,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1398,7 +1743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1418,7 +1768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1438,7 +1793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1457,8 +1817,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1478,7 +1843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1498,7 +1868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1518,7 +1893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1538,7 +1918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1558,7 +1943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1578,7 +1968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1598,7 +1993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1618,7 +2018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1638,7 +2043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1658,7 +2068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1678,7 +2093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1698,7 +2118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1718,7 +2143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1738,7 +2168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1758,7 +2193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1778,7 +2218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1798,7 +2243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1818,7 +2268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1838,7 +2293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1858,7 +2318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1878,7 +2343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1898,7 +2368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1918,7 +2393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1938,7 +2418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1958,7 +2443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1978,7 +2468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1998,7 +2493,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2018,7 +2518,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2038,7 +2543,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2058,7 +2568,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2078,7 +2593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2098,7 +2618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2117,8 +2642,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2137,8 +2667,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2157,8 +2692,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2177,8 +2717,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2198,7 +2743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2218,7 +2768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2238,7 +2793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2258,7 +2818,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2278,7 +2843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2298,7 +2868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2318,7 +2893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2338,7 +2918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2358,7 +2943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2378,7 +2968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2398,7 +2993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2418,7 +3018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2438,7 +3043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2458,7 +3068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2478,7 +3093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2498,7 +3118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2518,7 +3143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2538,7 +3168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2558,7 +3193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2578,7 +3218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2598,7 +3243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2618,7 +3268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2638,7 +3293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2658,7 +3318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2678,7 +3343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2698,7 +3368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2718,7 +3393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2738,7 +3418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2758,7 +3443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2778,7 +3468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2798,7 +3493,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2818,7 +3518,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2838,7 +3543,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2858,7 +3568,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2878,7 +3593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2898,7 +3618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2918,7 +3643,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2938,7 +3668,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2958,7 +3693,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2978,7 +3718,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -2998,7 +3743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3018,7 +3768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3038,7 +3793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3058,7 +3818,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3078,7 +3843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3098,7 +3868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3118,7 +3893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3138,7 +3918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3158,7 +3943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3178,7 +3968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3198,7 +3993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3218,7 +4018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3238,7 +4043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3258,7 +4068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3278,7 +4093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3298,7 +4118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3318,7 +4143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3338,7 +4168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3358,7 +4193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3378,7 +4218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3398,7 +4243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3418,7 +4268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3438,7 +4293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3458,7 +4318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3478,7 +4343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3498,7 +4368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3518,7 +4393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3538,7 +4418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3558,7 +4443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3578,7 +4468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3598,7 +4493,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3618,7 +4518,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3638,7 +4543,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3658,7 +4568,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3678,7 +4593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3698,7 +4618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3718,7 +4643,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3737,8 +4667,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3757,8 +4692,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3778,7 +4718,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3798,7 +4743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3818,7 +4768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3838,7 +4793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3858,7 +4818,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3878,7 +4843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3898,7 +4868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3918,7 +4893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3938,7 +4918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3958,7 +4943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3978,7 +4968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -3998,7 +4993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4018,7 +5018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4038,7 +5043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4058,7 +5068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4078,7 +5093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4097,8 +5117,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4118,7 +5143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4138,7 +5168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4158,7 +5193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4178,7 +5218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4198,7 +5243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4218,7 +5268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4238,7 +5293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4258,7 +5318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4278,7 +5343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4298,7 +5368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4318,7 +5393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4338,7 +5418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4358,7 +5443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4378,7 +5468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4397,8 +5492,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4417,8 +5517,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4437,8 +5542,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4457,8 +5567,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4477,8 +5592,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4497,8 +5617,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4517,8 +5642,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4537,8 +5667,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4557,8 +5692,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4577,8 +5717,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4598,7 +5743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4617,8 +5767,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4637,8 +5792,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4657,8 +5817,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4677,8 +5842,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4697,8 +5867,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4717,8 +5892,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4738,7 +5918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4758,7 +5943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4778,7 +5968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4798,7 +5993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4818,7 +6018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4838,7 +6043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4858,7 +6068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4878,7 +6093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4898,7 +6118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4918,7 +6143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4938,7 +6168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4958,7 +6193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4978,7 +6218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -4998,7 +6243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5018,7 +6268,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5038,7 +6293,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5058,7 +6318,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5078,7 +6343,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5098,7 +6368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5118,7 +6393,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5138,7 +6418,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5158,7 +6443,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5178,7 +6468,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5198,7 +6493,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5218,7 +6518,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5238,7 +6543,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5258,7 +6568,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5278,7 +6593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5298,7 +6618,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5318,7 +6643,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5338,7 +6668,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5358,7 +6693,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5378,7 +6718,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5398,7 +6743,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5418,7 +6768,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5438,7 +6793,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5458,7 +6818,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5478,7 +6843,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5498,7 +6868,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5518,7 +6893,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5538,7 +6918,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5558,7 +6943,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5578,7 +6968,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5598,7 +6993,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5618,7 +7018,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5638,7 +7043,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5658,7 +7068,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5678,7 +7093,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5698,7 +7118,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5718,7 +7143,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5738,7 +7168,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5758,7 +7193,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5778,7 +7218,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5798,7 +7243,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5817,8 +7267,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5837,8 +7292,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5857,8 +7317,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5877,8 +7342,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5898,7 +7368,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5917,8 +7392,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5937,8 +7417,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5957,8 +7442,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5977,8 +7467,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -5997,8 +7492,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -6017,8 +7517,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -6037,8 +7542,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -6057,8 +7567,13 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "http_image",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -6078,7 +7593,12 @@
         "environment": "traffic",
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -6093,12 +7613,17 @@
       "properties": {
         "name": "Goslar - Hahnenklee",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/goslar/hahnenklee.html",
-        "display_name": "Goslar - Hahnenklee",
+        "display_name": "Goslar",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6113,12 +7638,17 @@
       "properties": {
         "name": "Goslar - Marktkirche Und Marktplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/goslar/marktkirche-und-marktplatz.html",
-        "display_name": "Goslar - Marktkirche Und Marktplatz",
+        "display_name": "Goslar",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6133,12 +7663,17 @@
       "properties": {
         "name": "Grainau - Wetterstein",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/grainau/wetterstein.html",
-        "display_name": "Grainau - Wetterstein",
+        "display_name": "Grainau",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6157,8 +7692,13 @@
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6173,12 +7713,17 @@
       "properties": {
         "name": "Gunzenhausen - Frankisches Seenland",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/gunzenhausen/frankisches-seenland.html",
-        "display_name": "Gunzenhausen - Frankisches Seenland",
+        "display_name": "Gunzenhausen",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6193,12 +7738,17 @@
       "properties": {
         "name": "Hannover - Train",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/hannover/train.html",
-        "display_name": "Hannover - Train",
+        "display_name": "Hannover",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6213,12 +7763,17 @@
       "properties": {
         "name": "Havelsee - Stork Of Fohrde",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/brandenburg/havelsee/stork-of-fohrde.html",
-        "display_name": "Havelsee - Stork Of Fohrde",
+        "display_name": "Havelsee",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6237,8 +7792,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6253,12 +7813,17 @@
       "properties": {
         "name": "Kirchzarten - Storks Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/kirchzarten/storks-nest.html",
-        "display_name": "Kirchzarten - Storks Nest",
+        "display_name": "Kirchzarten",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6273,12 +7838,17 @@
       "properties": {
         "name": "Kochel Am See - Walchensee",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/kochel-am-see/walchensee.html",
-        "display_name": "Kochel Am See - Walchensee",
+        "display_name": "Kochel Am See",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6293,12 +7863,17 @@
       "properties": {
         "name": "Kyritz Brandenburg",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/brandenburg/kyritz/kyritz-brandenburg.html",
-        "display_name": "Kyritz Brandenburg",
+        "display_name": "Kyritz",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6313,12 +7888,17 @@
       "properties": {
         "name": "Lindenfels Assia",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/lindenfels/lindenfels-assia.html",
-        "display_name": "Lindenfels Assia",
+        "display_name": "Lindenfels",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6333,12 +7913,17 @@
       "properties": {
         "name": "Linz Am Rhein - Der Rhein",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/rheinland-pfalz/linz-am-rhein/der-rhein.html",
-        "display_name": "Linz Am Rhein - Der Rhein",
+        "display_name": "Linz Am Rhein",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6353,12 +7938,17 @@
       "properties": {
         "name": "Magdeburg - Altstadt",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/magdeburg/altstadt.html",
-        "display_name": "Magdeburg - Altstadt",
+        "display_name": "Magdeburg",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6373,12 +7963,17 @@
       "properties": {
         "name": "Mirow - Landkreis Mecklenburgische Seenplatte",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/mirow/landkreis-mecklenburgische-seenplatte.html",
-        "display_name": "Mirow - Landkreis Mecklenburgische Seenplatte",
+        "display_name": "Mirow",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6393,12 +7988,17 @@
       "properties": {
         "name": "Naumburg - Marktplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/naumburg/marktplatz.html",
-        "display_name": "Naumburg - Marktplatz",
+        "display_name": "Naumburg",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6413,12 +8013,17 @@
       "properties": {
         "name": "Neustadt An Der Aisch - Flugplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/neustadt-an-der-aisch/flugplatz.html",
-        "display_name": "Neustadt An Der Aisch - Flugplatz",
+        "display_name": "Neustadt An Der Aisch",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6433,12 +8038,17 @@
       "properties": {
         "name": "Oberbayern - Munchen Michaelianger",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/oberbayern/munchen-michaelianger.html",
-        "display_name": "Oberbayern - Munchen Michaelianger",
+        "display_name": "Oberbayern",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6453,12 +8063,17 @@
       "properties": {
         "name": "Oberharz Am Brocken - Tanne Im Harz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/oberharz-am-brocken/tanne-im-harz.html",
-        "display_name": "Oberharz Am Brocken - Tanne Im Harz",
+        "display_name": "Oberharz Am Brocken",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6477,8 +8092,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6493,12 +8113,17 @@
       "properties": {
         "name": "Putgarten - Kap Arkona",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/putgarten/kap-arkona.html",
-        "display_name": "Putgarten - Kap Arkona",
+        "display_name": "Putgarten",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6517,8 +8142,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6533,12 +8163,17 @@
       "properties": {
         "name": "Ratingen - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/ratingen/panorama.html",
-        "display_name": "Ratingen - Panorama",
+        "display_name": "Ratingen",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6553,12 +8188,17 @@
       "properties": {
         "name": "Recke - Animal And Bird Feede",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/recke/animal-and-bird-feede.html",
-        "display_name": "Recke - Animal And Bird Feede",
+        "display_name": "Recke",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6577,8 +8217,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6593,12 +8238,17 @@
       "properties": {
         "name": "Rostock Neustrelitz Warnemunde Railway",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/rostock/rostock-neustrelitz-warnemunde-railway.html",
-        "display_name": "Rostock Neustrelitz Warnemunde Railway",
+        "display_name": "Rostock",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6613,12 +8263,17 @@
       "properties": {
         "name": "Schwangau - Schloss Neuschwanstein",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/schwangau/schloss-neuschwanstein.html",
-        "display_name": "Schwangau - Schloss Neuschwanstein",
+        "display_name": "Schwangau",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6637,8 +8292,13 @@
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6653,12 +8313,17 @@
       "properties": {
         "name": "Weiszenburg - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/weiszenburg/panorama.html",
-        "display_name": "Weiszenburg - Panorama",
+        "display_name": "Weiszenburg",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -6673,12 +8338,17 @@
       "properties": {
         "name": "Weiszenburg - Peregrine Falcons",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/weiszenburg/peregrine-falcons.html",
-        "display_name": "Weiszenburg - Peregrine Falcons",
+        "display_name": "Weiszenburg",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

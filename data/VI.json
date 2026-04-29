@@ -13,12 +13,17 @@
       "properties": {
         "name": "Charlotte Amalie - Emerald Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/st-thomas/charlotte-amalie/emerald-beach.html",
-        "display_name": "Charlotte Amalie - Emerald Beach",
+        "display_name": "Charlotte Amalie",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Christiansted - Cane Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-croix/christiansted/cane-bay.html",
-        "display_name": "Christiansted - Cane Bay",
+        "display_name": "Christiansted",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Christiansted - Schooner Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-croix/christiansted/schooner-bay.html",
-        "display_name": "Christiansted - Schooner Bay",
+        "display_name": "Christiansted",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Christiansted - Steeple Building",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-croix/christiansted/steeple-building.html",
-        "display_name": "Christiansted - Steeple Building",
+        "display_name": "Christiansted",
         "country_code": "VI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Christiansted - Teague Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-croix/christiansted/teague-bay.html",
-        "display_name": "Christiansted - Teague Bay",
+        "display_name": "Christiansted",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Cruz Bay - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/cruz-bay/panorama.html",
-        "display_name": "Cruz Bay - Panorama",
+        "display_name": "Cruz Bay",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Cruz Bay Bay St",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/cruz-bay/cruz-bay-bay-st.html",
-        "display_name": "Cruz Bay Bay St",
+        "display_name": "Cruz Bay",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "East End - Sapphire Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/st-thomas/east-end/sapphire-beach.html",
-        "display_name": "East End - Sapphire Beach",
+        "display_name": "East End",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Frederiksted - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-croix/frederiksted/beach.html",
-        "display_name": "Frederiksted - Beach",
+        "display_name": "Frederiksted",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -237,8 +292,13 @@
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Maho Bay - Virgin Islands National Park",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/maho-bay/virgin-islands-national-park.html",
-        "display_name": "Maho Bay - Virgin Islands National Park",
+        "display_name": "Maho Bay",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Peter Bay Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/peter-bay/peter-bay-beach.html",
-        "display_name": "Peter Bay Beach",
+        "display_name": "Peter Bay",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Picture Point Coral Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/coral-bay/picture-point-coral-bay.html",
-        "display_name": "Picture Point Coral Bay",
+        "display_name": "Coral Bay",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Saint John - Floating Taco Boat",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/saint-john/floating-taco-boat.html",
-        "display_name": "Saint John - Floating Taco Boat",
+        "display_name": "Saint John",
         "country_code": "VI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Saint John - Lovango Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/saint-john/lovango-beach.html",
-        "display_name": "Saint John - Lovango Beach",
+        "display_name": "Saint John",
         "country_code": "VI",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Saint John - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/saint-john/panorama.html",
-        "display_name": "Saint John - Panorama",
+        "display_name": "Saint John",
         "country_code": "VI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Saint John - Windmill Bar",
         "url": "https://www.skylinewebcams.com/en/webcam/us-virgin-islands/saint-john/saint-john/windmill-bar.html",
-        "display_name": "Saint John - Windmill Bar",
+        "display_name": "Saint John",
         "country_code": "VI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -397,8 +492,13 @@
         "country_code": "VI",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

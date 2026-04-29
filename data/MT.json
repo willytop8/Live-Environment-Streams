@@ -13,12 +13,17 @@
       "properties": {
         "name": "Bay Xemxija",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/xemxija/bay-xemxija.html",
-        "display_name": "Bay Xemxija",
+        "display_name": "Xemxija",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Birkirkara St Therese Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/birkirkara/birkirkara-st-therese-church.html",
-        "display_name": "Birkirkara St Therese Church",
+        "display_name": "Birkirkara",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Birzebbuga - Water Polo Pitch",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/birzebbuga/water-polo-pitch.html",
-        "display_name": "Birzebbuga - Water Polo Pitch",
+        "display_name": "Birzebbuga",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Birzebbuga Beach Pretty Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/birzebbuga/birzebbuga-beach-pretty-bay.html",
-        "display_name": "Birzebbuga Beach Pretty Bay",
+        "display_name": "Birzebbuga",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Bugibba - St Pauls Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/bugibba/st-pauls-bay.html",
-        "display_name": "Bugibba - St Pauls Bay",
+        "display_name": "Bugibba",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Floriana - Grand Harbour Valletta Waterfront",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/floriana/grand-harbour-valletta-waterfront.html",
-        "display_name": "Floriana - Grand Harbour Valletta Waterfront",
+        "display_name": "Floriana",
         "country_code": "MT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Floriana - Saint Publius Parish Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/floriana/saint-publius-parish-church.html",
-        "display_name": "Floriana - Saint Publius Parish Church",
+        "display_name": "Floriana",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Floriana - The Triton Fountain",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/floriana/the-triton-fountain.html",
-        "display_name": "Floriana - The Triton Fountain",
+        "display_name": "Floriana",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Floriana Malta",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/floriana/floriana-malta.html",
-        "display_name": "Floriana Malta",
+        "display_name": "Floriana",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Floriana Saint Anne Street",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/floriana/floriana-saint-anne-street.html",
-        "display_name": "Floriana Saint Anne Street",
+        "display_name": "Floriana",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Gharb - Basilica Our Lady Of Visitation",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/gharb/basilica-our-lady-of-visitation.html",
-        "display_name": "Gharb - Basilica Our Lady Of Visitation",
+        "display_name": "Gharb",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Gharb Gerano Square",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/gharb/gharb-gerano-square.html",
-        "display_name": "Gharb Gerano Square",
+        "display_name": "Gharb",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Gharb Parish Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/gharb/gharb-parish-church.html",
-        "display_name": "Gharb Parish Church",
+        "display_name": "Gharb",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Gharghur - St Bartholomew Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/gharghur/st-bartholomew-church.html",
-        "display_name": "Gharghur - St Bartholomew Church",
+        "display_name": "Gharghur",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Gozo Mgarr",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/mgarr/gozo-mgarr.html",
-        "display_name": "Gozo Mgarr",
+        "display_name": "Mgarr",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Gozo Munxar",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/munxar/gozo-munxar.html",
-        "display_name": "Gozo Munxar",
+        "display_name": "Munxar",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -337,8 +417,13 @@
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Gzira - Manoel Island",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/gzira/manoel-island.html",
-        "display_name": "Gzira - Manoel Island",
+        "display_name": "Gzira",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Gzira - Manoel Island Malta",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/gzira/manoel-island-malta.html",
-        "display_name": "Gzira - Manoel Island Malta",
+        "display_name": "Gzira",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Malta St Paul S Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/st-paul-s-bay/malta-st-paul-s-bay.html",
-        "display_name": "Malta St Paul S Bay",
+        "display_name": "St Paul S Bay",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Marsalforn Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/gozo/marsalforn/marsalforn-bay.html",
-        "display_name": "Marsalforn Bay",
+        "display_name": "Marsalforn",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Marsaxlokk Harbour",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/marsaxlokk/marsaxlokk-harbour.html",
-        "display_name": "Marsaxlokk Harbour",
+        "display_name": "Marsaxlokk",
         "country_code": "MT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Marsaxlokk Seaside Promenade",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/marsaxlokk/marsaxlokk-seaside-promenade.html",
-        "display_name": "Marsaxlokk Seaside Promenade",
+        "display_name": "Marsaxlokk",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Mellieha - Golden Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/mellieha/golden-bay.html",
-        "display_name": "Mellieha - Golden Bay",
+        "display_name": "Mellieha",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Mellieha - Popeye Village",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/mellieha/popeye-village.html",
-        "display_name": "Mellieha - Popeye Village",
+        "display_name": "Mellieha",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Msida Traffic Monitoring",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/msida-traffic-monitoring.html",
-        "display_name": "Msida Traffic Monitoring",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -533,12 +663,17 @@
       "properties": {
         "name": "Naxxar Parish Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/naxxar/naxxar-parish-church.html",
-        "display_name": "Naxxar Parish Church",
+        "display_name": "Naxxar",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -557,8 +692,13 @@
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -573,12 +713,17 @@
       "properties": {
         "name": "Paola Christ The King Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/paola/paola-christ-the-king-church.html",
-        "display_name": "Paola Christ The King Church",
+        "display_name": "Paola",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -593,12 +738,17 @@
       "properties": {
         "name": "Qormi - St Georges Parish Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/qormi/st-georges-parish-church.html",
-        "display_name": "Qormi - St Georges Parish Church",
+        "display_name": "Qormi",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Qrendi - Wied Iz Zurrieq",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/qrendi/wied-iz-zurrieq.html",
-        "display_name": "Qrendi - Wied Iz Zurrieq",
+        "display_name": "Qrendi",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -633,12 +788,17 @@
       "properties": {
         "name": "Rotunda Mosta",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/mosta/rotunda-mosta.html",
-        "display_name": "Rotunda Mosta",
+        "display_name": "Mosta",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -653,12 +813,17 @@
       "properties": {
         "name": "Sliema - S Julians Bay Tower Road",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/sliema/s-julians-bay-tower-road.html",
-        "display_name": "Sliema - S Julians Bay Tower Road",
+        "display_name": "Sliema",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -673,12 +838,17 @@
       "properties": {
         "name": "Sliema - Sacro Cuor Parish Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/sliema/sacro-cuor-parish-church.html",
-        "display_name": "Sliema - Sacro Cuor Parish Church",
+        "display_name": "Sliema",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -693,12 +863,17 @@
       "properties": {
         "name": "Sliema Waters Edge",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/sliema/sliema-waters-edge.html",
-        "display_name": "Sliema Waters Edge",
+        "display_name": "Sliema",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "St George Square Valletta",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/st-george-square-valletta.html",
-        "display_name": "St George Square Valletta",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -733,12 +913,17 @@
       "properties": {
         "name": "St Georges Bay Birzebbuga",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/birzebbuga/st-georges-bay-birzebbuga.html",
-        "display_name": "St Georges Bay Birzebbuga",
+        "display_name": "Birzebbuga",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -753,12 +938,17 @@
       "properties": {
         "name": "St Julians - St George Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/st-julians/st-george-beach.html",
-        "display_name": "St Julians - St George Beach",
+        "display_name": "St Julians",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -773,12 +963,17 @@
       "properties": {
         "name": "Traffic - Msida",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/msida.html",
-        "display_name": "Traffic - Msida",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -793,12 +988,17 @@
       "properties": {
         "name": "Traffic Cam1",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam1.html",
-        "display_name": "Traffic Cam1",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -813,12 +1013,17 @@
       "properties": {
         "name": "Traffic Cam11",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam11.html",
-        "display_name": "Traffic Cam11",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -833,12 +1038,17 @@
       "properties": {
         "name": "Traffic Cam14",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam14.html",
-        "display_name": "Traffic Cam14",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -853,12 +1063,17 @@
       "properties": {
         "name": "Traffic Cam15",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam15.html",
-        "display_name": "Traffic Cam15",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -873,12 +1088,17 @@
       "properties": {
         "name": "Traffic Cam16",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam16.html",
-        "display_name": "Traffic Cam16",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -893,12 +1113,17 @@
       "properties": {
         "name": "Traffic Cam17",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam17.html",
-        "display_name": "Traffic Cam17",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -913,12 +1138,17 @@
       "properties": {
         "name": "Traffic Cam18",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam18.html",
-        "display_name": "Traffic Cam18",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -933,12 +1163,17 @@
       "properties": {
         "name": "Traffic Cam2",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam2.html",
-        "display_name": "Traffic Cam2",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -953,12 +1188,17 @@
       "properties": {
         "name": "Traffic Cam3",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam3.html",
-        "display_name": "Traffic Cam3",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -973,12 +1213,17 @@
       "properties": {
         "name": "Traffic Cam6",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam6.html",
-        "display_name": "Traffic Cam6",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -993,12 +1238,17 @@
       "properties": {
         "name": "Traffic Cam7",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam7.html",
-        "display_name": "Traffic Cam7",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1013,12 +1263,17 @@
       "properties": {
         "name": "Traffic Cam9",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/traffic/traffic-cam9.html",
-        "display_name": "Traffic Cam9",
+        "display_name": "Traffic",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1037,8 +1292,13 @@
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1053,12 +1313,17 @@
       "properties": {
         "name": "Valletta - Basilica Of Our Lady Of Mount Carmel",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/basilica-of-our-lady-of-mount-carmel.html",
-        "display_name": "Valletta - Basilica Of Our Lady Of Mount Carmel",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1073,12 +1338,17 @@
       "properties": {
         "name": "Valletta - Fort Manoel",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/fort-manoel.html",
-        "display_name": "Valletta - Fort Manoel",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1093,12 +1363,17 @@
       "properties": {
         "name": "Valletta - Grand Harbour Entrance",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/grand-harbour-entrance.html",
-        "display_name": "Valletta - Grand Harbour Entrance",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1113,12 +1388,17 @@
       "properties": {
         "name": "Valletta - Sliema Harbour",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/sliema-harbour.html",
-        "display_name": "Valletta - Sliema Harbour",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1133,12 +1413,17 @@
       "properties": {
         "name": "Valletta Seaside Promenade",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/valletta/valletta-seaside-promenade.html",
-        "display_name": "Valletta Seaside Promenade",
+        "display_name": "Valletta",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1157,8 +1442,13 @@
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1173,12 +1463,17 @@
       "properties": {
         "name": "Xemxija Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/xemxija/xemxija-bay.html",
-        "display_name": "Xemxija Bay",
+        "display_name": "Xemxija",
         "country_code": "MT",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1193,12 +1488,17 @@
       "properties": {
         "name": "Zebbug St Philip Church",
         "url": "https://www.skylinewebcams.com/en/webcam/malta/malta/zebbug/zebbug-st-philip-church.html",
-        "display_name": "Zebbug St Philip Church",
+        "display_name": "Zebbug",
         "country_code": "MT",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

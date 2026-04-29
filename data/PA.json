@@ -13,12 +13,17 @@
       "properties": {
         "name": "Chiriqui - Playa Las Lajas",
         "url": "https://www.skylinewebcams.com/en/webcam/panama/chiriqui/chiriqui/playa-las-lajas.html",
-        "display_name": "Chiriqui - Playa Las Lajas",
+        "display_name": "Chiriqui",
         "country_code": "PA",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "PA",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "PA",
         "environment": "traffic",
         "source_family": "panama_canal",
-        "quality_tier": "high",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "PA",
         "environment": "traffic",
         "source_family": "panama_canal",
-        "quality_tier": "high",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "PA",
         "environment": "traffic",
         "source_family": "panama_canal",
-        "quality_tier": "high",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "PA",
         "environment": "traffic",
         "source_family": "panama_canal",
-        "quality_tier": "high",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

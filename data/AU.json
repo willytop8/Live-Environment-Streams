@@ -13,12 +13,17 @@
       "properties": {
         "name": "Brisbane - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/queensland/brisbane/panorama.html",
-        "display_name": "Brisbane - Panorama",
+        "display_name": "Brisbane",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Brisbane River",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/queensland/brisbane/brisbane-river.html",
-        "display_name": "Brisbane River",
+        "display_name": "Brisbane",
         "country_code": "AU",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Guthega - Perisher Ski Resort",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/guthega/perisher-ski-resort.html",
-        "display_name": "Guthega - Perisher Ski Resort",
+        "display_name": "Guthega",
         "country_code": "AU",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Melbourne - South Yarra",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/victoria/melbourne/south-yarra.html",
-        "display_name": "Melbourne - South Yarra",
+        "display_name": "Melbourne",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Melbourne - Sunshine Railway Station",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/victoria/melbourne/sunshine-railway-station.html",
-        "display_name": "Melbourne - Sunshine Railway Station",
+        "display_name": "Melbourne",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Mount Buller Village - Mount Buller Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/victoria/mount-buller-village/mount-buller-ski-area.html",
-        "display_name": "Mount Buller Village - Mount Buller Ski Area",
+        "display_name": "Mount Buller Village",
         "country_code": "AU",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Newcastle - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/newcastle/port.html",
-        "display_name": "Newcastle - Port",
+        "display_name": "Newcastle",
         "country_code": "AU",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Orange - Falcon Cam",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/orange/falcon-cam.html",
-        "display_name": "Orange - Falcon Cam",
+        "display_name": "Orange",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Panorama Of Melbourne",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/victoria/melbourne/panorama-of-melbourne.html",
-        "display_name": "Panorama Of Melbourne",
+        "display_name": "Melbourne",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Raglan - Mount Cole",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/victoria/raglan/mount-cole.html",
-        "display_name": "Raglan - Mount Cole",
+        "display_name": "Raglan",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Ski Trails Thredbo",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/thredbo/ski-trails-thredbo.html",
-        "display_name": "Ski Trails Thredbo",
+        "display_name": "Thredbo",
         "country_code": "AU",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Sydney - Harbour Bridge",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/harbour-bridge.html",
-        "display_name": "Sydney - Harbour Bridge",
+        "display_name": "Sydney",
         "country_code": "AU",
         "environment": "waterway",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "unknown",
+        "scene_type": "river",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Sydney - Opera House",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/opera-house.html",
-        "display_name": "Sydney - Opera House",
+        "display_name": "Sydney",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Sydney - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/australia/new-south-wales/sydney/panorama.html",
-        "display_name": "Sydney - Panorama",
+        "display_name": "Sydney",
         "country_code": "AU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

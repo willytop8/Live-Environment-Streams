@@ -13,12 +13,17 @@
       "properties": {
         "name": "Bani - Las Calderas Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/peravia/bani/las-calderas-bay.html",
-        "display_name": "Bani - Las Calderas Bay",
+        "display_name": "Bani",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Bozo Beach Cabarete",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/bozo-beach-cabarete.html",
-        "display_name": "Bozo Beach Cabarete",
+        "display_name": "Cabarete",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Cabarete Dominican Republic",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/cabarete-dominican-republic.html",
-        "display_name": "Cabarete Dominican Republic",
+        "display_name": "Cabarete",
         "country_code": "DO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Guayacanes - Playa Juan Dolio",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/san-pedro-de-macoris/guayacanes/playa-juan-dolio.html",
-        "display_name": "Guayacanes - Playa Juan Dolio",
+        "display_name": "Guayacanes",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Higuey - Underwater Cam Playa Blanca",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/la-altagracia/higuey/underwater-cam-playa-blanca.html",
-        "display_name": "Higuey - Underwater Cam Playa Blanca",
+        "display_name": "Higuey",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Playa De Cabarete",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/playa-de-cabarete.html",
-        "display_name": "Playa De Cabarete",
+        "display_name": "Cabarete",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

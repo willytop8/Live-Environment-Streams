@@ -13,12 +13,17 @@
       "properties": {
         "name": "Niaga Peulh - Lac Rose",
         "url": "https://www.skylinewebcams.com/en/webcam/senegal/dakar/niaga-peulh/lac-rose.html",
-        "display_name": "Niaga Peulh - Lac Rose",
+        "display_name": "Niaga Peulh",
         "country_code": "SN",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

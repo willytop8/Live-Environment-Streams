@@ -13,12 +13,17 @@
       "properties": {
         "name": "Bangkok - Petchaburi Road",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/petchaburi-road.html",
-        "display_name": "Bangkok - Petchaburi Road",
+        "display_name": "Bangkok",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Bangkok - Sukhumvit",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/sukhumvit.html",
-        "display_name": "Bangkok - Sukhumvit",
+        "display_name": "Bangkok",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Bangkok - Sukhumvit Road",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/central-thailand/bangkok/sukhumvit-road.html",
-        "display_name": "Bangkok - Sukhumvit Road",
+        "display_name": "Bangkok",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Ko Samui - Bangrak",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/bangrak.html",
-        "display_name": "Ko Samui - Bangrak",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Ko Samui - Banyan Food Market",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/banyan-food-market.html",
-        "display_name": "Ko Samui - Banyan Food Market",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Ko Samui - Black Pearl",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/black-pearl.html",
-        "display_name": "Ko Samui - Black Pearl",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Ko Samui - Bondi Lamai",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/bondi-lamai.html",
-        "display_name": "Ko Samui - Bondi Lamai",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Ko Samui - Chaweng City",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chaweng-city.html",
-        "display_name": "Ko Samui - Chaweng City",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Ko Samui - Chaweng Soi Green Mango",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chaweng-soi-green-mango.html",
-        "display_name": "Ko Samui - Chaweng Soi Green Mango",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -253,12 +313,17 @@
       "properties": {
         "name": "Ko Samui - Choengmon Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/choengmon-beach.html",
-        "display_name": "Ko Samui - Choengmon Beach",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Ko Samui - Chong Mon Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/chong-mon-beach.html",
-        "display_name": "Ko Samui - Chong Mon Beach",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Ko Samui - Koh Samui Baobab",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/koh-samui-baobab.html",
-        "display_name": "Ko Samui - Koh Samui Baobab",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Ko Samui - Koh Samui Village Bophut",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/koh-samui-village-bophut.html",
-        "display_name": "Ko Samui - Koh Samui Village Bophut",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Ko Samui - Lamai",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/lamai.html",
-        "display_name": "Ko Samui - Lamai",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Ko Samui - Lamai Banyan Tree Samui",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/lamai-banyan-tree-samui.html",
-        "display_name": "Ko Samui - Lamai Banyan Tree Samui",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Ko Samui - Resort",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/resort.html",
-        "display_name": "Ko Samui - Resort",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -393,12 +488,17 @@
       "properties": {
         "name": "Ko Samui - Teddy Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/teddy-beach.html",
-        "display_name": "Ko Samui - Teddy Beach",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Ko Samui - The Palms Chaweng",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/the-palms-chaweng.html",
-        "display_name": "Ko Samui - The Palms Chaweng",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Ko Samui - Two Palms Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/two-palms-beach.html",
-        "display_name": "Ko Samui - Two Palms Beach",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Ko Samui Chaweng",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/ko-samui-chaweng.html",
-        "display_name": "Ko Samui Chaweng",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Ko Samui Crystal Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/ko-samui/ko-samui-crystal-bay.html",
-        "display_name": "Ko Samui Crystal Bay",
+        "display_name": "Ko Samui",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Koh Tao - Mae Haad Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/surat-thani/koh-tao/mae-haad-bay.html",
-        "display_name": "Koh Tao - Mae Haad Bay",
+        "display_name": "Koh Tao",
         "country_code": "TH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Koh Tao Island",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/koh-phangan/koh-tao/koh-tao-island.html",
-        "display_name": "Koh Tao Island",
+        "display_name": "Koh Tao",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -537,8 +667,13 @@
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -557,8 +692,13 @@
         "country_code": "TH",
         "environment": "webcam",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -573,12 +713,17 @@
       "properties": {
         "name": "Pattaya - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/panorama.html",
-        "display_name": "Pattaya - Panorama",
+        "display_name": "Pattaya",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -593,12 +738,17 @@
       "properties": {
         "name": "Pattaya - Soi Buakhao",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/soi-buakhao.html",
-        "display_name": "Pattaya - Soi Buakhao",
+        "display_name": "Pattaya",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -613,12 +763,17 @@
       "properties": {
         "name": "Pattaya - Walking Street",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/eastern-thailand/pattaya/walking-street.html",
-        "display_name": "Pattaya - Walking Street",
+        "display_name": "Pattaya",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -633,12 +788,17 @@
       "properties": {
         "name": "Phuket - Nanai Road",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/kathu-district/phuket/nanai-road.html",
-        "display_name": "Phuket - Nanai Road",
+        "display_name": "Phuket",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -653,12 +813,17 @@
       "properties": {
         "name": "Phuket - Sainamyen Road",
         "url": "https://www.skylinewebcams.com/en/webcam/thailand/kathu-district/phuket/sainamyen-road.html",
-        "display_name": "Phuket - Sainamyen Road",
+        "display_name": "Phuket",
         "country_code": "TH",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -678,7 +843,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -698,7 +868,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -718,7 +893,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -738,7 +918,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -758,7 +943,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -778,7 +968,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -798,7 +993,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -818,7 +1018,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -838,7 +1043,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -858,7 +1068,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -878,7 +1093,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -898,7 +1118,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -918,7 +1143,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -937,8 +1167,13 @@
         "country_code": "TH",
         "environment": "traffic",
         "source_family": "iticfoundation",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -957,8 +1192,13 @@
         "country_code": "TH",
         "environment": "traffic",
         "source_family": "iticfoundation",
-        "quality_tier": "high",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -977,8 +1217,13 @@
         "country_code": "TH",
         "environment": "traffic",
         "source_family": "iticfoundation",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -997,8 +1242,13 @@
         "country_code": "TH",
         "environment": "traffic",
         "source_family": "iticfoundation",
-        "quality_tier": "premium",
-        "scene_type": "traffic"
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1018,7 +1268,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1038,7 +1293,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1058,7 +1318,12 @@
         "environment": "traffic",
         "source_family": "iticfoundation",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

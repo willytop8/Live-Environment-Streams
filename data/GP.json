@@ -13,12 +13,17 @@
       "properties": {
         "name": "Terre De Haut - Ile Des Saintes",
         "url": "https://www.skylinewebcams.com/en/webcam/guadeloupe/les-saintes/terre-de-haut/ile-des-saintes.html",
-        "display_name": "Terre De Haut - Ile Des Saintes",
+        "display_name": "Terre De Haut",
         "country_code": "GP",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Terre De Haut - Mer Des Caraibes",
         "url": "https://www.skylinewebcams.com/en/webcam/guadeloupe/les-saintes/terre-de-haut/mer-des-caraibes.html",
-        "display_name": "Terre De Haut - Mer Des Caraibes",
+        "display_name": "Terre De Haut",
         "country_code": "GP",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

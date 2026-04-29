@@ -17,8 +17,13 @@
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -33,12 +38,17 @@
       "properties": {
         "name": "Jambiani Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/jambiani/jambiani-beach.html",
-        "display_name": "Jambiani Beach",
+        "display_name": "Jambiani",
         "country_code": "TZ",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -53,12 +63,17 @@
       "properties": {
         "name": "Kiwengwa Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/kiwengwa-beach.html",
-        "display_name": "Kiwengwa Beach",
+        "display_name": "Kiwengwa",
         "country_code": "TZ",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -73,12 +88,17 @@
       "properties": {
         "name": "Michamvi Pingwe",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/michamvi/michamvi-pingwe.html",
-        "display_name": "Michamvi Pingwe",
+        "display_name": "Michamvi",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Nungwi Zanzibar",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/nungwi/nungwi-zanzibar.html",
-        "display_name": "Nungwi Zanzibar",
+        "display_name": "Nungwi",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Pingwe Michamvi",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-central-south/michamvi/pingwe-michamvi.html",
-        "display_name": "Pingwe Michamvi",
+        "display_name": "Michamvi",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -133,12 +163,17 @@
       "properties": {
         "name": "Zanzibar City - Stone Town",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-urban-west-region/zanzibar-city/stone-town.html",
-        "display_name": "Zanzibar City - Stone Town",
+        "display_name": "Zanzibar City",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Zanzibar Kiwengwa",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/kiwengwa/zanzibar-kiwengwa.html",
-        "display_name": "Zanzibar Kiwengwa",
+        "display_name": "Kiwengwa",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Zanzibar Nungwi",
         "url": "https://www.skylinewebcams.com/en/webcam/zanzibar/zanzibar-north/nungwi/zanzibar-nungwi.html",
-        "display_name": "Zanzibar Nungwi",
+        "display_name": "Nungwi",
         "country_code": "TZ",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

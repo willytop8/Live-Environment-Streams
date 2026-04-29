@@ -17,8 +17,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -57,8 +67,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "standard",
+        "scene_type": "lake",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -97,8 +117,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -117,8 +142,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "standard",
+        "scene_type": "marina",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -137,8 +167,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -153,12 +188,17 @@
       "properties": {
         "name": "Blackpool Seafront, England",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/england/blackpool/blackpool.html",
-        "display_name": "Blackpool Seafront, England",
+        "display_name": "Blackpool",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "coastal"
+        "quality_tier": "unknown",
+        "scene_type": "coastal",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -178,7 +218,12 @@
         "environment": "coastal",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "beach"
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -197,8 +242,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "standard",
+        "scene_type": "marina",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -217,8 +267,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Broad Haven - Beach Pembrokeshire",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/broad-haven/beach-pembrokeshire.html",
-        "display_name": "Broad Haven - Beach Pembrokeshire",
+        "display_name": "Broad Haven",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Cardiff, Wales",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/cardiff/cardiff.html",
-        "display_name": "Cardiff, Wales",
+        "display_name": "Cardiff",
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -293,12 +363,17 @@
       "properties": {
         "name": "Cardigan - Poppit Sands Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/cardigan/poppit-sands-beach.html",
-        "display_name": "Cardigan - Poppit Sands Beach",
+        "display_name": "Cardigan",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -317,8 +392,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Deal Kent",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/england/deal/deal-kent.html",
-        "display_name": "Deal Kent",
+        "display_name": "Deal",
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -357,8 +442,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -373,12 +463,17 @@
       "properties": {
         "name": "Dover Beach - Kent, England",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/england/dover/dover-beach-kent.html",
-        "display_name": "Dover Beach - Kent, England",
+        "display_name": "Dover",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "coastal"
+        "quality_tier": "unknown",
+        "scene_type": "coastal",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -398,7 +493,12 @@
         "environment": "landmark",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "landmark"
+        "scene_type": "landmark",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -413,12 +513,17 @@
       "properties": {
         "name": "Exmouth Marina, Devon, England",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/england/exmouth/marina.html",
-        "display_name": "Exmouth Marina, Devon, England",
+        "display_name": "Exmouth",
         "country_code": "GB",
         "environment": "harbor",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "harbor"
+        "quality_tier": "unknown",
+        "scene_type": "harbor",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -437,8 +542,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Gwynedd - Bala Lake",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/gwynedd/bala-lake.html",
-        "display_name": "Gwynedd - Bala Lake",
+        "display_name": "Gwynedd",
         "country_code": "GB",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "lake"
+        "quality_tier": "unknown",
+        "scene_type": "lake",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Gwynedd - Barmouth",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/gwynedd/barmouth.html",
-        "display_name": "Gwynedd - Barmouth",
+        "display_name": "Gwynedd",
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Gwynedd - Barmouth Harbour",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/gwynedd/barmouth-harbour.html",
-        "display_name": "Gwynedd - Barmouth Harbour",
+        "display_name": "Gwynedd",
         "country_code": "GB",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Gwynedd - Llanaber Barmouth Bay",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/gwynedd/llanaber-barmouth-bay.html",
-        "display_name": "Gwynedd - Llanaber Barmouth Bay",
+        "display_name": "Gwynedd",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -537,8 +667,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -557,8 +692,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -578,7 +718,12 @@
         "environment": "harbor",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "marina"
+        "scene_type": "marina",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -598,7 +743,12 @@
         "environment": "urban",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -617,8 +767,13 @@
         "country_code": "GB",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -637,8 +792,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -657,8 +817,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -677,8 +842,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -697,8 +867,13 @@
         "country_code": "GB",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "Porthmadog - Bywyd Gwyllt Glaslyn Wildlife",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/porthmadog/bywyd-gwyllt-glaslyn-wildlife.html",
-        "display_name": "Porthmadog - Bywyd Gwyllt Glaslyn Wildlife",
+        "display_name": "Porthmadog",
         "country_code": "GB",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -737,8 +917,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "river"
+        "quality_tier": "standard",
+        "scene_type": "river",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -753,12 +938,17 @@
       "properties": {
         "name": "Skomer Island - Puffin Colony",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/skomer-island/puffin-colony.html",
-        "display_name": "Skomer Island - Puffin Colony",
+        "display_name": "Skomer Island",
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -773,12 +963,17 @@
       "properties": {
         "name": "Skomer Island - Puffins",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/wales/skomer-island/puffins.html",
-        "display_name": "Skomer Island - Puffins",
+        "display_name": "Skomer Island",
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -793,12 +988,17 @@
       "properties": {
         "name": "St Ives - Coastal View",
         "url": "https://www.skylinewebcams.com/en/webcam/united-kingdom/england/st-ives/coastal-view.html",
-        "display_name": "St Ives - Coastal View",
+        "display_name": "St Ives",
         "country_code": "GB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -817,8 +1017,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -837,8 +1042,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -857,8 +1067,13 @@
         "country_code": "GB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     }
   ]

@@ -13,12 +13,17 @@
       "properties": {
         "name": "Boa Vista - Praia Da Cruz",
         "url": "https://www.skylinewebcams.com/en/webcam/cabo-verde/boa-vista/boa-vista/praia-da-cruz.html",
-        "display_name": "Boa Vista - Praia Da Cruz",
+        "display_name": "Boa Vista",
         "country_code": "CV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

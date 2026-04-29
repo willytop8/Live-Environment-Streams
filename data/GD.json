@@ -13,12 +13,17 @@
       "properties": {
         "name": "Grand Anse Beach Caribbean Sea",
         "url": "https://www.skylinewebcams.com/en/webcam/grenada/saint-georges/grand-anse-beach/grand-anse-beach-caribbean-sea.html",
-        "display_name": "Grand Anse Beach Caribbean Sea",
+        "display_name": "Grand Anse Beach",
         "country_code": "GD",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]

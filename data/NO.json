@@ -13,12 +13,17 @@
       "properties": {
         "name": "Beitostolen - Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/beitostolen/ski-area.html",
-        "display_name": "Beitostolen - Ski Area",
+        "display_name": "Beitostolen",
         "country_code": "NO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -37,8 +42,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -58,7 +68,12 @@
         "environment": "harbor",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "marina"
+        "scene_type": "marina",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -77,8 +92,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -93,12 +113,17 @@
       "properties": {
         "name": "Bodo - Saltstraumen",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/bodo/saltstraumen.html",
-        "display_name": "Bodo - Saltstraumen",
+        "display_name": "Bodo",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -113,12 +138,17 @@
       "properties": {
         "name": "Bryggja Deer Farm",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/bryggja/bryggja-deer-farm.html",
-        "display_name": "Bryggja Deer Farm",
+        "display_name": "Bryggja",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -137,8 +167,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -157,8 +192,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -173,12 +213,17 @@
       "properties": {
         "name": "Geiranger - Marina",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/marina.html",
-        "display_name": "Geiranger - Marina",
+        "display_name": "Geiranger",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -193,12 +238,17 @@
       "properties": {
         "name": "Geiranger Cruise Pier",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/geiranger-cruise-pier.html",
-        "display_name": "Geiranger Cruise Pier",
+        "display_name": "Geiranger",
         "country_code": "NO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "beach"
+        "quality_tier": "unknown",
+        "scene_type": "beach",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -213,12 +263,17 @@
       "properties": {
         "name": "Geirangerfjord Cruise Port",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/geiranger/geirangerfjord-cruise-port.html",
-        "display_name": "Geirangerfjord Cruise Port",
+        "display_name": "Geiranger",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -233,12 +288,17 @@
       "properties": {
         "name": "Hafjell Alpinsenter",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/hafjell/hafjell-alpinsenter.html",
-        "display_name": "Hafjell Alpinsenter",
+        "display_name": "Hafjell",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -257,8 +317,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -273,12 +338,17 @@
       "properties": {
         "name": "Hammerfest - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/hammerfest/port.html",
-        "display_name": "Hammerfest - Port",
+        "display_name": "Hammerfest",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -297,8 +367,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -313,12 +388,17 @@
       "properties": {
         "name": "Harstad - Grytoya",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/grytoya.html",
-        "display_name": "Harstad - Grytoya",
+        "display_name": "Harstad",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -333,12 +413,17 @@
       "properties": {
         "name": "Harstad - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/panorama.html",
-        "display_name": "Harstad - Panorama",
+        "display_name": "Harstad",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -353,12 +438,17 @@
       "properties": {
         "name": "Harstad - Port",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/harstad/port.html",
-        "display_name": "Harstad - Port",
+        "display_name": "Harstad",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -377,8 +467,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -397,8 +492,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -417,8 +517,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -433,12 +538,17 @@
       "properties": {
         "name": "Kristiansund - City",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/kristiansund/city.html",
-        "display_name": "Kristiansund - City",
+        "display_name": "Kristiansund",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -453,12 +563,17 @@
       "properties": {
         "name": "Lofoten - Hamnoy",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/hamnoy.html",
-        "display_name": "Lofoten - Hamnoy",
+        "display_name": "Lofoten",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -473,12 +588,17 @@
       "properties": {
         "name": "Lofoten - Henningsvaer",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/henningsvaer.html",
-        "display_name": "Lofoten - Henningsvaer",
+        "display_name": "Lofoten",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -493,12 +613,17 @@
       "properties": {
         "name": "Lofoten - Reine",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/reine.html",
-        "display_name": "Lofoten - Reine",
+        "display_name": "Lofoten",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -513,12 +638,17 @@
       "properties": {
         "name": "Lofoten - Sorvagen",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/lofoten/sorvagen.html",
-        "display_name": "Lofoten - Sorvagen",
+        "display_name": "Lofoten",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -537,8 +667,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -557,8 +692,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -578,7 +718,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -597,8 +742,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -618,7 +768,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -637,8 +792,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -658,7 +818,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -677,8 +842,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -697,8 +867,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -713,12 +888,17 @@
       "properties": {
         "name": "Narvik - Marina",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/narvik/marina.html",
-        "display_name": "Narvik - Marina",
+        "display_name": "Narvik",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -733,12 +913,17 @@
       "properties": {
         "name": "Narvikfjellet",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/nordland/narvik/narvikfjellet.html",
-        "display_name": "Narvikfjellet",
+        "display_name": "Narvik",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -757,8 +942,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -773,12 +963,17 @@
       "properties": {
         "name": "Nordkapp - Honningsvag",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/nordkapp/honningsvag.html",
-        "display_name": "Nordkapp - Honningsvag",
+        "display_name": "Nordkapp",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -798,7 +993,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -818,7 +1018,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -838,7 +1043,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -858,7 +1068,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -878,7 +1093,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -898,7 +1118,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -918,7 +1143,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -938,7 +1168,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -958,7 +1193,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -978,7 +1218,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -998,7 +1243,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1018,7 +1268,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1038,7 +1293,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1058,7 +1318,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1078,7 +1343,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1098,7 +1368,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1118,7 +1393,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1138,7 +1418,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1158,7 +1443,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1178,7 +1468,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1198,7 +1493,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1218,7 +1518,12 @@
         "environment": "traffic",
         "source_family": "vegvesen",
         "quality_tier": "standard",
-        "scene_type": "traffic"
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1233,12 +1538,17 @@
       "properties": {
         "name": "Orsta - Hjorundfjorden",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/sunnmore/orsta/hjorundfjorden.html",
-        "display_name": "Orsta - Hjorundfjorden",
+        "display_name": "Orsta",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1257,8 +1567,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1273,12 +1588,17 @@
       "properties": {
         "name": "Oslo - Skimore",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/oslo/skimore.html",
-        "display_name": "Oslo - Skimore",
+        "display_name": "Oslo",
         "country_code": "NO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1298,7 +1618,12 @@
         "environment": "urban",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1313,12 +1638,17 @@
       "properties": {
         "name": "Rauland - Ski Area",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/eastern-norway/rauland/ski-area.html",
-        "display_name": "Rauland - Ski Area",
+        "display_name": "Rauland",
         "country_code": "NO",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "mountain"
+        "quality_tier": "unknown",
+        "scene_type": "mountain",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1333,12 +1663,17 @@
       "properties": {
         "name": "Rotsund - Northern Lights",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/rotsund/northern-lights.html",
-        "display_name": "Rotsund - Northern Lights",
+        "display_name": "Rotsund",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1353,12 +1688,17 @@
       "properties": {
         "name": "Saebovik - Sabovik",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/saebovik/sabovik.html",
-        "display_name": "Saebovik - Sabovik",
+        "display_name": "Saebovik",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1373,12 +1713,17 @@
       "properties": {
         "name": "Sandefjord - Harbor Bjerggata",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/vestfold/sandefjord/harbor-bjerggata.html",
-        "display_name": "Sandefjord - Harbor Bjerggata",
+        "display_name": "Sandefjord",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1397,8 +1742,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1418,7 +1768,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1433,12 +1788,17 @@
       "properties": {
         "name": "Sandefjord Harbor",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/vestfold/sandefjord/sandefjord-harbor.html",
-        "display_name": "Sandefjord Harbor",
+        "display_name": "Sandefjord",
         "country_code": "NO",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "marina"
+        "quality_tier": "unknown",
+        "scene_type": "marina",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1453,12 +1813,17 @@
       "properties": {
         "name": "Sandnes - Dale",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/rogaland/sandnes/dale.html",
-        "display_name": "Sandnes - Dale",
+        "display_name": "Sandnes",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1477,8 +1842,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1493,12 +1863,17 @@
       "properties": {
         "name": "Senja - Silsand",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/senja/silsand.html",
-        "display_name": "Senja - Silsand",
+        "display_name": "Senja",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1517,8 +1892,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1533,12 +1913,17 @@
       "properties": {
         "name": "Skarsvag North Cape",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/skarsvag/skarsvag-north-cape.html",
-        "display_name": "Skarsvag North Cape",
+        "display_name": "Skarsvag",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1557,8 +1942,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1573,12 +1963,17 @@
       "properties": {
         "name": "Sor Varanger - Kirkenes",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/sor-varanger/kirkenes.html",
-        "display_name": "Sor Varanger - Kirkenes",
+        "display_name": "Sor Varanger",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1593,12 +1988,17 @@
       "properties": {
         "name": "Sor Varanger - Kirkenes Bokfjorden",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/sor-varanger/kirkenes-bokfjorden.html",
-        "display_name": "Sor Varanger - Kirkenes Bokfjorden",
+        "display_name": "Sor Varanger",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1613,12 +2013,17 @@
       "properties": {
         "name": "Stad - Vestkapp",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/stad/vestkapp.html",
-        "display_name": "Stad - Vestkapp",
+        "display_name": "Stad",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1637,8 +2042,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1657,8 +2067,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1677,8 +2092,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1693,12 +2113,17 @@
       "properties": {
         "name": "Tromso - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/northern-norway/tromso/panorama.html",
-        "display_name": "Tromso - Panorama",
+        "display_name": "Tromso",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1717,8 +2142,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban_panorama"
+        "quality_tier": "standard",
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1738,7 +2168,12 @@
         "environment": "webcam",
         "source_family": "skylinewebcams",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "hls",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -1758,7 +2193,12 @@
         "environment": "nature",
         "source_family": "youtube",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama"
+        "scene_type": "urban_panorama",
+        "url_type": "youtube",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     },
     {
@@ -1777,8 +2217,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1797,8 +2242,13 @@
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1813,12 +2263,17 @@
       "properties": {
         "name": "Voss - Myrkdalen",
         "url": "https://www.skylinewebcams.com/en/webcam/norge/western-norway/voss/myrkdalen.html",
-        "display_name": "Voss - Myrkdalen",
+        "display_name": "Voss",
         "country_code": "NO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "premium",
-        "scene_type": "urban"
+        "quality_tier": "unknown",
+        "scene_type": "urban",
+        "url_type": "html_page",
+        "coordinates_quality": "country_centroid",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": "browser"
       }
     }
   ]
