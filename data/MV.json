@@ -6,33 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
-        ]
-      },
-      "properties": {
-        "name": "Akasdhoo - Maldives",
-        "url": "https://www.skylinewebcams.com/en/webcam/maldives/south-male-atoll/akasdhoo/maldives.html",
-        "display_name": "Akasdhoo",
-        "country_code": "MV",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.51,
-          4.17
+          73.1122,
+          5.2346
         ]
       },
       "properties": {
@@ -42,13 +17,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -56,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          72.9547,
+          6.8406
         ]
       },
       "properties": {
@@ -67,13 +43,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -81,8 +58,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.4907,
+          3.9411
         ]
       },
       "properties": {
@@ -92,13 +69,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -106,24 +84,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.1667,
+          6.7667
         ]
       },
       "properties": {
         "name": "Hanimaadhoo Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/haa-dhaalu-atoll/hanimaadhoo/hanimaadhoo-maldives.html",
-        "display_name": "Hanimaadhoo",
+        "display_name": "Hanimaadhoo Maldives",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -131,49 +110,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
-        ]
-      },
-      "properties": {
-        "name": "Huruelhi Island - Radisson Blu",
-        "url": "https://www.skylinewebcams.com/en/webcam/maldives/alifu-dhaalu-atoll/huruelhi-island/radisson-blu.html",
-        "display_name": "Huruelhi Island",
-        "country_code": "MV",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.51,
-          4.17
+          73.4336,
+          0.7324
         ]
       },
       "properties": {
         "name": "Kooddoo Maldives",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/kooddoo/kooddoo-maldives.html",
-        "display_name": "Kooddoo",
+        "display_name": "Kooddoo Maldives",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -181,24 +136,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          72.8842,
+          4.1034
         ]
       },
       "properties": {
         "name": "Kudafolhudhoo Nika Island",
         "url": "https://www.skylinewebcams.com/en/webcam/maldives/alif-alif-atoll/kudafolhudhoo/kudafolhudhoo-nika-island.html",
-        "display_name": "Kudafolhudhoo",
+        "display_name": "Kudafolhudhoo Nika Island",
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -206,8 +162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.4613,
+          5.5474
         ]
       },
       "properties": {
@@ -217,13 +173,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -231,8 +188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.4074,
+          0.8463
         ]
       },
       "properties": {
@@ -242,13 +199,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -267,13 +225,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "high",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -281,8 +240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.5093,
-          4.1755
+          72.7465,
+          4.2858
         ]
       },
       "properties": {
@@ -292,13 +251,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -306,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.5093,
-          4.1755
+          72.7465,
+          4.2858
         ]
       },
       "properties": {
@@ -317,13 +277,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -331,8 +292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.3833,
+          5.7667
         ]
       },
       "properties": {
@@ -342,13 +303,14 @@
         "country_code": "MV",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -356,8 +318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.51,
-          4.17
+          73.7139,
+          4.4519
         ]
       },
       "properties": {
@@ -367,63 +329,14 @@
         "country_code": "MV",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.51,
-          4.17
-        ]
-      },
-      "properties": {
-        "name": "Robinson Maldives Funamadua",
-        "url": "https://www.skylinewebcams.com/en/webcam/maldives/gaafu-alif-atoll/funamadua/robinson-maldives-funamadua.html",
-        "display_name": "Funamadua",
-        "country_code": "MV",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.51,
-          4.17
-        ]
-      },
-      "properties": {
-        "name": "Upper North Province - Ja Manafaru",
-        "url": "https://www.skylinewebcams.com/en/webcam/maldives/haa-alif-atoll/upper-north-province/ja-manafaru.html",
-        "display_name": "Upper North Province",
-        "country_code": "MV",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T03:01:07.016317",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

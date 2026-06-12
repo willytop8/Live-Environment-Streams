@@ -6,24 +6,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6128,
+          7.089
         ]
       },
       "properties": {
-        "name": "Bulusan Volcano",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/bicol/bulusan/bulusan-volcano.html",
-        "display_name": "Bulusan",
+        "name": "Benjie PH — Philippines Live outside house Cam 1 Agdao Davao City",
+        "url": "https://www.youtube.com/watch?v=Q7JY7sgxI7o",
+        "display_name": "Benjie PH — Philippines outside house 1 Agdao Davao City",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "youtube-ph-benjie",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.0551,
+          12.7696
+        ]
+      },
+      "properties": {
+        "name": "Bulusan Volcano 24/7 — Sorsogon, Philippines",
+        "url": "https://www.youtube.com/watch?v=GQYME0i_idI",
+        "display_name": "Bulusan Volcano — Sorsogon, Philippines",
         "country_code": "PH",
         "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "source_family": "youtube",
+        "quality_tier": "premium",
         "scene_type": "mountain",
-        "url_type": "html_page",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-18 06:35:17",
+        "source_url_requires": null
       }
     },
     {
@@ -31,24 +58,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.61278,
+          7.07306
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Agdao Wilfredo Aquino Street",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/agdao-wilfredo-aquino-street.html",
-        "display_name": "Davao Del Sur",
+        "name": "Davao - Japan Street",
+        "url": "https://www.youtube.com/watch?v=XHUaMlOwVsc",
+        "display_name": "Davao, Philippines",
         "country_code": "PH",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "skyline-youtube",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -56,24 +84,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6135,
+          7.088
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Barber Shop",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/barber-shop.html",
-        "display_name": "Davao Del Sur",
+        "name": "Edge Babor PH — Edge Cam 2 BBQ Area Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=R_xMH1DjpjU",
+        "display_name": "Edge Babor PH — Edge 2 BBQ Area Agdao, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "youtube-ph-edge-babor",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -81,24 +110,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6151,
+          7.0888
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Benboys Motor Bike Shop",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/benboys-motor-bike-shop.html",
-        "display_name": "Davao Del Sur",
+        "name": "Edge Babor PH — Edge Cam 4 Jane Eatery Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=yhNqqnSW8pw",
+        "display_name": "Edge Babor PH — Edge 4 Jane Eatery Agdao, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "youtube-ph-edge-babor",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -106,24 +136,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6158,
+          7.0896
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Boy Sayong Store",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/boy-sayong-store.html",
-        "display_name": "Davao Del Sur",
+        "name": "Edge Babor PH — Edge Cam 5 D'Family BarberShop Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=nepz9aZkCcE",
+        "display_name": "Edge Babor PH — Edge 5 D'Family BarberShop Agdao, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "youtube-ph-edge-babor",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -131,24 +162,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6168,
+          7.0872
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Coreas Street",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/coreas-street.html",
-        "display_name": "Davao Del Sur",
+        "name": "Edge Babor PH — Edge Cam 6 Agdao Market, Davao City",
+        "url": "https://www.youtube.com/watch?v=17Bt4GfaOPQ",
+        "display_name": "Edge Babor PH — Edge 6 Agdao Market, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "youtube-ph-edge-babor",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -156,24 +188,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.615,
+          7.0912
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Davao City",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — Live PTZ camera, Agdao Bus Stop & Flyover, Davao City",
+        "url": "https://www.youtube.com/watch?v=d2sfGzRE14g",
+        "display_name": "JazBaz — PTZ, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -181,24 +214,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6173,
+          7.0875
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Davao City Agdao",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city-agdao.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — Live PTZ camera, Agdao Public Market, Davao City",
+        "url": "https://www.youtube.com/watch?v=1UfgoFkC6QU",
+        "display_name": "JazBaz — PTZ, Philippines",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -206,24 +240,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6128,
+          7.0899
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Davao City Soliman Crossing",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-city-soliman-crossing.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Davao City live Street View Members cam 2, Soliman Street",
+        "url": "https://www.youtube.com/watch?v=fkKa9oLDmi4",
+        "display_name": "JazBaz — PHILIPPINES Davao City Street View Members 2",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -231,24 +266,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6115,
+          7.0672
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Davao Market",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/davao-market.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live Camera Bankerohan Lyn's Food Haus, Davao City",
+        "url": "https://www.youtube.com/watch?v=6kX0K9u3NTQ",
+        "display_name": "JazBaz — PHILIPPINES Bankerohan Lyn's Food Haus",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -256,24 +292,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6171,
+          7.0906
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Lyns Sisig Beef",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/lyns-sisig-beef.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera Basketball Barangay Hall Kapitan Tomas Monteverde, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=2iENQ0dDmqI",
+        "display_name": "JazBaz — PHILIPPINES Basketball Barangay Hall Kapitan Tomas Monteverde",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -281,24 +318,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.611,
+          7.0669
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Lyns Sisig Beef Bbq",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/lyns-sisig-beef-bbq.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera Lyn's Samgyup Restaurant, Davao City",
+        "url": "https://www.youtube.com/watch?v=yxl-xMXSVBA",
+        "display_name": "JazBaz — PHILIPPINES Lyn's Samgyup Restaurant",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -306,24 +344,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6145,
+          7.0886
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Market Area",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/market-area.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera Outside Lodi's Eatery, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=NEoP0H10_VA",
+        "display_name": "JazBaz — PHILIPPINES Outside Lodi's Eatery",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -331,24 +370,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6155,
+          7.0869
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Public Market",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/public-market.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera W Aquino Street Market Area, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=KFWHAT9N3Us",
+        "display_name": "JazBaz — PHILIPPINES W Aquino Street Market Area",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -356,24 +396,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6157,
+          7.0741
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Rosemary Street",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/rosemary-street.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera outside Lyn's Restaurant looking Roxas Avenue, Davao City",
+        "url": "https://www.youtube.com/watch?v=I_pE-WeOvNs",
+        "display_name": "JazBaz — PHILIPPINES outside Lyn's Restaurant looking Roxas Avenue",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -381,24 +422,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6136,
+          7.0874
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Roxas Avenue",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/roxas-avenue.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera, Balut & Siomai street food, Davao City",
+        "url": "https://www.youtube.com/watch?v=Gy4_7mPsuWA",
+        "display_name": "JazBaz — PHILIPPINES",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -406,24 +448,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.612,
+          7.0668
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Stores",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/stores.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live camera, Bankerohan Market area, Davao City",
+        "url": "https://www.youtube.com/watch?v=qMOiz9Xrj1A",
+        "display_name": "JazBaz — PHILIPPINES",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -431,24 +474,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6093,
+          7.0892
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Streets",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/streets.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Live traffic camera, Leon Garcia Street, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=FWvIPfxK5Jo",
+        "display_name": "JazBaz — PHILIPPINES",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -456,24 +500,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.614,
+          7.0881
         ]
       },
       "properties": {
-        "name": "Davao Del Sur - Tyre Repair Shop",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/davao/davao-del-sur/tyre-repair-shop.html",
-        "display_name": "Davao Del Sur",
+        "name": "JazBaz — PHILIPPINES Street View Live camera (1), Soliman Street, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=Far_aDIwAyw",
+        "display_name": "JazBaz — PHILIPPINES Street View",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -481,24 +526,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.98,
-          14.6
+          125.6136,
+          7.0888
         ]
       },
       "properties": {
-        "name": "Palawan - El Nido",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines/mimaropa/palawan/el-nido.html",
-        "display_name": "Palawan",
+        "name": "JazBaz — PHILIPPINES live Cam Street View, Soliman Street, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=8ALC939509U",
+        "display_name": "JazBaz — PHILIPPINES Street View",
         "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -506,74 +552,311 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          119.45,
-          11.18
+          125.6133,
+          7.0893
+        ]
+      },
+      "properties": {
+        "name": "JazBaz — Philippines Live cam 5 Soliman Street, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=ui5S0ld_0po",
+        "display_name": "JazBaz — Philippines 5 Soliman Street",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6148,
+          7.0877
+        ]
+      },
+      "properties": {
+        "name": "JazBaz — Philippines Live camera Jet Wash area and Internet Cafe, Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=QQBVEf6B2r0",
+        "display_name": "JazBaz — Philippines Jet Wash area and Internet Cafe",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6121,
+          7.0737
+        ]
+      },
+      "properties": {
+        "name": "JazBaz — Philippines Live camera Street View, Davao City, F Bangoy Street towards Lapu Lapu",
+        "url": "https://www.youtube.com/watch?v=RloOZZWlPAo",
+        "display_name": "JazBaz — Philippines Street View",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6142,
+          7.0891
+        ]
+      },
+      "properties": {
+        "name": "JazBaz — Philippines Live camera Tyre Repair Shop & Sari-Sari store Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=crkbTPqIuz4",
+        "display_name": "JazBaz — Philippines Tyre Repair Shop & Sari-Sari store Agdao",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.614,
+          7.0854
+        ]
+      },
+      "properties": {
+        "name": "JazBaz — Philippines Live street view camera Davao City, F Bangoy Street & Soliman Crossing, Agdao",
+        "url": "https://www.youtube.com/watch?v=yznpQlk0exE",
+        "display_name": "JazBaz — Philippines street view Davao City",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "jazbaz",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6204,
+          7.0932
+        ]
+      },
+      "properties": {
+        "name": "Maria Deseo PH — Maria's Cam 11 New Salmonan Agdao infront of School, Davao City Philippines",
+        "url": "https://www.youtube.com/watch?v=AnzgJmFq4As",
+        "display_name": "Maria Deseo PH — Maria's 11 New Salmonan Agdao infront of School, Philippines",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "youtube-ph-maria-deseo",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.615,
+          7.0866
+        ]
+      },
+      "properties": {
+        "name": "Maria Deseo PH — Maria's Cam 4a Rachel Store Agdao, Davao City",
+        "url": "https://www.youtube.com/watch?v=B2cFqhyIwI0",
+        "display_name": "Maria Deseo PH — Maria's 4a Rachel Store Agdao, Philippines",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "youtube-ph-maria-deseo",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6152,
+          7.0858
+        ]
+      },
+      "properties": {
+        "name": "Maria Deseo PH — Maria's Cam 9 Rosemary Street Agdao Davao City Philippines",
+        "url": "https://www.youtube.com/watch?v=lsLkrwlimbE",
+        "display_name": "Maria Deseo PH — Maria's 9 Rosemary Street Agdao Davao City Philippines",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "youtube-ph-maria-deseo",
+        "quality_tier": "standard",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6162,
+          7.0869
+        ]
+      },
+      "properties": {
+        "name": "Maria Deseo PH — Maria's Store Cam 6 Agdao Davao City Philippines",
+        "url": "https://www.youtube.com/watch?v=CmtuOVxcKRo",
+        "display_name": "Maria Deseo PH — Maria's Store 6 Agdao Davao City Philippines",
+        "country_code": "PH",
+        "environment": "traffic",
+        "source_family": "youtube-ph-maria-deseo",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.68171,
+          13.24552
+        ]
+      },
+      "properties": {
+        "name": "Mayon Volcano — South-Southwest View — Legazpi, Philippines",
+        "url": "https://www.youtube.com/watch?v=wLf3IMoxEWA",
+        "display_name": "Mayon Volcano — South-Southwest View — Legazpi, Philippines",
+        "country_code": "PH",
+        "environment": "mountain",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "mountain",
+        "url_type": "youtube",
+        "resolution": "1912x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17 05:05:18",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.407,
+          11.1956
         ]
       },
       "properties": {
         "name": "Philippines - El Nido",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=hir3tarfqkbiddl8o34jiss3g2",
+        "url": "https://www.skylinewebcams.com/en/webcam/philippines/mimaropa/palawan/el-nido.html",
         "display_name": "Philippines",
-        "country_code": "PH",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "standard",
-        "scene_type": "urban_panorama",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "token_refresh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.45,
-          11.18
-        ]
-      },
-      "properties": {
-        "name": "Philippines - El Nido Live cam",
-        "url": "livee.m3u8?a=ns8oieojbbgdav5vtqtmcntll4",
-        "display_name": "Philippines",
-        "country_code": "PH",
-        "environment": "webcam",
-        "source_family": "skylinewebcams",
-        "quality_tier": "standard",
-        "scene_type": "urban_panorama",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "token_refresh"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.774,
-          12.8797
-        ]
-      },
-      "properties": {
-        "name": "Philippines Webcams Hub - SkylineWebcams",
-        "url": "https://www.skylinewebcams.com/en/webcam/philippines.html",
-        "display_name": "Philippines Webcams Hub - SkylineWebcams",
         "country_code": "PH",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "coastal",
+        "quality_tier": "high",
+        "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": "1920x1080",
         "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-24T20:18:57.278663",
+        "source_url_requires": "token_refresh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.629,
+          7.0875
+        ]
+      },
+      "properties": {
+        "name": "Soliman Street — Agdao, Davao City, Philippines",
+        "url": "https://www.youtube.com/watch?v=DSRm7V_bsm8",
+        "display_name": "Soliman Street — Agdao, Philippines",
+        "country_code": "PH",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "street",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     }
   ]

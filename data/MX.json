@@ -6,174 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.13,
-          19.43
+          -100.9285,
+          29.32514
         ]
       },
       "properties": {
-        "name": "Bacalar",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/bacalar/bacalar.html",
-        "display_name": "Bacalar",
+        "name": "Acuña International Bridge - Del Rio Texas Webcam | Acuña City (CH)",
+        "url": "https://s78.ipcamlive.com/streams/4e49zoi8ngjmple0u/stream.m3u8",
+        "display_name": "Acuña International Bridge, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.9167,
-          22.8905
-        ]
-      },
-      "properties": {
-        "name": "Cabo San Lucas",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/baja-california-sur/cabo-san-lucas/cabo-san-lucas.html",
-        "display_name": "Cabo San Lucas",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.9167,
-          22.8905
-        ]
-      },
-      "properties": {
-        "name": "Cabo San Lucas - Sea Of Cortez",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/baja-california-sur/cabo-san-lucas/sea-of-cortez.html",
-        "display_name": "Cabo San Lucas",
-        "country_code": "MX",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Huatulco",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/oaxaca/huatulco/huatulco.html",
-        "display_name": "Huatulco",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Isla Mujeres",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/isla-mujeres/isla-mujeres.html",
-        "display_name": "Isla Mujeres",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Loreto",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/baja-california-sur/loreto/loreto.html",
-        "display_name": "Loreto",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.25,
-          18.92
-        ]
-      },
-      "properties": {
-        "name": "Mexico - Cabo San Lucas",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=f8fuim9btgohm6m6esci6492k7",
-        "display_name": "Mexico",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "standard",
-        "scene_type": "urban_panorama",
+        "source_family": "camguide-ipcamlive",
+        "quality_tier": "low",
+        "scene_type": "city",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "token_refresh"
+        "status": "active",
+        "last_verified": "2026-06-08 04:33:59",
+        "source_url_requires": null
       }
     },
     {
@@ -181,24 +32,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1332,
-          19.4326
+          -100.37,
+          20.59
         ]
       },
       "properties": {
-        "name": "Mexico City",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/mexico-city.html",
-        "display_name": "Mexico City",
+        "name": "Constitution Square in Amealco de Bonfil",
+        "url": "https://www.youtube.com/watch?v=TDWnJ3dXkMY",
+        "display_name": "Constitution Square in Amealco de Bonfil, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -206,24 +58,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1332,
-          19.4326
+          -101.97,
+          19.59
         ]
       },
       "properties": {
-        "name": "Mexico City - Alcaldia",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/alcaldia.html",
-        "display_name": "Mexico City",
+        "name": "Don Vasco Square",
+        "url": "https://www.youtube.com/watch?v=oh3DAj61Tlk",
+        "display_name": "Don Vasco Square, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -231,174 +84,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.1332,
-          19.4326
+          -100.37,
+          20.59
         ]
       },
       "properties": {
-        "name": "Mexico City - Monumento A La Revolucion",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/monumento-a-la-revolucion.html",
-        "display_name": "Mexico City",
+        "name": "Founders Square",
+        "url": "https://www.youtube.com/watch?v=ax57OP38Cv4",
+        "display_name": "Founders Square, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1332,
-          19.4326
-        ]
-      },
-      "properties": {
-        "name": "Mexico City - Panorama",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/panorama.html",
-        "display_name": "Mexico City",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1332,
-          19.4326
-        ]
-      },
-      "properties": {
-        "name": "Mexico City - Plaza Garibaldi",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/plaza-garibaldi.html",
-        "display_name": "Mexico City",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.1332,
-          19.4326
-        ]
-      },
-      "properties": {
-        "name": "Mexico City - Zocalo",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/mexico-city/zocalo.html",
-        "display_name": "Mexico City",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Pachuca - Plaza",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/hidalgo/pachuca/plaza.html",
-        "display_name": "Pachuca",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Puebla",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/puebla/puebla/puebla.html",
-        "display_name": "Puebla",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -100.01,
-          18.6
-        ]
-      },
-      "properties": {
-        "name": "Puerto Escondido - Mexico",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=as5bl4hj1bhs8rfrpd0krdd0f0",
-        "display_name": "Puerto Escondido",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
+        "source_family": "camguide",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama",
-        "url_type": "hls",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "token_refresh"
+        "status": "active",
+        "last_verified": "2026-06-08 04:34:25",
+        "source_url_requires": null
       }
     },
     {
@@ -406,74 +110,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.13,
-          19.43
+          -101.98602,
+          22.27194
         ]
       },
       "properties": {
-        "name": "Puerto Morelos",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/puerto-morelos/puerto-morelos.html",
-        "display_name": "Puerto Morelos",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.2253,
-          20.6534
-        ]
-      },
-      "properties": {
-        "name": "Puerto Vallarta",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/jalisco/puerto-vallarta/puerto-vallarta.html",
-        "display_name": "Puerto Vallarta",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.2253,
-          20.6534
-        ]
-      },
-      "properties": {
-        "name": "Puerto Vallarta - Playa",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/jalisco/puerto-vallarta/playa.html",
-        "display_name": "Puerto Vallarta",
+        "name": "Loreto Boardwalk Webcam - Mexico 🎦",
+        "url": "https://www.youtube.com/watch?v=1cKGvTltZDE",
+        "display_name": "Loreto Boardwalk",
         "country_code": "MX",
         "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
         "scene_type": "beach",
-        "url_type": "html_page",
+        "url_type": "youtube",
+        "resolution": "840x480",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-25 05:47:03",
+        "source_url_requires": null
       }
     },
     {
@@ -481,349 +136,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.13,
-          19.43
+          -105.23878,
+          20.59934
         ]
       },
       "properties": {
-        "name": "San Carlos",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/sonora/san-carlos/san-carlos.html",
-        "display_name": "San Carlos",
+        "name": "Los Muertos Pier Cam - Puerto Vallarta, Mexico",
+        "url": "https://www.youtube.com/watch?v=FJDr8qokFT4",
+        "display_name": "Los Muertos Pier",
+        "country_code": "MX",
+        "environment": "harbor",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "harbor",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 01:30:00",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34583,
+          20.67707
+        ]
+      },
+      "properties": {
+        "name": "Main Square",
+        "url": "https://www.youtube.com/watch?v=AbXrbsrlbew",
+        "display_name": "Main Square, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "San Joaquin",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/queretaro/san-joaquin/san-joaquin.html",
-        "display_name": "San Joaquin",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "San Pedro Benito Juarez - Popocatepetl",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/puebla/san-pedro-benito-juarez/popocatepetl.html",
-        "display_name": "San Pedro Benito Juarez",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "San Pedro Mixtepec - Puerto Escondido",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/oaxaca/san-pedro-mixtepec/puerto-escondido.html",
-        "display_name": "San Pedro Mixtepec",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - Cancun Quintana Roo",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-quintana-roo.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - Cancun Swimming Pools",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-swimming-pools.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - Cancun The Royal Sands",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/cancun-the-royal-sands.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - El Parque De Xcaret",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/el-parque-de-xcaret.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - Panorama De Playa Del Carmen",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/panorama-de-playa-del-carmen.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Solidaridad - Panorama Of Cancun",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/solidaridad/panorama-of-cancun.html",
-        "display_name": "Solidaridad",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Teotihuacan",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/federal-district/teotihuacan/teotihuacan.html",
-        "display_name": "Teotihuacan",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.4654,
-          20.2114
-        ]
-      },
-      "properties": {
-        "name": "Tulum - Playa",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/quintana-roo/tulum/playa.html",
-        "display_name": "Tulum",
-        "country_code": "MX",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.13,
-          19.43
-        ]
-      },
-      "properties": {
-        "name": "Vallecillo",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/nuevo-leon/vallecillo/vallecillo.html",
-        "display_name": "Vallecillo",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -99.01,
-          19.72
-        ]
-      },
-      "properties": {
-        "name": "Vallecillo - Mexico",
-        "url": "https://hd-auth.skylinewebcams.com/live.m3u8?a=jj24jkf20oahu9h2vrk5f29gc2",
-        "display_name": "Vallecillo",
-        "country_code": "MX",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
+        "source_family": "camguide",
         "quality_tier": "standard",
-        "scene_type": "urban_panorama",
-        "url_type": "hls",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "token_refresh"
+        "status": "active",
+        "last_verified": "2026-06-08 04:33:44",
+        "source_url_requires": null
       }
     },
     {
@@ -831,24 +188,103 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8773,
-          41.6561
+          -100.98018,
+          25.43039
         ]
       },
       "properties": {
-        "name": "Zaragoza - Border",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/chihuahua/zaragoza/border.html",
-        "display_name": "Zaragoza",
+        "name": "Overview panorama from a height",
+        "url": "https://www.youtube.com/watch?v=lJ4cVTdb45A",
+        "display_name": "Overview panorama from a height, Mexico",
+        "country_code": "MX",
+        "environment": "nature",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.29844,
+          25.66477
+        ]
+      },
+      "properties": {
+        "name": "Panorama from above",
+        "url": "https://www.youtube.com/watch?v=u_vBHLK0Ppc",
+        "display_name": "Panorama from above, Mexico",
+        "country_code": "MX",
+        "environment": "nature",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.07,
+          20.62
+        ]
+      },
+      "properties": {
+        "name": "Panorama from the island of Cozumel",
+        "url": "https://www.youtube.com/watch?v=Cmzo6T9lz40",
+        "display_name": "Panorama from the island of Cozumel, Mexico",
+        "country_code": "MX",
+        "environment": "nature",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1388,
+          19.44094
+        ]
+      },
+      "properties": {
+        "name": "Plaza Garibaldi",
+        "url": "https://www.youtube.com/watch?v=o-qwlPxee2I",
+        "display_name": "Plaza Garibaldi, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "camguide",
+        "quality_tier": "standard",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-08 04:33:44",
+        "source_url_requires": null
       }
     },
     {
@@ -856,24 +292,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.13,
-          19.43
+          -98.62769,
+          19.02238
         ]
       },
       "properties": {
-        "name": "Zihuatanejo - Ixtapa",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/guerrero/zihuatanejo/ixtapa.html",
-        "display_name": "Zihuatanejo",
+        "name": "Popocatepetl Volcano",
+        "url": "https://www.youtube.com/watch?v=NI4v1OlIlZM",
+        "display_name": "Popocatepetl Volcano, Mexico",
         "country_code": "MX",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -881,24 +318,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.13,
-          19.43
+          -98.21107,
+          19.04199
         ]
       },
       "properties": {
-        "name": "Zihuatanejo - Playa La Madera",
-        "url": "https://www.skylinewebcams.com/en/webcam/mexico/guerrero/zihuatanejo/playa-la-madera.html",
-        "display_name": "Zihuatanejo",
+        "name": "Puebla of Zaragoza Panorama from above",
+        "url": "https://www.youtube.com/watch?v=v4sxmC9BxJE",
+        "display_name": "Puebla of Zaragoza Panorama from above, Mexico",
         "country_code": "MX",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
+        "environment": "nature",
+        "source_family": "camguide",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     }
   ]

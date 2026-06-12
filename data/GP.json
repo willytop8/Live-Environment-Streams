@@ -17,13 +17,14 @@
         "country_code": "GP",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -42,13 +43,14 @@
         "country_code": "GP",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

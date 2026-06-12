@@ -13,17 +13,18 @@
       "properties": {
         "name": "Aszod - Stork Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/hungary/central-hungary/aszod/stork-nest.html",
-        "display_name": "Aszod",
+        "display_name": "Aszod, Hungary",
         "country_code": "HU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -38,17 +39,18 @@
       "properties": {
         "name": "Holloko",
         "url": "https://www.skylinewebcams.com/en/webcam/hungary/northern-hungary/hollok/holloko.html",
-        "display_name": "Hollok",
+        "display_name": "Holloko, Hungary",
         "country_code": "HU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -56,24 +58,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.04,
-          47.5
+          19.0402,
+          47.4979
         ]
       },
       "properties": {
-        "name": "Pecs",
-        "url": "https://www.skylinewebcams.com/en/webcam/hungary/southern-transdanubia/pecs/pecs.html",
-        "display_name": "Pecs",
+        "name": "Hungarian Parliament Building",
+        "url": "https://edge01.balticlivecam.com/blc/p_HU_Budapest/index.m3u8?token=a9e5132d47dce1732939a1a3829e8bc6%3A1775689268932",
+        "display_name": "Hungarian Parliament Building, Hungary",
         "country_code": "HU",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "balticlivecam",
+        "quality_tier": "standard",
+        "scene_type": "city",
+        "url_type": "hls",
+        "resolution": "2048x1536",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-03-25 07:41:15",
+        "source_url_requires": null
       }
     },
     {
@@ -88,17 +91,18 @@
       "properties": {
         "name": "Ungheria Papa",
         "url": "https://www.skylinewebcams.com/en/webcam/hungary/central-transdanubia/papa/ungheria-papa.html",
-        "display_name": "Papa",
+        "display_name": "Ungheria Papa, Hungary",
         "country_code": "HU",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T02:35:25.652749",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

@@ -6,6 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          103.8607,
+          1.2838
+        ]
+      },
+      "properties": {
+        "name": "Marina Bay 4K — Singapore",
+        "url": "https://www.youtube.com/watch?v=LhsIlmvwEbc",
+        "display_name": "Marina Bay 4K — Singapore",
+        "country_code": "SG",
+        "environment": "harbor",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "harbor",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 05:04:24",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           103.8625,
           1.3026
         ]
@@ -17,13 +43,14 @@
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -42,38 +69,14 @@
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.8525,
-          1.2841
-        ]
-      },
-      "properties": {
-        "name": "Singapore Downtown",
-        "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/downtown-singapore.html",
-        "display_name": "Singapore",
-        "country_code": "SG",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -88,17 +91,18 @@
       "properties": {
         "name": "Singapore Harbor",
         "url": "https://www.skylinewebcams.com/en/webcam/republic-of-singapore/singapore/singapore/singapore.html",
-        "display_name": "Singapore",
+        "display_name": "Singapore Harbor",
         "country_code": "SG",
         "environment": "harbor",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "harbor",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -113,17 +117,18 @@
       "properties": {
         "name": "Singapore Marina Bay",
         "url": "https://www.skylinewebcams.com/webcam/republic-of-singapore/singapore/singapore/singapore-marina.html",
-        "display_name": "Singapore",
+        "display_name": "Singapore Marina Bay",
         "country_code": "SG",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     }
   ]

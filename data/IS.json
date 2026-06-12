@@ -17,38 +17,14 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.94,
-          64.15
-        ]
-      },
-      "properties": {
-        "name": "Blaskogabygge - Apavatn Northern Lights",
-        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/blaskogabygge/apavatn-northern-lights.html",
-        "display_name": "Blaskogabygge",
-        "country_code": "IS",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -67,13 +43,14 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -92,63 +69,14 @@
         "country_code": "IS",
         "environment": "marina",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "marina",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.94,
-          64.15
-        ]
-      },
-      "properties": {
-        "name": "Grindavik - Geldingadalir Icelandic Volcano",
-        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/geldingadalir-icelandic-volcano.html",
-        "display_name": "Grindavik",
-        "country_code": "IS",
-        "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "mountain",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.94,
-          64.15
-        ]
-      },
-      "properties": {
-        "name": "Grindavik - Langholl",
-        "url": "https://www.skylinewebcams.com/en/webcam/iceland/sueurland/grindavik/langholl.html",
-        "display_name": "Grindavik",
-        "country_code": "IS",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -167,13 +95,14 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -192,13 +121,14 @@
         "country_code": "IS",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "mountain",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T02:35:25.652749",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -217,13 +147,14 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -231,24 +162,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -21.8954,
-          64.1355
+          -22.43931,
+          63.83849
         ]
       },
       "properties": {
-        "name": "Reykjavik - Borg",
-        "url": "https://www.skylinewebcams.com/en/webcam/iceland/greater-reykjavik/reykjavik/borg.html",
-        "display_name": "Reykjavik",
+        "name": "North Reykjanes - Iceland",
+        "url": "https://www.youtube.com/watch?v=yUZTszmpAJE",
+        "display_name": "North Reykjanes",
         "country_code": "IS",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "source_family": "skyline-youtube",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -267,13 +199,14 @@
         "country_code": "IS",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "mountain",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T02:35:25.652749",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -292,13 +225,66 @@
         "country_code": "IS",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.942,
+          64.146
+        ]
+      },
+      "properties": {
+        "name": "Reykjavik City — Iceland",
+        "url": "https://www.youtube.com/watch?v=tYgGEC-ESTw",
+        "display_name": "Reykjavik City — Iceland",
+        "country_code": "IS",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.44,
+          63.86
+        ]
+      },
+      "properties": {
+        "name": "Þorbjörn Reykjanes — Grindavík, Iceland",
+        "url": "https://www.youtube.com/watch?v=8VjPqa2go6o",
+        "display_name": "Þorbjörn Reykjanes — Grindavík",
+        "country_code": "IS",
+        "environment": "nature",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

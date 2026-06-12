@@ -6,6 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.83041,
+          61.51787
+        ]
+      },
+      "properties": {
+        "name": "Akraberg Lighthouse Webcam - Faroe Islands 🎦",
+        "url": "https://s150.ipcamlive.com/streams/9676d1fa4hhcyywvs/stream.m3u8",
+        "display_name": "Akraberg Lighthouse",
+        "country_code": "FO",
+        "environment": "nature",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 06:06:04",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.77,
           62.01
         ]
@@ -17,13 +43,14 @@
         "country_code": "FO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

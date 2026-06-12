@@ -6,24 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.2357,
-          30.0444
+          33.81291,
+          27.25738
         ]
       },
       "properties": {
-        "name": "Cairo - Great Pyramid Of Giza",
-        "url": "https://www.skylinewebcams.com/en/webcam/egypt/cairo/cairo/great-pyramid-of-giza.html",
-        "display_name": "Cairo",
+        "name": "Hurghada - El Gouna Webcam - Egypt 🎦",
+        "url": "https://s122.ipcamlive.com/streams/7am6x4tusoawmgrjz/stream.m3u8",
+        "display_name": "Hurghada",
         "country_code": "EG",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
+        "environment": "coastal",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-25 06:06:12",
+        "source_url_requires": null
       }
     }
   ]

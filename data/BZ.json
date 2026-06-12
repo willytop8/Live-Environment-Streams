@@ -6,24 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.77,
-          17.25
+          -87.97,
+          17.92
         ]
       },
       "properties": {
-        "name": "Placencia - Hummingbird Marina",
-        "url": "https://www.skylinewebcams.com/en/webcam/belize/stann-creek-district/placencia/hummingbird-marina.html",
-        "display_name": "Placencia",
+        "name": "Ambergris Cay Beach",
+        "url": "https://www.youtube.com/watch?v=02I8oggFCOQ",
+        "display_name": "Ambergris Cay Beach",
         "country_code": "BZ",
-        "environment": "lake",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "lake",
-        "url_type": "html_page",
+        "environment": "coastal",
+        "source_family": "camguide",
+        "quality_tier": "standard",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-25 03:16:23",
+        "source_url_requires": null
       }
     }
   ]

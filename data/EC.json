@@ -6,224 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.51,
-          -0.22
+          -78.3412,
+          -2.0053
         ]
       },
       "properties": {
-        "name": "Montanita Santa Elena",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita-santa-elena.html",
-        "display_name": "Santa Elena",
+        "name": "Sangay Volcano 24/7 4K — Morona Santiago, Ecuador",
+        "url": "https://www.youtube.com/watch?v=vK3RouzZoT4",
+        "display_name": "Sangay Volcano 4K — Morona Santiago, Ecuador",
         "country_code": "EC",
         "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Playas - Engabao",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/provincia-del-guayas/playas/engabao.html",
-        "display_name": "Playas",
-        "country_code": "EC",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Puerto Lopez - Las Tunas",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/manabi/puerto-lopez/las-tunas.html",
-        "display_name": "Puerto Lopez",
-        "country_code": "EC",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Puerto Lopez - Playa Ayampe",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/manabi/puerto-lopez/playa-ayampe.html",
-        "display_name": "Puerto Lopez",
-        "country_code": "EC",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Salinas - Paco Illescas",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/santa-elena/salinas/paco-illescas.html",
-        "display_name": "Salinas",
-        "country_code": "EC",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Santa Cruz Island - Galapagos Ecuador",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/galapagos/santa-cruz-island/galapagos-ecuador.html",
-        "display_name": "Santa Cruz Island",
-        "country_code": "EC",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Santa Elena - Ayangue Beach",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/ayangue-beach.html",
-        "display_name": "Santa Elena",
-        "country_code": "EC",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Santa Elena - Montanita",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/montanita.html",
-        "display_name": "Santa Elena",
-        "country_code": "EC",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.51,
-          -0.22
-        ]
-      },
-      "properties": {
-        "name": "Santa Elena - Playa De Ballenita Capaes",
-        "url": "https://www.skylinewebcams.com/en/webcam/ecuador/santa-elena/santa-elena/playa-de-ballenita-capaes.html",
-        "display_name": "Santa Elena",
-        "country_code": "EC",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 05:04:24",
+        "source_url_requires": null
       }
     }
   ]

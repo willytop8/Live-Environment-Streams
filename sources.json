@@ -3,190 +3,775 @@
     "full_name": "Skyline Webcams",
     "country": "multi",
     "license_type": "fair_use",
-    "url_types": ["hls", "html_page"],
+    "url_types": [
+      "html_page"
+    ],
     "refresh_method": "token_auth",
     "website": "https://www.skylinewebcams.com",
-    "stream_count": 2771,
-    "notes": "665 streams have direct HLS URLs with expiring auth tokens. 2106 are HTML pages requiring browser/JS extraction to get the actual stream URL."
+    "stream_count": 1684,
+    "notes": "Page URLs only — direct HLS URLs use expiring auth tokens and are intentionally not published. Extract the m3u8 from the page at fetch time.",
+    "active_count": 1284
   },
   "vdot": {
     "full_name": "Virginia Department of Transportation",
     "country": "US",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls"
+    ],
     "refresh_method": "static",
     "website": "https://www.511virginia.org",
     "stream_count": 1168,
-    "notes": "Reliable public feeds. 100% unique coordinates. Primary US traffic source."
-  },
-  "mdsha": {
-    "full_name": "Maryland State Highway Administration",
-    "country": "US",
-    "license_type": "public_domain",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://chart.maryland.gov",
-    "stream_count": 404,
-    "notes": "Reliable public feeds. 100% unique coordinates."
-  },
-  "autobahn_nrw": {
-    "full_name": "Autobahn NRW Traffic Cameras",
-    "country": "DE",
-    "license_type": "public_domain",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://www.verkehr.nrw",
-    "stream_count": 281,
-    "notes": "German autobahn cameras. 58% unique coordinates — multiple cameras share interchange-level coords."
-  },
-  "deldot": {
-    "full_name": "Delaware Department of Transportation",
-    "country": "US",
-    "license_type": "public_domain",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://deldot.gov",
-    "stream_count": 261,
-    "notes": "Reliable public feeds. 100% unique coordinates."
-  },
-  "nysdot": {
-    "full_name": "New York State Department of Transportation",
-    "country": "US",
-    "license_type": "public_domain",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://511ny.org",
-    "stream_count": 91,
-    "notes": "Reliable public feeds. 100% unique coordinates."
+    "notes": "Reliable public feeds. 100% unique coordinates. Primary US traffic source.",
+    "active_count": 1168
   },
   "opencctv": {
     "full_name": "OpenCCTV Public Feed Aggregator",
     "country": "multi",
     "license_type": "open_data",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls",
+      "html_page",
+      "youtube"
+    ],
     "refresh_method": "static",
     "website": "https://opencctv.com",
-    "stream_count": 30,
-    "notes": "Aggregated public CCTV feeds from various countries."
+    "stream_count": 746,
+    "notes": "Aggregated public CCTV feeds from various countries.",
+    "active_count": 668
   },
-  "ladot": {
-    "full_name": "Los Angeles Department of Transportation",
+  "mdsha": {
+    "full_name": "Maryland State Highway Administration",
     "country": "US",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls"
+    ],
     "refresh_method": "static",
-    "website": "https://www.ladot.lacity.org",
-    "stream_count": 30,
-    "notes": "LA traffic cameras. 100% unique coordinates."
+    "website": "https://chart.maryland.gov",
+    "stream_count": 404,
+    "notes": "Reliable public feeds. 100% unique coordinates.",
+    "active_count": 404
+  },
+  "deldot": {
+    "full_name": "Delaware Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": [
+      "hls"
+    ],
+    "refresh_method": "static",
+    "website": "https://deldot.gov",
+    "stream_count": 261,
+    "notes": "Reliable public feeds. 100% unique coordinates.",
+    "active_count": 0
+  },
+  "autobahn_nrw": {
+    "full_name": "Autobahn NRW Traffic Cameras",
+    "country": "DE",
+    "license_type": "public_domain",
+    "url_types": [
+      "hls",
+      "html_page"
+    ],
+    "refresh_method": "static",
+    "website": "https://www.verkehr.nrw",
+    "stream_count": 252,
+    "notes": "German autobahn cameras. 58% unique coordinates — multiple cameras share interchange-level coords.",
+    "active_count": 1
+  },
+  "trafficvision": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 245,
+    "active_count": 0,
+    "full_name": "trafficvision",
+    "country": "TH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "manual": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 224,
+    "active_count": 224,
+    "full_name": "manual",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "skyline-youtube": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 167,
+    "active_count": 13,
+    "full_name": "skyline-youtube",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "itic": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 88,
+    "active_count": 0,
+    "full_name": "itic",
+    "country": "TH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
   },
   "youtube": {
     "full_name": "YouTube Live Streams",
     "country": "multi",
     "license_type": "fair_use",
-    "url_types": ["youtube"],
+    "url_types": [
+      "youtube"
+    ],
     "refresh_method": "static",
     "website": "https://www.youtube.com",
-    "stream_count": 24,
-    "notes": "YouTube Live watch URLs. Use yt-dlp to extract HLS manifest."
+    "stream_count": 86,
+    "notes": "YouTube Live watch URLs. Use yt-dlp to extract HLS manifest.",
+    "active_count": 67
+  },
+  "worldviewstream": {
+    "url_types": [
+      "hls",
+      "youtube"
+    ],
+    "stream_count": 82,
+    "active_count": 79,
+    "full_name": "worldviewstream",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "balticlivecam": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 64,
+    "active_count": 45,
+    "full_name": "balticlivecam",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "camguide": {
+    "url_types": [
+      "hls",
+      "youtube"
+    ],
+    "stream_count": 53,
+    "active_count": 26,
+    "full_name": "camguide",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "webcamera_pl": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 52,
+    "active_count": 47,
+    "full_name": "webcamera_pl",
+    "country": "PL",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "iowa_dot": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 50,
+    "active_count": 50,
+    "full_name": "iowa_dot",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "atcs-tasikmalaya": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 31,
+    "active_count": 0,
+    "full_name": "atcs-tasikmalaya",
+    "country": "ID",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "beachcam_meo": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 31,
+    "active_count": 31,
+    "full_name": "beachcam_meo",
+    "country": "PT",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "OpenTrafficCamMap": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 31,
+    "active_count": 31,
+    "full_name": "OpenTrafficCamMap",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "nysdot": {
+    "full_name": "New York State Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": [
+      "hls"
+    ],
+    "refresh_method": "static",
+    "website": "https://511ny.org",
+    "stream_count": 23,
+    "notes": "Reliable public feeds. 100% unique coordinates.",
+    "active_count": 0
   },
   "vegvesen": {
     "full_name": "Norwegian Public Roads Administration",
     "country": "NO",
     "license_type": "public_domain",
-    "url_types": ["http_image"],
+    "url_types": [
+      "html_page"
+    ],
     "refresh_method": "static",
     "website": "https://www.vegvesen.no",
     "stream_count": 22,
-    "notes": "Norwegian road cameras. 55% unique coordinates. HTTP image endpoints, not video streams."
+    "notes": "Norwegian road cameras. 55% unique coordinates. HTTP image endpoints, not video streams.",
+    "active_count": 0
   },
   "ktict": {
     "full_name": "Korea Transport Institute Traffic Cameras",
     "country": "KR",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "html_page"
+    ],
     "refresh_method": "static",
     "website": "https://www.ktict.co.kr",
     "stream_count": 20,
-    "notes": "Korean traffic cameras."
+    "notes": "Korean traffic cameras.",
+    "active_count": 0
   },
-  "iticfoundation": {
-    "full_name": "ITIC Foundation Cameras",
-    "country": "TH",
-    "license_type": "public_domain",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://www.iticfoundation.org",
-    "stream_count": 20,
-    "notes": "Thai traffic and environment cameras."
+  "jazbaz": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 19,
+    "active_count": 0,
+    "full_name": "jazbaz",
+    "country": "PH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
   },
   "taiwan_freeway": {
     "full_name": "Taiwan Freeway Bureau",
     "country": "TW",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "html_page"
+    ],
     "refresh_method": "static",
     "website": "https://www.freeway.gov.tw",
     "stream_count": 18,
-    "notes": "Taiwan highway cameras. Multiple CCTV server endpoints."
+    "notes": "Taiwan highway cameras. Multiple CCTV server endpoints.",
+    "active_count": 0
   },
-  "paspro": {
-    "full_name": "PasPro Traffic Cameras",
-    "country": "ID",
-    "license_type": "unknown",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": null,
+  "ladot_probe": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 14,
+    "active_count": 0,
+    "full_name": "ladot_probe",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "resortcams": {
+    "url_types": [
+      "hls"
+    ],
     "stream_count": 12,
-    "notes": "Indonesian traffic cameras."
+    "active_count": 8,
+    "full_name": "resortcams",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "wetmet-poconos": {
+    "url_types": [
+      "html_page"
+    ],
+    "stream_count": 11,
+    "active_count": 10,
+    "full_name": "wetmet-poconos",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "europe_rainy": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 10,
+    "active_count": 0,
+    "full_name": "europe_rainy",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube_discovery": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 10,
+    "active_count": 10,
+    "full_name": "youtube_discovery",
+    "country": "XX",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "sitemap_webcam_pool": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 9,
+    "active_count": 9,
+    "full_name": "sitemap_webcam_pool",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "ladot": {
+    "full_name": "Los Angeles Department of Transportation",
+    "country": "US",
+    "license_type": "public_domain",
+    "url_types": [
+      "hls"
+    ],
+    "refresh_method": "static",
+    "website": "https://www.ladot.lacity.org",
+    "stream_count": 9,
+    "notes": "LA traffic cameras. 100% unique coordinates.",
+    "active_count": 0
   },
   "vdotcameras": {
     "full_name": "VDOT Secondary Camera Feeds",
     "country": "US",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls"
+    ],
     "refresh_method": "static",
     "website": "https://www.511virginia.org",
     "stream_count": 8,
-    "notes": "Secondary VDOT feeds, separate endpoint from primary vdot source."
+    "notes": "Secondary VDOT feeds, separate endpoint from primary vdot source.",
+    "active_count": 0
   },
-  "earthcam": {
-    "full_name": "EarthCam Network",
+  "paspro": {
+    "full_name": "PasPro Traffic Cameras",
+    "country": "ID",
+    "license_type": "unknown",
+    "url_types": [
+      "hls"
+    ],
+    "refresh_method": "static",
+    "website": null,
+    "stream_count": 7,
+    "notes": "Indonesian traffic cameras.",
+    "active_count": 0
+  },
+  "youtube_scenic": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 7,
+    "active_count": 0,
+    "full_name": "youtube_scenic",
     "country": "multi",
     "license_type": "fair_use",
-    "url_types": ["hls"],
-    "refresh_method": "static",
-    "website": "https://www.earthcam.com",
-    "stream_count": 6,
-    "notes": "Labeled as EarthCam but actual URLs point to independent endpoints (iol.pt, portfever.com, floridakeysmedia.com). May work without paywall — needs individual verification."
+    "refresh_method": "static"
   },
-  "panama_canal": {
-    "full_name": "Panama Canal Authority Webcams",
-    "country": "PA",
+  "iticfoundation": {
+    "full_name": "ITIC Foundation Cameras",
+    "country": "TH",
     "license_type": "public_domain",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls"
+    ],
     "refresh_method": "static",
-    "website": "https://www.pancanal.com",
+    "website": "https://www.iticfoundation.org",
+    "stream_count": 7,
+    "notes": "Thai traffic and environment cameras.",
+    "active_count": 0
+  },
+  "us_states": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 6,
+    "active_count": 0,
+    "full_name": "us_states",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "Louisiana_DOT": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 6,
+    "active_count": 6,
+    "full_name": "Louisiana_DOT",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "osm_webcam_pages": {
+    "url_types": [
+      "hls",
+      "html_page"
+    ],
+    "stream_count": 5,
+    "active_count": 5,
+    "full_name": "osm_webcam_pages",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "worldviewstream-youtube": {
+    "url_types": [
+      "youtube"
+    ],
     "stream_count": 4,
-    "notes": "Panama Canal views."
+    "active_count": 4,
+    "full_name": "worldviewstream-youtube",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "openwebcamdb-youtube": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 4,
+    "active_count": 4,
+    "full_name": "openwebcamdb-youtube",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-live-search-3": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 4,
+    "active_count": 4,
+    "full_name": "youtube-live-search-3",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "camguide-ipcamlive": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 4,
+    "active_count": 3,
+    "full_name": "camguide-ipcamlive",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-ph-edge-babor": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 4,
+    "active_count": 0,
+    "full_name": "youtube-ph-edge-babor",
+    "country": "PH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-ph-maria-deseo": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 4,
+    "active_count": 0,
+    "full_name": "youtube-ph-maria-deseo",
+    "country": "PH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-miami-harbor": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 3,
+    "active_count": 3,
+    "full_name": "youtube-miami-harbor",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "ipcamlive-ocean-city-md": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 3,
+    "active_count": 3,
+    "full_name": "ipcamlive-ocean-city-md",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "worldviewstream-direct-hls": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 2,
+    "active_count": 2,
+    "full_name": "worldviewstream-direct-hls",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "ipcamlive-worldviewstream": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 2,
+    "active_count": 2,
+    "full_name": "ipcamlive-worldviewstream",
+    "country": "multi",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "livecam_asia_youtube": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 2,
+    "active_count": 1,
+    "full_name": "livecam_asia_youtube",
+    "country": "JP",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "brownrice-visitdebeaches": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 2,
+    "active_count": 1,
+    "full_name": "brownrice-visitdebeaches",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-live-search-4": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-live-search-4",
+    "country": "BL",
+    "license_type": "fair_use",
+    "refresh_method": "static"
   },
   "brownrice": {
     "full_name": "Brown Rice Internet Japan",
     "country": "JP",
     "license_type": "unknown",
-    "url_types": ["hls"],
+    "url_types": [
+      "hls"
+    ],
     "refresh_method": "static",
     "website": null,
     "stream_count": 1,
-    "notes": "Single Japanese stream."
+    "notes": "Single Japanese stream.",
+    "active_count": 1
   },
-  "quebec511": {
-    "full_name": "Quebec 511 Traffic Cameras",
-    "country": "CA",
-    "license_type": "public_domain",
-    "url_types": ["http_image"],
-    "refresh_method": "static",
-    "website": "https://www.quebec511.info",
+  "ipcamlive-crwebcams": {
+    "url_types": [
+      "hls"
+    ],
     "stream_count": 1,
-    "notes": "HTTP image endpoint."
+    "active_count": 1,
+    "full_name": "ipcamlive-crwebcams",
+    "country": "CR",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-showme-caribbean": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-showme-caribbean",
+    "country": "CW",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "wikaserangpanimbang": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 0,
+    "full_name": "wikaserangpanimbang",
+    "country": "ID",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "margaharjaya": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 0,
+    "full_name": "margaharjaya",
+    "country": "ID",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-kominfo-gunungkidul": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-kominfo-gunungkidul",
+    "country": "ID",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "jogjaprov": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "jogjaprov",
+    "country": "ID",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "india_discovery": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "india_discovery",
+    "country": "IN",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "japan_discovery": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "japan_discovery",
+    "country": "JP",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-ph-benjie": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 0,
+    "full_name": "youtube-ph-benjie",
+    "country": "PH",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "ipcamlive-midatlantic-gap": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "ipcamlive-midatlantic-gap",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "rtsp.me": {
+    "url_types": [
+      "html_page"
+    ],
+    "stream_count": 1,
+    "active_count": 0,
+    "full_name": "rtsp.me",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "wral": {
+    "url_types": [
+      "hls"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "wral",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-live-search": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-live-search",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-waikiki-aquarium": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-waikiki-aquarium",
+    "country": "US",
+    "license_type": "fair_use",
+    "refresh_method": "static"
+  },
+  "youtube-live-search-2": {
+    "url_types": [
+      "youtube"
+    ],
+    "stream_count": 1,
+    "active_count": 1,
+    "full_name": "youtube-live-search-2",
+    "country": "VG",
+    "license_type": "fair_use",
+    "refresh_method": "static"
   }
 }

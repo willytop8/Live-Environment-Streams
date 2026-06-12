@@ -6,6 +6,4348 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          108.21619,
+          -7.33086
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Batas Kota Arah Bandung",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/bataskotaarahbandung.m3u8",
+        "display_name": "ATCS Tasikmalaya — Batas Kota Arah Bandung, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22574,
+          -7.3272
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Karang Resik",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/bataskotaciamis.m3u8",
+        "display_name": "ATCS Tasikmalaya — Karang Resik, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22302,
+          -7.32073
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Ruas M. Hatta",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/mhatta.m3u8",
+        "display_name": "ATCS Tasikmalaya — Ruas M. Hatta, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21394,
+          -7.33526
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Alun-alun Arah Sutisna Senjaya",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahsutsen.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Alun-alun Arah Sutisna Senjaya, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21339,
+          -7.32488
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Alun-alun Arah Tentara Pelajar",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahtentarapelajar.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Alun-alun Arah Tentara Pelajar, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22297,
+          -7.32777
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Bantar",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/bantar.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Bantar, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21724,
+          -7.31854
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Bojong Jengkol Arah Wasita Kusuma",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahwasita.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Bojong Jengkol Arah Wasita Kusuma, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2181,
+          -7.3363
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Cibogor Arah Ciamis",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/cibogorarahciamis.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Cibogor Arah Ciamis, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22344,
+          -7.33334
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Cibogor Arah M. Hatta",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/cibogorarahmhatta.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Cibogor Arah M. Hatta, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2263,
+          -7.32287
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Cibogor Arah Sutisna Senjaya",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/cibogorarahsutsen.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Cibogor Arah Sutisna Senjaya, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22656,
+          -7.33398
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Cihideung",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/cihideung.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Cihideung, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22208,
+          -7.32437
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Gunung Sabeulah",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/gunungsabeulah.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Gunung Sabeulah, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22932,
+          -7.32697
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Leuwidahu Arah Bojong Jengkol",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/leuwidahuarahjati.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Leuwidahu Arah Bojong Jengkol, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22164,
+          -7.32391
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Leuwidahu Arah Jati",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/leuwidahuarahbojongjengkol.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Leuwidahu Arah Jati, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2129,
+          -7.32836
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Lima",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/simpanglima.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Lima, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22986,
+          -7.33136
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Masjid Agung",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/masjidagungptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Masjid Agung, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21342,
+          -7.31953
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Masjid Agung Arah Gedung Dakwah",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/masjidagungarahgedungdakwah.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Masjid Agung Arah Gedung Dakwah, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22748,
+          -7.31883
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Panyerutan FIX",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/panyerutanarahnagarawangi.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Panyerutan FIX, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22831,
+          -7.31973
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Panyerutan PTZ",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/panyerutanptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Panyerutan PTZ, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22987,
+          -7.31998
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Paseh",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/pasehptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Paseh, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21451,
+          -7.31975
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Pataruman FIX",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/patarumanarahnagarawangi.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Pataruman FIX, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22198,
+          -7.33624
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Pataruman PTZ",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/patarumanptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Pataruman PTZ, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22576,
+          -7.31811
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Rancabango Arah Letnan Harun",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahletnanharun.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Rancabango Arah Letnan Harun, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22521,
+          -7.33515
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Rancabango Arah Simpang Bantar",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Rancabango Arah Simpang Bantar, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21099,
+          -7.33363
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Rumah Sakit",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/rumahsakit.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Rumah Sakit, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21864,
+          -7.32413
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Sutisna Senjaya",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/sutisnasenjaya.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Sutisna Senjaya, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2192,
+          -7.32725
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Bandung",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahbandung.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Bandung, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22509,
+          -7.32189
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Bojong Jengkol",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahbojongjengkol.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Bojong Jengkol, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22379,
+          -7.32596
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Letnan Harun",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/wasitakusumaarahletnanharun.m3u8",
+        "display_name": "ATCS Tasikmalaya — Simpang Wasita Kusuma Arah Letnan Harun, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21194,
+          -7.33025
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Taman Alun Alun",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunptz.m3u8",
+        "display_name": "ATCS Tasikmalaya — Taman Alun Alun, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21766,
+          -7.3346
+        ]
+      },
+      "properties": {
+        "name": "ATCS Tasikmalaya — Taman Kota (Batu Andesit) Arah HZ Mustofa",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/tamankota.m3u8",
+        "display_name": "ATCS Tasikmalaya — Taman Kota (Batu Andesit) Arah HZ Mustofa, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "atcs-tasikmalaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.154,
+          -6.346
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - IC TUNJUNGTEJA",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/17/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-30 07:59:07",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.157,
+          -6.345
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 65+900",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/3/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.165,
+          -6.337
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 74+400",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/7/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-24 06:47:18",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.166,
+          -6.334
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 75+500",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/8/index.m3u8",
+        "display_name": "Banten, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "wikaserangpanimbang",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.17,
+          -6.33
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 81+200",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/14/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-01 07:56:27",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.177,
+          -6.325
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - MR 89+900",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/22/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-06 10:05:52",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.181,
+          -6.321
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - ON RAMP WALANTAKA",
+        "url": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/1/index.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48,
+          -6.32
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 12+750 A",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 08:06:02",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.487,
+          -6.315
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 13+200 A",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10003.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 08:21:10",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.492,
+          -6.308
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 13+700 B",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10006.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.499,
+          -6.303
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 14+700 A",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10009.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.504,
+          -6.296
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 15+200 B",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10012.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.511,
+          -6.291
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 16+100 A",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10015.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.516,
+          -6.284
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - 16+650 B",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10018.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52236,
+          -6.20384
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Cikupa Kedaton 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzs6e5818bdsed2jppp/01jsnyfnzs6e5818bdsed2jppp.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52,
+          -6.28
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - GT BSD Timur 1",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10025.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.524,
+          -6.276
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Jalan Akses On Ramp BSD Timur 1 On Ramp",
+        "url": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10021.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37423,
+          -6.20659
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Jayanti 1 Arah Serang",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.55995,
+          -6.22283
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Jl. Pantura Bitung 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqtpxmrvd9pcbbsh2jq61q/01jzvqtpxmrvd9pcbbsh2jq61q.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50548,
+          -6.22657
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Jl.Pemda Tigaraksa",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvpeyhgex8qb9j5h2dct3a7/01jzvpeyhgex8qb9j5h2dct3a7.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51221,
+          -6.0581
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Kecamatan Mauk",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqax0cms7wh04jqhw61t3r/01jzvqax0cms7wh04jqhw61t3r.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4844,
+          -6.27118
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Pemda Tigaraksa",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrev0qphd8m3v37rqf1xf9y/01jsrev0qphd8m3v37rqf1xf9y.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41829,
+          -6.32625
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Adiyasa 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrefb2z1e8y217vqdn6q60f/01jsrefb2z1e8y217vqdn6q60f.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4838,
+          -6.26189
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Bugel Tigaraksa",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01k4mapmw669p23ks3dkpkb066/01k4mapmw669p23ks3dkpkb066.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70851,
+          -6.09238
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Dadap 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcpqn62mej02bc0h565epz/01jsrcpqn62mej02bc0h565epz.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-02 06:10:47",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61564,
+          -6.22883
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Islamic 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrc5g3cz9wsb0305zte4h04/01jsrc5g3cz9wsb0305zte4h04.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57712,
+          -6.32828
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Legok 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrdvkp3ssgqrtemf8kn8gv6/01jsrdvkp3ssgqrtemf8kn8gv6.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5306,
+          -6.17054
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Pasar Kemis 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0t8vyed4mcezqccqfngha/01jsr0t8vyed4mcezqccqfngha.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.52664,
+          -6.12961
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Rajeg Kukun 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr079n4btzjemf6r9br473w/01jsr079n4btzjemf6r9br473w.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57561,
+          -6.11887
+        ]
+      },
+      "properties": {
+        "name": "ID - Banten - Tangerang - Simpang Sepatan 1",
+        "url": "https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr485tfw1cwwa1v6c3jpgfd/01jsr485tfw1cwwa1v6c3jpgfd.m3u8",
+        "display_name": "Banten",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-03 14:37:08",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32568,
+          -7.95323
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Bantul - Bendung Klegen",
+        "url": "https://stream.bantulkab.go.id/memfs/a293d997-0258-4317-ac84-0b1bc4abf14c.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-22 17:29:33",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34818,
+          -7.83984
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Bantul - Bendung Merdiko Niten",
+        "url": "https://stream.bantulkab.go.id/memfs/803b3df5-f009-4b2a-8984-be6618cf9f54.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39234,
+          -7.79706
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Depan DPRD Pos Security",
+        "url": "https://cctvjss.jogjakota.go.id/dprd-kota/depan-dprd-pos-security.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39086,
+          -7.79926
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Gerbang Masuk Utara V. Timur (Luar)",
+        "url": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Masuk_Utara_View_Timur-Luar.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39218,
+          -7.80052
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Gerbang Timur PKK V. Selatan (Luar)",
+        "url": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Timur_PKK_View_Selatan-Luar.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36967,
+          -7.78919
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Ahmad Jazuli (Apotek K24)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Ahmad-Jazuli.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37217,
+          -7.78683
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. F.M. Noto (Gardu ANIEM)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Gardu-Aniem.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37457,
+          -7.78582
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Juadi (Pojok Utara-Barat Telkom)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Juadi.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.361,
+          -7.80115
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. KH. Ahmad Dahlan V. Barat (Barat Kospin Jasa)",
+        "url": "https://cctvjss.jogjakota.go.id/tps-liar/S3_Nyai_Ahmad_Dahlan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38264,
+          -7.79726
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Kenari V. Barat (Timur SMKN 6)",
+        "url": "https://cctvjss.jogjakota.go.id/tps-liar/Jalan_Kenari.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35969,
+          -7.81348
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. MT. Haryono V. Barat (Barat Hotel Ashtary)",
+        "url": "https://cctvjss.jogjakota.go.id/tps-liar/Jalan_MT_Haryono.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37106,
+          -7.7932
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Mas Suharto V. Selatan (Depan LASERCOM)",
+        "url": "https://cctvjss.jogjakota.go.id/tps-liar/S3_Jl_Mas Suharto-Jl_Tegalpanggung.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37159,
+          -7.79325
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Mas Suharto V. Utara (Barat Sari Wangi Parfum)",
+        "url": "https://cctvjss.jogjakota.go.id/tps-liar/S3_Jl_Mas Suharto-Jl_Tukangan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37133,
+          -7.7879
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Nyoman Oka (Gereja Kotabaru)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Nyoman-Oka.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37538,
+          -7.78732
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Wardhani (Selatan-Timur SMPN 5)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Wardhani.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37492,
+          -7.78816
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Jl. Yos Sudarso (Mie Gacoan)",
+        "url": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Yos-Sudarso.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3617,
+          -7.82077
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - KemMJ-Jalan Selatan Kemantren",
+        "url": "https://cctvjss.jogjakota.go.id/kecamatan/KemMJ-JalanSelatanKemantren.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.356,
+          -7.80601
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - KemNG-Wahid Hasyim V. Selatan",
+        "url": "https://cctvjss.jogjakota.go.id/kecamatan/KemNG-Wahid_Hasyim_V_Selatan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36885,
+          -7.79055
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Kleringan (Jl. Abu Bakar Ali)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Kleringan_Abu_Bakar_Ali.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36603,
+          -7.78997
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Malioboro_Selatan_Teteg",
+        "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "768x432",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3654,
+          -7.79589
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Malioboro_Terang_Bulan",
+        "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36625,
+          -7.7902
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Malioboro_Utara_Inna_Malioboro",
+        "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36495,
+          -7.80103
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Nol Km. - Gd. Agung",
+        "url": "https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36636,
+          -7.78761
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Optic Tugu",
+        "url": "https://cctvjss.jogjakota.go.id/margo-utomo/Optic-Tugu.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35624,
+          -7.8013
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Parkiran Ngabean",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38818,
+          -7.78094
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Pasar Demangan View Selatan",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Demangan_View_Selatan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36959,
+          -7.82298
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Brontokusuman (blkg Kel) 1",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40352,
+          -7.8265
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Bumen",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_bumen.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39348,
+          -7.81749
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Gajah Wong Edu Park 1",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37588,
+          -7.79851
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Gunungketur 1",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_gunungketur_1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-22 17:50:17",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35153,
+          -7.80272
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Jopraban 1",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_jopraban_1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38662,
+          -7.78075
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Klitren 2",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_2.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34969,
+          -7.79045
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Segoro Amarto Tegalrejo 2",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_2.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-02 09:02:32",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38486,
+          -7.80101
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - RTHP Semaki  1",
+        "url": "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39164,
+          -7.79197
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang APMD (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_apmd.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38319,
+          -7.81617
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang APPI - JL.Mentri Supeno",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38367,
+          -7.7974
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Amongrogo View Timur",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37833,
+          -7.78826
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Atmosukarto (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Atmosukarto.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3538,
+          -7.79079
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang BPK (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3923,
+          -7.79962
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Balaikota View Utara-Barat",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40082,
+          -7.82047
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Basen",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Basen.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3726,
+          -7.79683
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Bausasran (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_S4_Bausasran.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x960",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36106,
+          -7.77838
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Borobudur Plaza",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39224,
+          -7.78321
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang DeBritto View Utara",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39169,
+          -7.81439
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Gambiran 1 - Jl.Veteran",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-02 07:13:30",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37763,
+          -7.7973
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Gayam (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_gayam.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "720x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-29 10:01:22",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40141,
+          -7.80173
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Gedongkuning (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gedongkuning.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38908,
+          -7.80205
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Glagahsari",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36928,
+          -7.80156
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Gondomanan View Selatan",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gondomanan_View_Selatan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37481,
+          -7.78286
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Gramedia (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gramedia_2.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35258,
+          -7.78172
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Jati Kencana (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_JatiKencana.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36762,
+          -7.82463
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Jogokariyan V. Utara",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Jogokariyan_View_Utara.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35594,
+          -7.81294
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Jokteng Kulon (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "720x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36475,
+          -7.80108
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang KM Nol (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x960",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-28 15:05:58",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37301,
+          -7.81504
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Karang Tunggal (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Karang_Tunggal_PTZ.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x960",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37321,
+          -7.81519
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Karang Tunggal (S3 Jl. Kol.Sugiyono - Jl. Sisingamangaraja) 1",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35791,
+          -7.78273
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Kiai Mojo 1 (Barat)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35645,
+          -7.79739
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Letjen Suprapto-KS. Tubun V. Selatan",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Selatan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36902,
+          -7.80896
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Mantrigawen (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Mantrigawen_PTZ.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37438,
+          -7.77609
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Mirota (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36288,
+          -7.81396
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Pasar Gading 1 (Timur)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-22 20:47:50",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37315,
+          -7.82381
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Pasar Telo (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Telo_PTZ.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x960",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35039,
+          -7.80786
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Patangpuluhan (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Patangpuluhan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36065,
+          -7.78273
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Pingit 1 - Jl.Tentara Pelajar",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.40206,
+          -7.81071
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Rejowinangun View Timur",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39521,
+          -7.80218
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang SGM (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_simpangsgm.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3554,
+          -7.80063
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Serangan (PTZ)",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34951,
+          -7.81196
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Sugeng Jeroni 1 - Jl.Sugeng Jeroni",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37217,
+          -7.78284
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Terban View Timur",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-01 09:19:16",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37839,
+          -7.82481
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Simpang Wirosaban View Barat",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Barat.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39598,
+          -7.79091
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Sungai Gajah Wong 2",
+        "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong2.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38926,
+          -7.72265
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Sungai Ngentak",
+        "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.35666,
+          -7.78949
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Sungai Winongo",
+        "url": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_kaliwinongo.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39079,
+          -7.79899
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Utara Balaikota V. Gerbang Masuk",
+        "url": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Utara_Balkot_V_Gerbang_Masuk.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36665,
+          -7.78547
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Utara Jl. Gowongan Lor",
+        "url": "https://cctvjss.jogjakota.go.id/margo-utomo/Gowongan-Lor.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38125,
+          -7.78282
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Utara-Timur Gardena (Jl. Urip Sumoharjo) V. Timur",
+        "url": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Utara-Timur_Gardena_Jl_Urip Sumoharjo_V_Timur.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36651,
+          -7.78623
+        ]
+      },
+      "properties": {
+        "name": "ID - DI Yogyakarta - Yogyakarta - Wijaya Baru Travel",
+        "url": "https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/playlist.m3u8",
+        "display_name": "DI Yogyakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824,
+          -6.296
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 22+400",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/269363542266933731794240.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.831,
+          -6.291
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 23+600",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/101502919369166746058073.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-22 18:06:59",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.924,
+          -6.166
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 24+150",
+        "url": "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 18:31:35",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.932,
+          -6.158
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 28+150",
+        "url": "https://camera.jtd.co.id/camera/share/tios/1/61/index.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-16 07:34:56",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.883,
+          -6.119
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 58+400 B",
+        "url": "https://extstream.hk-opt2.com/LiveApp/streams/501264524429471982550467.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "800x600",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 18:52:39",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.892,
+          -6.108
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 60+000 A",
+        "url": "https://extstream.hk-opt2.com/LiveApp/streams/062223762734246730973930.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "480x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.899,
+          -6.103
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - 61+400 B",
+        "url": "https://extstream.hk-opt2.com/LiveApp/streams/241370079371388169899174.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "480x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.904,
+          -6.096
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - ATP GT KOJA DIRECT",
+        "url": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 18:10:36",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.936,
+          -6.154
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - GERBANG TOL CAKUNG",
+        "url": "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 16:38:32",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835,
+          -6.287
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - JORRS GT AMPERA 1",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/314944433014333275671534.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84,
+          -6.28
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - JORRS GT GEDONG 2",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/420058855294412322884038.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.847,
+          -6.275
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - JORRS GT LENTENG AGUNG 2",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/720556408093325199948146.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.848,
+          -6.272
+        ]
+      },
+      "properties": {
+        "name": "ID - DKI Jakarta - Jakarta - JORRS GT PASAR REBO",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/786252567929925275184104.m3u8",
+        "display_name": "DKI Jakarta",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22484,
+          -7.32684
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Alun-alun Arah Otista",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/alunalunarahotista.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-02 09:29:33",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.20053,
+          -7.28783
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Bojong Jengkol Arah Leuwidahu",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/bojongjengkolarahleuwidahu.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2213,
+          -7.3211
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Cimulu",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/cimulu.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-01 06:36:52",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22167,
+          -7.32334
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Dewi Sartika Arah Masjid Agung",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/dewisartikaarahmasjidagung.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 10:01:43",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.20548,
+          -7.30406
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Jati",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/jati.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-19 10:50:00",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21583,
+          -7.31574
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Mitra Batik",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/mitrabatik.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:00",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.21907,
+          -7.33445
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Nagarawangi",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/nagarawangi.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-19 09:47:08",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.2179,
+          -7.34821
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Padayungan",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/padayunganarahkawalu.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-19 10:38:25",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.19899,
+          -7.31825
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Barat - Tasikmalaya - Simpang Rancabango Arah Jati",
+        "url": "https://atcs.tasikmalayakota.go.id/camera/rancabangoarahjati.m3u8",
+        "display_name": "Jawa Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.333,
+          -7.509
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Bandar - KM 672 Interchange Bandar",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICBANDARA/icbandara.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-22 12:27:19",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.55,
+          -7.37
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - ENTRANCE BALONGBENDO/Lebani",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-23 03:07:19",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.553,
+          -7.369
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - ENTRANCE BUNDER",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/847256887139548671784810.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-28 07:19:25",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.557,
+          -7.365
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - ENTRANCE KEDAMEAN/BELAHANREJO",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/041189990739437517920329.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-02 09:59:52",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.561,
+          -7.361
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - EXIT BALONGBENDO/Lebani",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/331265484994449150672379.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-01 06:38:55",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.565,
+          -7.357
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - EXIT CERME",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/006355372207807401078801.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.566,
+          -7.354
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - EXIT KEDAMEAN/BELAHANREJO",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/511709328065419305139203.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           113.06,
           -7.7
         ]
@@ -16,13 +4358,14 @@
         "display_name": "Jawa Timur",
         "country_code": "ID",
         "environment": "traffic",
-        "source_family": "paspro",
+        "source_family": "opencctv",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": "704x576",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
         "source_url_requires": null
       }
     },
@@ -38,39 +4381,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - EXIT GENDING",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/977167874427763451746762.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.068,
-          -7.692
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - Gending - GATE GENDING",
-        "url": "https://paspro-streaming.co.id/LiveApp/streams/649541773858342348334288.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "paspro",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -88,39 +4407,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - GENDING 3+300",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/165508286173376779404196.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          113.131,
-          -7.631
-        ]
-      },
-      "properties": {
-        "name": "ID - Jawa Timur - Gending - KM 837+600",
-        "url": "https://paspro-streaming.co.id/LiveApp/streams/138982752655280577416057.m3u8",
-        "display_name": "Jawa Timur",
-        "country_code": "ID",
-        "environment": "traffic",
-        "source_family": "paspro",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -138,14 +4433,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - KM 841+600",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/954022855801602338173268.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -163,14 +4459,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - KM 842+600",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/445611965027008738399060.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -191,13 +4488,14 @@
         "display_name": "Jawa Timur",
         "country_code": "ID",
         "environment": "traffic",
-        "source_family": "paspro",
+        "source_family": "opencctv",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": "640x480",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
         "source_url_requires": null
       }
     },
@@ -213,14 +4511,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - KM 844+600",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/289329487202780435350069.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -238,14 +4537,15 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - KM 845+600",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/369911633632709343267317.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -263,14 +4563,353 @@
       "properties": {
         "name": "ID - Jawa Timur - Gending - KM 846+600",
         "url": "https://paspro-streaming.co.id/LiveApp/streams/662943616394767421464155.m3u8",
-        "display_name": "Jawa Timur",
+        "display_name": "Jawa Timur, Indonesia",
         "country_code": "ID",
         "environment": "traffic",
         "source_family": "paspro",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.573,
+          -7.349
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - IC Sumo",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/236819452805180776792138.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
         "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.578,
+          -7.342
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - JC Wringinanom RAMP 4",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/048785164245493046337198.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.334,
+          -7.506
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Jombang - KM 678 Rest Area Karangdagangan Entrance",
+        "url": "https://toljomo.margaharjaya.co.id/video/KDGBELAKANGARAHMASUK/kdgbelakangarahmasuk.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-29 05:31:39",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.341,
+          -7.501
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Jombang - KM 695 Rest Area Teras Melati",
+        "url": "https://toljomo.margaharjaya.co.id/video/TRMDEPANTENAN/trmdepantenan.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-28 12:29:02",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.585,
+          -7.337
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 01+775",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/274591739819863986114875.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.59,
+          -7.33
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 06+500 JEMBATAN",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/361979054215261289199844.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.594,
+          -7.326
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 10+408",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/054748348552116874910983.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.602,
+          -7.318
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 15+392",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/756303659651485412306606.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.613,
+          -7.309
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 20+392",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/331329686553155425247544.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.621,
+          -7.301
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 24+940",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/055074335929058295473265.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63,
+          -7.29
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - KM 4+100",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/130886110950527754855565.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-29 08:10:34",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.346,
+          -7.494
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Mojokerto - KM 706 Interchange Mojokerto Barat",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICMBRB/icmbrb.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 23:59:22",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.349,
+          -7.493
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Mojokerto - KM 710 Mojokerto",
+        "url": "https://toljomo.margaharjaya.co.id/video/ICMOKERB/icmokerb.m3u8",
+        "display_name": "Jawa Timur, Indonesia",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "margaharjaya",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -291,13 +4930,794 @@
         "display_name": "Jawa Timur",
         "country_code": "ID",
         "environment": "traffic",
-        "source_family": "paspro",
+        "source_family": "opencctv",
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": "704x576",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.641,
+          -7.281
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Ujung Lebani",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/173701300195740936261885.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "704x576",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-04-30 08:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.637,
+          -7.285
+        ]
+      },
+      "properties": {
+        "name": "ID - Jawa Timur - Ujung/Akses Kedamean",
+        "url": "https://cctv.waskitabumiwira.com/LiveApp/streams/116882800699685741425356.m3u8",
+        "display_name": "Jawa Timur",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-15 16:15:49",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.166,
+          -4.134
+        ]
+      },
+      "properties": {
+        "name": "ID - Lampung - Bandar Lampung - 181+000 B",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/OAAGJkYZD1c41675840461119.m3u8",
+        "display_name": "Lampung",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:52",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.611,
+          1.209
+        ]
+      },
+      "properties": {
+        "name": "ID - Riau - 04+700 A",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/SusRia9KwywI1670832780373.m3u8",
+        "display_name": "Riau",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.739,
+          -3.083
+        ]
+      },
+      "properties": {
+        "name": "ID - Sumatera Selatan - Palembang - PALINDRA Gate Pemulutan",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/648176351556242758398370.m3u8",
+        "display_name": "Sumatera Selatan",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 17:20:56",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.747,
+          -3.075
+        ]
+      },
+      "properties": {
+        "name": "ID - Sumatera Selatan - Pemulutan - PALINDRA IC Pemulutan",
+        "url": "https://pub.hk-opt.com/LiveApp/streams/100831563641835272155645.m3u8",
+        "display_name": "Sumatera Selatan",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:52",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32741,
+          -7.88727
+        ]
+      },
+      "properties": {
+        "name": "Komplek Parasamya - Pintu Masuk",
+        "url": "https://stream.bantulkab.go.id/memfs/17a8f189-e12b-433a-8157-91a57e7035f5.m3u8",
+        "display_name": "Komplek Parasamya",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-03-27T00:26:59",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39828,
+          -7.82976
+        ]
+      },
+      "properties": {
+        "name": "Makam Kotagede - Bangsal Dudo",
+        "url": "https://stream.bantulkab.go.id/memfs/39144c71-b7e0-42f9-8362-a33c669ee3f1.m3u8",
+        "display_name": "Makam Kotagede",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39816,
+          -7.82971
+        ]
+      },
+      "properties": {
+        "name": "Makam Kotagede - Sendang",
+        "url": "https://stream.bantulkab.go.id/memfs/e09992bf-ce95-4fbf-baba-95a79dd722f2.m3u8",
+        "display_name": "Makam Kotagede",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39524,
+          -7.9216
+        ]
+      },
+      "properties": {
+        "name": "Makam Pajimatan Imogiri - Tangga Atas",
+        "url": "https://stream.bantulkab.go.id/memfs/20870ab0-03fa-49f3-b499-382acc94a676.m3u8",
+        "display_name": "Makam Pajimatan Imogiri",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "640x360",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-04-02 08:02:41",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3922,
+          -7.92258
+        ]
+      },
+      "properties": {
+        "name": "Makam Pajimatan Imogiri - Terminal View Selatan",
+        "url": "https://stream.bantulkab.go.id/memfs/96cf71a7-c6d6-4634-acf3-43dbc47ce84e.m3u8",
+        "display_name": "Makam Pajimatan Imogiri",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-03-27T00:26:59",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.36536,
+          -7.79636
+        ]
+      },
+      "properties": {
+        "name": "Malioboro_Simpang_Pajeksan_Suryatmajan",
+        "url": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/playlist.m3u8",
+        "display_name": "Malioboro_Simpang_Pajeksan_Suryatmajan",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33302,
+          -7.8798
+        ]
+      },
+      "properties": {
+        "name": "Masjid Agung - Ruang Bermain 04",
+        "url": "https://stream.bantulkab.go.id/memfs/ac18010c-1051-4749-af35-03c3d18e0d5f.m3u8",
+        "display_name": "Masjid Agung",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37119,
+          -7.59091
+        ]
+      },
+      "properties": {
+        "name": "Merapi Volcano 24/7 4K — Central Java, Indonesia",
+        "url": "https://www.youtube.com/watch?v=94yWdfwMHNw",
+        "display_name": "Merapi Volcano 4K — Central Java, Indonesia",
+        "country_code": "ID",
+        "environment": "mountain",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "mountain",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17 05:04:24",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.555,
+          -8.1331
+        ]
+      },
+      "properties": {
+        "name": "Pantai Kukup Beach",
+        "url": "https://www.youtube.com/watch?v=_3fZrqefFt4",
+        "display_name": "Pantai Kukup Beach, Indonesia",
+        "country_code": "ID",
+        "environment": "coastal",
+        "source_family": "youtube-kominfo-gunungkidul",
+        "quality_tier": "premium",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-18 06:35:09",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34865,
+          -7.90448
+        ]
+      },
+      "properties": {
+        "name": "Pemda II Manding - Depan DKPP View Timur",
+        "url": "https://stream.bantulkab.go.id/memfs/9e86882f-b85e-4dc2-8c37-89f99ec1f1c3.m3u8",
+        "display_name": "Pemda II Manding",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-04-22 11:01:56",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.34739,
+          -7.905
+        ]
+      },
+      "properties": {
+        "name": "Pemda II Manding - Pintu Masuk Barat View Barat",
+        "url": "https://stream.bantulkab.go.id/memfs/8b495ebe-8433-4b5a-88a3-d9f509892318.m3u8",
+        "display_name": "Pemda II Manding",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "high",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-04-30 20:18:33",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.79903,
+          -8.19028
+        ]
+      },
+      "properties": {
+        "name": "Sadeng Beach Harbor Waterfront",
+        "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewSadeng.stream/playlist.m3u8",
+        "display_name": "Sadeng Beach Harbor Waterfront, Indonesia",
+        "country_code": "ID",
+        "environment": "harbor",
+        "source_family": "jogjaprov",
+        "quality_tier": "premium",
+        "scene_type": "harbor",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-18 05:26:48",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4471,
+          -7.7625
+        ]
+      },
+      "properties": {
+        "name": "Sambisari Temple Yogyakarta",
+        "url": "https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/playlist.m3u8",
+        "display_name": "Sambisari Temple Yogyakarta, Indonesia",
+        "country_code": "ID",
+        "environment": "landmark",
+        "source_family": "worldviewstream-direct-hls",
+        "quality_tier": "premium",
+        "scene_type": "landmark",
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-18 21:33:28",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.926,
+          -8.105
+        ]
+      },
+      "properties": {
+        "name": "Semeru Volcano 24/7 4K Cam B — East Java, Indonesia",
+        "url": "https://www.youtube.com/watch?v=FXY2qQHpRQs",
+        "display_name": "Semeru Volcano 4K B — East Java, Indonesia",
+        "country_code": "ID",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 05:04:24",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32558,
+          -7.89095
+        ]
+      },
+      "properties": {
+        "name": "Simpang Gose View Barat Daya",
+        "url": "https://stream.bantulkab.go.id/memfs/6dffc8de-cd16-4caa-a161-1fed712ea8f8.m3u8",
+        "display_name": "Simpang Gose View Barat Daya",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-03-27T00:27:01",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32582,
+          -7.89107
+        ]
+      },
+      "properties": {
+        "name": "Simpang Gose View Tenggara",
+        "url": "https://stream.bantulkab.go.id/memfs/758afeb5-8281-4053-ba95-5c12d41ef3a1.m3u8",
+        "display_name": "Simpang Gose View Tenggara",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.39091,
+          -7.87017
+        ]
+      },
+      "properties": {
+        "name": "Simpang Jejeran View Selatan",
+        "url": "https://stream.bantulkab.go.id/memfs/5b08c057-2b07-4b17-a49e-40d1f58cc3b7.m3u8",
+        "display_name": "Simpang Jejeran View Selatan",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.33334,
+          -7.87958
+        ]
+      },
+      "properties": {
+        "name": "Simpang Klodran View Barat",
+        "url": "https://stream.bantulkab.go.id/memfs/918ae1a2-4073-450c-9742-202f70cac18a.m3u8",
+        "display_name": "Simpang Klodran View Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32712,
+          -7.88813
+        ]
+      },
+      "properties": {
+        "name": "Simpang Korpri View Barat",
+        "url": "https://stream.bantulkab.go.id/memfs/38fe6b1c-2563-4c03-bc81-6737c9e4b48c.m3u8",
+        "display_name": "Simpang Korpri View Barat",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-04-27 07:03:39",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.32782,
+          -7.8885
+        ]
+      },
+      "properties": {
+        "name": "Simpang Paseban View Utara",
+        "url": "https://stream.bantulkab.go.id/memfs/c7bf64d5-9248-4cba-a944-c6ec425674d0.m3u8",
+        "display_name": "Simpang Paseban View Utara",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37989,
+          -7.87387
+        ]
+      },
+      "properties": {
+        "name": "Stadion Sultan Agung - Pintu Masuk",
+        "url": "https://stream.bantulkab.go.id/memfs/b7497d14-7eb8-4f17-97b5-efe710616c2c.m3u8",
+        "display_name": "Stadion Sultan Agung",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.38304,
+          -7.87278
+        ]
+      },
+      "properties": {
+        "name": "Stadion Sultan Agung - Timur Stadion View Barat",
+        "url": "https://stream.bantulkab.go.id/memfs/0ea9cc1a-743a-4cfe-b7ff-496917206924.m3u8",
+        "display_name": "Stadion Sultan Agung",
+        "country_code": "ID",
+        "environment": "traffic",
+        "source_family": "manual",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-02-20 18:52:51",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2625,
+          -8.5069
+        ]
+      },
+      "properties": {
+        "name": "Ubud Bali Outdoor Camera",
+        "url": "https://www.youtube.com/watch?v=xuSvwBMhysw",
+        "display_name": "Ubud Bali Outdoor, Indonesia",
+        "country_code": "ID",
+        "environment": "nature",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 22:56:24",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.71036,
+          -8.18893
+        ]
+      },
+      "properties": {
+        "name": "Wediombo Beach Waterfront",
+        "url": "https://www.youtube.com/watch?v=gwUwOto2gJg",
+        "display_name": "Wediombo Beach Waterfront, Indonesia",
+        "country_code": "ID",
+        "environment": "coastal",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-18 06:25:45",
         "source_url_requires": null
       }
     }

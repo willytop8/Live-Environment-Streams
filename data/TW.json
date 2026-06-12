@@ -6,6 +6,162 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          121.29286,
+          22.95531
+        ]
+      },
+      "properties": {
+        "name": "Jinzun Harbor Coastal Views",
+        "url": "https://www.youtube.com/watch?v=q3KJt-SZc2s",
+        "display_name": "Jinzun Harbor Coastal Views, Taiwan",
+        "country_code": "TW",
+        "environment": "coastal",
+        "source_family": "openwebcamdb-youtube",
+        "quality_tier": "premium",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-18 06:18:53",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29696,
+          24.99368
+        ]
+      },
+      "properties": {
+        "name": "Lala Mountain Nature Reserve Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=YkIUZjVlhv4",
+        "display_name": "Lala Mountain Nature Reserve",
+        "country_code": "TW",
+        "environment": "nature",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-29 03:39:27",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "Nanfangao Fishing Port Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=_u7baK7ct2M",
+        "display_name": "Nanfangao Fishing Port",
+        "country_code": "TW",
+        "environment": "harbor",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "harbor",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 05:51:55",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.52639,
+          25.05306
+        ]
+      },
+      "properties": {
+        "name": "Neihu Road Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=SfPJLSMuCQE",
+        "display_name": "Neihu Road",
+        "country_code": "TW",
+        "environment": "nature",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 06:03:20",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "name": "Shitiping Rocky Coast Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=mXnigLvIL0Q",
+        "display_name": "Shitiping Rocky Coast",
+        "country_code": "TW",
+        "environment": "coastal",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 05:46:55",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5109,
+          23.998
+        ]
+      },
+      "properties": {
+        "name": "TW - Changhua - 國道一號 206K+000 北向 埔鹽系統交流道到彰化交流道",
+        "url": "https://cctvc.freeway.gov.tw/abs2mjpg/bmjpg?camera=505",
+        "display_name": "Changhua, Taiwan",
+        "country_code": "TW",
+        "environment": "traffic",
+        "source_family": "opencctv",
+        "quality_tier": "standard",
+        "scene_type": "traffic",
+        "url_type": "html_page",
+        "resolution": "640x480",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-05 21:36:55",
+        "source_url_requires": "browser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           120.6736,
           24.1477
         ]
@@ -17,13 +173,14 @@
         "country_code": "TW",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -31,24 +188,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.5101,
-          25.0622
+          120.6736,
+          24.1477
         ]
       },
       "properties": {
-        "name": "Taipei - Dadaocheng Wharf, Taiwan",
-        "url": "https://www.skylinewebcams.com/webcam/taiwan/new-taipei-city/taipei-city/dadaocheng-wharf.html",
-        "display_name": "Taipei City",
+        "name": "Taichung Wang Gao Liao Skyline",
+        "url": "https://www.youtube.com/watch?v=lhXXhDyjFtI",
+        "display_name": "Taichung Wang Gao Liao Skyline, Taiwan",
         "country_code": "TW",
-        "environment": "harbor",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "harbor",
-        "url_type": "html_page",
+        "environment": "urban",
+        "source_family": "skyline-youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-18 06:30:54",
+        "source_url_requires": null
       }
     },
     {
@@ -63,17 +221,18 @@
       "properties": {
         "name": "Taipei - Dajia Riverside Park, Taiwan",
         "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/dajia-riverside-park.html",
-        "display_name": "Taipei City",
+        "display_name": "Taipei",
         "country_code": "TW",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -88,42 +247,18 @@
       "properties": {
         "name": "Taipei - Jiantanshan Observatory, Taiwan",
         "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/jiantanshan-weifeng-observatory.html",
-        "display_name": "Taipei City",
+        "display_name": "Taipei",
         "country_code": "TW",
         "environment": "mountain",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "mountain",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.5654,
-          25.033
-        ]
-      },
-      "properties": {
-        "name": "Taipei City, Taiwan",
-        "url": "https://www.skylinewebcams.com/en/webcam/taiwan/new-taipei-city/taipei-city/taipei-taiwan.html",
-        "display_name": "Taipei City",
-        "country_code": "TW",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -140,12 +275,13 @@
         "url": "https://www.youtube.com/watch?v=JLEmtG9heG0",
         "display_name": "Taipei Elephant Mountain, Taiwan",
         "country_code": "TW",
-        "environment": "landmark",
-        "source_family": "youtube",
-        "quality_tier": "standard",
+        "environment": "mountain",
+        "source_family": "youtube_scenic",
+        "quality_tier": "premium",
         "scene_type": "mountain",
         "url_type": "youtube",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": null
@@ -169,11 +305,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -194,11 +331,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -219,11 +357,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -244,11 +383,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -269,11 +409,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -294,11 +435,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -319,11 +461,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -344,11 +487,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -369,11 +513,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -394,11 +539,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -419,11 +565,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -444,11 +591,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -469,11 +617,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -494,11 +643,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -519,11 +669,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -544,11 +695,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -569,11 +721,12 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -594,10 +747,63 @@
         "source_family": "taiwan_freeway",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "exact",
+        "url_type": "html_page",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
+        "source_url_requires": "browser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.14457,
+          22.75991
+        ]
+      },
+      "properties": {
+        "name": "Torik Visitor Center Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=JhQuR77AR7U",
+        "display_name": "Torik Visitor Center",
+        "country_code": "TW",
+        "environment": "coastal",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-06-12 11:01:05",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29696,
+          24.99368
+        ]
+      },
+      "properties": {
+        "name": "Yongan Fishing Harbour Webcam - Taiwan 🎦",
+        "url": "https://www.youtube.com/watch?v=tD_a03trUvE",
+        "display_name": "Yongan Fishing Harbour",
+        "country_code": "TW",
+        "environment": "coastal",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-06-05 03:15:49",
         "source_url_requires": null
       }
     }

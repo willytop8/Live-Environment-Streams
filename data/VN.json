@@ -6,24 +6,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          10.82
+          108.22083,
+          16.06778
         ]
       },
       "properties": {
-        "name": "Da Nang",
-        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/da-nang.html",
-        "display_name": "Da Nang",
+        "name": "Da Nang - Lady Buddha",
+        "url": "https://www.youtube.com/watch?v=L_eizGlcM9Q",
+        "display_name": "Da Nang, Vietnam",
         "country_code": "VN",
-        "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "mountain",
-        "url_type": "html_page",
+        "environment": "urban",
+        "source_family": "skyline-youtube",
+        "quality_tier": "high",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
         "coordinates_quality": "exact",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -31,24 +32,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          10.82
+          105.852,
+          21.0035
         ]
       },
       "properties": {
-        "name": "Da Nang - Streets",
-        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/streets.html",
-        "display_name": "Da Nang",
+        "name": "Hanoi Skyline — Red River View — Hanoi, Vietnam",
+        "url": "https://www.youtube.com/watch?v=JXQUeX0Dpb0",
+        "display_name": "Hanoi Skyline — Red River View — Hanoi, Vietnam",
         "country_code": "VN",
-        "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "mountain",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "environment": "waterway",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "river",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 05:04:24",
+        "source_url_requires": null
       }
     },
     {
@@ -56,24 +58,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          10.82
+          105.8799,
+          20.9986
         ]
       },
       "properties": {
-        "name": "Da Nang Quang Trung Street",
-        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/nam-trung-bo/da-nang/da-nang-quang-trung-street.html",
-        "display_name": "Da Nang",
+        "name": "Hanoi — Vinh Tuy Bridge — Hanoi, Vietnam",
+        "url": "https://www.youtube.com/watch?v=ew0xbUrUjnY",
+        "display_name": "Hanoi — Vinh Tuy Bridge — Hanoi, Vietnam",
         "country_code": "VN",
-        "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "mountain",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "traffic",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "traffic",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
       }
     },
     {
@@ -81,24 +84,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.6297,
-          10.8231
+          105.716,
+          19.277
         ]
       },
       "properties": {
-        "name": "Ho Chi Minh City Streets - Vietnam",
-        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/southeast/ho-chi-minh/streets.html",
-        "display_name": "Ho Chi Minh",
+        "name": "Hoang Mai Town - Nghe An",
+        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html",
+        "display_name": "Hoang Mai Town, Vietnam",
         "country_code": "VN",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "high",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": "1920x1080",
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-24T20:18:57.278663",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -106,24 +110,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          106.63,
-          10.82
+          108.22,
+          16.06
         ]
       },
       "properties": {
-        "name": "Hoang Mai Town Nghe An",
-        "url": "https://www.skylinewebcams.com/en/webcam/vietnam/bac-trung-bo/nghe-an/hoang-mai-town-nghe-an.html",
-        "display_name": "Nghe An",
+        "name": "Nguyen Hue Street View — Da Nang, Vietnam",
+        "url": "https://www.youtube.com/watch?v=sJvEFrG0wq0",
+        "display_name": "Nguyen Hue Street View — Da Nang, Vietnam",
         "country_code": "VN",
-        "environment": "mountain",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "mountain",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "street",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.1967,
+          12.2388
+        ]
+      },
+      "properties": {
+        "name": "Nha Trang Coastal City Camera",
+        "url": "https://www.youtube.com/watch?v=SCpZOgLKVfY",
+        "display_name": "Nha Trang Coastal City, Vietnam",
+        "country_code": "VN",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "active",
+        "last_verified": "2026-05-17 22:55:58",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.876,
+          21.001
+        ]
+      },
+      "properties": {
+        "name": "Vinh Tuy Bridge Skyline — Hanoi, Vietnam",
+        "url": "https://www.youtube.com/watch?v=cC-WKtz_eWc",
+        "display_name": "Vinh Tuy Bridge Skyline — Hanoi, Vietnam",
+        "country_code": "VN",
+        "environment": "urban",
+        "source_family": "youtube",
+        "quality_tier": "premium",
+        "scene_type": "city",
+        "url_type": "youtube",
+        "resolution": null,
+        "coordinates_quality": "city",
+        "status": "unverified",
+        "last_verified": null,
+        "source_url_requires": null
       }
     }
   ]

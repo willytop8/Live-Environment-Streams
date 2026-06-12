@@ -13,42 +13,18 @@
       "properties": {
         "name": "Aachen",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/aachen/aachen.html",
-        "display_name": "Aachen",
+        "display_name": "Aachen, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Ahlbeck",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/ahlbeck/ahlbeck.html",
-        "display_name": "Ahlbeck",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -63,42 +39,18 @@
       "properties": {
         "name": "Alfeld - Storks Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/alfeld/storks-nest.html",
-        "display_name": "Alfeld",
+        "display_name": "Alfeld, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Altenstadt - Lindheim",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/altenstadt/lindheim.html",
-        "display_name": "Altenstadt",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -113,42 +65,18 @@
       "properties": {
         "name": "Bad Langensalza",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/thuringen/bad-langensalza/bad-langensalza.html",
-        "display_name": "Bad Langensalza",
+        "display_name": "Bad Langensalza, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Bad Lobenstein - Alter Turm",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/thuringen/bad-lobenstein/alter-turm.html",
-        "display_name": "Bad Lobenstein",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -163,17 +91,18 @@
       "properties": {
         "name": "Bad Wildungen Brunnenallee Street",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/bad-wildungen/bad-wildungen-brunnenallee-street.html",
-        "display_name": "Bad Wildungen",
+        "display_name": "Bad Wildungen Brunnenallee Street, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -188,17 +117,18 @@
       "properties": {
         "name": "Bad Wildungen Town Hall",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/bad-wildungen/bad-wildungen-town-hall.html",
-        "display_name": "Bad Wildungen",
+        "display_name": "Bad Wildungen Town Hall, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -213,17 +143,18 @@
       "properties": {
         "name": "Baden Baden",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/baden-baden/baden-baden.html",
-        "display_name": "Baden Baden",
+        "display_name": "Baden Baden, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -238,42 +169,18 @@
       "properties": {
         "name": "Baden Baden - Augustaplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/baden-baden/augustaplatz.html",
-        "display_name": "Baden Baden",
+        "display_name": "Baden Baden, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Biberach An Der Riss",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/biberach-an-der-riss/biberach-an-der-riss.html",
-        "display_name": "Biberach An Der Riss",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -288,17 +195,18 @@
       "properties": {
         "name": "Boppard",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/rheinland-pfalz/boppard/boppard.html",
-        "display_name": "Boppard",
+        "display_name": "Boppard, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -306,24 +214,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4,
-          52.52
+          8.80716,
+          53.0749
         ]
       },
       "properties": {
-        "name": "Chieming - Chiemsee",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/chieming/chiemsee.html",
-        "display_name": "Chieming",
+        "name": "Bremen Market Square Webcam - Germany 🎦",
+        "url": "https://www.youtube.com/watch?v=SsyiWrkUjy4",
+        "display_name": "Bremen Market Square",
         "country_code": "DE",
-        "environment": "lake",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "lake",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "environment": "nature",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "nature",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 06:00:30",
+        "source_url_requires": null
       }
     },
     {
@@ -338,17 +247,18 @@
       "properties": {
         "name": "Cologne",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/cologne/cologne.html",
-        "display_name": "Cologne",
+        "display_name": "Cologne, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -363,17 +273,18 @@
       "properties": {
         "name": "Cologne - Bonn Falcons",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/cologne/bonn-falcons.html",
-        "display_name": "Cologne",
+        "display_name": "Cologne, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -388,17 +299,18 @@
       "properties": {
         "name": "Cuxhaven - Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/cuxhaven/beach.html",
-        "display_name": "Cuxhaven",
+        "display_name": "Cuxhaven, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -413,42 +325,18 @@
       "properties": {
         "name": "Cuxhaven Duhnen Strand Beach",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/cuxhaven/cuxhaven-duhnen-strand-beach.html",
-        "display_name": "Cuxhaven",
+        "display_name": "Cuxhaven Duhnen Strand Beach, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Dornum Dornumersiel Beach",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/dornum/dornum-dornumersiel-beach.html",
-        "display_name": "Dornum",
-        "country_code": "DE",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -463,17 +351,18 @@
       "properties": {
         "name": "Dortmund Hansaplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/dortmund/dortmund-hansaplatz.html",
-        "display_name": "Dortmund",
+        "display_name": "Dortmund Hansaplatz, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -488,17 +377,44 @@
       "properties": {
         "name": "Einbeck - Market Square",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/einbeck/market-square.html",
-        "display_name": "Einbeck",
+        "display_name": "Einbeck, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99302,
+          53.55073
+        ]
+      },
+      "properties": {
+        "name": "Elbcam Grauerort Fortress Webcam - Germany 🎦",
+        "url": "https://www.youtube.com/watch?v=nmic4tt88-Y",
+        "display_name": "Elbcam Grauerort Fortress",
+        "country_code": "DE",
+        "environment": "coastal",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 05:42:39",
+        "source_url_requires": null
       }
     },
     {
@@ -513,17 +429,18 @@
       "properties": {
         "name": "Elfershausen - Panorama",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/elfershausen/panorama.html",
-        "display_name": "Elfershausen",
+        "display_name": "Elfershausen, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -538,17 +455,18 @@
       "properties": {
         "name": "Filsen - Bopparder Hamm",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/rheinland-pfalz/filsen/bopparder-hamm.html",
-        "display_name": "Filsen",
+        "display_name": "Filsen, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -556,33 +474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Freilassing - Train Station",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/freilassing/train-station.html",
-        "display_name": "Freilassing",
-        "country_code": "DE",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.921328,
-          51.014513
+          6.92133,
+          51.01451
         ]
       },
       "properties": {
@@ -595,6 +488,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -606,8 +500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.921328,
-          51.014513
+          6.92133,
+          51.01451
         ]
       },
       "properties": {
@@ -620,6 +514,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -631,8 +526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.850272,
-          50.968673
+          6.85027,
+          50.96867
         ]
       },
       "properties": {
@@ -645,6 +540,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -656,8 +552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.850272,
-          50.968673
+          6.85027,
+          50.96867
         ]
       },
       "properties": {
@@ -670,6 +566,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -681,8 +578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.861151,
-          50.987423
+          6.86115,
+          50.98742
         ]
       },
       "properties": {
@@ -695,6 +592,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -706,8 +604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.861151,
-          50.987423
+          6.86115,
+          50.98742
         ]
       },
       "properties": {
@@ -720,6 +618,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -731,8 +630,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.846871,
-          50.928263
+          6.84687,
+          50.92826
         ]
       },
       "properties": {
@@ -745,6 +644,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -756,8 +656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.846871,
-          50.928263
+          6.84687,
+          50.92826
         ]
       },
       "properties": {
@@ -770,6 +670,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -781,8 +682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.846871,
-          50.928263
+          6.84687,
+          50.92826
         ]
       },
       "properties": {
@@ -795,6 +696,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -806,8 +708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.007649,
-          51.041957
+          7.00765,
+          51.04196
         ]
       },
       "properties": {
@@ -820,6 +722,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -831,8 +734,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.007649,
-          51.041957
+          7.00765,
+          51.04196
         ]
       },
       "properties": {
@@ -845,6 +748,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -856,7 +760,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.661583,
+          7.66158,
           51.53761
         ]
       },
@@ -870,6 +774,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -881,7 +786,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.661583,
+          7.66158,
           51.53761
         ]
       },
@@ -895,6 +800,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -906,8 +812,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.639079,
-          51.497695
+          7.63908,
+          51.4977
         ]
       },
       "properties": {
@@ -920,6 +826,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -931,8 +838,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.639079,
-          51.497695
+          7.63908,
+          51.4977
         ]
       },
       "properties": {
@@ -945,6 +852,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -956,8 +864,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.031215,
-          51.048819
+          7.03122,
+          51.04882
         ]
       },
       "properties": {
@@ -970,6 +878,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -981,8 +890,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.031215,
-          51.048819
+          7.03122,
+          51.04882
         ]
       },
       "properties": {
@@ -995,6 +904,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1006,8 +916,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.651581,
-          51.508444
+          7.65158,
+          51.50844
         ]
       },
       "properties": {
@@ -1020,6 +930,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1031,8 +942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.651581,
-          51.508444
+          7.65158,
+          51.50844
         ]
       },
       "properties": {
@@ -1045,6 +956,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1056,8 +968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.791839,
-          50.808926
+          6.79184,
+          50.80893
         ]
       },
       "properties": {
@@ -1070,6 +982,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1081,8 +994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.791839,
-          50.808926
+          6.79184,
+          50.80893
         ]
       },
       "properties": {
@@ -1095,6 +1008,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1120,6 +1034,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1131,8 +1046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.785631,
-          50.817153
+          6.78563,
+          50.81715
         ]
       },
       "properties": {
@@ -1145,6 +1060,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1157,7 +1073,7 @@
         "type": "Point",
         "coordinates": [
           7.13632,
-          51.090584
+          51.09058
         ]
       },
       "properties": {
@@ -1170,6 +1086,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1182,7 +1099,7 @@
         "type": "Point",
         "coordinates": [
           7.13632,
-          51.090584
+          51.09058
         ]
       },
       "properties": {
@@ -1195,6 +1112,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1206,8 +1124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.936022,
-          52.281208
+          7.93602,
+          52.28121
         ]
       },
       "properties": {
@@ -1220,6 +1138,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1231,8 +1150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.936022,
-          52.281208
+          7.93602,
+          52.28121
         ]
       },
       "properties": {
@@ -1245,6 +1164,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1256,8 +1176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.469531,
-          51.403968
+          7.46953,
+          51.40397
         ]
       },
       "properties": {
@@ -1270,6 +1190,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1281,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.469531,
-          51.403968
+          7.46953,
+          51.40397
         ]
       },
       "properties": {
@@ -1295,6 +1216,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1306,8 +1228,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.451567,
-          51.398331
+          7.45157,
+          51.39833
         ]
       },
       "properties": {
@@ -1320,6 +1242,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1331,8 +1254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.451567,
-          51.398331
+          7.45157,
+          51.39833
         ]
       },
       "properties": {
@@ -1345,6 +1268,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1356,8 +1280,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.256902,
-          51.286999
+          7.2569,
+          51.287
         ]
       },
       "properties": {
@@ -1370,6 +1294,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1381,8 +1306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.256902,
-          51.286999
+          7.2569,
+          51.287
         ]
       },
       "properties": {
@@ -1395,6 +1320,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1406,8 +1332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.664583,
-          51.558477
+          7.66458,
+          51.55848
         ]
       },
       "properties": {
@@ -1420,6 +1346,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1431,8 +1358,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.664583,
-          51.558477
+          7.66458,
+          51.55848
         ]
       },
       "properties": {
@@ -1445,6 +1372,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1456,8 +1384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.663487,
-          51.548036
+          7.66349,
+          51.54804
         ]
       },
       "properties": {
@@ -1470,6 +1398,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1481,8 +1410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.663487,
-          51.548036
+          7.66349,
+          51.54804
         ]
       },
       "properties": {
@@ -1495,6 +1424,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1520,6 +1450,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1545,6 +1476,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1556,8 +1488,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.259669,
-          51.279693
+          7.25967,
+          51.27969
         ]
       },
       "properties": {
@@ -1570,6 +1502,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1581,8 +1514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.259669,
-          51.279693
+          7.25967,
+          51.27969
         ]
       },
       "properties": {
@@ -1595,6 +1528,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1606,8 +1540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.287566,
-          52.494191
+          13.28757,
+          52.49419
         ]
       },
       "properties": {
@@ -1620,6 +1554,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1631,8 +1566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.346306,
-          52.477342
+          13.34631,
+          52.47734
         ]
       },
       "properties": {
@@ -1645,6 +1580,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1656,8 +1592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.444202,
-          52.462891
+          13.4442,
+          52.46289
         ]
       },
       "properties": {
@@ -1670,6 +1606,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1681,8 +1618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.298925,
-          52.546005
+          13.29893,
+          52.54601
         ]
       },
       "properties": {
@@ -1695,6 +1632,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1706,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.426239,
-          51.583881
+          7.42624,
+          51.58388
         ]
       },
       "properties": {
@@ -1720,6 +1658,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1731,8 +1670,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.426239,
-          51.583881
+          7.42624,
+          51.58388
         ]
       },
       "properties": {
@@ -1745,6 +1684,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1756,8 +1696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.477632,
-          51.575343
+          7.47763,
+          51.57534
         ]
       },
       "properties": {
@@ -1770,6 +1710,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1781,8 +1722,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.477632,
-          51.575343
+          7.47763,
+          51.57534
         ]
       },
       "properties": {
@@ -1795,6 +1736,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1806,7 +1748,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.891083,
+          8.89108,
           50.059
         ]
       },
@@ -1817,13 +1759,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -1831,8 +1774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.941309,
-          51.191158
+          6.94131,
+          51.19116
         ]
       },
       "properties": {
@@ -1845,6 +1788,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1856,8 +1800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.008044,
-          51.040127
+          7.00804,
+          51.04013
         ]
       },
       "properties": {
@@ -1870,6 +1814,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1881,8 +1826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.008044,
-          51.040127
+          7.00804,
+          51.04013
         ]
       },
       "properties": {
@@ -1895,6 +1840,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1906,8 +1852,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.050927,
-          50.932826
+          7.05093,
+          50.93283
         ]
       },
       "properties": {
@@ -1920,6 +1866,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1931,8 +1878,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.050927,
-          50.932826
+          7.05093,
+          50.93283
         ]
       },
       "properties": {
@@ -1945,6 +1892,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1956,8 +1904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.012985,
-          50.998219
+          7.01298,
+          50.99822
         ]
       },
       "properties": {
@@ -1970,6 +1918,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -1981,8 +1930,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.012985,
-          50.998219
+          7.01298,
+          50.99822
         ]
       },
       "properties": {
@@ -1995,6 +1944,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2007,7 +1957,7 @@
         "type": "Point",
         "coordinates": [
           7.09432,
-          50.917801
+          50.9178
         ]
       },
       "properties": {
@@ -2020,6 +1970,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2032,7 +1983,7 @@
         "type": "Point",
         "coordinates": [
           7.09432,
-          50.917801
+          50.9178
         ]
       },
       "properties": {
@@ -2045,6 +1996,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2056,8 +2008,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.814929,
-          51.551976
+          6.81493,
+          51.55198
         ]
       },
       "properties": {
@@ -2070,6 +2022,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2081,8 +2034,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.814929,
-          51.551976
+          6.81493,
+          51.55198
         ]
       },
       "properties": {
@@ -2095,6 +2048,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2106,8 +2060,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.814704,
-          51.476708
+          6.8147,
+          51.47671
         ]
       },
       "properties": {
@@ -2120,6 +2074,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2131,8 +2086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.814704,
-          51.476708
+          6.8147,
+          51.47671
         ]
       },
       "properties": {
@@ -2145,6 +2100,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2156,8 +2112,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.019707,
-          50.980991
+          7.01971,
+          50.98099
         ]
       },
       "properties": {
@@ -2170,6 +2126,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2181,8 +2138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.019707,
-          50.980991
+          7.01971,
+          50.98099
         ]
       },
       "properties": {
@@ -2195,6 +2152,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2206,8 +2164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.803097,
-          51.427236
+          6.8031,
+          51.42724
         ]
       },
       "properties": {
@@ -2220,6 +2178,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2231,8 +2190,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.803097,
-          51.427236
+          6.8031,
+          51.42724
         ]
       },
       "properties": {
@@ -2245,6 +2204,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2256,8 +2216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.012089,
-          50.990627
+          7.01209,
+          50.99063
         ]
       },
       "properties": {
@@ -2270,6 +2230,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2281,8 +2242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.012089,
-          50.990627
+          7.01209,
+          50.99063
         ]
       },
       "properties": {
@@ -2295,6 +2256,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2306,7 +2268,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.011353,
+          7.01135,
           51.02361
         ]
       },
@@ -2320,6 +2282,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2331,7 +2294,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.011353,
+          7.01135,
           51.02361
         ]
       },
@@ -2345,6 +2308,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2356,8 +2320,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.946937,
-          51.180978
+          6.94694,
+          51.18098
         ]
       },
       "properties": {
@@ -2370,6 +2334,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2381,8 +2346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.946937,
-          51.180978
+          6.94694,
+          51.18098
         ]
       },
       "properties": {
@@ -2395,6 +2360,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2406,8 +2372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.909672,
-          51.237624
+          6.90967,
+          51.23762
         ]
       },
       "properties": {
@@ -2420,6 +2386,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2431,8 +2398,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.909672,
-          51.237624
+          6.90967,
+          51.23762
         ]
       },
       "properties": {
@@ -2445,6 +2412,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2456,8 +2424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.908909,
-          51.274126
+          6.90891,
+          51.27413
         ]
       },
       "properties": {
@@ -2470,6 +2438,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2481,8 +2450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.908909,
-          51.274126
+          6.90891,
+          51.27413
         ]
       },
       "properties": {
@@ -2495,6 +2464,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2506,7 +2476,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.994384,
+          6.99438,
           51.05323
         ]
       },
@@ -2520,6 +2490,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2531,7 +2502,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.994384,
+          6.99438,
           51.05323
         ]
       },
@@ -2545,6 +2516,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2556,7 +2528,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.994384,
+          6.99438,
           51.05323
         ]
       },
@@ -2570,6 +2542,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2581,7 +2554,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.994384,
+          6.99438,
           51.05323
         ]
       },
@@ -2595,6 +2568,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2606,8 +2580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.936592,
-          51.199128
+          6.93659,
+          51.19913
         ]
       },
       "properties": {
@@ -2620,6 +2594,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2631,108 +2606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.491883,
-          50.025875
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A3 | Mönchhof-Dreieck",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k3425.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.726914,
-          50.064933
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A3 | Offenbacher Kreuz",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k3002.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.385091,
-          50.058551
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A3 | Wiesbadener Kreuz Nord",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k3470.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.390942,
-          50.052538
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A3 | Wiesbadener Kreuz Süd",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k3275.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.907572,
-          52.268019
+          7.90757,
+          52.26802
         ]
       },
       "properties": {
@@ -2745,6 +2620,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2756,8 +2632,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.907572,
-          52.268019
+          7.90757,
+          52.26802
         ]
       },
       "properties": {
@@ -2770,6 +2646,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2781,7 +2658,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.928739,
+          6.92874,
           51.56505
         ]
       },
@@ -2795,6 +2672,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2806,7 +2684,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.928739,
+          6.92874,
           51.56505
         ]
       },
@@ -2820,6 +2698,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2831,8 +2710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.940916,
-          51.598932
+          6.94092,
+          51.59893
         ]
       },
       "properties": {
@@ -2845,6 +2724,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2856,8 +2736,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.940916,
-          51.598932
+          6.94092,
+          51.59893
         ]
       },
       "properties": {
@@ -2870,6 +2750,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2881,8 +2762,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.986933,
-          50.896895
+          6.98693,
+          50.8969
         ]
       },
       "properties": {
@@ -2895,6 +2776,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2906,8 +2788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.986933,
-          50.896895
+          6.98693,
+          50.8969
         ]
       },
       "properties": {
@@ -2920,6 +2802,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2931,8 +2814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.000506,
-          50.907752
+          7.00051,
+          50.90775
         ]
       },
       "properties": {
@@ -2945,6 +2828,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2956,8 +2840,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.000506,
-          50.907752
+          7.00051,
+          50.90775
         ]
       },
       "properties": {
@@ -2970,6 +2854,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -2981,8 +2866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.826605,
-          50.929135
+          6.8266,
+          50.92914
         ]
       },
       "properties": {
@@ -2995,6 +2880,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3006,8 +2892,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.826605,
-          50.929135
+          6.8266,
+          50.92914
         ]
       },
       "properties": {
@@ -3020,6 +2906,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3031,8 +2918,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.902295,
-          50.901686
+          6.90229,
+          50.90169
         ]
       },
       "properties": {
@@ -3045,6 +2932,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3056,8 +2944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.902295,
-          50.901686
+          6.90229,
+          50.90169
         ]
       },
       "properties": {
@@ -3070,6 +2958,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3081,8 +2970,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.048497,
-          50.952749
+          7.0485,
+          50.95275
         ]
       },
       "properties": {
@@ -3095,6 +2984,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3106,8 +2996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.048497,
-          50.952749
+          7.0485,
+          50.95275
         ]
       },
       "properties": {
@@ -3120,6 +3010,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3145,6 +3036,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3156,8 +3048,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.155113,
-          50.802788
+          6.15511,
+          50.80279
         ]
       },
       "properties": {
@@ -3170,6 +3062,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3181,8 +3074,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.155113,
-          50.802788
+          6.15511,
+          50.80279
         ]
       },
       "properties": {
@@ -3195,6 +3088,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3206,8 +3100,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.155113,
-          50.802788
+          6.15511,
+          50.80279
         ]
       },
       "properties": {
@@ -3220,6 +3114,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3231,8 +3126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.449101,
-          50.838041
+          6.4491,
+          50.83804
         ]
       },
       "properties": {
@@ -3245,6 +3140,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3256,8 +3152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.449101,
-          50.838041
+          6.4491,
+          50.83804
         ]
       },
       "properties": {
@@ -3270,6 +3166,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3281,8 +3178,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.665764,
-          50.890312
+          6.66576,
+          50.89031
         ]
       },
       "properties": {
@@ -3295,6 +3192,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3306,8 +3204,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.665764,
-          50.890312
+          6.66576,
+          50.89031
         ]
       },
       "properties": {
@@ -3320,6 +3218,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3332,7 +3231,7 @@
         "type": "Point",
         "coordinates": [
           6.77602,
-          51.446199
+          51.4462
         ]
       },
       "properties": {
@@ -3345,6 +3244,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3357,7 +3257,7 @@
         "type": "Point",
         "coordinates": [
           6.77602,
-          51.446199
+          51.4462
         ]
       },
       "properties": {
@@ -3370,6 +3270,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3381,8 +3282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.750202,
-          51.435808
+          6.7502,
+          51.43581
         ]
       },
       "properties": {
@@ -3395,6 +3296,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3406,8 +3308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.750202,
-          51.435808
+          6.7502,
+          51.43581
         ]
       },
       "properties": {
@@ -3420,6 +3322,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3431,8 +3334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.750202,
-          51.435808
+          6.7502,
+          51.43581
         ]
       },
       "properties": {
@@ -3445,6 +3348,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3470,6 +3374,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3495,6 +3400,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3506,8 +3412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.675395,
-          51.437737
+          6.67539,
+          51.43774
         ]
       },
       "properties": {
@@ -3520,6 +3426,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3531,8 +3438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.675395,
-          51.437737
+          6.67539,
+          51.43774
         ]
       },
       "properties": {
@@ -3545,6 +3452,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3556,8 +3464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.992836,
-          51.445709
+          6.99284,
+          51.44571
         ]
       },
       "properties": {
@@ -3570,6 +3478,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3581,8 +3490,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.992836,
-          51.445709
+          6.99284,
+          51.44571
         ]
       },
       "properties": {
@@ -3595,6 +3504,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3606,8 +3516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.368171,
-          51.496252
+          7.36817,
+          51.49625
         ]
       },
       "properties": {
@@ -3620,6 +3530,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3631,8 +3542,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.368171,
-          51.496252
+          7.36817,
+          51.49625
         ]
       },
       "properties": {
@@ -3645,6 +3556,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3656,8 +3568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.781577,
-          51.446838
+          6.78158,
+          51.44684
         ]
       },
       "properties": {
@@ -3670,6 +3582,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3681,8 +3594,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.781577,
-          51.446838
+          6.78158,
+          51.44684
         ]
       },
       "properties": {
@@ -3695,6 +3608,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3707,7 +3621,7 @@
         "type": "Point",
         "coordinates": [
           7.27261,
-          51.496857
+          51.49686
         ]
       },
       "properties": {
@@ -3720,6 +3634,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3732,7 +3647,7 @@
         "type": "Point",
         "coordinates": [
           7.27261,
-          51.496857
+          51.49686
         ]
       },
       "properties": {
@@ -3745,6 +3660,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3756,8 +3672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.960629,
-          51.440993
+          6.96063,
+          51.44099
         ]
       },
       "properties": {
@@ -3770,6 +3686,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3781,8 +3698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.960629,
-          51.440993
+          6.96063,
+          51.44099
         ]
       },
       "properties": {
@@ -3795,6 +3712,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3806,8 +3724,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.184896,
-          51.491807
+          7.1849,
+          51.49181
         ]
       },
       "properties": {
@@ -3820,6 +3738,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3831,8 +3750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.184896,
-          51.491807
+          7.1849,
+          51.49181
         ]
       },
       "properties": {
@@ -3845,6 +3764,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3856,8 +3776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.155381,
-          51.476055
+          7.15538,
+          51.47606
         ]
       },
       "properties": {
@@ -3870,6 +3790,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3881,8 +3802,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.155381,
-          51.476055
+          7.15538,
+          51.47606
         ]
       },
       "properties": {
@@ -3895,6 +3816,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3906,8 +3828,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.046647,
-          51.456875
+          7.04665,
+          51.45687
         ]
       },
       "properties": {
@@ -3920,6 +3842,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3931,8 +3854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.046647,
-          51.456875
+          7.04665,
+          51.45687
         ]
       },
       "properties": {
@@ -3945,6 +3868,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3956,8 +3880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.878403,
-          51.496299
+          6.8784,
+          51.4963
         ]
       },
       "properties": {
@@ -3970,6 +3894,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -3981,8 +3906,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.878403,
-          51.496299
+          6.8784,
+          51.4963
         ]
       },
       "properties": {
@@ -3995,6 +3920,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4006,8 +3932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.792826,
-          51.484959
+          6.79283,
+          51.48496
         ]
       },
       "properties": {
@@ -4020,6 +3946,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4031,8 +3958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.792826,
-          51.484959
+          6.79283,
+          51.48496
         ]
       },
       "properties": {
@@ -4045,6 +3972,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4056,8 +3984,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.689136,
-          51.480773
+          6.68914,
+          51.48077
         ]
       },
       "properties": {
@@ -4070,6 +3998,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4081,8 +4010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.689136,
-          51.480773
+          6.68914,
+          51.48077
         ]
       },
       "properties": {
@@ -4095,6 +4024,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4106,7 +4036,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.757212,
+          6.75721,
           51.48695
         ]
       },
@@ -4120,6 +4050,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4131,7 +4062,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.757212,
+          6.75721,
           51.48695
         ]
       },
@@ -4145,6 +4076,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4157,7 +4089,7 @@
         "type": "Point",
         "coordinates": [
           6.81989,
-          51.486827
+          51.48683
         ]
       },
       "properties": {
@@ -4170,6 +4102,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4182,7 +4115,7 @@
         "type": "Point",
         "coordinates": [
           6.81989,
-          51.486827
+          51.48683
         ]
       },
       "properties": {
@@ -4195,6 +4128,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4206,8 +4140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.328985,
-          51.562133
+          7.32899,
+          51.56213
         ]
       },
       "properties": {
@@ -4220,6 +4154,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4231,8 +4166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.328985,
-          51.562133
+          7.32899,
+          51.56213
         ]
       },
       "properties": {
@@ -4245,6 +4180,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4256,8 +4192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.189552,
-          51.581809
+          7.18955,
+          51.58181
         ]
       },
       "properties": {
@@ -4270,6 +4206,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4281,8 +4218,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.189552,
-          51.581809
+          7.18955,
+          51.58181
         ]
       },
       "properties": {
@@ -4295,6 +4232,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4306,8 +4244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.218963,
-          51.512707
+          7.21896,
+          51.51271
         ]
       },
       "properties": {
@@ -4320,6 +4258,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4331,8 +4270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.218963,
-          51.512707
+          7.21896,
+          51.51271
         ]
       },
       "properties": {
@@ -4345,6 +4284,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4356,8 +4296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.186108,
-          51.596878
+          7.18611,
+          51.59688
         ]
       },
       "properties": {
@@ -4370,6 +4310,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4381,8 +4322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.186108,
-          51.596878
+          7.18611,
+          51.59688
         ]
       },
       "properties": {
@@ -4395,6 +4336,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4406,8 +4348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.278193,
-          51.484853
+          7.27819,
+          51.48485
         ]
       },
       "properties": {
@@ -4420,6 +4362,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4431,8 +4374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.278193,
-          51.484853
+          7.27819,
+          51.48485
         ]
       },
       "properties": {
@@ -4445,6 +4388,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4456,8 +4400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.207761,
-          51.530206
+          7.20776,
+          51.53021
         ]
       },
       "properties": {
@@ -4470,6 +4414,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4481,8 +4426,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.207761,
-          51.530206
+          7.20776,
+          51.53021
         ]
       },
       "properties": {
@@ -4495,6 +4440,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4506,8 +4452,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.197206,
-          51.552483
+          7.19721,
+          51.55248
         ]
       },
       "properties": {
@@ -4520,6 +4466,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4531,8 +4478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.197206,
-          51.552483
+          7.19721,
+          51.55248
         ]
       },
       "properties": {
@@ -4545,6 +4492,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4557,7 +4505,7 @@
         "type": "Point",
         "coordinates": [
           7.67751,
-          51.520277
+          51.52028
         ]
       },
       "properties": {
@@ -4570,6 +4518,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4582,7 +4531,7 @@
         "type": "Point",
         "coordinates": [
           7.67751,
-          51.520277
+          51.52028
         ]
       },
       "properties": {
@@ -4595,6 +4544,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4606,8 +4556,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.700329,
-          51.521761
+          7.70033,
+          51.52176
         ]
       },
       "properties": {
@@ -4620,6 +4570,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4631,8 +4582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.700329,
-          51.521761
+          7.70033,
+          51.52176
         ]
       },
       "properties": {
@@ -4645,6 +4596,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4656,33 +4608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.709436,
-          50.479229
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A45 | Gambacher Kreuz West",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k45140.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.994935,
-          50.144761
+          8.99493,
+          50.14476
         ]
       },
       "properties": {
@@ -4692,13 +4619,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -4706,8 +4634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.547325,
-          51.424038
+          7.54732,
+          51.42404
         ]
       },
       "properties": {
@@ -4720,6 +4648,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4731,8 +4660,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.547325,
-          51.424038
+          7.54732,
+          51.42404
         ]
       },
       "properties": {
@@ -4745,6 +4674,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4756,8 +4686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.387018,
-          51.504017
+          7.38702,
+          51.50402
         ]
       },
       "properties": {
@@ -4770,6 +4700,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4781,8 +4712,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.387018,
-          51.504017
+          7.38702,
+          51.50402
         ]
       },
       "properties": {
@@ -4795,6 +4726,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4806,8 +4738,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.523721,
-          51.377477
+          7.52372,
+          51.37748
         ]
       },
       "properties": {
@@ -4820,6 +4752,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4831,8 +4764,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.523721,
-          51.377477
+          7.52372,
+          51.37748
         ]
       },
       "properties": {
@@ -4845,6 +4778,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4857,7 +4791,7 @@
         "type": "Point",
         "coordinates": [
           7.52506,
-          51.388349
+          51.38835
         ]
       },
       "properties": {
@@ -4870,6 +4804,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4882,7 +4817,7 @@
         "type": "Point",
         "coordinates": [
           7.52506,
-          51.388349
+          51.38835
         ]
       },
       "properties": {
@@ -4895,6 +4830,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4907,7 +4843,7 @@
         "type": "Point",
         "coordinates": [
           7.70658,
-          51.065446
+          51.06545
         ]
       },
       "properties": {
@@ -4920,6 +4856,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4932,7 +4869,7 @@
         "type": "Point",
         "coordinates": [
           7.70658,
-          51.065446
+          51.06545
         ]
       },
       "properties": {
@@ -4945,6 +4882,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4956,7 +4894,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.674746,
+          7.67475,
           51.19764
         ]
       },
@@ -4970,6 +4908,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -4981,7 +4920,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.674746,
+          7.67475,
           51.19764
         ]
       },
@@ -4995,6 +4934,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5006,8 +4946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.365241,
-          51.577064
+          7.36524,
+          51.57706
         ]
       },
       "properties": {
@@ -5020,6 +4960,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5031,8 +4972,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.365241,
-          51.577064
+          7.36524,
+          51.57706
         ]
       },
       "properties": {
@@ -5045,6 +4986,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5056,8 +4998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.523314,
-          51.375155
+          7.52331,
+          51.37515
         ]
       },
       "properties": {
@@ -5070,6 +5012,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5081,8 +5024,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.523314,
-          51.375155
+          7.52331,
+          51.37515
         ]
       },
       "properties": {
@@ -5095,6 +5038,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5106,8 +5050,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.018134,
-          50.163532
+          9.01813,
+          50.16353
         ]
       },
       "properties": {
@@ -5117,13 +5061,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5131,8 +5076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.883324,
-          51.190216
+          6.88332,
+          51.19022
         ]
       },
       "properties": {
@@ -5145,6 +5090,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5156,8 +5102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.883324,
-          51.190216
+          6.88332,
+          51.19022
         ]
       },
       "properties": {
@@ -5170,6 +5116,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5181,8 +5128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.125363,
-          51.263676
+          7.12536,
+          51.26368
         ]
       },
       "properties": {
@@ -5195,6 +5142,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5206,8 +5154,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.125363,
-          51.263676
+          7.12536,
+          51.26368
         ]
       },
       "properties": {
@@ -5220,6 +5168,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5231,7 +5180,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.256613,
+          7.25661,
           51.31201
         ]
       },
@@ -5245,6 +5194,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5256,7 +5206,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.256613,
+          7.25661,
           51.31201
         ]
       },
@@ -5270,6 +5220,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5281,8 +5232,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.965462,
-          51.198373
+          6.96546,
+          51.19837
         ]
       },
       "properties": {
@@ -5295,6 +5246,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5306,8 +5258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.965462,
-          51.198373
+          6.96546,
+          51.19837
         ]
       },
       "properties": {
@@ -5320,6 +5272,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5331,8 +5284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.774281,
-          51.176451
+          6.77428,
+          51.17645
         ]
       },
       "properties": {
@@ -5345,6 +5298,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5356,8 +5310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.774281,
-          51.176451
+          6.77428,
+          51.17645
         ]
       },
       "properties": {
@@ -5370,6 +5324,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5381,8 +5336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.774396,
-          51.181781
+          6.7744,
+          51.18178
         ]
       },
       "properties": {
@@ -5395,6 +5350,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5406,8 +5362,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.774396,
-          51.181781
+          6.7744,
+          51.18178
         ]
       },
       "properties": {
@@ -5420,6 +5376,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5431,8 +5388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.776059,
-          51.188094
+          6.77606,
+          51.18809
         ]
       },
       "properties": {
@@ -5445,6 +5402,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5456,8 +5414,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.776059,
-          51.188094
+          6.77606,
+          51.18809
         ]
       },
       "properties": {
@@ -5470,6 +5428,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5481,233 +5440,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.642711,
-          50.199312
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Bad Homburger Kreuz",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k53500.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.702186,
-          50.397578
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Bad Nauheim",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5085.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.700362,
-          50.449322
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Butzbach",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5079.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.598331,
-          49.857842
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Darmstädter Kreuz",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5002.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.606866,
-          50.057255
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Frankfurter Kreuz",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5307.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.68117,
-          50.306714
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Friedberg Nord",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5354.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.670661,
-          50.289344
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Friedberg Süd",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5100.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.726508,
-          50.474258
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Gambacher Kreuz Nord",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5076.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.726508,
-          50.47148
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Gambacher Kreuz Süd",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5077.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.916738,
-          50.629826
+          8.91674,
+          50.62983
         ]
       },
       "properties": {
@@ -5717,13 +5451,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5731,8 +5466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.965999,
-          50.639949
+          8.966,
+          50.63995
         ]
       },
       "properties": {
@@ -5742,13 +5477,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "high",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": "704x576",
         "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
+        "status": "active",
+        "last_verified": "2026-05-18 12:51:26",
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5756,8 +5492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.007597,
-          50.651696
+          9.0076,
+          50.6517
         ]
       },
       "properties": {
@@ -5767,13 +5503,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -5781,133 +5518,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.618717,
-          50.085636
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Niederrad",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5001.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.881113,
-          50.61733
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Reinhardshain",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5456.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.595144,
-          50.121072
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | VZH",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5010.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.599925,
-          50.113767
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Westkreuz Frankfurt",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5318.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.697696,
-          50.361115
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A5 | Wetterau",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k5370.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.858576,
-          51.350178
+          6.85858,
+          51.35018
         ]
       },
       "properties": {
@@ -5920,6 +5532,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5931,8 +5544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.858576,
-          51.350178
+          6.85858,
+          51.35018
         ]
       },
       "properties": {
@@ -5945,6 +5558,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5956,8 +5570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.036603,
-          51.440626
+          7.0366,
+          51.44063
         ]
       },
       "properties": {
@@ -5970,6 +5584,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -5981,8 +5596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.818271,
-          51.312903
+          6.81827,
+          51.3129
         ]
       },
       "properties": {
@@ -5995,6 +5610,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6006,8 +5622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.818271,
-          51.312903
+          6.81827,
+          51.3129
         ]
       },
       "properties": {
@@ -6020,6 +5636,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6031,8 +5648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.969585,
-          51.410868
+          6.96959,
+          51.41087
         ]
       },
       "properties": {
@@ -6045,6 +5662,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6056,8 +5674,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.969585,
-          51.410868
+          6.96959,
+          51.41087
         ]
       },
       "properties": {
@@ -6070,6 +5688,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6082,7 +5701,7 @@
         "type": "Point",
         "coordinates": [
           6.80391,
-          51.280167
+          51.28017
         ]
       },
       "properties": {
@@ -6095,6 +5714,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6107,7 +5727,7 @@
         "type": "Point",
         "coordinates": [
           6.80391,
-          51.280167
+          51.28017
         ]
       },
       "properties": {
@@ -6120,6 +5740,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6145,6 +5766,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6170,6 +5792,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6182,7 +5805,7 @@
         "type": "Point",
         "coordinates": [
           6.88114,
-          50.797739
+          50.79774
         ]
       },
       "properties": {
@@ -6195,6 +5818,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6207,7 +5831,7 @@
         "type": "Point",
         "coordinates": [
           6.88114,
-          50.797739
+          50.79774
         ]
       },
       "properties": {
@@ -6220,6 +5844,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6231,8 +5856,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.054311,
-          50.751451
+          7.05431,
+          50.75145
         ]
       },
       "properties": {
@@ -6245,6 +5870,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6256,8 +5882,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.054311,
-          50.751451
+          7.05431,
+          50.75145
         ]
       },
       "properties": {
@@ -6270,6 +5896,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6282,7 +5909,7 @@
         "type": "Point",
         "coordinates": [
           6.96973,
-          50.872165
+          50.87217
         ]
       },
       "properties": {
@@ -6295,6 +5922,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6307,7 +5935,7 @@
         "type": "Point",
         "coordinates": [
           6.96973,
-          50.872165
+          50.87217
         ]
       },
       "properties": {
@@ -6320,6 +5948,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6331,8 +5960,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.069885,
-          50.905697
+          7.06989,
+          50.9057
         ]
       },
       "properties": {
@@ -6345,6 +5974,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6356,8 +5986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.152976,
-          50.794331
+          7.15298,
+          50.79433
         ]
       },
       "properties": {
@@ -6370,6 +6000,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6381,8 +6012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.152976,
-          50.794331
+          7.15298,
+          50.79433
         ]
       },
       "properties": {
@@ -6395,6 +6026,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6406,8 +6038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.077584,
-          50.719943
+          7.07758,
+          50.71994
         ]
       },
       "properties": {
@@ -6420,6 +6052,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6431,8 +6064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.077584,
-          50.719943
+          7.07758,
+          50.71994
         ]
       },
       "properties": {
@@ -6445,6 +6078,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6456,7 +6090,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.071486,
+          7.07149,
           50.74274
         ]
       },
@@ -6470,6 +6104,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6481,7 +6116,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.071486,
+          7.07149,
           50.74274
         ]
       },
@@ -6495,6 +6130,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6506,8 +6142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.103824,
-          50.758967
+          7.10382,
+          50.75897
         ]
       },
       "properties": {
@@ -6520,6 +6156,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6531,8 +6168,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.103824,
-          50.758967
+          7.10382,
+          50.75897
         ]
       },
       "properties": {
@@ -6545,6 +6182,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6556,8 +6194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.114976,
-          50.761421
+          7.11498,
+          50.76142
         ]
       },
       "properties": {
@@ -6570,6 +6208,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6581,8 +6220,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.114976,
-          50.761421
+          7.11498,
+          50.76142
         ]
       },
       "properties": {
@@ -6595,6 +6234,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6606,8 +6246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.637651,
-          51.241849
+          6.63765,
+          51.24185
         ]
       },
       "properties": {
@@ -6620,6 +6260,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6631,8 +6272,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.637651,
-          51.241849
+          6.63765,
+          51.24185
         ]
       },
       "properties": {
@@ -6645,6 +6286,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6656,8 +6298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.683297,
-          51.177729
+          6.6833,
+          51.17773
         ]
       },
       "properties": {
@@ -6670,6 +6312,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6681,8 +6324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.683297,
-          51.177729
+          6.6833,
+          51.17773
         ]
       },
       "properties": {
@@ -6695,6 +6338,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6706,8 +6350,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.714736,
-          51.174641
+          6.71474,
+          51.17464
         ]
       },
       "properties": {
@@ -6720,6 +6364,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6731,8 +6376,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.714736,
-          51.174641
+          6.71474,
+          51.17464
         ]
       },
       "properties": {
@@ -6745,6 +6390,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6756,8 +6402,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.657238,
-          51.193111
+          6.65724,
+          51.19311
         ]
       },
       "properties": {
@@ -6770,6 +6416,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6781,8 +6428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.657238,
-          51.193111
+          6.65724,
+          51.19311
         ]
       },
       "properties": {
@@ -6795,6 +6442,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6806,8 +6454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.673282,
-          51.179171
+          6.67328,
+          51.17917
         ]
       },
       "properties": {
@@ -6820,6 +6468,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6831,8 +6480,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.673282,
-          51.179171
+          6.67328,
+          51.17917
         ]
       },
       "properties": {
@@ -6845,6 +6494,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6856,8 +6506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.877954,
-          51.007142
+          6.87795,
+          51.00714
         ]
       },
       "properties": {
@@ -6870,6 +6520,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6881,8 +6532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.877954,
-          51.007142
+          6.87795,
+          51.00714
         ]
       },
       "properties": {
@@ -6895,6 +6546,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6906,8 +6558,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.635151,
-          51.307173
+          6.63515,
+          51.30717
         ]
       },
       "properties": {
@@ -6920,6 +6572,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6931,8 +6584,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.635151,
-          51.307173
+          6.63515,
+          51.30717
         ]
       },
       "properties": {
@@ -6945,6 +6598,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6957,7 +6611,7 @@
         "type": "Point",
         "coordinates": [
           6.60591,
-          51.420644
+          51.42064
         ]
       },
       "properties": {
@@ -6970,6 +6624,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -6981,8 +6636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.622829,
-          51.375537
+          6.62283,
+          51.37554
         ]
       },
       "properties": {
@@ -6995,6 +6650,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7006,8 +6662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.622829,
-          51.375537
+          6.62283,
+          51.37554
         ]
       },
       "properties": {
@@ -7020,6 +6676,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7031,8 +6688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.069885,
-          50.905697
+          7.06989,
+          50.9057
         ]
       },
       "properties": {
@@ -7045,6 +6702,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7056,8 +6714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.064798,
-          50.916029
+          7.0648,
+          50.91603
         ]
       },
       "properties": {
@@ -7070,6 +6728,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7081,8 +6740,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.064798,
-          50.916029
+          7.0648,
+          50.91603
         ]
       },
       "properties": {
@@ -7095,6 +6754,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7106,8 +6766,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.769858,
-          51.485083
+          6.76986,
+          51.48508
         ]
       },
       "properties": {
@@ -7120,6 +6780,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7131,8 +6792,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.769858,
-          51.485083
+          6.76986,
+          51.48508
         ]
       },
       "properties": {
@@ -7145,6 +6806,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7156,8 +6818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.015754,
-          50.598366
+          7.01575,
+          50.59837
         ]
       },
       "properties": {
@@ -7170,6 +6832,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7181,8 +6844,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.015754,
-          50.598366
+          7.01575,
+          50.59837
         ]
       },
       "properties": {
@@ -7195,6 +6858,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7206,7 +6870,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.429208,
+          6.42921,
           51.11782
         ]
       },
@@ -7220,6 +6884,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7231,7 +6896,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.429208,
+          6.42921,
           51.11782
         ]
       },
@@ -7245,6 +6910,7 @@
         "quality_tier": "standard",
         "scene_type": "traffic",
         "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
@@ -7256,83 +6922,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.530142,
-          50.113988
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | AS Höchst",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k6600.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5756,
-          50.129633
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Eschborner Dreieck",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k6240.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.482078,
-          50.078008
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Krifteler Dreieck",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k6250.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.040666,
-          50.171399
+          9.04067,
+          50.1714
         ]
       },
       "properties": {
@@ -7342,13 +6933,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -7356,8 +6948,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.252752,
-          50.052253
+          8.25275,
+          50.05225
         ]
       },
       "properties": {
@@ -7369,11 +6961,12 @@
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -7381,183 +6974,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.212875,
-          50.053267
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Schiersteiner Kreuz",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k6603.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.244761,
-          50.052277
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Wiesbaden Biebrich",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k66230.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.274749,
-          50.052074
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Wiesbaden Erbenheim West",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k66233.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.262907,
-          50.05294
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Wiesbaden Mainzer Straße",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k66232.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.391173,
-          50.055419
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Wiesbadener Kreuz Ost",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k66251.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.381097,
-          50.055847
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Wiesbadener Kreuz West",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k66249.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.486731,
-          50.098519
-        ]
-      },
-      "properties": {
-        "name": "Germany - NRW - A66 | Zeilsheim",
-        "url": "https://verkehrsservice.hessen.de/syncdata/video/k6601.mp4",
-        "display_name": "Germany",
-        "country_code": "DE",
-        "environment": "traffic",
-        "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
-        "scene_type": "traffic",
-        "url_type": "http_image",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.473142,
-          51.131813
+          9.47314,
+          51.13181
         ]
       },
       "properties": {
@@ -7567,13 +6985,14 @@
         "country_code": "DE",
         "environment": "traffic",
         "source_family": "autobahn_nrw",
-        "quality_tier": "standard",
+        "quality_tier": "premium",
         "scene_type": "traffic",
-        "url_type": "http_image",
+        "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": null
+        "source_url_requires": "browser"
       }
     },
     {
@@ -7581,8 +7000,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.897057,
-          53.556004
+          9.89706,
+          53.556
         ]
       },
       "properties": {
@@ -7594,33 +7013,9 @@
         "source_family": "autobahn_nrw",
         "quality_tier": "standard",
         "scene_type": "traffic",
-        "url_type": "hls",
-        "coordinates_quality": "city",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Goslar - Hahnenklee",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/goslar/hahnenklee.html",
-        "display_name": "Goslar",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
         "source_url_requires": "browser"
@@ -7638,17 +7033,18 @@
       "properties": {
         "name": "Goslar - Marktkirche Und Marktplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/goslar/marktkirche-und-marktplatz.html",
-        "display_name": "Goslar",
+        "display_name": "Goslar, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7663,42 +7059,18 @@
       "properties": {
         "name": "Grainau - Wetterstein",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/grainau/wetterstein.html",
-        "display_name": "Grainau",
+        "display_name": "Grainau, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Gstadt Am Chiemsee",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/gstadt-am-chiemsee/gstadt-am-chiemsee.html",
-        "display_name": "Gstadt Am Chiemsee",
-        "country_code": "DE",
-        "environment": "lake",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "lake",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7713,67 +7085,18 @@
       "properties": {
         "name": "Gunzenhausen - Frankisches Seenland",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/gunzenhausen/frankisches-seenland.html",
-        "display_name": "Gunzenhausen",
+        "display_name": "Gunzenhausen, Germany",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "lake",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Hannover - Train",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/lower-saxony/hannover/train.html",
-        "display_name": "Hannover",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Havelsee - Stork Of Fohrde",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/brandenburg/havelsee/stork-of-fohrde.html",
-        "display_name": "Havelsee",
-        "country_code": "DE",
-        "environment": "lake",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "lake",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7788,17 +7111,18 @@
       "properties": {
         "name": "Heringsdorf",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/heringsdorf/heringsdorf.html",
-        "display_name": "Heringsdorf",
+        "display_name": "Heringsdorf, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7813,42 +7137,18 @@
       "properties": {
         "name": "Kirchzarten - Storks Nest",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/kirchzarten/storks-nest.html",
-        "display_name": "Kirchzarten",
+        "display_name": "Kirchzarten, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Kochel Am See - Walchensee",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/kochel-am-see/walchensee.html",
-        "display_name": "Kochel Am See",
-        "country_code": "DE",
-        "environment": "lake",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "lake",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7863,17 +7163,18 @@
       "properties": {
         "name": "Kyritz Brandenburg",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/brandenburg/kyritz/kyritz-brandenburg.html",
-        "display_name": "Kyritz",
+        "display_name": "Kyritz Brandenburg, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7881,74 +7182,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4,
-          52.52
+          8.78151,
+          49.68369
         ]
       },
       "properties": {
-        "name": "Lindenfels Assia",
+        "name": "Lindenfels - Hesse",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/hessen/lindenfels/lindenfels-assia.html",
-        "display_name": "Lindenfels",
+        "display_name": "Lindenfels, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Linz Am Rhein - Der Rhein",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/rheinland-pfalz/linz-am-rhein/der-rhein.html",
-        "display_name": "Linz Am Rhein",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Magdeburg - Altstadt",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/magdeburg/altstadt.html",
-        "display_name": "Magdeburg",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7963,17 +7215,18 @@
       "properties": {
         "name": "Mirow - Landkreis Mecklenburgische Seenplatte",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/mirow/landkreis-mecklenburgische-seenplatte.html",
-        "display_name": "Mirow",
+        "display_name": "Mirow, Germany",
         "country_code": "DE",
         "environment": "lake",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "lake",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -7988,17 +7241,18 @@
       "properties": {
         "name": "Naumburg - Marktplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/naumburg/marktplatz.html",
-        "display_name": "Naumburg",
+        "display_name": "Naumburg, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8013,17 +7267,18 @@
       "properties": {
         "name": "Neustadt An Der Aisch - Flugplatz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/neustadt-an-der-aisch/flugplatz.html",
-        "display_name": "Neustadt An Der Aisch",
+        "display_name": "Neustadt An Der Aisch, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8038,17 +7293,18 @@
       "properties": {
         "name": "Oberbayern - Munchen Michaelianger",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/oberbayern/munchen-michaelianger.html",
-        "display_name": "Oberbayern",
+        "display_name": "Oberbayern, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8063,42 +7319,18 @@
       "properties": {
         "name": "Oberharz Am Brocken - Tanne Im Harz",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/sachsen-anhalt/oberharz-am-brocken/tanne-im-harz.html",
-        "display_name": "Oberharz Am Brocken",
+        "display_name": "Oberharz Am Brocken, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Olsberg",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/olsberg/olsberg.html",
-        "display_name": "Olsberg",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8113,17 +7345,18 @@
       "properties": {
         "name": "Putgarten - Kap Arkona",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/putgarten/kap-arkona.html",
-        "display_name": "Putgarten",
+        "display_name": "Putgarten, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8138,92 +7371,18 @@
       "properties": {
         "name": "Ratingen",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/ratingen/ratingen.html",
-        "display_name": "Ratingen",
+        "display_name": "Ratingen, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Ratingen - Panorama",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/ratingen/panorama.html",
-        "display_name": "Ratingen",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Recke - Animal And Bird Feede",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/recke/animal-and-bird-feede.html",
-        "display_name": "Recke",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.4,
-          52.52
-        ]
-      },
-      "properties": {
-        "name": "Rees",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/north-rhine-westphalia/rees/rees.html",
-        "display_name": "Rees",
-        "country_code": "DE",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8238,17 +7397,18 @@
       "properties": {
         "name": "Rostock Neustrelitz Warnemunde Railway",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/mecklenburg-vorpommern/rostock/rostock-neustrelitz-warnemunde-railway.html",
-        "display_name": "Rostock",
+        "display_name": "Rostock Neustrelitz Warnemunde Railway, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8263,17 +7423,18 @@
       "properties": {
         "name": "Schwangau - Schloss Neuschwanstein",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/schwangau/schloss-neuschwanstein.html",
-        "display_name": "Schwangau",
+        "display_name": "Schwangau, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8288,17 +7449,18 @@
       "properties": {
         "name": "St Blasien",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/baden-wurttemberg/st-blasien/st-blasien.html",
-        "display_name": "St Blasien",
+        "display_name": "St Blasien, Germany",
         "country_code": "DE",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -8306,24 +7468,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4,
-          52.52
+          10.96011,
+          54.15052
         ]
       },
       "properties": {
-        "name": "Weiszenburg - Panorama",
-        "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/weiszenburg/panorama.html",
-        "display_name": "Weiszenburg",
+        "name": "The Grömitz Coast Webcam - Germany 🎦",
+        "url": "https://osl9.lvstrm.de/hls/stream.m3u8",
+        "display_name": "The Grömitz Coast",
         "country_code": "DE",
         "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
         "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "url_type": "hls",
+        "resolution": null,
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 06:06:22",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96151,
+          50.14743
+        ]
+      },
+      "properties": {
+        "name": "Trimburg Medieval Castle Ruins Webcam - Germany 🎦",
+        "url": "https://www.youtube.com/watch?v=M1TS9GEIGoI",
+        "display_name": "Trimburg Medieval Castle Ruins",
+        "country_code": "DE",
+        "environment": "landmark",
+        "source_family": "worldviewstream",
+        "quality_tier": "high",
+        "scene_type": "landmark",
+        "url_type": "youtube",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 05:57:15",
+        "source_url_requires": null
       }
     },
     {
@@ -8338,17 +7527,18 @@
       "properties": {
         "name": "Weiszenburg - Peregrine Falcons",
         "url": "https://www.skylinewebcams.com/en/webcam/deutschland/bayern/weiszenburg/peregrine-falcons.html",
-        "display_name": "Weiszenburg",
+        "display_name": "Weiszenburg, Germany",
         "country_code": "DE",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
-        "coordinates_quality": "country_centroid",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     }
   ]

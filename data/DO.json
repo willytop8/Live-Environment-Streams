@@ -11,19 +11,20 @@
         ]
       },
       "properties": {
-        "name": "Bani - Las Calderas Bay",
-        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/peravia/bani/las-calderas-bay.html",
-        "display_name": "Bani",
+        "name": "Bozo Beach Cabarete",
+        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/bozo-beach-cabarete.html",
+        "display_name": "Bozo Beach Cabarete",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -31,24 +32,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.89,
-          18.47
+          -70.40935,
+          19.75028
         ]
       },
       "properties": {
-        "name": "Bozo Beach Cabarete",
-        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/bozo-beach-cabarete.html",
-        "display_name": "Cabarete",
+        "name": "Cabarete Beach Waterfront",
+        "url": "https://s115.ipcamlive.com/streams/73z6idufqclnbmpyg/stream.m3u8",
+        "display_name": "Cabarete Beach Waterfront",
         "country_code": "DO",
         "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "source_family": "ipcamlive-worldviewstream",
+        "quality_tier": "premium",
         "scene_type": "beach",
-        "url_type": "html_page",
+        "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-18 05:39:11",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.40932,
+          19.74972
+        ]
+      },
+      "properties": {
+        "name": "Cabarete Beach Webcam",
+        "url": "https://s141.ipcamlive.com/streams/8dkfu0njvp2fpwgm4/stream.m3u8",
+        "display_name": "Cabarete Beach",
+        "country_code": "DO",
+        "environment": "coastal",
+        "source_family": "opencctv",
+        "quality_tier": "premium",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "resolution": "1920x1080",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-17 16:11:01",
+        "source_url_requires": null
       }
     },
     {
@@ -63,17 +91,18 @@
       "properties": {
         "name": "Cabarete Dominican Republic",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/cabarete-dominican-republic.html",
-        "display_name": "Cabarete",
+        "display_name": "Cabarete Dominican Republic",
         "country_code": "DO",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -92,38 +121,14 @@
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.89,
-          18.47
-        ]
-      },
-      "properties": {
-        "name": "Higuey - Underwater Cam Playa Blanca",
-        "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/la-altagracia/higuey/underwater-cam-playa-blanca.html",
-        "display_name": "Higuey",
-        "country_code": "DO",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -138,17 +143,18 @@
       "properties": {
         "name": "Playa De Cabarete",
         "url": "https://www.skylinewebcams.com/en/webcam/dominican-republic/puerto-plata/cabarete/playa-de-cabarete.html",
-        "display_name": "Cabarete",
+        "display_name": "Playa De Cabarete",
         "country_code": "DO",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

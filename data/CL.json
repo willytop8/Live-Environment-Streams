@@ -13,17 +13,18 @@
       "properties": {
         "name": "Algarrobo",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/algarrobo.html",
-        "display_name": "Algarrobo",
+        "display_name": "Algarrobo, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -38,17 +39,18 @@
       "properties": {
         "name": "Algarrobo - Islote Pajaros Ninos",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/islote-pajaros-ninos.html",
-        "display_name": "Algarrobo",
+        "display_name": "Algarrobo, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -63,42 +65,18 @@
       "properties": {
         "name": "Algarrobo Chile",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/algarrobo/algarrobo-chile.html",
-        "display_name": "Algarrobo",
+        "display_name": "Algarrobo Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.65,
-          -33.46
-        ]
-      },
-      "properties": {
-        "name": "Concepcion - Panorama",
-        "url": "https://www.skylinewebcams.com/en/webcam/chile/bio-bio/concepcion/panorama.html",
-        "display_name": "Concepcion",
-        "country_code": "CL",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -113,17 +91,18 @@
       "properties": {
         "name": "Easter Island",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/easter-island/easter-island.html",
-        "display_name": "Easter Island",
+        "display_name": "Easter Island, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -138,42 +117,18 @@
       "properties": {
         "name": "La Serena",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/coquimbo/la-serena/la-serena.html",
-        "display_name": "La Serena",
+        "display_name": "La Serena, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.65,
-          -33.46
-        ]
-      },
-      "properties": {
-        "name": "Providencia",
-        "url": "https://www.skylinewebcams.com/en/webcam/chile/santiago/providencia/providencia.html",
-        "display_name": "Providencia",
-        "country_code": "CL",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -188,17 +143,18 @@
       "properties": {
         "name": "Punta Arenas",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/magallanes-region/punta-arenas/punta-arenas.html",
-        "display_name": "Punta Arenas",
+        "display_name": "Punta Arenas, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-17T01:26:25.361135",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -213,17 +169,18 @@
       "properties": {
         "name": "San Antonio",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/san-antonio/san-antonio.html",
-        "display_name": "San Antonio",
+        "display_name": "San Antonio, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -238,17 +195,18 @@
       "properties": {
         "name": "San Antonio - Avenida Barros Luco",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/san-antonio/avenida-barros-luco.html",
-        "display_name": "San Antonio",
+        "display_name": "San Antonio, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -263,42 +221,18 @@
       "properties": {
         "name": "San Antonio - Avenida Llolleo",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/san-antonio/avenida-llolleo.html",
-        "display_name": "San Antonio",
+        "display_name": "San Antonio, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.65,
-          -33.46
-        ]
-      },
-      "properties": {
-        "name": "San Antonio - El Quisco",
-        "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/san-antonio/el-quisco.html",
-        "display_name": "San Antonio",
-        "country_code": "CL",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -313,42 +247,18 @@
       "properties": {
         "name": "Torres Del Paine - Patagonia",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/magallanes-region/torres-del-paine/patagonia.html",
-        "display_name": "Torres Del Paine",
+        "display_name": "Torres Del Paine, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.65,
-          -33.46
-        ]
-      },
-      "properties": {
-        "name": "Valparaiso - Panorama",
-        "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/valparaiso/panorama.html",
-        "display_name": "Valparaiso",
-        "country_code": "CL",
-        "environment": "urban",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -363,42 +273,18 @@
       "properties": {
         "name": "Vina Del Mar",
         "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/vina-del-mar/vina-del-mar.html",
-        "display_name": "Vina Del Mar",
+        "display_name": "Vina Del Mar, Chile",
         "country_code": "CL",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "urban",
         "url_type": "html_page",
-        "coordinates_quality": "exact",
+        "resolution": null,
+        "coordinates_quality": "city",
         "status": "unverified",
         "last_verified": null,
-        "source_url_requires": "browser"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.65,
-          -33.46
-        ]
-      },
-      "properties": {
-        "name": "Vina Del Mar - Playa Acapulco",
-        "url": "https://www.skylinewebcams.com/en/webcam/chile/valparaiso/vina-del-mar/playa-acapulco.html",
-        "display_name": "Vina Del Mar",
-        "country_code": "CL",
-        "environment": "coastal",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "beach",
-        "url_type": "html_page",
-        "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "source_url_requires": "token_refresh"
       }
     }
   ]

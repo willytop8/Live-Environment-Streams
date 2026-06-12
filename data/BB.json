@@ -6,24 +6,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.6167,
-          13.0975
+          -59.5969,
+          13.0746
         ]
       },
       "properties": {
-        "name": "Bridgetown - Port",
-        "url": "https://www.skylinewebcams.com/en/webcam/barbados/saint-michael/bridgetown/port.html",
-        "display_name": "Bridgetown",
+        "name": "Bridgetown Hastings Beach Barbados",
+        "url": "https://stream.iwcpinc.com/IWCP_NCC/_definst_/NCC_Hastings_2.stream/playlist.m3u8",
+        "display_name": "Bridgetown Hastings Beach Barbados",
         "country_code": "BB",
-        "environment": "waterway",
-        "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "river",
-        "url_type": "html_page",
+        "environment": "coastal",
+        "source_family": "worldviewstream-direct-hls",
+        "quality_tier": "premium",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-05-25 04:39:53",
+        "source_url_requires": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.63574,
+          13.15814
+        ]
+      },
+      "properties": {
+        "name": "Paynes Bay - St James Barbados",
+        "url": "https://stream.iwcpinc.com/IWCP_BEACH/_definst_/Paynes_Bay_1_Beachview.stream/playlist.m3u8",
+        "display_name": "Paynes Bay",
+        "country_code": "BB",
+        "environment": "coastal",
+        "source_family": "opencctv",
+        "quality_tier": "high",
+        "scene_type": "beach",
+        "url_type": "hls",
+        "resolution": "1280x720",
+        "coordinates_quality": "exact",
+        "status": "active",
+        "last_verified": "2026-05-25 04:57:18",
+        "source_url_requires": null
       }
     },
     {
@@ -42,13 +69,14 @@
         "country_code": "BB",
         "environment": "coastal",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
+        "quality_tier": "premium",
         "scene_type": "beach",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     },
     {
@@ -67,13 +95,14 @@
         "country_code": "BB",
         "environment": "urban",
         "source_family": "skylinewebcams",
-        "quality_tier": "unknown",
-        "scene_type": "urban",
+        "quality_tier": "premium",
+        "scene_type": "city",
         "url_type": "html_page",
+        "resolution": null,
         "coordinates_quality": "exact",
-        "status": "unverified",
-        "last_verified": null,
-        "source_url_requires": "browser"
+        "status": "active",
+        "last_verified": "2026-06-12T12:42:32.033931",
+        "source_url_requires": "token_refresh"
       }
     }
   ]

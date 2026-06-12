@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.0.0] - 2026-06-12
+
+### Changed
+- **Full regeneration from the production database.** The dataset is now exported directly from the live RainAlways selector DB, inheriting its continuous validation state. Stream count: 5,172 → 5,997 across 98 countries.
+- `status` is now meaningful: 4,226 streams marked `active` with real `last_verified` probe timestamps (previously all 5,172 were `unverified`).
+- `quality_tier` now carries the production scoring tiers (`premium`/`high`/`standard`/`low`) instead of `unknown`.
+- SkylineWebcams entries publish stable page URLs only — expiring-token HLS URLs removed entirely, including 173 with no known page URL (they were dead within hours of publication).
+- `coordinates_quality` recomputed from geocoding confidence: country-centroid fallbacks down from 1,057 to 10.
+
+### Added
+- `resolution` field: probed `WxH` for 1,172 streams (717 confirmed 720p+).
+- `active_count` per source family in `sources.json`.
+- ~200 newly validated cameras in rain-prone, previously under-covered regions: Japan (now 129 streams), New Zealand, Iceland, Norway, Ireland, Scotland, SE Asia (Davao, Bangkok, Hanoi, Da Nang, KL, Singapore), Pacific Northwest, and BC Canada.
+- 48 new source families (67 total), including vegvesen, balticlivecam, beachcam_meo, webcamera_pl, worldviewstream, camguide.
+
+### Removed
+- ~2,400 stale SkylineWebcams duplicates (expired-token URLs and page-URL duplicates of the same cameras).
+- All dead, rejected, and quarantined streams — the dataset now contains only `active` and `unverified` entries.
+- `http_image` URL type (static snapshot endpoints dropped; this is a live-video dataset).
+- Source families: earthcam (paywalled), panama_canal, quebec511 (dead feeds).
+
 ## [2.0.0] - 2026-04-29
 
 ### Removed
